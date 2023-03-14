@@ -6,25 +6,27 @@
 MAM for Accordance: Nahum</title>
 <style>
 
-body {
-    font-size: 14pt;
-}
+body { font-size: 14pt; }
 *[lang="hbo"] {
     font-family: "Taamey D";
     font-size: 140%;
+    font-feature-settings: 'ss01'; /* ss01 = ḥataf qamats qatan */
 }
-span.mam-letter-small { font-size: 85% }
-span.mam-letter-large { font-size: 125% }
-span.mam-letter-hung { vertical-align: super }
-span.mam-note-callout { color: red }
-span.mam-doc-note-callout { color: red }
-span.mam-doc-target { color: blue }
-table.border-collapse { border-collapse: collapse }
+span.mam-dqq-unstressed { font-feature-settings: 'ss01', 'ss02'; }
+/* ss01 = ḥataf qamats qatan */
+/* ss02 = qamats qatan with small meteg */
+span.mam-letter-small { font-size: 85%; }
+span.mam-letter-large { font-size: 125%; }
+span.mam-letter-hung { vertical-align: super; }
+span.mam-note-callout { color: red; }
+span.mam-doc-note-callout { color: red; }
+span.mam-doc-target { color: blue; }
+table.border-collapse { border-collapse: collapse; }
 th, td {
     padding-right: 0.4em;
     padding-left: 0.4em;
 }
-*.bordered { border: 1px solid }
+*.bordered { border: 1px solid; }
 </style>
 </head>
 <body>

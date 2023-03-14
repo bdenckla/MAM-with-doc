@@ -6,25 +6,27 @@
 MAM for Accordance: Amos</title>
 <style>
 
-body {
-    font-size: 14pt;
-}
+body { font-size: 14pt; }
 *[lang="hbo"] {
     font-family: "Taamey D";
     font-size: 140%;
+    font-feature-settings: 'ss01'; /* ss01 = ḥataf qamats qatan */
 }
-span.mam-letter-small { font-size: 85% }
-span.mam-letter-large { font-size: 125% }
-span.mam-letter-hung { vertical-align: super }
-span.mam-note-callout { color: red }
-span.mam-doc-note-callout { color: red }
-span.mam-doc-target { color: blue }
-table.border-collapse { border-collapse: collapse }
+span.mam-dqq-unstressed { font-feature-settings: 'ss01', 'ss02'; }
+/* ss01 = ḥataf qamats qatan */
+/* ss02 = qamats qatan with small meteg */
+span.mam-letter-small { font-size: 85%; }
+span.mam-letter-large { font-size: 125%; }
+span.mam-letter-hung { vertical-align: super; }
+span.mam-note-callout { color: red; }
+span.mam-doc-note-callout { color: red; }
+span.mam-doc-target { color: blue; }
+table.border-collapse { border-collapse: collapse; }
 th, td {
     padding-right: 0.4em;
     padding-left: 0.4em;
 }
-*.bordered { border: 1px solid }
+*.bordered { border: 1px solid; }
 </style>
 </head>
 <body>
@@ -52,12 +54,12 @@ th, td {
 <tr><td>ב:</td><td>כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה עַל־שְׁלֹשָׁה֙ פִּשְׁעֵ֣י מוֹאָ֔ב וְעַל־אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ עַל־שׇׂרְפ֛וֹ עַצְמ֥וֹת מֶלֶךְ־אֱד֖וֹם לַשִּֽׂיד׃</td><td></td></tr>
 <tr><td>ב</td><td>וְשִׁלַּחְתִּי־אֵ֣שׁ בְּמוֹאָ֔ב וְאָכְלָ֖ה אַרְמְנ֣וֹת הַקְּרִיּ֑וֹת וּמֵ֤ת בְּשָׁאוֹן֙ מוֹאָ֔ב בִּתְרוּעָ֖ה בְּק֥וֹל שׁוֹפָֽר׃</td><td></td></tr>
 <tr><td>ג</td><td>וְהִכְרַתִּ֥י שׁוֹפֵ֖ט מִקִּרְבָּ֑הּ וְכׇל־שָׂרֶ֛יהָ אֶהֱר֥וֹג עִמּ֖וֹ אָמַ֥ר יְהֹוָֽה׃&nbsp;<span class="mam-spi-pe">{פ}</span><br class="mam-br-after-pe"></td><td></td></tr>
-<tr><td>ד</td><td>כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה עַל־שְׁלֹשָׁה֙ פִּשְׁעֵ֣י יְהוּדָ֔ה וְעַל־אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ עַֽל־מׇאֳסָ֞ם אֶת־תּוֹרַ֣ת יְהֹוָ֗ה וְחֻקָּיו֙ לֹ֣א שָׁמָ֔רוּ וַיַּתְעוּם֙ כִּזְבֵיהֶ֔ם אֲשֶׁר־הָלְכ֥וּ אֲבוֹתָ֖ם אַחֲרֵיהֶֽם׃</td><td></td></tr>
+<tr><td>ד</td><td>כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה עַל־שְׁלֹשָׁה֙ פִּשְׁעֵ֣י יְהוּדָ֔ה וְעַל־אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ <span class="mam-dqq-unstressed">עַֽל־מׇאֳסָ֞ם</span> אֶת־תּוֹרַ֣ת יְהֹוָ֗ה וְחֻקָּיו֙ לֹ֣א שָׁמָ֔רוּ וַיַּתְעוּם֙ כִּזְבֵיהֶ֔ם אֲשֶׁר־הָלְכ֥וּ אֲבוֹתָ֖ם אַחֲרֵיהֶֽם׃</td><td></td></tr>
 <tr><td>ה</td><td>וְשִׁלַּ֥חְתִּי אֵ֖שׁ בִּֽיהוּדָ֑ה וְאָכְלָ֖ה אַרְמְנ֥וֹת יְרוּשָׁלָֽ͏ִם׃&nbsp;<span class="mam-spi-pe">{פ}</span><br class="mam-br-after-pe"></td><td></td></tr>
 <tr><td>ו</td><td>כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה עַל־שְׁלֹשָׁה֙ פִּשְׁעֵ֣י יִשְׂרָאֵ֔ל וְעַל־אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ עַל־מִכְרָ֤ם בַּכֶּ֙סֶף֙ צַדִּ֔יק וְאֶבְי֖וֹן בַּֽעֲב֥וּר נַעֲלָֽיִם׃</td><td></td></tr>
 <tr><td>ז</td><td>הַשֹּׁאֲפִ֤ים עַל־עֲפַר־אֶ֙רֶץ֙ בְּרֹ֣אשׁ דַּלִּ֔ים וְדֶ֥רֶךְ עֲנָוִ֖ים יַטּ֑וּ וְאִ֣ישׁ וְאָבִ֗יו יֵֽלְכוּ֙ אֶל־הַֽנַּעֲרָ֔ה לְמַ֥עַן חַלֵּ֖ל אֶת־שֵׁ֥ם קׇדְשִֽׁי׃</td><td></td></tr>
 <tr><td>ח</td><td>וְעַל־בְּגָדִ֤ים חֲבֻלִים֙ יַטּ֔וּ אֵ֖צֶל כׇּל־מִזְבֵּ֑חַ וְיֵ֤ין עֲנוּשִׁים֙ יִשְׁתּ֔וּ בֵּ֖ית אֱלֹהֵיהֶֽם׃</td><td></td></tr>
-<tr><td>ט</td><td>וְאָ֨נֹכִ֜י הִשְׁמַ֤דְתִּי אֶת־הָאֱמֹרִי֙ מִפְּנֵיהֶ֔ם אֲשֶׁ֨ר כְּגֹ֤בַהּ אֲרָזִים֙ גׇּבְה֔וֹ וְחָסֹ֥ן ה֖וּא כָּאַלּוֹנִ֑ים וָאַשְׁמִ֤יד פִּרְיוֹ֙ מִמַּ֔עַל וְשׇׁרָשָׁ֖יו מִתָּֽחַת׃</td><td></td></tr>
+<tr><td>ט</td><td>וְאָ֨נֹכִ֜י הִשְׁמַ֤דְתִּי אֶת־הָאֱמֹרִי֙ מִפְּנֵיהֶ֔ם אֲשֶׁ֨ר כְּגֹ֤בַהּ אֲרָזִים֙ גׇּבְה֔וֹ וְחָסֹ֥ן ה֖וּא כָּאַלּוֹנִ֑ים וָאַשְׁמִ֤יד פִּרְיוֹ֙ מִמַּ֔עַל <span class="mam-dqq-unstressed">וְשׇׁרָשָׁ֖יו</span> מִתָּֽחַת׃</td><td></td></tr>
 <tr><td>י</td><td>וְאָנֹכִ֛י הֶעֱלֵ֥יתִי אֶתְכֶ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם וָאוֹלֵ֨ךְ אֶתְכֶ֤ם בַּמִּדְבָּר֙ אַרְבָּעִ֣ים שָׁנָ֔ה לָרֶ֖שֶׁת אֶת־אֶ֥רֶץ הָאֱמֹרִֽי׃</td><td></td></tr>
 <tr><td>יא</td><td>וָאָקִ֤ים מִבְּנֵיכֶם֙ לִנְבִיאִ֔ים וּמִבַּחוּרֵיכֶ֖ם לִנְזִרִ֑ים הַאַ֥ף אֵֽין־זֹ֛את בְּנֵ֥י יִשְׂרָאֵ֖ל נְאֻם־יְהֹוָֽה׃</td><td></td></tr>
 <tr><td>יב</td><td>וַתַּשְׁק֥וּ אֶת־הַנְּזִרִ֖ים יָ֑יִן וְעַל־הַנְּבִיאִים֙ צִוִּיתֶ֣ם לֵאמֹ֔ר לֹ֖א תִּנָּבְאֽוּ׃</td><td></td></tr>
@@ -159,7 +161,7 @@ th, td {
 <tr><td>ו</td><td>לִקְנ֤וֹת בַּכֶּ֙סֶף֙ דַּלִּ֔ים וְאֶבְי֖וֹן בַּעֲב֣וּר נַעֲלָ֑יִם וּמַפַּ֥ל בַּ֖ר נַשְׁבִּֽיר׃</td><td></td></tr>
 <tr><td>ז</td><td>נִשְׁבַּ֥ע יְהֹוָ֖ה בִּגְא֣וֹן יַעֲקֹ֑ב אִם־אֶשְׁכַּ֥ח לָנֶ֖צַח כׇּל־מַעֲשֵׂיהֶֽם׃</td><td></td></tr>
 <tr><td>ח</td><td>הַ֤עַל זֹאת֙ לֹא־תִרְגַּ֣ז<span class="mam-doc-note-callout">*</span> הָאָ֔רֶץ וְאָבַ֖ל כׇּל־יוֹשֵׁ֣ב בָּ֑הּ וְעָלְתָ֤ה כָאֹר֙ כֻּלָּ֔הּ וְנִגְרְשָׁ֥ה <span class="mam-kq"><span class="mam-kq-k">(ונשקה)</span> <span class="mam-kq-q">[וְנִשְׁקְﬞעָ֖ה]</span></span><span class="mam-doc-note-callout">*</span> כִּיא֥וֹר מִצְרָֽיִם׃&nbsp;<span class="mam-spi-pe">{פ}</span><span class="mam-doc-note-callout">*</span><br class="mam-br-after-pe"></td><td><span class="mam-doc-target">לֹא־תִרְגַּ֣ז</span> <span class="mam-doc-parts">=א (אין געיה) ● ל=לֹֽא־תִרְגַּ֣ז (געיה)</span><br><span class="mam-doc-target"><span class="mam-kq"><span class="mam-kq-k">(ונשקה)</span> <span class="mam-kq-q">[וְנִשְׁקְﬞעָ֖ה]</span></span></span> <span class="mam-doc-parts">=ל ● א-כתיב=וְנִשְׁקֳהָ֖ (חטף קמץ בקו״ף)</span><br><span class="mam-doc-target">פפ</span> <span class="mam-doc-parts">ל=פרשה סתומה</span></td></tr>
-<tr><td>ט</td><td>וְהָיָ֣ה&thinsp;<span class="mam-lp-legarmeih">׀</span> בַּיּ֣וֹם הַה֗וּא נְאֻם֙ אֲדֹנָ֣י יֱהֹוִ֔ה וְהֵבֵאתִ֥י הַשֶּׁ֖מֶשׁ בַּֽצׇּהֳרָ֑יִם וְהַחֲשַׁכְתִּ֥י לָאָ֖רֶץ בְּי֥וֹם אֽוֹר׃</td><td></td></tr>
+<tr><td>ט</td><td>וְהָיָ֣ה&thinsp;<span class="mam-lp-legarmeih">׀</span> בַּיּ֣וֹם הַה֗וּא נְאֻם֙ אֲדֹנָ֣י יֱהֹוִ֔ה וְהֵבֵאתִ֥י הַשֶּׁ֖מֶשׁ <span class="mam-dqq-unstressed">בַּֽצׇּהֳרָ֑יִם</span> וְהַחֲשַׁכְתִּ֥י לָאָ֖רֶץ בְּי֥וֹם אֽוֹר׃</td><td></td></tr>
 <tr><td>י</td><td>וְהָפַכְתִּ֨י חַגֵּיכֶ֜ם לְאֵ֗בֶל וְכׇל־שִֽׁירֵיכֶם֙ לְקִינָ֔ה וְהַעֲלֵיתִ֤י עַל־כׇּל־מׇתְנַ֙יִם֙ שָׂ֔ק וְעַל־כׇּל־רֹ֖אשׁ קׇרְחָ֑ה וְשַׂמְתִּ֙יהָ֙ כְּאֵ֣בֶל יָחִ֔יד וְאַחֲרִיתָ֖הּ כְּי֥וֹם מָֽר׃&nbsp;<span class="mam-spi-pe">{פ}</span><span class="mam-doc-note-callout">*</span><br class="mam-br-after-pe"></td><td><span class="mam-doc-target">פפ</span> <span class="mam-doc-parts">ל=אין פרשה</span></td></tr>
 <tr><td>יא</td><td>הִנֵּ֣ה&thinsp;<span class="mam-lp-legarmeih">׀</span> יָמִ֣ים בָּאִ֗ים נְאֻם֙ אֲדֹנָ֣י יֱהֹוִ֔ה וְהִשְׁלַחְתִּ֥י רָעָ֖ב בָּאָ֑רֶץ לֹא־רָעָ֤ב<span class="mam-doc-note-callout">*</span> לַלֶּ֙חֶם֙ וְלֹֽא־צָמָ֣א לַמַּ֔יִם כִּ֣י אִם־לִשְׁמֹ֔עַ אֵ֖ת דִּבְרֵ֥י יְהֹוָֽה׃</td><td><span class="mam-doc-target">לֹא־רָעָ֤ב</span> <span class="mam-doc-parts">=א (אין געיה) ● ל=לֹֽא־רָעָ֤ב (געיה)</span></td></tr>
 <tr><td>יב</td><td>וְנָעוּ֙ מִיָּ֣ם עַד־יָ֔ם וּמִצָּפ֖וֹן וְעַד־מִזְרָ֑ח יְשׁ֥וֹטְט֛וּ<span class="mam-doc-note-callout">*</span> לְבַקֵּ֥שׁ אֶת־דְּבַר־יְהֹוָ֖ה וְלֹ֥א יִמְצָֽאוּ׃</td><td><span class="mam-doc-target">יְשׁ֥וֹטְט֛וּ</span> <span class="mam-doc-parts">=א (מרכא בתיבת תביר) ● ל=יְשֽׁוֹטְט֛וּ (געיה)</span></td></tr>

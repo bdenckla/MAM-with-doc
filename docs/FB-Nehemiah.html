@@ -6,25 +6,27 @@
 MAM for Accordance: Nehemiah</title>
 <style>
 
-body {
-    font-size: 14pt;
-}
+body { font-size: 14pt; }
 *[lang="hbo"] {
     font-family: "Taamey D";
     font-size: 140%;
+    font-feature-settings: 'ss01'; /* ss01 = ḥataf qamats qatan */
 }
-span.mam-letter-small { font-size: 85% }
-span.mam-letter-large { font-size: 125% }
-span.mam-letter-hung { vertical-align: super }
-span.mam-note-callout { color: red }
-span.mam-doc-note-callout { color: red }
-span.mam-doc-target { color: blue }
-table.border-collapse { border-collapse: collapse }
+span.mam-dqq-unstressed { font-feature-settings: 'ss01', 'ss02'; }
+/* ss01 = ḥataf qamats qatan */
+/* ss02 = qamats qatan with small meteg */
+span.mam-letter-small { font-size: 85%; }
+span.mam-letter-large { font-size: 125%; }
+span.mam-letter-hung { vertical-align: super; }
+span.mam-note-callout { color: red; }
+span.mam-doc-note-callout { color: red; }
+span.mam-doc-target { color: blue; }
+table.border-collapse { border-collapse: collapse; }
 th, td {
     padding-right: 0.4em;
     padding-left: 0.4em;
 }
-*.bordered { border: 1px solid }
+*.bordered { border: 1px solid; }
 </style>
 </head>
 <body>
@@ -405,7 +407,7 @@ th, td {
 <tr><td>מב</td><td>וּמַעֲשֵׂיָ֨ה וּֽשְׁמַֽעְיָ֜ה וְאֶלְעָזָ֧ר וְעֻזִּ֛י וִֽיהוֹחָנָ֥ן וּמַלְכִּיָּ֖ה וְעֵילָ֣ם וָעָ֑זֶר וַיַּשְׁמִ֙יעוּ֙ הַמְשֹׁ֣רְרִ֔ים וְיִֽזְרַחְיָ֖ה הַפָּקִֽיד׃</td><td></td></tr>
 <tr><td>מג</td><td>וַיִּזְבְּח֣וּ בַיּוֹם־הַ֠ה֠וּא זְבָחִ֨ים גְּדוֹלִ֜ים וַיִּשְׂמָ֗חוּ כִּ֤י הָאֱלֹהִים֙ שִׂמְּחָם֙ שִׂמְחָ֣ה גְדוֹלָ֔ה וְגַ֧ם הַנָּשִׁ֛ים וְהַיְלָדִ֖ים שָׂמֵ֑חוּ וַתִּשָּׁמַ֛ע שִׂמְחַ֥ת יְרוּשָׁלַ֖͏ִם מֵרָחֽוֹק׃</td><td></td></tr>
 <tr><td>מד</td><td>וַיִּפָּקְד֣וּ בַיּוֹם֩ הַה֨וּא אֲנָשִׁ֜ים עַל־הַנְּשָׁכ֗וֹת לָא֨וֹצָר֥וֹת לַתְּרוּמוֹת֮ לָרֵאשִׁ֣ית וְלַמַּֽעַשְׂרוֹת֒ לִכְנ֨וֹס בָּהֶ֜ם לִשְׂדֵ֤י הֶעָרִים֙ מְנָא֣וֹת הַתּוֹרָ֔ה לַכֹּהֲנִ֖ים וְלַלְוִיִּ֑ם כִּ֚י שִׂמְחַ֣ת יְהוּדָ֔ה עַל־הַכֹּהֲנִ֥ים וְעַל־הַלְוִיִּ֖ם הָעֹמְדִֽים׃</td><td></td></tr>
-<tr><td>מה</td><td>וַֽיִּשְׁמְר֞וּ מִשְׁמֶ֤רֶת אֱלֹֽהֵיהֶם֙ וּמִשְׁמֶ֣רֶת הַֽטׇּהֳרָ֔ה וְהַמְשֹׁרְרִ֖ים וְהַשֹּׁעֲרִ֑ים כְּמִצְוַ֥ת דָּוִ֖יד שְׁלֹמֹ֥ה בְנֽוֹ׃</td><td></td></tr>
+<tr><td>מה</td><td>וַֽיִּשְׁמְר֞וּ מִשְׁמֶ֤רֶת אֱלֹֽהֵיהֶם֙ וּמִשְׁמֶ֣רֶת <span class="mam-dqq-unstressed">הַֽטׇּהֳרָ֔ה</span> וְהַמְשֹׁרְרִ֖ים וְהַשֹּׁעֲרִ֑ים כְּמִצְוַ֥ת דָּוִ֖יד שְׁלֹמֹ֥ה בְנֽוֹ׃</td><td></td></tr>
 <tr><td>מו</td><td>כִּֽי־בִימֵ֥י דָוִ֛יד וְאָסָ֖ף מִקֶּ֑דֶם <span class="mam-kq"><span class="mam-kq-k">(ראש)</span> <span class="mam-kq-q">[רָאשֵׁי֙]</span></span> הַמְשֹׁ֣רְרִ֔ים וְשִׁיר־תְּהִלָּ֥ה וְהֹד֖וֹת לֵֽאלֹהִֽים׃</td><td></td></tr>
 <tr><td>מז</td><td>וְכׇל־יִשְׂרָאֵל֩ בִּימֵ֨י זְרֻבָּבֶ֜ל וּבִימֵ֣י נְחֶמְיָ֗ה נֹ֥תְנִ֛ים<span class="mam-doc-note-callout">*</span> מְנָי֛וֹת הַמְשֹׁרְרִ֥ים וְהַשֹּׁעֲרִ֖ים דְּבַר־י֣וֹם בְּיוֹמ֑וֹ וּמַקְדִּשִׁים֙ לַלְוִיִּ֔ם וְהַלְוִיִּ֔ם מַקְדִּשִׁ֖ים לִבְנֵ֥י אַהֲרֹֽן׃&nbsp;<span class="mam-spi-pe">{פ}</span><br class="mam-br-after-pe"></td><td><span class="mam-doc-target">נֹ֥תְנִ֛ים</span> <span class="mam-doc-parts">=שיטת-א (מרכא בתיבת תביר) ● הקלדה=נֹֽתְנִ֛ים</span></td></tr>
 <tr><td>יג:</td><td>בַּיּ֣וֹם הַה֗וּא נִקְרָ֛א בְּסֵ֥פֶר מֹשֶׁ֖ה בְּאׇזְנֵ֣י הָעָ֑ם וְנִמְצָא֙ כָּת֣וּב בּ֔וֹ אֲ֠שֶׁ֠ר לֹא־יָב֨וֹא עַמֹּנִ֧י וּמוֹאָבִ֛י<span class="mam-doc-note-callout">*</span> בִּקְהַ֥ל הָאֱלֹהִ֖ים עַד־עוֹלָֽם׃</td><td><span class="mam-doc-target">וּמוֹאָבִ֛י</span> <span class="mam-doc-parts">=ש1ת ומסורת טברנית ● ל=וּמֹאָבִ֛י (כתיב חסר וי״ו) וכן בקורן ● הערת ברויאר ● סימנים, מכון ממרא</span></td></tr>
@@ -436,7 +438,7 @@ th, td {
 <tr><td>כו</td><td>הֲל֣וֹא עַל־אֵ֣לֶּה חָטָֽא־שְׁלֹמֹ֣ה מֶ֣לֶךְ יִשְׂרָאֵ֡ל וּבַגּוֹיִ֣ם הָרַבִּים֩ לֹֽא־הָיָ֨ה מֶ֜לֶךְ כָּמֹ֗הוּ וְאָה֤וּב לֵֽאלֹהָיו֙ הָיָ֔ה וַיִּתְּנֵ֣הוּ אֱלֹהִ֔ים מֶ֖לֶךְ עַל־כׇּל־יִשְׂרָאֵ֑ל גַּם־אוֹת֣וֹ הֶחֱטִ֔יאוּ הַנָּשִׁ֖ים הַנׇּכְרִיּֽוֹת׃</td><td></td></tr>
 <tr><td>כז</td><td>וְלָכֶ֣ם הֲנִשְׁמַ֗ע לַעֲשֹׂת֙ אֵ֣ת כׇּל־הָרָעָ֤ה הַגְּדוֹלָה֙ הַזֹּ֔את<span class="mam-doc-note-callout">*</span> לִמְעֹ֖ל בֵּֽאלֹהֵ֑ינוּ לְהֹשִׁ֖יב נָשִׁ֥ים נׇכְרִיּֽוֹת׃</td><td><span class="mam-doc-target">הַזֹּ֔את</span> <span class="mam-doc-parts">ל=הזֹּ֔את (חסר פתח!) ● הערת דותן</span></td></tr>
 <tr><td>כח</td><td>וּמִבְּנֵ֨י יוֹיָדָ֤ע בֶּן־אֶלְיָשִׁיב֙ הַכֹּהֵ֣ן הַגָּד֔וֹל חָתָ֖ן לְסַנְבַלַּ֣ט הַחֹרֹנִ֑י וָאַבְרִיחֵ֖הוּ מֵעָלָֽי׃</td><td></td></tr>
-<tr><td>כט</td><td>זׇכְרָ֥ה לָהֶ֖ם אֱלֹהָ֑י עַ֚ל גׇּאֳלֵ֣י הַכְּהֻנָּ֔ה וּבְרִ֥ית הַכְּהֻנָּ֖ה וְהַלְוִיִּֽם׃</td><td></td></tr>
+<tr><td>כט</td><td>זׇכְרָ֥ה לָהֶ֖ם אֱלֹהָ֑י עַ֚ל <span class="mam-dqq-unstressed">גׇּאֳלֵ֣י</span> הַכְּהֻנָּ֔ה וּבְרִ֥ית הַכְּהֻנָּ֖ה וְהַלְוִיִּֽם׃</td><td></td></tr>
 <tr><td>ל</td><td>וְטִֽהַרְתִּ֖ים מִכׇּל־נֵכָ֑ר&nbsp;<span class="mam-spi-pe">{פ}</span><br class="mam-br-after-pe"><span class="mam-doc-note-callout">*</span>וָאַעֲמִ֧ידָה מִשְׁמָר֛וֹת לַכֹּהֲנִ֥ים וְלַלְוִיִּ֖ם אִ֥ישׁ בִּמְלַאכְתּֽוֹ׃</td><td><span class="mam-doc-target">פפפ</span> <span class="mam-doc-parts">ל=אין פרשה</span></td></tr>
 <tr><td>לא</td><td>וּלְקֻרְבַּ֧ן הָעֵצִ֛ים בְּעִתִּ֥ים מְזֻמָּנ֖וֹת וְלַבִּכּוּרִ֑ים זׇכְרָה־לִּ֥י אֱלֹהַ֖י לְטוֹבָֽה׃</td><td></td></tr>
 </table>
