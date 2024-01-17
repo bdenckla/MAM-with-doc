@@ -1184,6 +1184,14 @@
     "r": "ד=בְּשׇׁעֳל֜וֹ ס=בְּשָׁעֳל֜וֹ"
   },
   {
+    "bcv_short": "I41:24",
+    "stress_mark": null,
+    "qq_count": "2",
+    "stack_str": null,
+    "fp": "all",
+    "r": "ד=וּפׇעׇלְכֶ֖ם ס=וּפָעׇלְכֶ֖ם"
+  },
+  {
     "bcv_short": "I44:13",
     "stress_mark": null,
     "qq_count": "1",
@@ -5254,6 +5262,14 @@
     "stack_str": null,
     "fp": "stress-mark-0-qq-count-2",
     "r": "ד=מׇאׇסְכֶ֖ם ס=מָאׇסְכֶ֖ם"
+  },
+  {
+    "bcv_short": "I41:24",
+    "stress_mark": null,
+    "qq_count": "2",
+    "stack_str": null,
+    "fp": "stress-mark-0-qq-count-2",
+    "r": "ד=וּפׇעׇלְכֶ֖ם ס=וּפָעׇלְכֶ֖ם"
   },
   {
     "bcv_short": "Ps61:5",
