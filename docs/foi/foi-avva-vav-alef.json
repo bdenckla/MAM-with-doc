@@ -3819,7 +3819,7 @@
     "bcv_short": "D18:22",
     "stack_str": "doc-part-n",
     "fp": "c-misc-bo",
-    "r": "ל=יָב֔וֹא"
+    "r": "ל!=יָב֔וֹא"
   },
   {
     "bcv_short": "2S24:13",
