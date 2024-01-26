@@ -1512,6 +1512,14 @@
     "r": "ד=וְאֶל־אׇ֣הֳלִיבָ֔ה ס=וְאֶל־אָ֣הֳלִיבָ֔ה"
   },
   {
+    "bcv_short": "Ee26:2",
+    "stress_mark": null,
+    "qq_count": "1",
+    "stack_str": null,
+    "fp": "all",
+    "r": "ד=הׇחֳרָֽבָה ס=הָחֳרָֽבָה"
+  },
+  {
     "bcv_short": "Ee26:9",
     "stress_mark": "𝓂",
     "qq_count": "2",
@@ -4086,6 +4094,14 @@
     "stack_str": null,
     "fp": "stress-mark-0-qq-count-1",
     "r": "ד=אֶֽל־אׇהֳלָה֙ ס=אֶֽל־אָהֳלָה֙"
+  },
+  {
+    "bcv_short": "Ee26:2",
+    "stress_mark": null,
+    "qq_count": "1",
+    "stack_str": null,
+    "fp": "stress-mark-0-qq-count-1",
+    "r": "ד=הׇחֳרָֽבָה ס=הָחֳרָֽבָה"
   },
   {
     "bcv_short": "Ee26:20",
