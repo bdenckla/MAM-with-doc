@@ -3,7 +3,7 @@
     "bcv_short": "G1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בְּרֵאשִׁ֖ית",
@@ -14,7 +14,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -38,7 +38,7 @@
     "bcv_short": "E34:7",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "נֹצֵ֥ר",
@@ -49,7 +49,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -73,7 +73,7 @@
     "bcv_short": "E34:14",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אַחֵ֑ר",
@@ -85,7 +85,7 @@
         "contents": [
           "אַחֵ֑",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -108,7 +108,7 @@
     "bcv_short": "L11:42",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "עַל־גָּח֜וֹן",
@@ -120,7 +120,7 @@
         "contents": [
           "עַל־גָּח֜",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -144,7 +144,7 @@
     "bcv_short": "L13:33",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְהִ֨תְגַּלָּ֔ח",
@@ -156,7 +156,7 @@
         "contents": [
           "וְהִ֨תְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -180,7 +180,7 @@
     "bcv_short": "N14:17",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "יִגְדַּל־נָ֖א",
@@ -191,7 +191,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -215,7 +215,7 @@
     "bcv_short": "N27:5",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מִשְׁפָּטָ֖ן",
@@ -227,7 +227,7 @@
         "contents": [
           "מִשְׁפָּטָ֖",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -250,7 +250,7 @@
     "bcv_short": "D6:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "שְׁמַ֖ע",
@@ -262,7 +262,7 @@
         "contents": [
           "שְׁמַ֖",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -285,7 +285,7 @@
     "bcv_short": "D6:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אֶחָֽד",
@@ -297,7 +297,7 @@
         "contents": [
           "אֶחָֽ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -320,7 +320,7 @@
     "bcv_short": "D29:27",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיַּשְׁלִכֵ֛ם",
@@ -332,7 +332,7 @@
         "contents": [
           "וַיַּשְׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -356,7 +356,7 @@
     "bcv_short": "D32:6",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַ",
@@ -367,7 +367,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -390,7 +390,7 @@
     "bcv_short": "2K17:31",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "נִבְחַ֖ז",
@@ -402,7 +402,7 @@
         "contents": [
           "נִבְחַ֖",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -425,7 +425,7 @@
     "bcv_short": "I56:10",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "צֹפָ֞ו",
@@ -436,7 +436,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -460,7 +460,7 @@
     "bcv_short": "Ma3:22",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "זִכְר֕וּ",
@@ -471,7 +471,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -495,7 +495,7 @@
     "bcv_short": "Ps80:16",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְ֭כַנָּה",
@@ -507,7 +507,7 @@
         "contents": [
           "וְ֭",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -531,7 +531,7 @@
     "bcv_short": "Ps84:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "קֵ֥ן",
@@ -542,7 +542,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -566,7 +566,7 @@
     "bcv_short": "Pr1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מִ֭שְׁלֵי",
@@ -577,7 +577,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -601,7 +601,7 @@
     "bcv_short": "Jb9:34",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "שִׁבְט֑וֹ",
@@ -613,7 +613,7 @@
         "contents": [
           "שִׁבְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -637,7 +637,7 @@
     "bcv_short": "S1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "שִׁ֥יר",
@@ -648,7 +648,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -672,7 +672,7 @@
     "bcv_short": "R3:13",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "לִ֣ינִי",
@@ -684,7 +684,7 @@
         "contents": [
           "לִ֣י",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -708,7 +708,7 @@
     "bcv_short": "Ec7:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "ט֥וֹב",
@@ -719,7 +719,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -743,7 +743,7 @@
     "bcv_short": "Ec12:13",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "ס֥וֹף",
@@ -754,7 +754,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -778,7 +778,7 @@
     "bcv_short": "Es1:6",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "ח֣וּר",
@@ -789,7 +789,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -813,7 +813,7 @@
     "bcv_short": "Es9:29",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַ֠תִּכְתֹּ֠ב",
@@ -825,7 +825,7 @@
         "contents": [
           "וַ֠",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -849,7 +849,7 @@
     "bcv_short": "1C1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אָדָ֥ם",
@@ -860,7 +860,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -884,7 +884,7 @@
     "bcv_short": "G2:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בְּהִבָּֽרְאָ֑ם",
@@ -896,7 +896,7 @@
         "contents": [
           "בְּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -920,7 +920,7 @@
     "bcv_short": "G23:2",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְלִבְכֹּתָֽהּ",
@@ -932,7 +932,7 @@
         "contents": [
           "וְלִבְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -956,7 +956,7 @@
     "bcv_short": "G27:46",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "קַ֣צְתִּי",
@@ -967,7 +967,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -991,7 +991,7 @@
     "bcv_short": "L1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיִּקְרָ֖א",
@@ -1003,7 +1003,7 @@
         "contents": [
           "וַיִּקְרָ֖",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1026,7 +1026,7 @@
     "bcv_short": "L6:2",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מוֹקְדָ֨הֿ",
@@ -1037,7 +1037,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1061,7 +1061,7 @@
     "bcv_short": "D32:18",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "תֶּ֑שִׁי",
@@ -1073,7 +1073,7 @@
         "contents": [
           "תֶּ֑שִׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1096,7 +1096,7 @@
     "bcv_short": "2S21:19",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בֶּן־יַעְרֵ֨י",
@@ -1108,7 +1108,7 @@
         "contents": [
           "בֶּן־יַעְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1132,7 +1132,7 @@
     "bcv_short": "I44:14",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אֹ֖רֶן",
@@ -1144,7 +1144,7 @@
         "contents": [
           "אֹ֖רֶ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1167,7 +1167,7 @@
     "bcv_short": "Je14:2",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְצִוְחַ֥ת",
@@ -1179,7 +1179,7 @@
         "contents": [
           "וְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1203,7 +1203,7 @@
     "bcv_short": "Je39:13",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וּנְבֽוּשַׁזְבָּן֙",
@@ -1215,7 +1215,7 @@
         "contents": [
           "וּנְבֽוּשַׁזְבָּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1238,7 +1238,7 @@
     "bcv_short": "Na1:3",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בְּסוּפָ֤ה",
@@ -1250,7 +1250,7 @@
         "contents": [
           "בְּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1274,7 +1274,7 @@
     "bcv_short": "Pr28:17",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אָ֭דָם",
@@ -1286,7 +1286,7 @@
         "contents": [
           "אָ֭",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1310,7 +1310,7 @@
     "bcv_short": "Pr30:15",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַ֤ב",
@@ -1322,7 +1322,7 @@
         "contents": [
           "הַ֤",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1346,7 +1346,7 @@
     "bcv_short": "Jb7:5",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וגיש",
@@ -1358,7 +1358,7 @@
         "contents": [
           "ו",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1382,7 +1382,7 @@
     "bcv_short": "Jb16:14",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "פֶ֭רֶץ",
@@ -1394,7 +1394,7 @@
         "contents": [
           "פֶ֭רֶ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1417,7 +1417,7 @@
     "bcv_short": "Jb33:9",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "חַ֥ף",
@@ -1428,7 +1428,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1452,7 +1452,7 @@
     "bcv_short": "La1:12",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "ל֣וֹא",
@@ -1463,7 +1463,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1487,7 +1487,7 @@
     "bcv_short": "La2:9",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "טָבְע֤וּ",
@@ -1498,7 +1498,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1522,7 +1522,7 @@
     "bcv_short": "La3:36",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "לְעַוֵּ֤ת",
@@ -1534,7 +1534,7 @@
         "contents": [
           "לְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1558,7 +1558,7 @@
     "bcv_short": "Es9:7",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "פַּרְשַׁנְדָּ֛תָא",
@@ -1570,7 +1570,7 @@
         "contents": [
           "פַּרְשַׁנְדָּ֛",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1594,7 +1594,7 @@
     "bcv_short": "Es9:9",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "פַּרְמַ֙שְׁתָּא֙",
@@ -1606,7 +1606,7 @@
         "contents": [
           "פַּרְמַ֙",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1630,7 +1630,7 @@
     "bcv_short": "Ju18:30",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בֶּן־מְנַשֶּׁ֜ה",
@@ -1642,7 +1642,7 @@
         "contents": [
           "בֶּן־מְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-hung"
             },
@@ -1666,7 +1666,7 @@
     "bcv_short": "Ps80:14",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מִיָּ֑עַר",
@@ -1678,7 +1678,7 @@
         "contents": [
           "מִיָּ֑",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-hung"
             },
@@ -1702,7 +1702,7 @@
     "bcv_short": "Jb38:13",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "רְשָׁעִ֣ים",
@@ -1714,7 +1714,7 @@
         "contents": [
           "רְשָׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-hung"
             },
@@ -1738,7 +1738,7 @@
     "bcv_short": "Jb38:15",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מֵרְשָׁעִ֣ים",
@@ -1750,7 +1750,7 @@
         "contents": [
           "מֵרְשָׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-hung"
             },
@@ -1774,7 +1774,7 @@
     "bcv_short": "Es9:9",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיְזָֽתָא",
@@ -1785,7 +1785,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -1797,7 +1797,7 @@
           },
           "יְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1821,7 +1821,7 @@
     "bcv_short": "Da6:20",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בִּשְׁפַּרְפָּרָ֖א",
@@ -1833,7 +1833,7 @@
         "contents": [
           "בִּשְׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1845,7 +1845,7 @@
           },
           "רְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -1869,7 +1869,7 @@
     "bcv_short": "G1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בְּרֵאשִׁ֖ית",
@@ -1880,7 +1880,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -1904,7 +1904,7 @@
     "bcv_short": "G2:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בְּהִבָּֽרְאָ֑ם",
@@ -1916,7 +1916,7 @@
         "contents": [
           "בְּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -1940,7 +1940,7 @@
     "bcv_short": "G5:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "סֵ֔פֶר",
@@ -1951,7 +1951,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -1975,7 +1975,7 @@
     "bcv_short": "G23:2",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְלִבְכֹּתָֽהּ",
@@ -1987,7 +1987,7 @@
         "contents": [
           "וְלִבְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -2011,7 +2011,7 @@
     "bcv_short": "G27:46",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "קַ֣צְתִּי",
@@ -2022,7 +2022,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -2046,7 +2046,7 @@
     "bcv_short": "G30:42",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וּבְהַעֲטִ֥יף",
@@ -2058,7 +2058,7 @@
         "contents": [
           "וּבְהַעֲטִ֥י",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2081,7 +2081,7 @@
     "bcv_short": "G34:31",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַכְזוֹנָ֕ה",
@@ -2093,7 +2093,7 @@
         "contents": [
           "הַכְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2117,7 +2117,7 @@
     "bcv_short": "G49:12",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "חַכְלִילִ֥י",
@@ -2128,7 +2128,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2152,7 +2152,7 @@
     "bcv_short": "G50:23",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "שִׁלֵּשִׁ֑ים",
@@ -2164,7 +2164,7 @@
         "contents": [
           "שִׁלֵּשִׁ֑י",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2187,7 +2187,7 @@
     "bcv_short": "E2:2",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "כִּי־ט֣וֹב",
@@ -2199,7 +2199,7 @@
         "contents": [
           "כִּי־",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2223,7 +2223,7 @@
     "bcv_short": "E11:8",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "צֵ֤א",
@@ -2234,7 +2234,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2258,7 +2258,7 @@
     "bcv_short": "E28:36",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "צִּ֖יץ",
@@ -2270,7 +2270,7 @@
         "contents": [
           "צִּ֖י",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2293,7 +2293,7 @@
     "bcv_short": "E32:25",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בְּקָמֵיהֶֽם",
@@ -2305,7 +2305,7 @@
         "contents": [
           "בְּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -2329,7 +2329,7 @@
     "bcv_short": "E34:7",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "נֹצֵ֥ר",
@@ -2340,7 +2340,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2364,7 +2364,7 @@
     "bcv_short": "E34:11",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "שְׁמׇ֨ר־לְךָ֔",
@@ -2375,7 +2375,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2399,7 +2399,7 @@
     "bcv_short": "E34:14",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אַחֵ֑ר",
@@ -2411,7 +2411,7 @@
         "contents": [
           "אַחֵ֑",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2434,7 +2434,7 @@
     "bcv_short": "L1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיִּקְרָ֖א",
@@ -2446,7 +2446,7 @@
         "contents": [
           "וַיִּקְרָ֖",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -2469,7 +2469,7 @@
     "bcv_short": "L6:2",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מוֹקְדָ֨הֿ",
@@ -2480,7 +2480,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -2504,7 +2504,7 @@
     "bcv_short": "L8:15",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיִּשְׁחָ֗ט",
@@ -2516,7 +2516,7 @@
         "contents": [
           "וַיִּשְׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2540,7 +2540,7 @@
     "bcv_short": "L8:23",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיִּשְׁחָ֓ט",
@@ -2552,7 +2552,7 @@
         "contents": [
           "וַיִּשְׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2576,7 +2576,7 @@
     "bcv_short": "L11:30",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְהַלְּטָאָ֑ה",
@@ -2588,7 +2588,7 @@
         "contents": [
           "וְהַ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2612,7 +2612,7 @@
     "bcv_short": "L11:42",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "עַל־גָּח֜וֹן",
@@ -2624,7 +2624,7 @@
         "contents": [
           "עַל־גָּח֜",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2648,7 +2648,7 @@
     "bcv_short": "L13:33",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְהִ֨תְגַּלָּ֔ח",
@@ -2660,7 +2660,7 @@
         "contents": [
           "וְהִ֨תְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2684,7 +2684,7 @@
     "bcv_short": "N1:18",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "לְגֻלְגְּלֹתָֽם,",
@@ -2696,7 +2696,7 @@
         "contents": [
           "לְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2720,7 +2720,7 @@
     "bcv_short": "N3:16",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "עַל־פִּ֣י",
@@ -2732,7 +2732,7 @@
         "contents": [
           "עַל־",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2756,7 +2756,7 @@
     "bcv_short": "N13:30",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיַּ֧הַס",
@@ -2768,7 +2768,7 @@
         "contents": [
           "וַיַּ֧הַ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2791,7 +2791,7 @@
     "bcv_short": "N14:17",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "יִגְדַּל־נָ֖א",
@@ -2802,7 +2802,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2826,7 +2826,7 @@
     "bcv_short": "N24:5",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מַה־טֹּ֥בוּ",
@@ -2837,7 +2837,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2861,7 +2861,7 @@
     "bcv_short": "N25:11",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "פִּֽינְחָ֨ס",
@@ -2873,7 +2873,7 @@
         "contents": [
           "פִּֽ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -2897,7 +2897,7 @@
     "bcv_short": "N25:11",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "פִּֽינְחָ֨ס",
@@ -2909,7 +2909,7 @@
         "contents": [
           "פִּֽ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -2933,7 +2933,7 @@
     "bcv_short": "N27:5",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מִשְׁפָּטָ֖ן",
@@ -2945,7 +2945,7 @@
         "contents": [
           "מִשְׁפָּטָ֖",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -2968,7 +2968,7 @@
     "bcv_short": "D2:33",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַנַּ֥ךְ",
@@ -2980,7 +2980,7 @@
         "contents": [
           "וַנַּ֥",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3003,7 +3003,7 @@
     "bcv_short": "D3:11",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "עֶ֣רֶשׂ",
@@ -3015,7 +3015,7 @@
         "contents": [
           "עֶ֣רֶ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3038,7 +3038,7 @@
     "bcv_short": "D6:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "שְׁמַ֖ע",
@@ -3050,7 +3050,7 @@
         "contents": [
           "שְׁמַ֖",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3073,7 +3073,7 @@
     "bcv_short": "D6:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אֶחָֽד",
@@ -3085,7 +3085,7 @@
         "contents": [
           "אֶחָֽ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3108,7 +3108,7 @@
     "bcv_short": "D9:24",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מַמְרִ֥ים",
@@ -3119,7 +3119,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -3143,7 +3143,7 @@
     "bcv_short": "D11:21",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הָאָֽרֶץ",
@@ -3155,7 +3155,7 @@
         "contents": [
           "הָאָֽרֶ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3178,7 +3178,7 @@
     "bcv_short": "D18:13",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "תָּמִ֣ים",
@@ -3189,7 +3189,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3213,7 +3213,7 @@
     "bcv_short": "D22:6",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "קַן",
@@ -3224,7 +3224,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3248,7 +3248,7 @@
     "bcv_short": "D28:68",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְהִתְמַכַּרְתֶּ֨ם",
@@ -3260,7 +3260,7 @@
         "contents": [
           "וְהִתְמַ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3284,7 +3284,7 @@
     "bcv_short": "D29:27",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיַּשְׁלִכֵ֛ם",
@@ -3296,7 +3296,7 @@
         "contents": [
           "וַיַּשְׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3320,7 +3320,7 @@
     "bcv_short": "D32:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַצּוּר֙",
@@ -3332,7 +3332,7 @@
         "contents": [
           "הַ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3356,7 +3356,7 @@
     "bcv_short": "D32:5",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וּפְתַלְתֹּֽל",
@@ -3368,7 +3368,7 @@
         "contents": [
           "וּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3392,7 +3392,7 @@
     "bcv_short": "D32:6",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַ",
@@ -3403,7 +3403,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3426,7 +3426,7 @@
     "bcv_short": "D32:6",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַֽלְיהֹוָה֙",
@@ -3437,7 +3437,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3461,7 +3461,7 @@
     "bcv_short": "D32:6",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַ",
@@ -3472,7 +3472,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3495,7 +3495,7 @@
     "bcv_short": "D32:6",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַֽלְיהֹוָה֙",
@@ -3506,7 +3506,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3530,7 +3530,7 @@
     "bcv_short": "D32:18",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "תֶּ֑שִׁי",
@@ -3542,7 +3542,7 @@
         "contents": [
           "תֶּ֑שִׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -3565,7 +3565,7 @@
     "bcv_short": "D33:29",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אַשְׁרֶ֨יךָ",
@@ -3576,7 +3576,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3600,7 +3600,7 @@
     "bcv_short": "D34:12",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "כׇּל־יִשְׂרָאֵֽל",
@@ -3612,7 +3612,7 @@
         "contents": [
           "כׇּל־יִשְׂרָאֵֽ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3635,7 +3635,7 @@
     "bcv_short": "Js14:11",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "כְּכֹ֥חִי",
@@ -3646,7 +3646,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3670,7 +3670,7 @@
     "bcv_short": "Ju18:30",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בֶּן־מְנַשֶּׁ֜ה",
@@ -3682,7 +3682,7 @@
         "contents": [
           "בֶּן־מְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-hung"
             },
@@ -3706,7 +3706,7 @@
     "bcv_short": "2S21:19",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בֶּן־יַעְרֵ֨י",
@@ -3718,7 +3718,7 @@
         "contents": [
           "בֶּן־יַעְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -3742,7 +3742,7 @@
     "bcv_short": "2K17:31",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "נִבְחַ֖ז",
@@ -3754,7 +3754,7 @@
         "contents": [
           "נִבְחַ֖",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3777,7 +3777,7 @@
     "bcv_short": "I44:14",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אֹ֖רֶן",
@@ -3789,7 +3789,7 @@
         "contents": [
           "אֹ֖רֶ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -3812,7 +3812,7 @@
     "bcv_short": "I56:10",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "צֹפָ֞ו",
@@ -3823,7 +3823,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3847,7 +3847,7 @@
     "bcv_short": "Je14:2",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְצִוְחַ֥ת",
@@ -3859,7 +3859,7 @@
         "contents": [
           "וְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -3883,7 +3883,7 @@
     "bcv_short": "Je39:13",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וּנְבֽוּשַׁזְבָּן֙",
@@ -3895,7 +3895,7 @@
         "contents": [
           "וּנְבֽוּשַׁזְבָּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -3918,7 +3918,7 @@
     "bcv_short": "Na1:3",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בְּסוּפָ֤ה",
@@ -3930,7 +3930,7 @@
         "contents": [
           "בְּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -3954,7 +3954,7 @@
     "bcv_short": "Ma3:22",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "זִכְר֕וּ",
@@ -3965,7 +3965,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -3989,7 +3989,7 @@
     "bcv_short": "Ps24:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "לַשָּׁ֣וְא",
@@ -4001,7 +4001,7 @@
         "contents": [
           "לַשָּׁ֣",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -4025,7 +4025,7 @@
     "bcv_short": "Ps77:8",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַ֭לְעוֹלָמִים",
@@ -4036,7 +4036,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -4060,7 +4060,7 @@
     "bcv_short": "Ps80:14",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מִיָּ֑עַר",
@@ -4072,7 +4072,7 @@
         "contents": [
           "מִיָּ֑",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-hung"
             },
@@ -4096,7 +4096,7 @@
     "bcv_short": "Ps80:16",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְ֭כַנָּה",
@@ -4108,7 +4108,7 @@
         "contents": [
           "וְ֭",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -4132,7 +4132,7 @@
     "bcv_short": "Ps84:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "קֵ֥ן",
@@ -4143,7 +4143,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -4167,7 +4167,7 @@
     "bcv_short": "Pr1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מִ֭שְׁלֵי",
@@ -4178,7 +4178,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -4202,7 +4202,7 @@
     "bcv_short": "Pr28:17",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אָ֭דָם",
@@ -4214,7 +4214,7 @@
         "contents": [
           "אָ֭",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -4238,7 +4238,7 @@
     "bcv_short": "Pr28:17",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בְּדַם־נָ֑פֶשׁ",
@@ -4250,7 +4250,7 @@
         "contents": [
           "בְּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -4274,7 +4274,7 @@
     "bcv_short": "Pr30:15",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַ֤ב",
@@ -4286,7 +4286,7 @@
         "contents": [
           "הַ֤",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -4310,7 +4310,7 @@
     "bcv_short": "Jb7:5",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וגיש",
@@ -4322,7 +4322,7 @@
         "contents": [
           "ו",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -4346,7 +4346,7 @@
     "bcv_short": "Jb7:5",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וגיש",
@@ -4358,7 +4358,7 @@
         "contents": [
           "ו",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -4382,7 +4382,7 @@
     "bcv_short": "Jb9:34",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "שִׁבְט֑וֹ",
@@ -4394,7 +4394,7 @@
         "contents": [
           "שִׁבְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -4418,7 +4418,7 @@
     "bcv_short": "Jb16:14",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "פֶ֭רֶץ",
@@ -4430,7 +4430,7 @@
         "contents": [
           "פֶ֭רֶ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -4453,7 +4453,7 @@
     "bcv_short": "Jb33:9",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "חַ֥ף",
@@ -4464,7 +4464,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -4488,7 +4488,7 @@
     "bcv_short": "Jb38:13",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "רְשָׁעִ֣ים",
@@ -4500,7 +4500,7 @@
         "contents": [
           "רְשָׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-hung"
             },
@@ -4524,7 +4524,7 @@
     "bcv_short": "Jb38:15",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מֵרְשָׁעִ֣ים",
@@ -4536,7 +4536,7 @@
         "contents": [
           "מֵרְשָׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-hung"
             },
@@ -4560,7 +4560,7 @@
     "bcv_short": "S1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "שִׁ֥יר",
@@ -4571,7 +4571,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -4595,7 +4595,7 @@
     "bcv_short": "R3:13",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "לִ֣ינִי",
@@ -4607,7 +4607,7 @@
         "contents": [
           "לִ֣י",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -4631,7 +4631,7 @@
     "bcv_short": "La1:12",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "ל֣וֹא",
@@ -4642,7 +4642,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -4666,7 +4666,7 @@
     "bcv_short": "La2:9",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "טָבְע֤וּ",
@@ -4677,7 +4677,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -4701,7 +4701,7 @@
     "bcv_short": "La3:36",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "לְעַוֵּ֤ת",
@@ -4713,7 +4713,7 @@
         "contents": [
           "לְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -4737,7 +4737,7 @@
     "bcv_short": "Ec7:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "ט֥וֹב",
@@ -4748,7 +4748,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -4772,7 +4772,7 @@
     "bcv_short": "Ec12:13",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "ס֥וֹף",
@@ -4783,7 +4783,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -4807,7 +4807,7 @@
     "bcv_short": "Es1:6",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "ח֣וּר",
@@ -4818,7 +4818,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -4842,7 +4842,7 @@
     "bcv_short": "Es9:7",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "פַּרְשַׁנְדָּ֛תָא",
@@ -4854,7 +4854,7 @@
         "contents": [
           "פַּרְשַׁנְדָּ֛",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -4878,7 +4878,7 @@
     "bcv_short": "Es9:9",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "פַּרְמַ֙שְׁתָּא֙",
@@ -4890,7 +4890,7 @@
         "contents": [
           "פַּרְמַ֙",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -4914,7 +4914,7 @@
     "bcv_short": "Es9:29",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַ֠תִּכְתֹּ֠ב",
@@ -4926,7 +4926,7 @@
         "contents": [
           "וַ֠",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -4950,7 +4950,7 @@
     "bcv_short": "1C1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אָדָ֥ם",
@@ -4961,7 +4961,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -4985,7 +4985,7 @@
     "bcv_short": "Es9:9",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיְזָֽתָא",
@@ -4996,7 +4996,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5008,7 +5008,7 @@
           },
           "יְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -5032,7 +5032,7 @@
     "bcv_short": "Da6:20",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בִּשְׁפַּרְפָּרָ֖א",
@@ -5044,7 +5044,7 @@
         "contents": [
           "בִּשְׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -5056,7 +5056,7 @@
           },
           "רְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5080,7 +5080,7 @@
     "bcv_short": "L8:15",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיִּשְׁחָ֗ט",
@@ -5091,7 +5091,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5114,7 +5114,7 @@
     "bcv_short": "L8:23",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיִּשְׁחָ֓ט",
@@ -5125,7 +5125,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5148,7 +5148,7 @@
     "bcv_short": "G1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בְּרֵאשִׁ֖ית",
@@ -5159,7 +5159,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5183,7 +5183,7 @@
     "bcv_short": "G2:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בְּהִבָּֽרְאָ֑ם",
@@ -5195,7 +5195,7 @@
         "contents": [
           "בְּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -5219,7 +5219,7 @@
     "bcv_short": "G23:2",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְלִבְכֹּתָֽהּ",
@@ -5231,7 +5231,7 @@
         "contents": [
           "וְלִבְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -5255,7 +5255,7 @@
     "bcv_short": "G27:46",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "קַ֣צְתִּי",
@@ -5266,7 +5266,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -5290,7 +5290,7 @@
     "bcv_short": "E34:7",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "נֹצֵ֥ר",
@@ -5301,7 +5301,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5325,7 +5325,7 @@
     "bcv_short": "E34:14",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אַחֵ֑ר",
@@ -5337,7 +5337,7 @@
         "contents": [
           "אַחֵ֑",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5360,7 +5360,7 @@
     "bcv_short": "L1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיִּקְרָ֖א",
@@ -5372,7 +5372,7 @@
         "contents": [
           "וַיִּקְרָ֖",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -5395,7 +5395,7 @@
     "bcv_short": "L6:2",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מוֹקְדָ֨הֿ",
@@ -5406,7 +5406,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -5430,7 +5430,7 @@
     "bcv_short": "L11:42",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "עַל־גָּח֜וֹן",
@@ -5442,7 +5442,7 @@
         "contents": [
           "עַל־גָּח֜",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5466,7 +5466,7 @@
     "bcv_short": "L13:33",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְהִ֨תְגַּלָּ֔ח",
@@ -5478,7 +5478,7 @@
         "contents": [
           "וְהִ֨תְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5502,7 +5502,7 @@
     "bcv_short": "N14:17",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "יִגְדַּל־נָ֖א",
@@ -5513,7 +5513,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5537,7 +5537,7 @@
     "bcv_short": "N27:5",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מִשְׁפָּטָ֖ן",
@@ -5549,7 +5549,7 @@
         "contents": [
           "מִשְׁפָּטָ֖",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5572,7 +5572,7 @@
     "bcv_short": "D6:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "שְׁמַ֖ע",
@@ -5584,7 +5584,7 @@
         "contents": [
           "שְׁמַ֖",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5607,7 +5607,7 @@
     "bcv_short": "D6:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אֶחָֽד",
@@ -5619,7 +5619,7 @@
         "contents": [
           "אֶחָֽ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5642,7 +5642,7 @@
     "bcv_short": "D29:27",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיַּשְׁלִכֵ֛ם",
@@ -5654,7 +5654,7 @@
         "contents": [
           "וַיַּשְׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5678,7 +5678,7 @@
     "bcv_short": "D32:6",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַ",
@@ -5689,7 +5689,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5712,7 +5712,7 @@
     "bcv_short": "D32:18",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "תֶּ֑שִׁי",
@@ -5724,7 +5724,7 @@
         "contents": [
           "תֶּ֑שִׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -5747,7 +5747,7 @@
     "bcv_short": "Ju18:30",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בֶּן־מְנַשֶּׁ֜ה",
@@ -5759,7 +5759,7 @@
         "contents": [
           "בֶּן־מְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-hung"
             },
@@ -5783,7 +5783,7 @@
     "bcv_short": "2S21:19",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בֶּן־יַעְרֵ֨י",
@@ -5795,7 +5795,7 @@
         "contents": [
           "בֶּן־יַעְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -5819,7 +5819,7 @@
     "bcv_short": "2K17:31",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "נִבְחַ֖ז",
@@ -5831,7 +5831,7 @@
         "contents": [
           "נִבְחַ֖",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5854,7 +5854,7 @@
     "bcv_short": "I44:14",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אֹ֖רֶן",
@@ -5866,7 +5866,7 @@
         "contents": [
           "אֹ֖רֶ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -5889,7 +5889,7 @@
     "bcv_short": "I56:10",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "צֹפָ֞ו",
@@ -5900,7 +5900,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -5924,7 +5924,7 @@
     "bcv_short": "Je14:2",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְצִוְחַ֥ת",
@@ -5936,7 +5936,7 @@
         "contents": [
           "וְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -5960,7 +5960,7 @@
     "bcv_short": "Je39:13",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וּנְבֽוּשַׁזְבָּן֙",
@@ -5972,7 +5972,7 @@
         "contents": [
           "וּנְבֽוּשַׁזְבָּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -5995,7 +5995,7 @@
     "bcv_short": "Na1:3",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בְּסוּפָ֤ה",
@@ -6007,7 +6007,7 @@
         "contents": [
           "בְּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -6031,7 +6031,7 @@
     "bcv_short": "Ma3:22",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "זִכְר֕וּ",
@@ -6042,7 +6042,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -6066,7 +6066,7 @@
     "bcv_short": "Ps80:14",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מִיָּ֑עַר",
@@ -6078,7 +6078,7 @@
         "contents": [
           "מִיָּ֑",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-hung"
             },
@@ -6102,7 +6102,7 @@
     "bcv_short": "Ps80:16",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְ֭כַנָּה",
@@ -6114,7 +6114,7 @@
         "contents": [
           "וְ֭",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -6138,7 +6138,7 @@
     "bcv_short": "Ps84:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "קֵ֥ן",
@@ -6149,7 +6149,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -6173,7 +6173,7 @@
     "bcv_short": "Pr1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מִ֭שְׁלֵי",
@@ -6184,7 +6184,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -6208,7 +6208,7 @@
     "bcv_short": "Pr28:17",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אָ֭דָם",
@@ -6220,7 +6220,7 @@
         "contents": [
           "אָ֭",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -6244,7 +6244,7 @@
     "bcv_short": "Pr30:15",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַ֤ב",
@@ -6256,7 +6256,7 @@
         "contents": [
           "הַ֤",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -6280,7 +6280,7 @@
     "bcv_short": "Jb9:34",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "שִׁבְט֑וֹ",
@@ -6292,7 +6292,7 @@
         "contents": [
           "שִׁבְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -6316,7 +6316,7 @@
     "bcv_short": "Jb16:14",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "פֶ֭רֶץ",
@@ -6328,7 +6328,7 @@
         "contents": [
           "פֶ֭רֶ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -6351,7 +6351,7 @@
     "bcv_short": "Jb33:9",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "חַ֥ף",
@@ -6362,7 +6362,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -6386,7 +6386,7 @@
     "bcv_short": "Jb38:13",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "רְשָׁעִ֣ים",
@@ -6398,7 +6398,7 @@
         "contents": [
           "רְשָׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-hung"
             },
@@ -6422,7 +6422,7 @@
     "bcv_short": "Jb38:15",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מֵרְשָׁעִ֣ים",
@@ -6434,7 +6434,7 @@
         "contents": [
           "מֵרְשָׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-hung"
             },
@@ -6458,7 +6458,7 @@
     "bcv_short": "S1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "שִׁ֥יר",
@@ -6469,7 +6469,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -6493,7 +6493,7 @@
     "bcv_short": "R3:13",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "לִ֣ינִי",
@@ -6505,7 +6505,7 @@
         "contents": [
           "לִ֣י",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -6529,7 +6529,7 @@
     "bcv_short": "La1:12",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "ל֣וֹא",
@@ -6540,7 +6540,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -6564,7 +6564,7 @@
     "bcv_short": "La2:9",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "טָבְע֤וּ",
@@ -6575,7 +6575,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -6599,7 +6599,7 @@
     "bcv_short": "La3:36",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "לְעַוֵּ֤ת",
@@ -6611,7 +6611,7 @@
         "contents": [
           "לְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -6635,7 +6635,7 @@
     "bcv_short": "Ec7:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "ט֥וֹב",
@@ -6646,7 +6646,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -6670,7 +6670,7 @@
     "bcv_short": "Ec12:13",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "ס֥וֹף",
@@ -6681,7 +6681,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -6705,7 +6705,7 @@
     "bcv_short": "Es1:6",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "ח֣וּר",
@@ -6716,7 +6716,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -6740,7 +6740,7 @@
     "bcv_short": "Es9:7",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "פַּרְשַׁנְדָּ֛תָא",
@@ -6752,7 +6752,7 @@
         "contents": [
           "פַּרְשַׁנְדָּ֛",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -6776,7 +6776,7 @@
     "bcv_short": "Es9:9",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "פַּרְמַ֙שְׁתָּא֙",
@@ -6788,7 +6788,7 @@
         "contents": [
           "פַּרְמַ֙",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -6812,7 +6812,7 @@
     "bcv_short": "Es9:9",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיְזָֽתָא",
@@ -6823,7 +6823,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -6835,7 +6835,7 @@
           },
           "יְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -6859,7 +6859,7 @@
     "bcv_short": "Es9:29",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַ֠תִּכְתֹּ֠ב",
@@ -6871,7 +6871,7 @@
         "contents": [
           "וַ֠",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -6895,7 +6895,7 @@
     "bcv_short": "Da6:20",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בִּשְׁפַּרְפָּרָ֖א",
@@ -6907,7 +6907,7 @@
         "contents": [
           "בִּשְׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -6919,7 +6919,7 @@
           },
           "רְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -6943,7 +6943,7 @@
     "bcv_short": "1C1:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אָדָ֥ם",
@@ -6954,7 +6954,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -6978,7 +6978,7 @@
     "bcv_short": "G30:42",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וּבְהַעֲטִ֥יף",
@@ -6990,7 +6990,7 @@
         "contents": [
           "וּבְהַעֲטִ֥י",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7013,7 +7013,7 @@
     "bcv_short": "G34:31",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַכְזוֹנָ֕ה",
@@ -7025,7 +7025,7 @@
         "contents": [
           "הַכְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7049,7 +7049,7 @@
     "bcv_short": "G49:12",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "חַכְלִילִ֥י",
@@ -7060,7 +7060,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7084,7 +7084,7 @@
     "bcv_short": "G50:23",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "שִׁלֵּשִׁ֑ים",
@@ -7096,7 +7096,7 @@
         "contents": [
           "שִׁלֵּשִׁ֑י",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7119,7 +7119,7 @@
     "bcv_short": "E2:2",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "כִּי־ט֣וֹב",
@@ -7131,7 +7131,7 @@
         "contents": [
           "כִּי־",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7155,7 +7155,7 @@
     "bcv_short": "E11:8",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "צֵ֤א",
@@ -7166,7 +7166,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7190,7 +7190,7 @@
     "bcv_short": "E28:36",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "צִּ֖יץ",
@@ -7202,7 +7202,7 @@
         "contents": [
           "צִּ֖י",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7225,7 +7225,7 @@
     "bcv_short": "E32:25",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בְּקָמֵיהֶֽם",
@@ -7237,7 +7237,7 @@
         "contents": [
           "בְּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -7261,7 +7261,7 @@
     "bcv_short": "E34:11",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "שְׁמׇ֨ר־לְךָ֔",
@@ -7272,7 +7272,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7296,7 +7296,7 @@
     "bcv_short": "L8:15",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיִּשְׁחָ֗ט",
@@ -7308,7 +7308,7 @@
         "contents": [
           "וַיִּשְׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7332,7 +7332,7 @@
     "bcv_short": "L8:15",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיִּשְׁחָ֗ט",
@@ -7343,7 +7343,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7366,7 +7366,7 @@
     "bcv_short": "L8:23",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיִּשְׁחָ֓ט",
@@ -7378,7 +7378,7 @@
         "contents": [
           "וַיִּשְׁ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7402,7 +7402,7 @@
     "bcv_short": "L8:23",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיִּשְׁחָ֓ט",
@@ -7413,7 +7413,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7436,7 +7436,7 @@
     "bcv_short": "L11:30",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְהַלְּטָאָ֑ה",
@@ -7448,7 +7448,7 @@
         "contents": [
           "וְהַ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7472,7 +7472,7 @@
     "bcv_short": "N1:18",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "לְגֻלְגְּלֹתָֽם,",
@@ -7484,7 +7484,7 @@
         "contents": [
           "לְ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7508,7 +7508,7 @@
     "bcv_short": "N3:16",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "עַל־פִּ֣י",
@@ -7520,7 +7520,7 @@
         "contents": [
           "עַל־",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7544,7 +7544,7 @@
     "bcv_short": "N13:30",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַיַּ֧הַס",
@@ -7556,7 +7556,7 @@
         "contents": [
           "וַיַּ֧הַ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7579,7 +7579,7 @@
     "bcv_short": "N24:5",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מַה־טֹּ֥בוּ",
@@ -7590,7 +7590,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7614,7 +7614,7 @@
     "bcv_short": "N25:11",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "פִּֽינְחָ֨ס",
@@ -7626,7 +7626,7 @@
         "contents": [
           "פִּֽ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -7650,7 +7650,7 @@
     "bcv_short": "D2:33",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וַנַּ֥ךְ",
@@ -7662,7 +7662,7 @@
         "contents": [
           "וַנַּ֥",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7685,7 +7685,7 @@
     "bcv_short": "D3:11",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "עֶ֣רֶשׂ",
@@ -7697,7 +7697,7 @@
         "contents": [
           "עֶ֣רֶ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7720,7 +7720,7 @@
     "bcv_short": "D9:24",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "מַמְרִ֥ים",
@@ -7731,7 +7731,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -7755,7 +7755,7 @@
     "bcv_short": "D18:13",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "תָּמִ֣ים",
@@ -7766,7 +7766,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7790,7 +7790,7 @@
     "bcv_short": "D28:68",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וְהִתְמַכַּרְתֶּ֨ם",
@@ -7802,7 +7802,7 @@
         "contents": [
           "וְהִתְמַ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7826,7 +7826,7 @@
     "bcv_short": "D32:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַצּוּר֙",
@@ -7838,7 +7838,7 @@
         "contents": [
           "הַ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7862,7 +7862,7 @@
     "bcv_short": "D32:5",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וּפְתַלְתֹּֽל",
@@ -7874,7 +7874,7 @@
         "contents": [
           "וּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7898,7 +7898,7 @@
     "bcv_short": "D32:6",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַ",
@@ -7909,7 +7909,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7932,7 +7932,7 @@
     "bcv_short": "D32:6",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַֽלְיהֹוָה֙",
@@ -7943,7 +7943,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -7967,7 +7967,7 @@
     "bcv_short": "D34:12",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "כׇּל־יִשְׂרָאֵֽל",
@@ -7979,7 +7979,7 @@
         "contents": [
           "כׇּל־יִשְׂרָאֵֽ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -8002,7 +8002,7 @@
     "bcv_short": "Js14:11",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "כְּכֹ֥חִי",
@@ -8013,7 +8013,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -8037,7 +8037,7 @@
     "bcv_short": "Ps24:4",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "לַשָּׁ֣וְא",
@@ -8049,7 +8049,7 @@
         "contents": [
           "לַשָּׁ֣",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -8073,7 +8073,7 @@
     "bcv_short": "Ps77:8",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַ֭לְעוֹלָמִים",
@@ -8084,7 +8084,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -8108,7 +8108,7 @@
     "bcv_short": "Pr28:17",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "בְּדַם־נָ֑פֶשׁ",
@@ -8120,7 +8120,7 @@
         "contents": [
           "בְּ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -8144,7 +8144,7 @@
     "bcv_short": "Jb7:5",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וגיש",
@@ -8156,7 +8156,7 @@
         "contents": [
           "ו",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -8180,7 +8180,7 @@
     "bcv_short": "Jb7:5",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "וגיש",
@@ -8192,7 +8192,7 @@
         "contents": [
           "ו",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -8216,7 +8216,7 @@
     "bcv_short": "G5:1",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "סֵ֔פֶר",
@@ -8227,7 +8227,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -8251,7 +8251,7 @@
     "bcv_short": "N25:11",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "פִּֽינְחָ֨ס",
@@ -8263,7 +8263,7 @@
         "contents": [
           "פִּֽ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-small"
             },
@@ -8287,7 +8287,7 @@
     "bcv_short": "D11:21",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הָאָֽרֶץ",
@@ -8299,7 +8299,7 @@
         "contents": [
           "הָאָֽרֶ",
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -8322,7 +8322,7 @@
     "bcv_short": "D22:6",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "קַן",
@@ -8333,7 +8333,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -8357,7 +8357,7 @@
     "bcv_short": "D32:6",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "הַֽלְיהֹוָה֙",
@@ -8368,7 +8368,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
@@ -8392,7 +8392,7 @@
     "bcv_short": "D33:29",
     "html": [
       {
-        "_hel_tag": "span",
+        "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
           "slhw-desc-0": "אַשְׁרֶ֨יךָ",
@@ -8403,7 +8403,7 @@
         },
         "contents": [
           {
-            "_hel_tag": "span",
+            "_htel_tag": "span",
             "attr": {
               "class": "mam-letter-large"
             },
