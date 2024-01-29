@@ -1249,11 +1249,11 @@
   },
   {
     "bcv_short": "Je10:20",
-    "stress_mark": null,
+    "stress_mark": "𝓂",
     "qq_count": "1",
     "stack_str": null,
     "fp": "all",
-    "r": "ד=אׇהֳלִ֔י ס=אָהֳלִ֔י"
+    "r": "ד=אׇֽהֳלִ֔י ס=אָֽהֳלִ֔י"
   },
   {
     "bcv_short": "Je15:8",
@@ -3856,14 +3856,6 @@
     "r": "ד=אׇהֳלִ֣י ס=אָהֳלִ֣י"
   },
   {
-    "bcv_short": "Je10:20",
-    "stress_mark": null,
-    "qq_count": "1",
-    "stack_str": null,
-    "fp": "stress-mark-0-qq-count-1",
-    "r": "ד=אׇהֳלִ֔י ס=אָהֳלִ֔י"
-  },
-  {
     "bcv_short": "Je15:8",
     "stress_mark": null,
     "qq_count": "1",
@@ -5622,6 +5614,14 @@
     "stack_str": null,
     "fp": "stress-mark-1-𝓂",
     "r": "ד=לׇֽחֳלִ֔י ס=לָֽחֳלִ֔י"
+  },
+  {
+    "bcv_short": "Je10:20",
+    "stress_mark": "𝓂",
+    "qq_count": "1",
+    "stack_str": null,
+    "fp": "stress-mark-1-𝓂",
+    "r": "ד=אׇֽהֳלִ֔י ס=אָֽהֳלִ֔י"
   },
   {
     "bcv_short": "Je37:10",
