@@ -305,12 +305,27 @@
     "r": ""
   },
   {
+    "bcv_short": "E34:1",
+    "fp": "na-note",
+    "r": ""
+  },
+  {
     "bcv_short": "E34:7",
     "fp": "na-note",
     "r": ""
   },
   {
     "bcv_short": "L6:2",
+    "fp": "na-note",
+    "r": ""
+  },
+  {
+    "bcv_short": "L7:22",
+    "fp": "na-note",
+    "r": ""
+  },
+  {
+    "bcv_short": "L7:28",
     "fp": "na-note",
     "r": ""
   },
@@ -356,6 +371,11 @@
   },
   {
     "bcv_short": "D23:2",
+    "fp": "na-note",
+    "r": ""
+  },
+  {
+    "bcv_short": "D27:20",
     "fp": "na-note",
     "r": ""
   },
