@@ -78,12 +78,6 @@
     "r": "יָפ֔וֹא"
   },
   {
-    "bcv_short": "Ne12:38",
-    "stack_str": null,
-    "fp": "a-misc",
-    "r": "לְמ֖וֹאל"
-  },
-  {
     "bcv_short": "2C26:15",
     "stack_str": null,
     "fp": "a-misc",
@@ -490,12 +484,6 @@
     "stack_str": null,
     "fp": "c-bo-2",
     "r": "תָב֔וֹא"
-  },
-  {
-    "bcv_short": "D33:16",
-    "stack_str": null,
-    "fp": "c-bo-2",
-    "r": "תָּב֙וֹאתָה֙"
   },
   {
     "bcv_short": "Js1:4",
@@ -1204,12 +1192,6 @@
     "stack_str": null,
     "fp": "c-bo-2",
     "r": "וְנָב֛וֹא"
-  },
-  {
-    "bcv_short": "Je9:16",
-    "stack_str": null,
-    "fp": "c-bo-2",
-    "r": "וְתָבֽוֹאנָה׃"
   },
   {
     "bcv_short": "Je16:5",
@@ -2082,12 +2064,6 @@
     "r": "לָב֛וֹא"
   },
   {
-    "bcv_short": "Es4:4",
-    "stack_str": null,
-    "fp": "c-bo-2",
-    "r": "וַ֠תָּב֠וֹאנָה"
-  },
-  {
     "bcv_short": "Es4:8",
     "stack_str": null,
     "fp": "c-bo-2",
@@ -2314,12 +2290,6 @@
     "stack_str": null,
     "fp": "c-bo-2",
     "r": "וַתָּבוֹא֙"
-  },
-  {
-    "bcv_short": "2C9:21",
-    "stack_str": null,
-    "fp": "c-bo-2",
-    "r": "תָּב֣וֹאנָה"
   },
   {
     "bcv_short": "2C13:13",
@@ -3504,12 +3474,6 @@
     "r": "לִכְל֣וֹא"
   },
   {
-    "bcv_short": "Es1:5",
-    "stack_str": null,
-    "fp": "c-lo",
-    "r": "וּבִמְל֣וֹאת"
-  },
-  {
     "bcv_short": "G31:35",
     "stack_str": null,
     "fp": "c-lo-welo-belo",
@@ -3982,5 +3946,41 @@
     "stack_str": null,
     "fp": "c-tso",
     "r": "לִמְצוֹא֙"
+  },
+  {
+    "bcv_short": "D33:16",
+    "stack_str": null,
+    "fp": "d-not-final",
+    "r": "תָּב֙וֹאתָה֙"
+  },
+  {
+    "bcv_short": "Je9:16",
+    "stack_str": null,
+    "fp": "d-not-final",
+    "r": "וְתָבֽוֹאנָה׃"
+  },
+  {
+    "bcv_short": "Es1:5",
+    "stack_str": null,
+    "fp": "d-not-final",
+    "r": "וּבִמְל֣וֹאת"
+  },
+  {
+    "bcv_short": "Es4:4",
+    "stack_str": null,
+    "fp": "d-not-final",
+    "r": "וַ֠תָּב֠וֹאנָה"
+  },
+  {
+    "bcv_short": "Ne12:38",
+    "stack_str": null,
+    "fp": "d-not-final",
+    "r": "לְמ֖וֹאל"
+  },
+  {
+    "bcv_short": "2C9:21",
+    "stack_str": null,
+    "fp": "d-not-final",
+    "r": "תָּב֣וֹאנָה"
   }
 ]
