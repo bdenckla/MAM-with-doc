@@ -1854,18 +1854,6 @@
     "r": "ל֕וֹא"
   },
   {
-    "bcv_short": "Je2:31",
-    "stack_str": null,
-    "fp": "a-misc",
-    "r": "לֽוֹא־נָב֥וֹא"
-  },
-  {
-    "bcv_short": "Je2:31",
-    "stack_str": null,
-    "fp": "a-misc",
-    "r": "לֽוֹא־נָב֥וֹא"
-  },
-  {
     "bcv_short": "Je3:1",
     "stack_str": null,
     "fp": "a-misc",
@@ -3946,6 +3934,12 @@
     "stack_str": null,
     "fp": "a-misc",
     "r": "וְלָב֨וֹא"
+  },
+  {
+    "bcv_short": "Je2:31",
+    "stack_str": null,
+    "fp": "a-misc/2",
+    "r": "לֽוֹא־נָב֥וֹא"
   },
   {
     "bcv_short": "D33:16",
