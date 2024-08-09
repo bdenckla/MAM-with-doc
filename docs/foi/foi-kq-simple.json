@@ -527,7 +527,7 @@
   {
     "bcv_short": "1S28:8",
     "fp": "k1q1",
-    "r": "(קסומי) [קָסֳמִי־]"
+    "r": "(קסומי) [קׇסֳמִי־]"
   },
   {
     "bcv_short": "2S1:8",
@@ -5645,9 +5645,34 @@
     "r": "הַחֲטִ֥י"
   },
   {
+    "bcv_short": "Ee3:20",
+    "fp": "z-trivial",
+    "r": "צִדְקֹתָו֙"
+  },
+  {
     "bcv_short": "Ee12:14",
     "fp": "z-trivial",
     "r": "עֶזְרֹ֛ה"
+  },
+  {
+    "bcv_short": "Ee18:21",
+    "fp": "z-trivial",
+    "r": "חַטֹּאתָו֙"
+  },
+  {
+    "bcv_short": "Ee18:24",
+    "fp": "z-trivial",
+    "r": "צִדְקֹתָ֤ו"
+  },
+  {
+    "bcv_short": "Ee20:40",
+    "fp": "z-trivial",
+    "r": "כֻּלֹּ֖ה"
+  },
+  {
+    "bcv_short": "Ee27:6",
+    "fp": "z-trivial",
+    "r": "כִּתִּיִּֽם"
   },
   {
     "bcv_short": "Ee33:13",
@@ -5658,6 +5683,11 @@
     "bcv_short": "Ee33:16",
     "fp": "z-trivial",
     "r": "חַטֹּאתָו֙"
+  },
+  {
+    "bcv_short": "Ee36:10",
+    "fp": "z-trivial",
+    "r": "כֻּלֹּ֑ה"
   },
   {
     "bcv_short": "Ee37:16",
@@ -5700,6 +5730,16 @@
     "r": "וְאֵ֣ילַמָּ֔ו"
   },
   {
+    "bcv_short": "Ee40:26",
+    "fp": "z-trivial",
+    "r": "עֹֽלוֹתָ֔ו"
+  },
+  {
+    "bcv_short": "Ee40:31",
+    "fp": "z-trivial",
+    "r": "מַעֲלָֽו"
+  },
+  {
     "bcv_short": "Ee43:11",
     "fp": "z-trivial",
     "r": "צוּרֹתָ֡ו"
@@ -5718,6 +5758,21 @@
     "bcv_short": "Ee43:26",
     "fp": "z-trivial",
     "r": "יָדָֽו"
+  },
+  {
+    "bcv_short": "Ee44:5",
+    "fp": "z-trivial",
+    "r": "תּוֹרֹתָ֑ו"
+  },
+  {
+    "bcv_short": "Ee47:11",
+    "fp": "z-trivial",
+    "r": "בִּצֹּאתָ֧ו"
+  },
+  {
+    "bcv_short": "Ee48:15",
+    "fp": "z-trivial",
+    "r": "בְּתוֹכֹֽה"
   },
   {
     "bcv_short": "A9:6",

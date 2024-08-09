@@ -960,6 +960,14 @@
     "r": "ד=בׇּחֳרִי־אָ֑ף ס=בָּחֳרִי־אָ֑ף"
   },
   {
+    "bcv_short": "1S28:8",
+    "stress_mark": null,
+    "qq_count": "1",
+    "stack_str": null,
+    "fp": "all",
+    "r": "ד=קׇסֳמִי־ ס=קָסֳמִי־"
+  },
+  {
     "bcv_short": "1S28:14",
     "stress_mark": null,
     "qq_count": "1",
@@ -3614,6 +3622,14 @@
     "stack_str": null,
     "fp": "stress-mark-0-qq-count-1",
     "r": "ד=בׇּחֳרִי־אָ֑ף ס=בָּחֳרִי־אָ֑ף"
+  },
+  {
+    "bcv_short": "1S28:8",
+    "stress_mark": null,
+    "qq_count": "1",
+    "stack_str": null,
+    "fp": "stress-mark-0-qq-count-1",
+    "r": "ד=קׇסֳמִי־ ס=קָסֳמִי־"
   },
   {
     "bcv_short": "1S28:14",

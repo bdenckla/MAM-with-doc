@@ -3442,7 +3442,7 @@
   {
     "bcv_short": "Ee4:15",
     "fp": "varika/:,varika",
-    "r": "גֶּֽלְﬞלֵ֣י"
+    "r": "גֶּלְﬞלֵ֣י"
   },
   {
     "bcv_short": "Ee6:7",
@@ -3823,6 +3823,11 @@
     "bcv_short": "Ps17:14",
     "fp": "varika/:,varika",
     "r": "מִ֥מְﬞתִֽים־יָדְךָ֨"
+  },
+  {
+    "bcv_short": "Ps17:14",
+    "fp": "varika/:,varika",
+    "r": "מִֽמְﬞתִ֬ים"
   },
   {
     "bcv_short": "Ps18:7",
@@ -4788,6 +4793,11 @@
     "bcv_short": "La2:20",
     "fp": "varika/:,varika",
     "r": "עֹלְﬞלֵ֣י"
+  },
+  {
+    "bcv_short": "Ec2:13",
+    "fp": "varika/:,varika",
+    "r": "כִּֽיתְﬞר֥וֹן"
   },
   {
     "bcv_short": "Ec6:2",
