@@ -1,5 +1,15 @@
 [
   {
+    "bcv_short": "Ps1:1",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps1:2",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps1:3",
     "fp": "implicit-maqaf",
     "r": ""
@@ -10,7 +20,32 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps2:7",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps5:5",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps6:3",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps14:7",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps15:5",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps24:10",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -45,7 +80,17 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps35:10",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps40:18",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps42:5",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -56,6 +101,16 @@
   },
   {
     "bcv_short": "Ps47:5",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps49:15",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps53:7",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -71,6 +126,11 @@
   },
   {
     "bcv_short": "Ps73:28",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps74:9",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -121,6 +181,11 @@
   },
   {
     "bcv_short": "Ps135:1",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps137:1",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -190,6 +255,21 @@
     "r": ""
   },
   {
+    "bcv_short": "Pr27:22",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Pr30:9",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Pr30:9",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Jb3:4",
     "fp": "implicit-maqaf",
     "r": ""
@@ -200,12 +280,22 @@
     "r": ""
   },
   {
+    "bcv_short": "Jb14:5",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Jb21:33",
     "fp": "implicit-maqaf",
     "r": ""
   },
   {
     "bcv_short": "Jb24:13",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Jb31:7",
     "fp": "implicit-maqaf",
     "r": ""
   },
