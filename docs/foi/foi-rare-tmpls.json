@@ -45,6 +45,21 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps18:1",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps18:20",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps22:9",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps24:10",
     "fp": "implicit-maqaf",
     "r": ""
@@ -75,12 +90,22 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps31:22",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps35:10",
     "fp": "implicit-maqaf",
     "r": ""
   },
   {
     "bcv_short": "Ps35:10",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps36:7",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -96,6 +121,11 @@
   },
   {
     "bcv_short": "Ps45:8",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps46:4",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -120,7 +150,27 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps62:9",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps62:10",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps66:15",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps66:20",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps69:15",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -150,6 +200,16 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps95:7",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps96:4",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps97:10",
     "fp": "implicit-maqaf",
     "r": ""
@@ -160,7 +220,17 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps104:6",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps106:1",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps106:48",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -180,12 +250,22 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps117:2",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps135:1",
     "fp": "implicit-maqaf",
     "r": ""
   },
   {
     "bcv_short": "Ps137:1",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps141:5",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -206,6 +286,11 @@
   },
   {
     "bcv_short": "Ps147:1",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps147:20",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -235,6 +320,11 @@
     "r": ""
   },
   {
+    "bcv_short": "Pr6:3",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Pr6:26",
     "fp": "implicit-maqaf",
     "r": ""
@@ -245,7 +335,17 @@
     "r": ""
   },
   {
+    "bcv_short": "Pr8:34",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Pr19:7",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Pr23:5",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -280,7 +380,17 @@
     "r": ""
   },
   {
+    "bcv_short": "Jb12:15",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Jb14:5",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Jb18:19",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -300,6 +410,11 @@
     "r": ""
   },
   {
+    "bcv_short": "Jb32:5",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Jb33:9",
     "fp": "implicit-maqaf",
     "r": ""
@@ -310,7 +425,17 @@
     "r": ""
   },
   {
+    "bcv_short": "Jb34:37",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Jb37:6",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Jb37:21",
     "fp": "implicit-maqaf",
     "r": ""
   },
