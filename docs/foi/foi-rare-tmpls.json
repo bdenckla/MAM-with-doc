@@ -55,6 +55,16 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps18:20",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps22:9",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps22:9",
     "fp": "implicit-maqaf",
     "r": ""
@@ -95,6 +105,11 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps32:2",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps35:10",
     "fp": "implicit-maqaf",
     "r": ""
@@ -110,12 +125,27 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps39:13",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps40:5",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps40:18",
     "fp": "implicit-maqaf",
     "r": ""
   },
   {
     "bcv_short": "Ps42:5",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps43:1",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -145,6 +175,11 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps54:8",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps60:2",
     "fp": "implicit-maqaf",
     "r": ""
@@ -160,12 +195,37 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps64:7",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps65:9",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps65:10",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps66:15",
     "fp": "implicit-maqaf",
     "r": ""
   },
   {
     "bcv_short": "Ps66:20",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps67:2",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps68:11",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -186,6 +246,11 @@
   },
   {
     "bcv_short": "Ps80:15",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps83:9",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -211,6 +276,11 @@
   },
   {
     "bcv_short": "Ps97:10",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps98:9",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -360,6 +430,16 @@
     "r": ""
   },
   {
+    "bcv_short": "Pr28:22",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Pr29:13",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Pr30:9",
     "fp": "implicit-maqaf",
     "r": ""
@@ -390,6 +470,11 @@
     "r": ""
   },
   {
+    "bcv_short": "Jb14:13",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Jb18:19",
     "fp": "implicit-maqaf",
     "r": ""
@@ -401,6 +486,11 @@
   },
   {
     "bcv_short": "Jb24:13",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Jb24:15",
     "fp": "implicit-maqaf",
     "r": ""
   },
