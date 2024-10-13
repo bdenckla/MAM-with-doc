@@ -2976,10 +2976,22 @@
     "r": "תָּ֭בוֹא"
   },
   {
+    "bcv_short": "Ps49:20",
+    "stack_str": null,
+    "fp": "a-misc",
+    "r": "תָּ֭ב֭וֹא"
+  },
+  {
     "bcv_short": "Ps51:2",
     "stack_str": null,
     "fp": "a-misc",
     "r": "בְּֽבוֹא־אֵ֭לָיו"
+  },
+  {
+    "bcv_short": "Ps51:2",
+    "stack_str": null,
+    "fp": "a-misc",
+    "r": "בְּֽבוֹא־אֵ֭לָ֭יו"
   },
   {
     "bcv_short": "Ps52:2",
@@ -3016,6 +3028,12 @@
     "stack_str": null,
     "fp": "a-misc",
     "r": "עַד־אָ֭בוֹא"
+  },
+  {
+    "bcv_short": "Ps73:17",
+    "stack_str": null,
+    "fp": "a-misc",
+    "r": "עַד־אָ֭ב֭וֹא"
   },
   {
     "bcv_short": "Ps79:11",
@@ -3096,6 +3114,18 @@
     "r": "הֲֽלוֹא־יִ֭תְעוּ"
   },
   {
+    "bcv_short": "Pr14:22",
+    "stack_str": null,
+    "fp": "a-misc",
+    "r": "הֲֽלוֹא־יִ֭תְעוּ"
+  },
+  {
+    "bcv_short": "Pr18:3",
+    "stack_str": null,
+    "fp": "a-misc",
+    "r": "בְּֽבוֹא־רָ֭שָׁע"
+  },
+  {
     "bcv_short": "Pr18:3",
     "stack_str": null,
     "fp": "a-misc",
@@ -3112,6 +3142,12 @@
     "stack_str": null,
     "fp": "a-misc",
     "r": "תָּב֥וֹא"
+  },
+  {
+    "bcv_short": "Pr27:10",
+    "stack_str": null,
+    "fp": "a-misc",
+    "r": "אַל־תָּ֭בוֹא"
   },
   {
     "bcv_short": "Pr27:10",
