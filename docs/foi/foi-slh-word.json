@@ -1384,7 +1384,7 @@
         "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
-          "slhw-desc-0": "אָ֭דָם",
+          "slhw-desc-0": "אָ֭דָ֭ם",
           "slhw-desc-1": ".ד.",
           "slhw-desc-2": "ק",
           "slhw-desc-3": "ד/ק",
@@ -1398,7 +1398,7 @@
               "class": "mam-letter-small"
             },
             "contents": [
-              "דָ"
+              "דָ֭"
             ],
             "lb1": "",
             "lb2": ""
@@ -1411,7 +1411,7 @@
     ],
     "stack_str": null,
     "fp": "non-note/1/ק",
-    "r": "אָ֭דָם/.ד./ק (אות דל״ת קטנה)"
+    "r": "אָ֭דָ֭ם/.ד./ק (אות דל״ת קטנה)"
   },
   {
     "bcv_short": "Pr30:15",
@@ -4419,7 +4419,7 @@
         "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
-          "slhw-desc-0": "אָ֭דָם",
+          "slhw-desc-0": "אָ֭דָ֭ם",
           "slhw-desc-1": ".ד.",
           "slhw-desc-2": "ק",
           "slhw-desc-3": "ד/ק",
@@ -4433,7 +4433,7 @@
               "class": "mam-letter-small"
             },
             "contents": [
-              "דָ"
+              "דָ֭"
             ],
             "lb1": "",
             "lb2": ""
@@ -4446,7 +4446,7 @@
     ],
     "stack_str": null,
     "fp": "slh-letter-count/1",
-    "r": "אָ֭דָם/.ד./ק (אות דל״ת קטנה)"
+    "r": "אָ֭דָ֭ם/.ד./ק (אות דל״ת קטנה)"
   },
   {
     "bcv_short": "Pr28:17",
@@ -6532,7 +6532,7 @@
         "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
-          "slhw-desc-0": "אָ֭דָם",
+          "slhw-desc-0": "אָ֭דָ֭ם",
           "slhw-desc-1": ".ד.",
           "slhw-desc-2": "ק",
           "slhw-desc-3": "ד/ק",
@@ -6546,7 +6546,7 @@
               "class": "mam-letter-small"
             },
             "contents": [
-              "דָ"
+              "דָ֭"
             ],
             "lb1": "",
             "lb2": ""
@@ -6559,7 +6559,7 @@
     ],
     "stack_str": null,
     "fp": "stack/None",
-    "r": "אָ֭דָם/.ד./ק (אות דל״ת קטנה)"
+    "r": "אָ֭דָ֭ם/.ד./ק (אות דל״ת קטנה)"
   },
   {
     "bcv_short": "Pr30:15",
