@@ -2020,6 +2020,11 @@
     "r": "<הצפֿינו"
   },
   {
+    "bcv_short": "E7:27",
+    "fp": "rare/rafeh/doc-part-n",
+    "r": "\"הַֽצְֿפַרְדְּעִ֗ים\"?"
+  },
+  {
     "bcv_short": "N32:42",
     "fp": "rare/rafeh/doc-part-n",
     "r": "לָ֦הֿ?"
@@ -2362,6 +2367,11 @@
   {
     "bcv_short": "G27:38",
     "fp": "varika/:,varika",
+    "r": "הַֽבְﬞרָכָ֨ה"
+  },
+  {
+    "bcv_short": "G27:38",
+    "fp": "varika/:,varika",
     "r": "בָּרְﬞכֵ֥נִי"
   },
   {
@@ -2445,6 +2455,31 @@
     "r": "נֵ֣לְﬞכָה"
   },
   {
+    "bcv_short": "E7:27",
+    "fp": "varika/:,varika",
+    "r": "בַּֽצְﬞפַרְדְּעִֽים"
+  },
+  {
+    "bcv_short": "E7:29",
+    "fp": "varika/:,varika",
+    "r": "הַֽצְﬞפַרְדְּעִֽים"
+  },
+  {
+    "bcv_short": "E8:1",
+    "fp": "varika/:,varika",
+    "r": "אֶת־הַֽצְﬞפַרְדְּעִ֖ים"
+  },
+  {
+    "bcv_short": "E8:3",
+    "fp": "varika/:,varika",
+    "r": "אֶת־הַֽצְﬞפַרְדְּעִ֖ים"
+  },
+  {
+    "bcv_short": "E8:4",
+    "fp": "varika/:,varika",
+    "r": "הַֽצְﬞפַרְדְּעִ֔ים"
+  },
+  {
     "bcv_short": "E8:5",
     "fp": "varika/:,varika",
     "r": "הַֽצְﬞפַרְדְּעִ֔ים"
@@ -2453,6 +2488,16 @@
     "bcv_short": "E8:7",
     "fp": "varika/:,varika",
     "r": "הַֽצְﬞפַרְדְּעִ֗ים"
+  },
+  {
+    "bcv_short": "E8:8",
+    "fp": "varika/:,varika",
+    "r": "הַֽצְﬞפַרְדְּעִ֖ים"
+  },
+  {
+    "bcv_short": "E8:9",
+    "fp": "varika/:,varika",
+    "r": "הַֽצְﬞפַרְדְּעִ֔ים"
   },
   {
     "bcv_short": "E8:11",
