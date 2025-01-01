@@ -1208,6 +1208,14 @@
     "r": "ד=יְתׇאֳרֵ֑הוּ ס=יְתָאֳרֵ֑הוּ"
   },
   {
+    "bcv_short": "I48:21",
+    "stress_mark": "(mos)",
+    "qq_count": "1",
+    "stack_str": null,
+    "fp": "all",
+    "r": "ד=בׇּֽחֳרָבוֹת֙ ס=בָּֽחֳרָבוֹת֙"
+  },
+  {
     "bcv_short": "I54:2",
     "stress_mark": null,
     "qq_count": "1",
@@ -1230,6 +1238,14 @@
     "stack_str": null,
     "fp": "all",
     "r": "ד=בַֽצׇּהֳרַ֙יִם֙ ס=בַֽצָּהֳרַ֙יִם֙"
+  },
+  {
+    "bcv_short": "I60:9",
+    "stress_mark": null,
+    "qq_count": "1",
+    "stack_str": null,
+    "fp": "all",
+    "r": "ד=וׇאֳנִיּ֤וֹת ס=וָאֳנִיּ֤וֹת"
   },
   {
     "bcv_short": "I66:12",
@@ -3848,6 +3864,14 @@
     "r": "ד=בַֽצׇּהֳרַ֙יִם֙ ס=בַֽצָּהֳרַ֙יִם֙"
   },
   {
+    "bcv_short": "I60:9",
+    "stress_mark": null,
+    "qq_count": "1",
+    "stack_str": null,
+    "fp": "stress-mark-0-qq-count-1",
+    "r": "ד=וׇאֳנִיּ֤וֹת ס=וָאֳנִיּ֤וֹת"
+  },
+  {
     "bcv_short": "I66:12",
     "stress_mark": null,
     "qq_count": "1",
@@ -5598,6 +5622,14 @@
     "stack_str": null,
     "fp": "stress-mark-1-(mos)",
     "r": "ד=לׇֽחֳלִ֔י ס=לָֽחֳלִ֔י"
+  },
+  {
+    "bcv_short": "I48:21",
+    "stress_mark": "(mos)",
+    "qq_count": "1",
+    "stack_str": null,
+    "fp": "stress-mark-1-(mos)",
+    "r": "ד=בׇּֽחֳרָבוֹת֙ ס=בָּֽחֳרָבוֹת֙"
   },
   {
     "bcv_short": "Je10:20",
