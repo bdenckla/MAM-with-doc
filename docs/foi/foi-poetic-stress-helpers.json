@@ -40,11 +40,6 @@
     "r": "('כו\"ק',)"
   },
   {
-    "bcv_short": "Ps51:4",
-    "fp": "dexi-with-tmpl-above",
-    "r": "('כו\"ק',)"
-  },
-  {
     "bcv_short": "Ps55:18",
     "fp": "dexi-with-tmpl-above",
     "r": "('מ:קמץ',)"
@@ -125,11 +120,6 @@
     "r": "('נוסח',)"
   },
   {
-    "bcv_short": "Ps104:20",
-    "fp": "dexi-with-tmpl-above",
-    "r": "('נוסח',)"
-  },
-  {
     "bcv_short": "Ps105:3",
     "fp": "dexi-with-tmpl-above",
     "r": "('נוסח',)"
@@ -151,11 +141,6 @@
   },
   {
     "bcv_short": "Ps135:1",
-    "fp": "dexi-with-tmpl-above",
-    "r": "('נוסח',)"
-  },
-  {
-    "bcv_short": "Ps135:3",
     "fp": "dexi-with-tmpl-above",
     "r": "('נוסח',)"
   },
@@ -205,11 +190,6 @@
     "r": "('קו\"כ-אם',)"
   },
   {
-    "bcv_short": "Pr7:13",
-    "fp": "dexi-with-tmpl-above",
-    "r": "('נוסח',)"
-  },
-  {
     "bcv_short": "Pr13:25",
     "fp": "dexi-with-tmpl-above",
     "r": "('נוסח',)"
@@ -225,29 +205,9 @@
     "r": "('קו\"כ-אם',)"
   },
   {
-    "bcv_short": "Pr28:3",
-    "fp": "dexi-with-tmpl-above",
-    "r": "('נוסח',)"
-  },
-  {
     "bcv_short": "Pr28:17",
     "fp": "dexi-with-tmpl-above",
     "r": "('נוסח',)"
-  },
-  {
-    "bcv_short": "Jb5:27",
-    "fp": "dexi-with-tmpl-above",
-    "r": "('נוסח',)"
-  },
-  {
-    "bcv_short": "Jb9:21",
-    "fp": "dexi-with-tmpl-above",
-    "r": "('מ:קמץ',)"
-  },
-  {
-    "bcv_short": "Jb9:21",
-    "fp": "dexi-with-tmpl-above",
-    "r": "('מ:קמץ',)"
   },
   {
     "bcv_short": "Jb11:13",
@@ -263,11 +223,6 @@
     "bcv_short": "Jb11:17",
     "fp": "dexi-with-tmpl-above",
     "r": "('מ:קמץ',)"
-  },
-  {
-    "bcv_short": "Jb16:14",
-    "fp": "dexi-with-tmpl-above",
-    "r": "('נוסח',)"
   },
   {
     "bcv_short": "Jb16:16",
@@ -371,11 +326,6 @@
   },
   {
     "bcv_short": "Pr28:17",
-    "fp": "dexi-with-tmpl-below",
-    "r": "מ:אות-מיוחדת-במילה"
-  },
-  {
-    "bcv_short": "Jb16:14",
     "fp": "dexi-with-tmpl-below",
     "r": "מ:אות-מיוחדת-במילה"
   },
