@@ -1720,6 +1720,14 @@
     "r": "ד=לַֽמׇּחֳרָ֑ת ס=לַֽמָּחֳרָ֑ת"
   },
   {
+    "bcv_short": "Mi2:10",
+    "stress_mark": null,
+    "qq_count": "1",
+    "stack_str": null,
+    "fp": "all",
+    "r": "ד=טׇמְאָ֛ה ס=טָמְאָ֛ה"
+  },
+  {
     "bcv_short": "Mi2:12",
     "stress_mark": "(mos)",
     "qq_count": "1",
@@ -4262,6 +4270,14 @@
     "stack_str": null,
     "fp": "stress-mark-0-qq-count-1",
     "r": "ד=לַֽמׇּחֳרָ֑ת ס=לַֽמָּחֳרָ֑ת"
+  },
+  {
+    "bcv_short": "Mi2:10",
+    "stress_mark": null,
+    "qq_count": "1",
+    "stack_str": null,
+    "fp": "stress-mark-0-qq-count-1",
+    "r": "ד=טׇמְאָ֛ה ס=טָמְאָ֛ה"
   },
   {
     "bcv_short": "Hb3:7",
