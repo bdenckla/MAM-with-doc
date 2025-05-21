@@ -2364,7 +2364,7 @@
     "accent": "(ger_m)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(ger_m)",
+    "fp": "accent-1-(ger_m)-qq-count-1",
     "r": "ד=שׇׁ֝רָשֶׁ֗יהָ ס=שָׁ֝רָשֶׁ֗יהָ"
   },
   {
@@ -2372,7 +2372,7 @@
     "accent": "(mer)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mer)",
+    "fp": "accent-1-(mer)-qq-count-1",
     "r": "ד=כׇּ֥ל ס=כָּ֥ל"
   },
   {
@@ -2380,7 +2380,7 @@
     "accent": "(mer)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mer)",
+    "fp": "accent-1-(mer)-qq-count-1",
     "r": "ד=שׇׁ֥מְרָ֣ה ס=שָׁ֥מְרָ֣ה"
   },
   {
@@ -2388,7 +2388,7 @@
     "accent": "(mer)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mer)",
+    "fp": "accent-1-(mer)-qq-count-1",
     "r": "ד=כׇּ֥ל ס=כָּ֥ל"
   },
   {
@@ -2396,7 +2396,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=בְּאׇֽהֳלֵי־שֵׁ֑ם ס=בְּאָֽהֳלֵי־שֵׁ֑ם"
   },
   {
@@ -2404,7 +2404,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=אׇֽהֳלֹה֙ ס=אָֽהֳלֹה֙"
   },
   {
@@ -2412,7 +2412,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=אׇֽהֳלֹ֔ה ס=אָֽהֳלֹ֔ה"
   },
   {
@@ -2420,23 +2420,15 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=יׇֽחֳרָ֑ם ס=יָֽחֳרָ֑ם"
-  },
-  {
-    "bcv_short": "E23:24",
-    "accent": "(mos)",
-    "qq_count": "2",
-    "stack_str": null,
-    "fp": "accent-1-(mos)",
-    "r": "ד=תׇֽעׇבְדֵ֔ם ס=תָֽעׇבְדֵ֔ם"
   },
   {
     "bcv_short": "E29:37",
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֔ים ס=קָֽדָשִׁ֔ים"
   },
   {
@@ -2444,7 +2436,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֑ים ס=קָֽדָשִׁ֑ים"
   },
   {
@@ -2452,7 +2444,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֖ים ס=קָֽדָשִׁ֖ים"
   },
   {
@@ -2460,7 +2452,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=וְאׇֽהֳלִיאָ֥ב ס=וְאָֽהֳלִיאָ֥ב"
   },
   {
@@ -2468,7 +2460,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=וְאֶל־אׇֽהֳלִיאָב֒ ס=וְאֶל־אָֽהֳלִיאָב֒"
   },
   {
@@ -2476,7 +2468,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִֽׁים ס=קָֽדָשִֽׁים"
   },
   {
@@ -2484,7 +2476,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֖ים ס=קָֽדָשִׁ֖ים"
   },
   {
@@ -2492,7 +2484,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֖ים ס=קָֽדָשִׁ֖ים"
   },
   {
@@ -2500,7 +2492,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁים֙ ס=קָֽדָשִׁים֙"
   },
   {
@@ -2508,7 +2500,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֖ים ס=קָֽדָשִׁ֖ים"
   },
   {
@@ -2516,7 +2508,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֖ים ס=קָֽדָשִׁ֖ים"
   },
   {
@@ -2524,7 +2516,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֖ים ס=קָֽדָשִׁ֖ים"
   },
   {
@@ -2532,7 +2524,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֖ים ס=קָֽדָשִׁ֖ים"
   },
   {
@@ -2540,7 +2532,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֖ים ס=קָֽדָשִׁ֖ים"
   },
   {
@@ -2548,7 +2540,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֖ים ס=קָֽדָשִׁ֖ים"
   },
   {
@@ -2556,7 +2548,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֖ים ס=קָֽדָשִׁ֖ים"
   },
   {
@@ -2564,7 +2556,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=יׇֽעֳמַד־חַ֛י ס=יָֽעֳמַד־חַ֛י"
   },
   {
@@ -2572,7 +2564,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֨ים ס=קָֽדָשִׁ֨ים"
   },
   {
@@ -2580,7 +2572,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=אׇֽהֳלֵיהֶ֔ם ס=אָֽהֳלֵיהֶ֔ם"
   },
   {
@@ -2588,7 +2580,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֥ים ס=קָֽדָשִׁ֥ים"
   },
   {
@@ -2596,23 +2588,15 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשֶׁ֛יךָ ס=קָֽדָשֶׁ֛יךָ"
-  },
-  {
-    "bcv_short": "D13:3",
-    "accent": "(mos)",
-    "qq_count": "2",
-    "stack_str": null,
-    "fp": "accent-1-(mos)",
-    "r": "ד=וְנׇֽעׇבְדֵֽם ס=וְנָֽעׇבְדֵֽם"
   },
   {
     "bcv_short": "D32:4",
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=פׇּֽעֳל֔וֹ ס=פָּֽעֳל֔וֹ"
   },
   {
@@ -2620,7 +2604,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=אֶל־אׇֽהֳלֵיכֶם֙ ס=אֶל־אָֽהֳלֵיכֶם֙"
   },
   {
@@ -2628,7 +2612,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=אׇֽהֳל֔וֹ ס=אָֽהֳל֔וֹ"
   },
   {
@@ -2636,23 +2620,15 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=בׇּֽאֳנִי֙ ס=בָּֽאֳנִי֙"
-  },
-  {
-    "bcv_short": "2K15:10",
-    "accent": "(mos)",
-    "qq_count": "2",
-    "stack_str": null,
-    "fp": "accent-1-(mos)",
-    "r": "ד=קׇֽבׇל־ ס=קָֽבׇל־"
   },
   {
     "bcv_short": "I1:5",
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=לׇֽחֳלִ֔י ס=לָֽחֳלִ֔י"
   },
   {
@@ -2660,7 +2636,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=בׇּֽחֳרָבוֹת֙ ס=בָּֽחֳרָבוֹת֙"
   },
   {
@@ -2668,7 +2644,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=אׇֽהֳלִ֔י ס=אָֽהֳלִ֔י"
   },
   {
@@ -2676,7 +2652,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=בְּאׇֽהֳלוֹ֙ ס=בְּאָֽהֳלוֹ֙"
   },
   {
@@ -2684,23 +2660,15 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=לְרׇֽחֳקָה֙ ס=לְרָֽחֳקָה֙"
-  },
-  {
-    "bcv_short": "Ee26:9",
-    "accent": "(mos)",
-    "qq_count": "2",
-    "stack_str": null,
-    "fp": "accent-1-(mos)",
-    "r": "ד=קׇֽבׇלּ֔וֹ ס=קָֽבׇלּ֔וֹ"
   },
   {
     "bcv_short": "Ee29:12",
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=מׇֽחֳרָבוֹת֙ ס=מָֽחֳרָבוֹת֙"
   },
   {
@@ -2708,23 +2676,15 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=חׇֽרָבָ֔ה ס=חָֽרָבָ֔ה"
-  },
-  {
-    "bcv_short": "Ho13:14",
-    "accent": "(mos)",
-    "qq_count": "2",
-    "stack_str": null,
-    "fp": "accent-1-(mos)",
-    "r": "ד=קׇֽטׇבְךָ֙ ס=קָֽטׇבְךָ֙"
   },
   {
     "bcv_short": "O1:11",
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=עֲמׇֽדְךָ֣ ס=עֲמָֽדְךָ֣"
   },
   {
@@ -2732,23 +2692,15 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=הַדׇּֽבְר֔וֹ ס=הַדָּֽבְר֔וֹ"
-  },
-  {
-    "bcv_short": "Hb3:2",
-    "accent": "(mos)",
-    "qq_count": "2",
-    "stack_str": null,
-    "fp": "accent-1-(mos)",
-    "r": "ד=פׇּֽעׇלְךָ֙ ס=פָּֽעׇלְךָ֙"
   },
   {
     "bcv_short": "Ps16:1",
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=שׇֽׁמְרֵ֥נִי ס=שָֽׁמְרֵ֥נִי"
   },
   {
@@ -2756,7 +2708,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=מִיׇּֽרְדִי־ ס=מִיָּֽרְדִי־"
   },
   {
@@ -2764,7 +2716,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=רׇֽדְפִי־ ס=רָֽדְפִי־"
   },
   {
@@ -2772,7 +2724,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=תׇּֽם־אָ֝֗נִי ס=תָּֽם־אָ֝֗נִי"
   },
   {
@@ -2780,7 +2732,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=תׇּֽם־אָ֭נִי ס=תָּֽם־אָ֭נִי"
   },
   {
@@ -2788,7 +2740,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=בׇּֽחֳרִי־אַ֗ף ס=בָּֽחֳרִי־אַ֗ף"
   },
   {
@@ -2796,7 +2748,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=תׇּֽאֳרָ֔ם ס=תָּֽאֳרָ֔ם"
   },
   {
@@ -2804,7 +2756,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָמַ֔י ס=קָֽדָמַ֔י"
   },
   {
@@ -2812,7 +2764,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָמַ֖י ס=קָֽדָמַ֖י"
   },
   {
@@ -2820,7 +2772,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָמַ֔י ס=קָֽדָמַ֔י"
   },
   {
@@ -2828,7 +2780,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָמַ֨י ס=קָֽדָמַ֨י"
   },
   {
@@ -2836,7 +2788,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָמ֥וֹהִי ס=קָֽדָמ֥וֹהִי"
   },
   {
@@ -2844,7 +2796,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָמַ֗י ס=קָֽדָמַ֗י"
   },
   {
@@ -2852,7 +2804,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָמָ֗ךְ ס=קָֽדָמָ֗ךְ"
   },
   {
@@ -2860,7 +2812,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָמ֑וֹהִי ס=קָֽדָמ֑וֹהִי"
   },
   {
@@ -2868,7 +2820,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָמ֙וֹהִי֙ ס=קָֽדָמ֙וֹהִי֙"
   },
   {
@@ -2876,7 +2828,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָמָךְ֙ ס=קָֽדָמָךְ֙"
   },
   {
@@ -2884,7 +2836,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=אׇֽחֳרִי֙ ס=אָֽחֳרִי֙"
   },
   {
@@ -2892,7 +2844,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָמַ֔הּ ס=קָֽדָמַ֔הּ"
   },
   {
@@ -2900,7 +2852,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִֽׁים ס=קָֽדָשִֽׁים"
   },
   {
@@ -2908,7 +2860,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=הׇֽחָרְבַֽת ס=הָֽחָרְבַֽת"
   },
   {
@@ -2916,7 +2868,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=הׇֽחֳלֵֽיתִי ס=הָֽחֳלֵֽיתִי"
   },
   {
@@ -2924,7 +2876,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=קׇֽדָשִׁ֔ים ס=קָֽדָשִׁ֔ים"
   },
   {
@@ -2932,7 +2884,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=כׇּֽנַנְיָ֣הוּ ס=כָּֽנַנְיָ֣הוּ"
   },
   {
@@ -2940,7 +2892,7 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=כׇּֽנַנְיָ֙הוּ֙ ס=כָּֽנַנְיָ֙הוּ֙"
   },
   {
@@ -2948,15 +2900,63 @@
     "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mos)",
+    "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=וְ֠כׇֽנַנְיָ֠הוּ ס=וְ֠כָֽנַנְיָ֠הוּ"
+  },
+  {
+    "bcv_short": "E23:24",
+    "accent": "(mos)",
+    "qq_count": "2",
+    "stack_str": null,
+    "fp": "accent-1-(mos)-qq-count-2",
+    "r": "ד=תׇֽעׇבְדֵ֔ם ס=תָֽעׇבְדֵ֔ם"
+  },
+  {
+    "bcv_short": "D13:3",
+    "accent": "(mos)",
+    "qq_count": "2",
+    "stack_str": null,
+    "fp": "accent-1-(mos)-qq-count-2",
+    "r": "ד=וְנׇֽעׇבְדֵֽם ס=וְנָֽעׇבְדֵֽם"
+  },
+  {
+    "bcv_short": "2K15:10",
+    "accent": "(mos)",
+    "qq_count": "2",
+    "stack_str": null,
+    "fp": "accent-1-(mos)-qq-count-2",
+    "r": "ד=קׇֽבׇל־ ס=קָֽבׇל־"
+  },
+  {
+    "bcv_short": "Ee26:9",
+    "accent": "(mos)",
+    "qq_count": "2",
+    "stack_str": null,
+    "fp": "accent-1-(mos)-qq-count-2",
+    "r": "ד=קׇֽבׇלּ֔וֹ ס=קָֽבׇלּ֔וֹ"
+  },
+  {
+    "bcv_short": "Ho13:14",
+    "accent": "(mos)",
+    "qq_count": "2",
+    "stack_str": null,
+    "fp": "accent-1-(mos)-qq-count-2",
+    "r": "ד=קׇֽטׇבְךָ֙ ס=קָֽטׇבְךָ֙"
+  },
+  {
+    "bcv_short": "Hb3:2",
+    "accent": "(mos)",
+    "qq_count": "2",
+    "stack_str": null,
+    "fp": "accent-1-(mos)-qq-count-2",
+    "r": "ד=פׇּֽעׇלְךָ֙ ס=פָּֽעׇלְךָ֙"
   },
   {
     "bcv_short": "Js3:14",
     "accent": "(mun)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mun)",
+    "fp": "accent-1-(mun)-qq-count-1",
     "r": "ד=מֵאׇ֣הֳלֵיהֶ֔ם ס=מֵאָ֣הֳלֵיהֶ֔ם"
   },
   {
@@ -2964,7 +2964,7 @@
     "accent": "(mun)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mun)",
+    "fp": "accent-1-(mun)-qq-count-1",
     "r": "ד=וְאֶל־אׇ֣הֳלִיבָ֔ה ס=וְאֶל־אָ֣הֳלִיבָ֔ה"
   },
   {
@@ -2972,7 +2972,7 @@
     "accent": "(mun)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mun)",
+    "fp": "accent-1-(mun)-qq-count-1",
     "r": "ד=קׇ֣דָשַׁ֔י ס=קָ֣דָשַׁ֔י"
   },
   {
@@ -2980,7 +2980,7 @@
     "accent": "(mun)",
     "qq_count": "1",
     "stack_str": null,
-    "fp": "accent-1-(mun)",
+    "fp": "accent-1-(mun)-qq-count-1",
     "r": "ד=בְּאׇ֣הֳלֵיהֶ֔ם ס=בְּאָ֣הֳלֵיהֶ֔ם"
   },
   {
