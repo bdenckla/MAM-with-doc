@@ -1,6 +1,10 @@
+html { display: flex; justify-content: center; }
 body {
+    max-width: 40em;
     font-size: 14pt;
 }
+p { text-align: justify; }
+li { text-align: justify; }
 span.romanized { font-style: italic }
 span.small-caps {
     font-variant: small-caps;
