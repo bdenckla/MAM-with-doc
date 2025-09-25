@@ -1324,14 +1324,14 @@
         "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
-          "slhw-desc-0": "פֶ֭רֶץ",
-          "slhw-desc-1": "..ץ",
+          "slhw-desc-0": "עַל־פְּנֵי־פָ֑רֶץ",
+          "slhw-desc-1": "..־...־..ץ",
           "slhw-desc-2": "ק",
           "slhw-desc-3": "ץ/ק",
           "lang": "hbo"
         },
         "contents": [
-          "פֶ֭רֶ",
+          "עַל־פְּנֵי־פָ֑רֶ",
           {
             "_htel_tag": "span",
             "attr": {
@@ -1346,7 +1346,7 @@
     ],
     "stack_str": null,
     "fp": "non-note/1/ק",
-    "r": "פֶ֭רֶץ/..ץ/ק (אות צד״י סופית קטנה)"
+    "r": "עַל־פְּנֵי־פָ֑רֶץ/..־...־..ץ/ק (אות צד״י סופית קטנה)"
   },
   {
     "bcv_short": "Jb33:9",
@@ -4111,14 +4111,14 @@
         "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
-          "slhw-desc-0": "פֶ֭רֶץ",
-          "slhw-desc-1": "..ץ",
+          "slhw-desc-0": "עַל־פְּנֵי־פָ֑רֶץ",
+          "slhw-desc-1": "..־...־..ץ",
           "slhw-desc-2": "ק",
           "slhw-desc-3": "ץ/ק",
           "lang": "hbo"
         },
         "contents": [
-          "פֶ֭רֶ",
+          "עַל־פְּנֵי־פָ֑רֶ",
           {
             "_htel_tag": "span",
             "attr": {
@@ -4133,7 +4133,7 @@
     ],
     "stack_str": null,
     "fp": "slh-letter-count/1",
-    "r": "פֶ֭רֶץ/..ץ/ק (אות צד״י סופית קטנה)"
+    "r": "עַל־פְּנֵי־פָ֑רֶץ/..־...־..ץ/ק (אות צד״י סופית קטנה)"
   },
   {
     "bcv_short": "Jb33:9",
@@ -5888,14 +5888,14 @@
         "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
-          "slhw-desc-0": "פֶ֭רֶץ",
-          "slhw-desc-1": "..ץ",
+          "slhw-desc-0": "עַל־פְּנֵי־פָ֑רֶץ",
+          "slhw-desc-1": "..־...־..ץ",
           "slhw-desc-2": "ק",
           "slhw-desc-3": "ץ/ק",
           "lang": "hbo"
         },
         "contents": [
-          "פֶ֭רֶ",
+          "עַל־פְּנֵי־פָ֑רֶ",
           {
             "_htel_tag": "span",
             "attr": {
@@ -5910,7 +5910,7 @@
     ],
     "stack_str": null,
     "fp": "stack/None",
-    "r": "פֶ֭רֶץ/..ץ/ק (אות צד״י סופית קטנה)"
+    "r": "עַל־פְּנֵי־פָ֑רֶץ/..־...־..ץ/ק (אות צד״י סופית קטנה)"
   },
   {
     "bcv_short": "Jb33:9",
