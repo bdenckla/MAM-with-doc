@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>
+Review of Chabad’s CTR</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Review of Chabad’s CTR</h1>
+<p>The Chabad website has an edition of the Hebrew Bible called The Complete Tanach with Rashi
+(<abbr class="small-caps">CTR</abbr>). (This edition also goes by other similar names such as The
+Complete Jewish Bible with Rashi Commentary.) I suspect that Chabad’s
+<abbr class="small-caps">CTR</abbr> is derived from a CD-ROM version of
+<abbr class="small-caps">CTR</abbr> that was a collaboration between Judaica Press and the software
+company Davka. I suspect that the CD-ROM was itself derived from the digital sources used to create
+the multi-volume Hebrew Bible of Judaica Press.</p>
+<p>Chabad’s <abbr class="small-caps">CTR</abbr> is certainly the weirdest Hebrew Bible on the web,
+and possibly the worst. Whether it is the worst is of course somewhat a matter of taste, and is also
+somewhat a question of what purpose <abbr class="small-caps">CTR</abbr> would be put to.</p>
+<p>For example, Chabad’s <abbr class="small-caps">CTR</abbr> (henceforth just
+<abbr class="small-caps">CTR</abbr>), though full of what most people would consider errors, might
+still be correct in some cases where other editions are wrong. In other words, its very weirdness,
+though usually a negative, might in some cases be a positive.</p>
+<p>I will not attempt to give a comprehensive review of <abbr class="small-caps">CTR</abbr>.
+Instead, I will review of its Psalm 32. Assuming its Psalm 32 is representative of the rest of
+<abbr class="small-caps">CTR</abbr>, my review should give a good idea of the quality of
+<abbr class="small-caps">CTR</abbr> as a whole. At a minimum, my review of Psalm 32 is likely to
+give a good idea of the quality of <abbr class="small-caps">CTR</abbr>’s poetic books, since some of
+the issues may be specific to the accentuation of the poetic books.</p>
+<p>First, I will discuss the ways in which <abbr class="small-caps">CTR</abbr>’s Psalm 32 differs
+systematically from other editions. Then I will discuss the particular (i.e. non-systematic)  the
+ways in which <abbr class="small-caps">CTR</abbr>’s Psalm 32 differs systematically from other
+editions.</p>
+<p>CTR’s Psalm 32 is restricted to the code points in Unicode 2.0. There are three code points that
+were introduced later that are used in some editions of Psalm 32. In two of the three cases, the
+fact that <abbr class="small-caps">CTR</abbr> does not use the newer code point causes no problems.
+Indeed many editions, even quite recent ones, are like <abbr class="small-caps">CTR</abbr> in that
+they do not make the following distinctions:</p>
+<ul>
+<li>Qamats vs. Qamats Qatan</li>
+<li>Yerah Ben Yomo vs. Atnaḥ Hafukh</li>
+</ul>
+<p>(Both distinctions were introduced in Unicode 4.1, although Atnaḥ Hafukh was introduced in a way
+that makes its adoption difficult, even to this day.)</p>
+<p>The third post-2.0 code point that <abbr class="small-caps">CTR</abbr> might have used is
+<abbr class="small-caps">HOLAM HASER FOR VAV</abbr>, and in this case, the fact that
+<abbr class="small-caps">CTR</abbr> does not use it causes a problem. It causes a problem because
+<abbr class="small-caps">CTR</abbr> does not merely decline to make the distinction that this code
+point enables. Rather, <abbr class="small-caps">CTR</abbr> uses a nonstandard workaround to try to
+make this distinction. This workaround may work (accidentally or intentionally) in some fonts, but
+not in all fonts. The workaround is to use <abbr class="small-caps">ZWJ</abbr> followed by
+<abbr class="small-caps">HOLAM</abbr> instead of <abbr class="small-caps">HOLAM HASER FOR
+VAV</abbr>.</p>
+<p>CTR even declines to avail itself of distinctions that were available in Unicode 2.0 For example,
+<abbr class="small-caps">CTR</abbr> does not distinguish <span class="romanized">tsinnor</span> from
+<span class="romanized">tsinnorit</span>, using only the <abbr class="small-caps">ZARQA</abbr> code
+point for both. To be fair, the annotations and names of the <abbr class="small-caps">ZARQA</abbr>
+and <abbr class="small-caps">ZINOR</abbr> code points were, in my opinion, botched, and that could
+explain why <abbr class="small-caps">CTR</abbr> uses only <abbr class="small-caps">ZARQA</abbr>.
+According to the annotation for <abbr class="small-caps">ZARQA</abbr>, it should be used for both
+<span class="romanized">tsinnor</span> and <span class="romanized">tsinnorit</span> if an
+above-center (rather than above-left) placement of <span class="romanized">tsinnor</span> is
+desired. In my opinion this annotation encourages the use of Unicode to make a typographic choice
+that should be made by choice of (or control of) the font.</p>
+</body>
+</html>
