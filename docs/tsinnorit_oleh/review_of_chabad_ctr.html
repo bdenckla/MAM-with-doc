@@ -68,16 +68,36 @@ that should be left up to fonts, not “baked in” to the encoding. (See my
 to the Unicode <abbr class="small-caps">SEWG</abbr>.)</p>
 <p>In several cases, <abbr class="small-caps">CTR</abbr> declines to avail itself of distinctions
 that were available in Unicode 2.0, but, curiously, makes these distinctions in nonstandard ways. On
-a letter with a below-vowel, <abbr class="small-caps">CTR</abbr>:</p>
+a letter with a vowel mark (including <abbr class="small-caps">HOLAM</abbr>),
+<abbr class="small-caps">CTR</abbr> distinguishes prepositives from their impositive “lookalikes” by
+their encoded position relative to the vowel:</p>
 <ul>
-<li>represents <span class="romanized">deḥi</span> by placing
-<abbr class="small-caps">TIPEHA</abbr> before the vowel</li>
-<li>represents <span class="romanized">geresh muqdam</span> by placing
-<abbr class="small-caps">GERESH</abbr> before the vowel</li>
-<li>represents <span class="romanized">mahapakh</span> by placing
-<abbr class="small-caps">YETIV</abbr> <em>after</em> the vowel</li>
+<li><abbr class="small-caps">TIPEHA</abbr> codes both <span class="romanized">deḥi</span> and
+<span class="romanized">tarḥa</span>:<ul>
+<li><span class="romanized">deḥi</span> is <abbr class="small-caps">TIPEHA</abbr> before a
+vowel</li>
+<li><span class="romanized">tarḥa</span> is <abbr class="small-caps">TIPEHA</abbr> after a
+vowel</li>
 </ul>
-<p>One might naturally wonder how, on a letter <em>without</em> a below-vowel,
+</li>
+<li><abbr class="small-caps">GERESH</abbr> codes both <span class="romanized">geresh muqdam</span>
+and <span class="romanized">geresh</span>:<ul>
+<li><span class="romanized">geresh muqdam</span> is <abbr class="small-caps">GERESH</abbr> before a
+vowel</li>
+<li><span class="romanized">geresh</span> is <abbr class="small-caps">GERESH</abbr> after a
+vowel</li>
+</ul>
+</li>
+<li><abbr class="small-caps">YETIV</abbr> codes both <span class="romanized">yetiv</span> and
+<span class="romanized">mahapakh</span>:<ul>
+<li><span class="romanized">yetiv</span> is <abbr class="small-caps">YETIV</abbr> before a
+vowel</li>
+<li><span class="romanized">mahapakh</span> is <abbr class="small-caps">YETIV</abbr> after a
+vowel</li>
+</ul>
+</li>
+</ul>
+<p>One might naturally wonder how, on a letter <em>without</em> a vowel mark,
 <abbr class="small-caps">CTR</abbr> represents the six accents of these three “lookalike” pairs.</p>
 </body>
 </html>
