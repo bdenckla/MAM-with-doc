@@ -56,17 +56,18 @@ to the Unicode <abbr class="small-caps">SEWG</abbr>.</p>
 point enables. Rather, <abbr class="small-caps">CTR</abbr> uses a nonstandard workaround to try to
 make this distinction. This workaround may work (accidentally or intentionally) in some fonts, but
 not in all fonts.</p>
-<p>The workaround is to use <abbr class="small-caps">ZWJ</abbr> followed by
-<abbr class="small-caps">HOLAM</abbr> instead of <abbr class="small-caps">HOLAM HASER FOR
-VAV</abbr>. For example,  to encode the <span class="romanized">ḥolam ḥaser</span> on the letter
-<span class="romanized">vav</span> in <bdi lang="hbo">עוֺן</bdi> in Psalm 32:5 (fully:
-<bdi lang="hbo">עֲוֺ֖ן</bdi>&thinsp;), instead of <abbr class="small-caps">HOLAM HASER FOR
-VAV</abbr>, <abbr class="small-caps">CTR</abbr> uses ‹<abbr class="small-caps">ZWJ</abbr>,
-<abbr class="small-caps">HOLAM</abbr>›.In some fonts, this may accidentally have something like the
-desired appearance, since the <abbr class="small-caps">ZWJ</abbr> may “confuse” the font into
-putting the <abbr class="small-caps">HOLAM</abbr> fully after the
-<span class="romanized">vav</span>. But in other fonts, the <abbr class="small-caps">HOLAM</abbr>
-will still appear directly over the <span class="romanized">vav</span>, as it would if there were no
+<p>The workaround is to use the sequence ‹<abbr class="small-caps">ZWJ</abbr>,
+<abbr class="small-caps">HOLAM</abbr>› instead of the single code point
+<abbr class="small-caps">HOLAM HASER FOR VAV</abbr>. For example,  to encode the
+<span class="romanized">ḥolam ḥaser</span> on the letter <span class="romanized">vav</span> in
+<bdi lang="hbo">עוֺן</bdi> in Psalm 32:5 (fully: <bdi lang="hbo">עֲוֺ֖ן</bdi>&thinsp;), instead of
+<abbr class="small-caps">HOLAM HASER FOR VAV</abbr>, <abbr class="small-caps">CTR</abbr> uses
+‹<abbr class="small-caps">ZWJ</abbr>, <abbr class="small-caps">HOLAM</abbr>›. In some fonts, this
+may accidentally have something like the desired appearance, since the
+<abbr class="small-caps">ZWJ</abbr> may “confuse” the font into putting the
+<abbr class="small-caps">HOLAM</abbr> fully after the <span class="romanized">vav</span>. But in
+other fonts, the <abbr class="small-caps">HOLAM</abbr> will still appear directly over the
+<span class="romanized">vav</span>, as it would if there were no
 <abbr class="small-caps">ZWJ</abbr>.</p>
 <p>CTR even declines to avail itself of distinctions that were available in Unicode 2.0 For example,
 <abbr class="small-caps">CTR</abbr> does not distinguish <span class="romanized">tsinnor</span> from
@@ -109,8 +110,8 @@ and <span class="romanized">deḥi</span> under the letter <span class="romanize
 <abbr class="small-caps">CTR</abbr> uses ‹<abbr class="small-caps">TIPEHA</abbr>,
 <abbr class="small-caps">POINT SEGOL</abbr>›.</li>
 <li>Schematically (using a plus sign to indicate a kind of concatenation), instead of
-<bdi lang="hbo">הֶ+ה֭</bdi>, <abbr class="small-caps">CTR</abbr> uses
-<bdi lang="hbo">ה֖+הֶ</bdi>.</li>
+<bdi lang="hbo">הֶ+ה֭</bdi>, <abbr class="small-caps">CTR</abbr> uses <bdi lang="hbo">ה֖+הֶ</bdi>.
+(The plus sign expressions are meant to be read right to left.)</li>
 <li>This is very unlikely to have the desired appearance in most fonts. Plus, in normalizing
 contexts like most web browsers, the font won’t even get a chance to try. E.g. this document’s
 context, it will look like this: <bdi lang="hbo">הֶ֖חרשתי</bdi>.</li>
@@ -147,7 +148,7 @@ muqdam</span> (!) and <span class="romanized">geresh</span>.<ul>
 <abbr class="small-caps">YETIV</abbr>›.</li>
 <li>Schematically (using a plus sign to indicate a kind of concatenation), instead of
 <bdi lang="hbo">תָּ+תּ֤</bdi>, <abbr class="small-caps">CTR</abbr> uses
-<bdi lang="hbo">תָּ+תּ֚</bdi>.</li>
+<bdi lang="hbo">תָּ+תּ֚</bdi>. (The plus sign expressions are meant to be read right to left.)</li>
 <li>This is very unlikely to have the desired appearance in most fonts. Plus, in normalizing
 contexts like most web browsers, the font won’t even get a chance to try. E.g. this document’s
 context, it will look like this: <bdi lang="hbo">אתָּ֚ה</bdi>.</li>
