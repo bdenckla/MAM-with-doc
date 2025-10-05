@@ -84,9 +84,8 @@ that should be left up to fonts, not “baked in” to the encoding. (See my
 to the Unicode <abbr class="small-caps">SEWG</abbr>.)</p>
 <p>In several cases, <abbr class="small-caps">CTR</abbr> declines to avail itself of distinctions
 that were available in Unicode 2.0, but, curiously, makes these distinctions in nonstandard ways. On
-a letter with a vowel mark (including <abbr class="small-caps">HOLAM</abbr>),
-<abbr class="small-caps">CTR</abbr> distinguishes prepositives from their impositive “lookalikes” by
-their encoded position relative to the vowel:</p>
+a letter with a below-vowel, <abbr class="small-caps">CTR</abbr> distinguishes prepositives from
+their impositive “lookalikes” by their encoded position relative to the below-vowel:</p>
 <ul>
 <li>The code point <abbr class="small-caps">TIPEHA</abbr> codes both
 <span class="romanized">deḥi</span> (!) and
@@ -101,7 +100,7 @@ muqdam</span> (!) and <span class="romanized">geresh</span>.</li>
 <li>The code point <abbr class="small-caps">TIPEHA</abbr> codes both
 <span class="romanized">deḥi</span> (!) and
 <span class="romanized">tarḥa</span> / <span class="romanized">tipeḥa</span>.<ul>
-<li>The code point <abbr class="small-caps">TIPEHA</abbr> before a vowel codes
+<li>The code point <abbr class="small-caps">TIPEHA</abbr> before a below-vowel codes
 <span class="romanized">deḥi</span> (!), e.g.  to encode the <span class="romanized">segol</span>
 and <span class="romanized">deḥi</span> under the letter <span class="romanized">he</span> in
 <bdi lang="hbo">הֶ֭חרשתי</bdi> in Psalm 32:3 (fully:
@@ -122,14 +121,14 @@ ignored it because (1) it is not relevant to the issue at hand and (2) it is one
 many other editions.</li>
 </ul>
 </li>
-<li>The code point <abbr class="small-caps">TIPEHA</abbr> after a vowel codes
-<span class="romanized">tarḥa</span> / <span class="romanized">tipeḥa</span>, e.g.  Ps 32:2
+<li>The code point <abbr class="small-caps">TIPEHA</abbr> after a below-vowel codes
+<span class="romanized">tarḥa</span> / <span class="romanized">tipeḥa</span>, e.g.  Psalm 32:2
 <bdi lang="hbo">וְאֵ֖ין</bdi></li>
 </ul>
 </li>
 <li>The code point <abbr class="small-caps">GERESH</abbr> codes both <span class="romanized">geresh
 muqdam</span> (!) and <span class="romanized">geresh</span>.<ul>
-<li>The code point <abbr class="small-caps">GERESH</abbr> before a vowel codes
+<li>The code point <abbr class="small-caps">GERESH</abbr> before a below-vowel codes
 <span class="romanized">geresh muqdam</span> (!), e.g.  to encode the
 <span class="romanized">tsere</span> and <span class="romanized">geresh muqdam</span> on the letter
 <span class="romanized">alef</span> in <bdi lang="hbo">אֵ֝ליו</bdi> in Psalm 32:6 (fully:
@@ -146,15 +145,15 @@ question are not both below-marks, this looks pretty close to the desired appear
 still not quite right.</li>
 </ul>
 </li>
-<li>The code point <abbr class="small-caps">GERESH</abbr> after a vowel codes
+<li>The code point <abbr class="small-caps">GERESH</abbr> after a below-vowel codes
 <span class="romanized">geresh</span>, e.g.  ???</li>
 </ul>
 </li>
 <li>The code point <abbr class="small-caps">YETIV</abbr> codes both
 <span class="romanized">yetiv</span> and <span class="romanized">mahapakh</span> (!).<ul>
-<li>The code point <abbr class="small-caps">YETIV</abbr> before a vowel codes
+<li>The code point <abbr class="small-caps">YETIV</abbr> before a below-vowel codes
 <span class="romanized">yetiv</span>, e.g.  ???</li>
-<li>The code point <abbr class="small-caps">YETIV</abbr> after a vowel codes
+<li>The code point <abbr class="small-caps">YETIV</abbr> after a below-vowel codes
 <span class="romanized">mahapakh</span> (!), e.g.  to encode the
 <span class="romanized">qamats</span> and <span class="romanized">mahapakh</span> under the letter
 <span class="romanized">tav</span> in <bdi lang="hbo">אתָּ֤ה</bdi> in Psalm 32:7 (fully:
@@ -173,7 +172,7 @@ context, it will look like this: <bdi lang="hbo">אתָּ֚ה</bdi>.</li>
 </ul>
 </li>
 </ul>
-<p>One might naturally wonder how, on a letter <em>without</em> a vowel mark,
+<p>One might naturally wonder how, on a letter <em>without</em> a below-vowel,
 <abbr class="small-caps">CTR</abbr> represents the six accents of these three “lookalike” pairs.</p>
 <ul>
 <li><abbr class="small-caps">TIPEHA</abbr> again codes both <span class="romanized">deḥi</span> and
@@ -183,7 +182,7 @@ muqdam</span> and <span class="romanized">geresh</span>:    but these accents ar
 poetic and prose systems respectively,    so there is no ambiguity.</li>
 <li><abbr class="small-caps">YETIV</abbr> again codes both <span class="romanized">yetiv</span> and
 <span class="romanized">mahapakh</span>,    but, with no pattern I can discern, sometimes   
-<abbr class="small-caps">MAHAPAKH</abbr> codes <span class="romanized">mahapakh</span>, as in Ps
+<abbr class="small-caps">MAHAPAKH</abbr> codes <span class="romanized">mahapakh</span>, as in Psalm
 32:11 <bdi lang="hbo">שמח֤ו</bdi>.</li>
 </ul>
 </body>
