@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>
+Pre-vowel accents in Chabad’s CTR</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Pre-vowel accents in Chabad’s CTR</h1>
+<p>The <a href="https://www.chabad.org/">Chabad website</a> has an edition of the Hebrew Bible
+called
+<a href="https://www.chabad.org/library/bible_cdo/aid/63255/jewish/The-Bible-with-Rashi.htm">The
+Complete Tanach with Rashi</a> (<abbr class="small-caps">CTR</abbr>). (See my
+<a href="./on_the_provenance_of_chabad_ctr.html">document</a>, “On the Provenance of Chabad’s
+CTR.”)</p>
+<p>In several cases, <abbr class="small-caps">CTR</abbr> declines to avail itself of distinctions
+that were available in Unicode 2.0, but, curiously, makes these distinctions in nonstandard ways. On
+a letter with a vowel mark (including <abbr class="small-caps">HOLAM</abbr>),
+<abbr class="small-caps">CTR</abbr> distinguishes prepositives from their impositive “lookalikes” by
+their encoded position relative to the vowel:</p>
+<ul>
+<li>The code point <abbr class="small-caps">TIPEHA</abbr> codes both
+<span class="romanized">deḥi</span> (!) and
+<span class="romanized">tarḥa</span> / <span class="romanized">tipeḥa</span>.</li>
+<li>The code point <abbr class="small-caps">GERESH</abbr> codes both <span class="romanized">geresh
+muqdam</span> (!) and <span class="romanized">geresh</span>.</li>
+<li>The code point <abbr class="small-caps">YETIV</abbr> codes both
+<span class="romanized">yetiv</span> and <span class="romanized">mahapakh</span> (!).</li>
+</ul>
+<p>In detail:</p>
+<ul>
+<li>The code point <abbr class="small-caps">TIPEHA</abbr> before a vowel codes
+<span class="romanized">deḥi</span> (!), e.g.  to encode the <span class="romanized">segol</span>
+and <span class="romanized">deḥi</span> under the letter <span class="romanized">he</span> in
+<bdi lang="hbo">הֶ֭חרשתי</bdi> in Psalm 32:3 (fully:
+<bdi lang="hbo">הֶ֭חֱרַשְׁתִּי</bdi>&thinsp;),<ul>
+<li>Instead of ‹<abbr class="small-caps">POINT SEGOL</abbr>, <abbr class="small-caps">DEHI</abbr>›,
+<abbr class="small-caps">CTR</abbr> uses ‹<abbr class="small-caps">TIPEHA</abbr>,
+<abbr class="small-caps">POINT SEGOL</abbr>›.</li>
+<li>Schematically (using a plus sign to indicate a kind of concatenation), instead of
+<bdi lang="hbo">הֶ+ה֭</bdi>, <abbr class="small-caps">CTR</abbr> uses <bdi lang="hbo">ה֖+הֶ</bdi>.
+(The plus sign expressions are meant to be read right to left.)</li>
+<li>This is very unlikely to have the desired appearance in most fonts. Plus, in normalizing
+contexts like most web browsers, the font won’t even get a chance to try. E.g. in this document’s
+context, it will look like this: <bdi lang="hbo">הֶ֖חרשתי</bdi>.</li>
+<li>Above we have ignored a <span class="romanized">gaʿya</span> that
+<abbr class="small-caps">CTR</abbr> also has under the <span class="romanized">he</span>. We have
+ignored it because (1) it is not relevant to the issue at hand and (2) it is one of many “extra”
+<span class="romanized">gaʿya</span> marks that <abbr class="small-caps">CTR</abbr> has compared to
+many other editions.</li>
+</ul>
+</li>
+<li>The code point <abbr class="small-caps">TIPEHA</abbr> after a vowel codes
+<span class="romanized">tarḥa</span> / <span class="romanized">tipeḥa</span>, e.g.  Psalm 32:2
+<bdi lang="hbo">וְאֵ֖ין</bdi></li>
+<li>The code point <abbr class="small-caps">GERESH</abbr> before a vowel codes
+<span class="romanized">geresh muqdam</span> (!), e.g.  to encode the
+<span class="romanized">tsere</span> and <span class="romanized">geresh muqdam</span> on the letter
+<span class="romanized">alef</span> in <bdi lang="hbo">אֵ֝ליו</bdi> in Psalm 32:6 (fully:
+<bdi lang="hbo">אֵ֝לָ֗יו</bdi>&thinsp;),<ul>
+<li>Instead of ‹<abbr class="small-caps">TSERE</abbr>, <abbr class="small-caps">GERESH
+MUQDAM</abbr>›, <abbr class="small-caps">CTR</abbr> uses ‹<abbr class="small-caps">GERESH</abbr>,
+<abbr class="small-caps">TSERE</abbr>›.</li>
+<li>Schematically (using a plus sign to indicate a kind of concatenation), instead of
+<bdi lang="hbo">אֵ+א֝</bdi>, <abbr class="small-caps">CTR</abbr> uses <bdi lang="hbo">א֜+אֵ</bdi>.
+(The plus sign expressions are meant to be read right to left.)</li>
+<li>This is very unlikely to have quite the desired appearance in most fonts. E.g. in this
+document’s context, it will look like this: <bdi lang="hbo">אֵ֜ליו</bdi>. Because the two marks in
+question are not both below-marks, this looks pretty close to the desired appearance. But it is
+still not quite right.</li>
+</ul>
+</li>
+<li>The code point <abbr class="small-caps">GERESH</abbr> after a vowel codes
+<span class="romanized">geresh</span>, e.g.  ???</li>
+<li>The code point <abbr class="small-caps">YETIV</abbr> before a vowel codes
+<span class="romanized">yetiv</span>, e.g.  ???</li>
+<li>The code point <abbr class="small-caps">YETIV</abbr> after a vowel codes
+<span class="romanized">mahapakh</span> (!), e.g.  to encode the
+<span class="romanized">qamats</span> and <span class="romanized">mahapakh</span> under the letter
+<span class="romanized">tav</span> in <bdi lang="hbo">אתָּ֤ה</bdi> in Psalm 32:7 (fully:
+<bdi lang="hbo">אַתָּ֤ה׀</bdi>&thinsp;),<ul>
+<li>Instead of ‹<abbr class="small-caps">QAMATS</abbr>, <abbr class="small-caps">MAHAPAKH</abbr>›,
+<abbr class="small-caps">CTR</abbr> uses ‹<abbr class="small-caps">QAMATS</abbr>,
+<abbr class="small-caps">YETIV</abbr>›.</li>
+<li>Schematically (using a plus sign to indicate a kind of concatenation), instead of
+<bdi lang="hbo">תָּ+תּ֤</bdi>, <abbr class="small-caps">CTR</abbr> uses
+<bdi lang="hbo">תָּ+תּ֚</bdi>. (The plus sign expressions are meant to be read right to left.)</li>
+<li>This is very unlikely to have the desired appearance in most fonts. Plus, in normalizing
+contexts like most web browsers, the font won’t even get a chance to try. E.g. in this document’s
+context, it will look like this: <bdi lang="hbo">אתָּ֚ה</bdi>.</li>
+</ul>
+</li>
+</ul>
+<p>As noted above, <abbr class="small-caps">CTR</abbr>’s strange vowel-relative distinctions apply
+not only to the below-vowels but also to the one above-vowel, <abbr class="small-caps">HOLAM</abbr>.
+E.g., <abbr class="small-caps">TIPEHA</abbr> before <abbr class="small-caps">HOLAM</abbr> codes
+<span class="romanized">deḥi</span>, e.g. in <bdi lang="hbo">אֹ֖זֶן</bdi>,
+<bdi lang="hbo">אֹ֖מֶר</bdi>,  and <bdi lang="hbo">כָּל־רֹ֖אַי</bdi> (Psalm 18:45, 19:4,  and 22:8).
+But, consistent with the general sloppiness of <abbr class="small-caps">CTR</abbr>, sometimes
+<abbr class="small-caps">TIPEHA</abbr> appears after <abbr class="small-caps">HOLAM</abbr>, even
+when a <span class="romanized">deḥi</span> is (or should be) intended, e.g. in
+<bdi lang="hbo">בֹּ֖קֶר</bdi>,  and <bdi lang="hbo">עֹ֖ז</bdi> in (Psalm 5:4,  and 22:11).</p>
+<p>Note that when <abbr class="small-caps">TIPEHA</abbr> appears before
+<abbr class="small-caps">HOLAM</abbr> (the only above-vowel), this is somewhat analogous to when
+<abbr class="small-caps">GERESH</abbr> appears before a below-vowel. In both cases, the ordering
+does not reflect a desired visual ordering,  since the marks are not both below-marks. Rather, the
+ordering reflects at most a desired visual alignment (right-biased rather than centered) of the
+accent relative to a vowel-free area of its letter. (That area being the letter's top for
+<abbr class="small-caps">GERESH</abbr> and bottom for <abbr class="small-caps">TIPEHA</abbr>).
+Because this is completely nonstandard, the desired visual alignment is very unlikely to be achieved
+in most or all fonts.</p>
+<p>Just as <abbr class="small-caps">TIPEHA</abbr> before <abbr class="small-caps">HOLAM</abbr> codes
+<span class="romanized">deḥi</span>, so <abbr class="small-caps">GERESH</abbr> before
+<abbr class="small-caps">HOLAM</abbr> codes <span class="romanized">geresh muqdam</span>, e.g. in
+<bdi lang="hbo">מִכָּל־רֹ֜דְפַ֗י</bdi>, <bdi lang="hbo">פֹּ֜רֵ֗ק</bdi>,  and
+<bdi lang="hbo">כָּל־אֹ֜יְבָ֗יו</bdi> (Psalm 7:2, 7:3,  and 18:1). Note that although they are both
+above-marks, <abbr class="small-caps">GERESH</abbr> before <abbr class="small-caps">HOLAM</abbr>
+like <abbr class="small-caps">GERESH</abbr> before a below-vowel, does not reflect a desired visual
+ordering. Rather, the ordering reflects at most a desired visual alignment (right-biased rather than
+centered) of the accent relative to its letter.</p>
+<p>One might naturally wonder how, on a letter <em>without</em> a vowel,
+<abbr class="small-caps">CTR</abbr> represents the six accents of these three “lookalike” pairs.</p>
+<ul>
+<li><abbr class="small-caps">TIPEHA</abbr> again codes both <span class="romanized">deḥi</span> and
+<span class="romanized">tarḥa</span>: XXX ambiguously?!</li>
+<li><abbr class="small-caps">GERESH</abbr> again codes both <span class="romanized">geresh
+muqdam</span> and <span class="romanized">geresh</span>:    but these accents are exclusive to the
+poetic and prose systems respectively,    so there is no ambiguity.</li>
+<li><abbr class="small-caps">YETIV</abbr> again codes both <span class="romanized">yetiv</span> and
+<span class="romanized">mahapakh</span>,    but, with no pattern I can discern, sometimes   
+<abbr class="small-caps">MAHAPAKH</abbr> codes <span class="romanized">mahapakh</span>, as in Psalm
+32:11 <bdi lang="hbo">שמח֤ו</bdi>.</li>
+</ul>
+</body>
+</html>

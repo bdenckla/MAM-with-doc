@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>
+Review of Chabad’s CTR</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Review of Chabad’s CTR</h1>
+<p>The <a href="https://www.chabad.org/">Chabad website</a> has an edition of the Hebrew Bible
+called
+<a href="https://www.chabad.org/library/bible_cdo/aid/63255/jewish/The-Bible-with-Rashi.htm">The
+Complete Tanach with Rashi</a> (<abbr class="small-caps">CTR</abbr>). (See my
+<a href="./on_the_provenance_of_chabad_ctr.html">document</a>, “On the Provenance of Chabad’s
+CTR.”)</p>
+<p>This <abbr class="small-caps">CTR</abbr> is certainly the weirdest Hebrew Bible on the web, and
+possibly the worst. Whether it is the worst depends somewhat on (1) taste and (2) what purpose
+<abbr class="small-caps">CTR</abbr> would be put to.</p>
+<p>For example, this <abbr class="small-caps">CTR</abbr>, though full of what most people would
+consider errors, might still be correct in some cases where other editions are wrong. In other
+words, its very weirdness, though usually a negative, might in some cases be a positive.</p>
+<p>I will not attempt to give a comprehensive review of <abbr class="small-caps">CTR</abbr>.
+Instead, I will review its <a href="https://www.chabad.org/library/bible_cdo/aid/16253/#lt=he">Psalm
+32</a>. If its Psalm 32 is representative, my review should give a good idea of
+<abbr class="small-caps">CTR</abbr> as a whole. At a minimum, my review is likely to give a good
+idea of of <abbr class="small-caps">CTR</abbr>’s poetic books, since some of
+<abbr class="small-caps">CTR</abbr>’s issues are specific to the poetic accents.</p>
+<p>First, I will discuss the ways in which <abbr class="small-caps">CTR</abbr>’s Psalm 32 differs
+systematically from other editions. Then I will discuss the particular (i.e. non-systematic)  ways
+in which <abbr class="small-caps">CTR</abbr>’s Psalm 32 differs from other editions.</p>
+<p>Systematically, <abbr class="small-caps">CTR</abbr>’s Psalm 32 is restricted to the code points
+in Unicode 2.0. There are three code points that were introduced later that are used in some
+editions of Psalm 32:</p>
+<ul>
+<li><abbr class="small-caps">QAMATS QATAN</abbr></li>
+<li><abbr class="small-caps">ATNAH HAFUKH</abbr></li>
+<li><abbr class="small-caps">HOLAM HASER FOR VAV</abbr></li>
+</ul>
+<p>In the first two of the three cases, the fact that <abbr class="small-caps">CTR</abbr> does not
+use the newer code point causes no problems. Indeed many editions, even quite recent ones, are like
+<abbr class="small-caps">CTR</abbr> in that they do not make the following distinctions:</p>
+<ul>
+<li><span class="romanized">qamats</span> vs. <span class="romanized">qamats qatan</span></li>
+<li><span class="romanized">yeraḥ ben yomo</span> vs. <span class="romanized">atnaḥ
+hafukh</span></li>
+</ul>
+<p>Both distinctions were introduced in Unicode 4.1, although <abbr class="small-caps">ATNAH
+HAFUKH</abbr> was introduced in a way that makes its adoption difficult, even to this day. See my
+<a href="https://docs.google.com/document/u/0/d/1M7-sVTuKEJLdFRDXLpOeKEjtynSTvY2EM6Lj1uK4ylA/edit">proposal</a>
+to the Unicode <abbr class="small-caps">SEWG</abbr>.</p>
+<p>The third post-2.0 code point that <abbr class="small-caps">CTR</abbr> might have used is
+<abbr class="small-caps">HOLAM HASER FOR VAV</abbr>. In this case, the fact that
+<abbr class="small-caps">CTR</abbr> does not use it causes a problem. It causes a problem because
+<abbr class="small-caps">CTR</abbr> does not merely decline to make the distinction that this code
+point enables. Rather, <abbr class="small-caps">CTR</abbr> uses a nonstandard workaround to try to
+make this distinction. This workaround may work (accidentally or intentionally) in some fonts, but
+not in all fonts.</p>
+<p>The workaround is to use the sequence ‹<abbr class="small-caps">ZWJ</abbr>,
+<abbr class="small-caps">HOLAM</abbr>› instead of the single code point
+<abbr class="small-caps">HOLAM HASER FOR VAV</abbr>. For example,  to encode the
+<span class="romanized">ḥolam ḥaser</span> on the letter <span class="romanized">vav</span> in
+<bdi lang="hbo">עוֺן</bdi> in Psalm 32:5 (fully: <bdi lang="hbo">עֲוֺ֖ן</bdi>&thinsp;), instead of
+<abbr class="small-caps">HOLAM HASER FOR VAV</abbr>, <abbr class="small-caps">CTR</abbr> uses
+‹<abbr class="small-caps">ZWJ</abbr>, <abbr class="small-caps">HOLAM</abbr>›. In some fonts, this
+may accidentally have something like the desired appearance, since the
+<abbr class="small-caps">ZWJ</abbr> may “confuse” the font into putting the
+<abbr class="small-caps">HOLAM</abbr> fully after the <span class="romanized">vav</span>. But in
+other fonts, the <abbr class="small-caps">HOLAM</abbr> will still appear directly over the
+<span class="romanized">vav</span>, as it would if there were no
+<abbr class="small-caps">ZWJ</abbr>.</p>
+<p>CTR even declines to avail itself of distinctions that were available in Unicode 2.0 For example,
+<abbr class="small-caps">CTR</abbr> does not distinguish <span class="romanized">tsinnor</span> from
+<span class="romanized">tsinnorit</span>, using only the <abbr class="small-caps">ZARQA</abbr> code
+point for both. To be fair, the annotations and names of the <abbr class="small-caps">ZARQA</abbr>
+and <abbr class="small-caps">ZINOR</abbr> code points were, in my opinion, botched, and that could
+explain why <abbr class="small-caps">CTR</abbr> uses only <abbr class="small-caps">ZARQA</abbr>.
+According to the annotation for <abbr class="small-caps">ZARQA</abbr>, it should be used for both
+<span class="romanized">tsinnor</span> and <span class="romanized">tsinnorit</span> if an
+above-center (rather than above-left) placement of <span class="romanized">tsinnor</span> is
+desired. In my opinion, this annotation encourages the use of Unicode to make a typographic choice
+that should be left up to fonts, not “baked in” to the encoding. (See my
+<a href="https://docs.google.com/document/u/0/d/1qJby64wXq9ueTUHXFlIlYdgohRFlnUqT4SkyNEFWMKU/edit">proposal</a>
+to the Unicode <abbr class="small-caps">SEWG</abbr>.)</p>
+<p>In several cases, <abbr class="small-caps">CTR</abbr> declines to avail itself of distinctions
+that were available in Unicode 2.0, but, curiously, makes these distinctions in nonstandard ways. On
+a letter with a vowel mark (including <abbr class="small-caps">HOLAM</abbr>),
+<abbr class="small-caps">CTR</abbr> distinguishes prepositives from their impositive “lookalikes” by
+their encoded position relative to the vowel:</p>
+<ul>
+<li>The code point <abbr class="small-caps">TIPEHA</abbr> codes both
+<span class="romanized">deḥi</span> (!) and
+<span class="romanized">tarḥa</span> / <span class="romanized">tipeḥa</span>.</li>
+<li>The code point <abbr class="small-caps">GERESH</abbr> codes both <span class="romanized">geresh
+muqdam</span> (!) and <span class="romanized">geresh</span>.</li>
+<li>The code point <abbr class="small-caps">YETIV</abbr> codes both
+<span class="romanized">yetiv</span> and <span class="romanized">mahapakh</span> (!).</li>
+</ul>
+<p>(See my <a href="./pre_vowel_accents_in_chabad_ctr.html">document</a>, “Pre-vowel accents in
+Chabad’s CTR.”)</p>
+</body>
+</html>
