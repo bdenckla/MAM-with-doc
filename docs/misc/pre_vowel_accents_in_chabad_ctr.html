@@ -62,8 +62,9 @@ pattern) and <abbr class="small-caps">MAHAPAKH</abbr> after a vowel (the normal 
 </ul>
 <p>In some but not all cases, the logical order of these code points reflects a desired horizontal
 visual order. Even when it does reflect a desired visual order, this visual order is very unlikely
-to be achieved. Few if any fonts will render the marks in the desired visual order, and in
-normalizing contexts like most web browsers, the font won’t even get a chance to try. In detail:</p>
+to be achieved, except in the case of <abbr class="small-caps">YETIV</abbr> before a vowel. In all
+other cases, few if any fonts will render the marks in the desired visual order, and in normalizing
+contexts like most web browsers, the font won’t even get a chance to try. In detail:</p>
 <ul>
 <li>The code point <abbr class="small-caps">TIPEHA</abbr> before a vowel codes
 <span class="romanized">deḥi</span> (!), e.g. to encode the <span class="romanized">segol</span>
@@ -100,17 +101,29 @@ MUQDAM</abbr>›, <abbr class="small-caps">CTR</abbr> uses ‹<abbr class="small
 <li>I.e., instead of <bdi lang="hbo">אֵ+א֝</bdi>, <abbr class="small-caps">CTR</abbr> uses
 <bdi lang="hbo">א֜+אֵ</bdi>. (The plus sign expression indicates a kind of concatenation, and is
 meant to be read right to left.)</li>
-<li>This is very unlikely to have quite the desired appearance in most fonts. Plus, in normalizing
-contexts like most web browsers, the font won’t even get a chance to try. In this document’s
-context, it will look like this: <bdi lang="hbo">אֵ֜ליו</bdi>. Because the two marks in question are
-not both below-marks, this looks pretty close to the desired appearance. But it is still not quite
-right.</li>
+<li>This is very unlikely to have quite the desired appearance in most fonts, though the appearance
+will likely be close to what is desired. In normalizing contexts like most web browsers, the font
+won’t even get a chance to try. In this document’s context, it will look like this:
+<bdi lang="hbo">אֵ֜ליו</bdi>. Because the two marks in question are not both below-marks, this looks
+pretty close to the desired appearance. But it is still not quite what is desired.</li>
 </ul>
 </li>
 <li>The code point <abbr class="small-caps">GERESH</abbr> after a vowel codes
 <span class="romanized">geresh</span>, e.g. <bdi lang="hbo">הַמַּ֜יִם</bdi> (Genesis 1:9).</li>
 <li>The code point <abbr class="small-caps">YETIV</abbr> before a vowel codes
-<span class="romanized">yetiv</span>, e.g. <bdi lang="hbo">כִּ֚י</bdi> (Joshua 2:11).</li>
+<span class="romanized">yetiv</span>, e.g. to encode the <span class="romanized">ḥiriq</span> and
+<span class="romanized">yetiv</span> under the letter <span class="romanized">kaf</span> in
+<bdi lang="hbo">כִּ֚י</bdi> (Joshua 2:11),<ul>
+<li>Instead of ‹<abbr class="small-caps">HIRIQ</abbr>, <abbr class="small-caps">YETIV</abbr>›,
+<abbr class="small-caps">CTR</abbr> uses ‹<abbr class="small-caps">YETIV</abbr>,
+<abbr class="small-caps">HIRIQ</abbr>›.</li>
+<li>I.e., instead of <bdi lang="hbo">כִּ+כּ֚</bdi>, <abbr class="small-caps">CTR</abbr> uses
+<bdi lang="hbo">כּ֚+כִּ</bdi>. (The plus sign expression indicates a kind of concatenation, and is
+meant to be read right to left.)</li>
+<li>Although this is a strange order to encode it in, this is very likely to have the desired
+appearance in most fonts.</li>
+</ul>
+</li>
 <li>The code point <abbr class="small-caps">YETIV</abbr> after a vowel codes
 <span class="romanized">mahapakh</span> (!), e.g. to encode the
 <span class="romanized">qamats</span> and <span class="romanized">mahapakh</span> under the letter
