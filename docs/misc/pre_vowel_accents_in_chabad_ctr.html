@@ -16,7 +16,7 @@ Complete Tanach with Rashi</a> (<abbr class="small-caps">CTR</abbr>). (See my
 CTR.”)</p>
 <p>In several cases, <abbr class="small-caps">CTR</abbr> declines to avail itself of distinctions
 that were available in Unicode 2.0, but, curiously, makes these distinctions in nonstandard ways. On
-a letter with a vowel mark code point (including <abbr class="small-caps">HOLAM</abbr>),
+a letter with a code point for a vowel mark (including <abbr class="small-caps">HOLAM</abbr>),
 <abbr class="small-caps">CTR</abbr> distinguishes prepositives from their impositive “lookalikes” by
 the logical order of an accent code point relative to that vowel:</p>
 <ul>
@@ -46,7 +46,7 @@ meaning of <abbr class="small-caps">GERESH</abbr>).</li>
 </ul>
 <p>There are many levels of strangeness here.</p>
 <ul>
-<li>It is not standard to ever code an accent before a vowel, and indeed, such an ordering will be
+<li>It is not standard to ever code an accent before a vowel, and indeed, such an order will be
 normalized away in some environments, notably, in most web browsers.</li>
 <li>It is certainly not standard to make a <em>distinction</em> between an accent coded before a
 vowel and after a vowel.</li>
@@ -60,8 +60,8 @@ pattern) and <abbr class="small-caps">MAHAPAKH</abbr> after a vowel (the normal 
 <span class="romanized">mahapakh</span> (the normal meaning of
 <abbr class="small-caps">MAHAPAKH</abbr>).</li>
 </ul>
-<p>In some but not all cases, the logical order of these code points reflects a desired visual
-ordering. Even when it does reflect a desired visual ordering, this visual ordering is very unlikely
+<p>In some but not all cases, the logical order of these code points reflects a desired horizontal
+visual order. Even when it does reflect a desired visual order, this visual order is very unlikely
 to be achieved. Few if any fonts will render the marks in the desired visual order, and in
 normalizing contexts like most web browsers, the font won’t even get a chance to try. In detail:</p>
 <ul>
@@ -110,7 +110,7 @@ right.</li>
 <li>The code point <abbr class="small-caps">GERESH</abbr> after a vowel codes
 <span class="romanized">geresh</span>, e.g. <bdi lang="hbo">הַמַּ֜יִם</bdi> (Genesis 1:9).</li>
 <li>The code point <abbr class="small-caps">YETIV</abbr> before a vowel codes
-<span class="romanized">yetiv</span>, e.g. ???</li>
+<span class="romanized">yetiv</span>, e.g. <bdi lang="hbo">כִּ֚י</bdi> (Joshua 2:11).</li>
 <li>The code point <abbr class="small-caps">YETIV</abbr> after a vowel codes
 <span class="romanized">mahapakh</span> (!), e.g. to encode the
 <span class="romanized">qamats</span> and <span class="romanized">mahapakh</span> under the letter
@@ -141,13 +141,13 @@ appears after <abbr class="small-caps">HOLAM</abbr>, even when a
 <bdi lang="hbo">בֹּ֖קֶר</bdi> and <bdi lang="hbo">עֹ֖ז</bdi> (Psalm 5:4 and 22:11).</p>
 <p>Note that <abbr class="small-caps">TIPEHA</abbr> before <abbr class="small-caps">HOLAM</abbr>
 (the only above-vowel) is somewhat analogous to <abbr class="small-caps">GERESH</abbr> before a
-below-vowel. In both cases, the ordering does not reflect a desired visual ordering, since in each
-case, one of the marks is a below-mark and the other is an above-mark. Rather, the ordering reflects
-at most a desired visual alignment (right-biased rather than centered) of the accent relative to a
-vowel-free area of its letter. (That area being the letter’s top for
-<abbr class="small-caps">GERESH</abbr> and bottom for <abbr class="small-caps">TIPEHA</abbr>).
-Because this is completely nonstandard, the desired visual alignment is very unlikely to be achieved
-in most or all fonts.</p>
+below-vowel. In both cases, the logical order does not reflect a desired horizontal visual order,
+since in each case, one of the marks is a below-mark and the other is an above-mark. Rather, the
+logical order reflects at most a desired horizontal visual alignment (right-biased rather than
+centered) of the accent relative to a vowel-free area of its letter. (That area being the letter’s
+top for <abbr class="small-caps">GERESH</abbr> and bottom for
+<abbr class="small-caps">TIPEHA</abbr>). Because this is completely nonstandard, the desired visual
+alignment is very unlikely to be achieved in most or all fonts.</p>
 <p>Just as <abbr class="small-caps">TIPEHA</abbr> before <abbr class="small-caps">HOLAM</abbr> codes
 <span class="romanized">deḥi</span>, so <abbr class="small-caps">GERESH</abbr> before
 <abbr class="small-caps">HOLAM</abbr> codes <span class="romanized">geresh muqdam</span>, e.g.
@@ -156,16 +156,17 @@ in most or all fonts.</p>
 <bdi lang="hbo">כָּל־אֹ֜יְבָ֗יו</bdi> (Psalm 7:2, 7:3, and 18:1). Note that
 <abbr class="small-caps">GERESH</abbr> before <abbr class="small-caps">HOLAM</abbr>, like
 <abbr class="small-caps">GERESH</abbr> before a below-vowel, does not reflect a desired distinction
-in visual ordering, since both <span class="romanized">geresh</span> and
+in horizontal visual order, since both <span class="romanized">geresh</span> and
 <span class="romanized">geresh muqdam</span> should, visually, appear before
-<span class="romanized">ḥolam</span>. Rather, the ordering reflects at most a desired distinction
-in visual alignment (right-biased rather than centered) of the accent relative to its letter. Or, if
-you like, you can think of <abbr class="small-caps">GERESH</abbr> logically before
-<abbr class="small-caps">HOLAM</abbr> as coding a <span class="romanized">geresh</span> visually
-<em>far</em> before <span class="romanized">ḥolam</span>, as opposed to
-<abbr class="small-caps">GERESH</abbr> logically after <abbr class="small-caps">HOLAM</abbr>, which
-codes a <span class="romanized">geresh</span> still visually before
-<span class="romanized">ḥolam</span>, but not so far before it.</p>
+<span class="romanized">ḥolam</span>. Rather, the logical order reflects at most a desired
+distinction in horizontal visual alignment (right-biased rather than centered) of the accent
+relative to its letter. Or, if you like, you can think of <abbr class="small-caps">GERESH</abbr>
+logically before <abbr class="small-caps">HOLAM</abbr> as coding a
+<span class="romanized">geresh</span> visually <em>far</em> before
+<span class="romanized">ḥolam</span>, as opposed to <abbr class="small-caps">GERESH</abbr>
+logically after <abbr class="small-caps">HOLAM</abbr>, which codes a
+<span class="romanized">geresh</span> still visually before <span class="romanized">ḥolam</span>,
+but not so far before it.</p>
 <p>One might naturally wonder how, on a letter <em>without</em> a vowel,
 <abbr class="small-caps">CTR</abbr> represents the six accents of these three “lookalike” pairs.</p>
 <ul>
