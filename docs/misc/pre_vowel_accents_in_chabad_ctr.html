@@ -17,8 +17,8 @@ CTR.”)</p>
 <p>In several cases, <abbr class="small-caps">CTR</abbr> declines to avail itself of distinctions
 that were available in Unicode 2.0, but, curiously, makes these distinctions in nonstandard ways. On
 a letter with a code point for a vowel mark (including <abbr class="small-caps">HOLAM</abbr>),
-<abbr class="small-caps">CTR</abbr> distinguishes prepositives from their impositive “lookalikes” by
-the logical order of an accent code point relative to that vowel:</p>
+<abbr class="small-caps">CTR</abbr> distinguishes the following prepositives from their impositive
+“lookalikes” by the logical order of an accent code point relative to that vowel:</p>
 <ul>
 <li>The code point <abbr class="small-caps">TIPEHA</abbr> means either
 <span class="romanized">deḥi</span> (!) or
@@ -184,23 +184,35 @@ logically after <abbr class="small-caps">HOLAM</abbr>, which means a
 <span class="romanized">geresh</span> still visually before <span class="romanized">ḥolam</span>,
 but not so far before it.</p>
 <p>One might naturally wonder how, on a letter <em>without</em> a vowel,
-<abbr class="small-caps">CTR</abbr> represents the six accents of these three “lookalike” pairs.</p>
+<abbr class="small-caps">CTR</abbr> encodes the six accents of these three “lookalike” pairs. I.e.
+one might naturally wonder how these six accents are encoded when they are “bare,” i.e. not sharing
+their letter with a vowel mark.</p>
 <ul>
-<li><abbr class="small-caps">TIPEHA</abbr> again means either <span class="romanized">deḥi</span>
-or <span class="romanized">tarḥa</span>, but without a vowel, it is unambiguous which is meant.
-E.g. <abbr class="small-caps">CTR</abbr> codes the “bare” <span class="romanized">deḥi</span> in
-<bdi lang="hbo">כִּי־ה֭וּא</bdi> (Psalm 24:2) as <abbr class="small-caps">TIPEHA</abbr>, making it
-indistinguishable, for example, from the “bare” <span class="romanized">tarḥa</span> Psalm 59:5
-<bdi lang="hbo">ע֖וּרָה</bdi>&thinsp;. In this document’s context, that
+<li><abbr class="small-caps">TIPEHA</abbr> is used for both bare
+<span class="romanized">deḥi</span> and bare <span class="romanized">tarḥa</span>. This results in
+an ambiguity. E.g. <abbr class="small-caps">CTR</abbr> codes the bare
+<span class="romanized">deḥi</span> in <bdi lang="hbo">כִּי־ה֭וּא</bdi> (Psalm 24:2) as
+<abbr class="small-caps">TIPEHA</abbr>. In this document’s context, that
 <abbr class="small-caps">TIPEHA</abbr> will look like this: <bdi lang="hbo">ה֖וּא</bdi>&thinsp;,
-i.e. it will look like a <span class="romanized">tarḥa</span>.</li>
-<li><abbr class="small-caps">GERESH</abbr> again means either <span class="romanized">geresh
-muqdam</span> or <span class="romanized">geresh</span>: but these accents are exclusive to the
-poetic and prose systems respectively so there is no ambiguity</li>
-<li><abbr class="small-caps">YETIV</abbr> again means either <span class="romanized">yetiv</span> or
-<span class="romanized">mahapakh</span> but, with no pattern I can discern, sometimes
-<abbr class="small-caps">MAHAPAKH</abbr> means <span class="romanized">mahapakh</span>, as in
-<bdi lang="hbo">שמח֤ו</bdi> (Psalm 32:11).</li>
+i.e. it will look like a <span class="romanized">tarḥa</span>. This makes it indistinguishable, for
+example, from the bare <span class="romanized">tarḥa</span> Psalm 59:5
+<bdi lang="hbo">ע֖וּרָה</bdi>&thinsp;.</li>
+<li><abbr class="small-caps">GERESH</abbr> is used for both bare <span class="romanized">geresh
+muqdam</span> and bare <span class="romanized">geresh</span>. These accents are exclusive to the
+poetic and prose systems respectively so even when these accents are bare, there is no ambiguity
+(assuming we know what accent system the word belongs to). As always, it is important to be aware
+that though Job is, for the most part, a poetically-accented book, its introduction and conclusion
+are prose-accented. So, a bare <span class="romanized">geresh</span> in Job could be either a
+<span class="romanized">geresh muqdam</span> or <span class="romanized">geresh</span>, depending on
+whether or not its verse is in the range 3:2 to 42:6 (inclusive).</li>
+<li><abbr class="small-caps">YETIV</abbr> is used for both bare <span class="romanized">yetiv</span>
+and bare <span class="romanized">mahapakh</span>. <span class="romanized">Yetiv</span> is exclusive
+to the prose system so there is no ambiguity if we know that the word belongs to the poetic system.
+If the word belongs to the prose system, then <abbr class="small-caps">YETIV</abbr> is
+ambiguous.</li>
+<li>With no pattern I can discern, sometimes <abbr class="small-caps">MAHAPAKH</abbr> is used for a
+bare <span class="romanized">mahapakh</span>, as in <bdi lang="hbo">שִׂמְח֤וּ</bdi> (Psalm
+32:11).</li>
 </ul>
 </body>
 </html>
