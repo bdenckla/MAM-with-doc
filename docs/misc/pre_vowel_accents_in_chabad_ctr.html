@@ -23,22 +23,24 @@ the logical order of an accent code point relative to that vowel:</p>
 <li>The code point <abbr class="small-caps">TIPEHA</abbr> codes both
 <span class="romanized">deḥi</span> (!) and
 <span class="romanized">tarḥa</span> / <span class="romanized">tipeḥa</span>.<ul>
-<li>Before a vowel, it codes .</li>
-<li>After a vowel (the normal order), it codes  (the normal meaning of
-<abbr class="small-caps">TIPEHA</abbr>).</li>
+<li>Before a vowel, it codes <span class="romanized">deḥi</span> (!).</li>
+<li>After a vowel (the normal order), it codes
+<span class="romanized">tarḥa</span> / <span class="romanized">tipeḥa</span> (the normal meaning
+of <abbr class="small-caps">TIPEHA</abbr>).</li>
 </ul>
 </li>
 <li>The code point <abbr class="small-caps">GERESH</abbr> codes both <span class="romanized">geresh
 muqdam</span> (!) and <span class="romanized">geresh</span>.<ul>
-<li>Before a vowel, it codes .</li>
-<li>After a vowel (the normal order), it codes  (the normal meaning of
-<abbr class="small-caps">GERESH</abbr>).</li>
+<li>Before a vowel, it codes <span class="romanized">geresh muqdam</span> (!).</li>
+<li>After a vowel (the normal order), it codes <span class="romanized">geresh</span> (the normal
+meaning of <abbr class="small-caps">GERESH</abbr>).</li>
 </ul>
 </li>
 <li>The code point <abbr class="small-caps">YETIV</abbr> codes both
 <span class="romanized">yetiv</span> and <span class="romanized">mahapakh</span> (!).<ul>
-<li>Before a vowel, it codes  (the normal meaning of <abbr class="small-caps">YETIV</abbr>).</li>
-<li>After a vowel (the normal order), it codes .</li>
+<li>Before a vowel, it codes <span class="romanized">yetiv</span> (the normal meaning of
+<abbr class="small-caps">YETIV</abbr>).</li>
+<li>After a vowel (the normal order), it codes <span class="romanized">mahapakh</span> (!).</li>
 </ul>
 </li>
 </ul>
@@ -51,27 +53,29 @@ vowel and after a vowel.</li>
 <li>The use of <abbr class="small-caps">YETIV</abbr> breaks the pattern established by
 <abbr class="small-caps">TIPEHA</abbr> and <abbr class="small-caps">GERESH</abbr>, where the
 impositive code point does double duty, and the prepositive code point is not used. If the pattern
-established by <abbr class="small-caps">TIPEHA</abbr> and <abbr class="small-caps">GERESH</abbr>
-were to be followed, <abbr class="small-caps">MAHAPAKH</abbr> before a vowel would code
-<span class="romanized">yetiv</span> (surprising but at least following the pattern) and 
-<abbr class="small-caps">MAHAPAKH</abbr> after a vowel would code
-<span class="romanized">mahapakh</span>.</li>
+were followed, <abbr class="small-caps">MAHAPAKH</abbr> rather than
+<abbr class="small-caps">YETIV</abbr> would be used: <abbr class="small-caps">MAHAPAKH</abbr> before
+a vowel would code <span class="romanized">yetiv</span> (surprising but at least following the
+pattern) and  <abbr class="small-caps">MAHAPAKH</abbr> after a vowel (the normal order) would code
+<span class="romanized">mahapakh</span> (the normal meaning of
+<abbr class="small-caps">MAHAPAKH</abbr>).</li>
 </ul>
 <p>In some but not all cases, the logical order of these code points reflects a desired visual
-ordering. Even when it does reflect a desired visual ordering, few if any fonts will render the
-marks in the desired visual order. In detail:</p>
+ordering. Even when it does reflect a desired visual ordering, this visual ordering is very unlikely
+to be achieved. Few if any fonts will render the marks in the desired visual order, and in
+normalizing contexts like most web browsers, the font won’t even get a chance to try. In detail:</p>
 <ul>
 <li>The code point <abbr class="small-caps">TIPEHA</abbr> before a vowel codes
 <span class="romanized">deḥi</span> (!), e.g.  to encode the <span class="romanized">segol</span>
 and <span class="romanized">deḥi</span> under the letter <span class="romanized">he</span> in
-<bdi lang="hbo">הֶ֭חרשתי</bdi> in Psalm 32:3 (fully:
+<bdi lang="hbo">הֶ֭חרשתי</bdi> (Psalm 32:3) (fully:
 <bdi lang="hbo">הֶ֭חֱרַשְׁתִּי</bdi>&thinsp;),<ul>
 <li>Instead of ‹<abbr class="small-caps">POINT SEGOL</abbr>, <abbr class="small-caps">DEHI</abbr>›,
 <abbr class="small-caps">CTR</abbr> uses ‹<abbr class="small-caps">TIPEHA</abbr>,
 <abbr class="small-caps">POINT SEGOL</abbr>›.</li>
-<li>Schematically (using a plus sign to indicate a kind of concatenation), instead of
-<bdi lang="hbo">הֶ+ה֭</bdi>, <abbr class="small-caps">CTR</abbr> uses <bdi lang="hbo">ה֖+הֶ</bdi>.
-(The plus sign expressions are meant to be read right to left.)</li>
+<li>I.e., instead of <bdi lang="hbo">הֶ+ה֭</bdi>, <abbr class="small-caps">CTR</abbr> uses
+<bdi lang="hbo">ה֖+הֶ</bdi>. (The plus sign expression indicates a kind of concatenation, and is
+meant to be read right to left.)</li>
 <li>This is very unlikely to have the desired appearance in most fonts. Plus, in normalizing
 contexts like most web browsers, the font won’t even get a chance to try. E.g. in this document’s
 context, it will look like this: <bdi lang="hbo">הֶ֖חרשתי</bdi>.</li>
@@ -83,23 +87,24 @@ many other editions.</li>
 </ul>
 </li>
 <li>The code point <abbr class="small-caps">TIPEHA</abbr> after a vowel codes
-<span class="romanized">tarḥa</span> / <span class="romanized">tipeḥa</span>, e.g.  Psalm 32:2
-<bdi lang="hbo">וְאֵ֖ין</bdi>, as is normally the case.</li>
+<span class="romanized">tarḥa</span> / <span class="romanized">tipeḥa</span>, e.g. 
+<bdi lang="hbo">וְאֵ֖ין</bdi> (Psalm 32:2).</li>
 <li>The code point <abbr class="small-caps">GERESH</abbr> before a vowel codes
 <span class="romanized">geresh muqdam</span> (!), e.g.  to encode the
 <span class="romanized">tsere</span> and <span class="romanized">geresh muqdam</span> on the letter
-<span class="romanized">alef</span> in <bdi lang="hbo">אֵ֝ליו</bdi> in Psalm 32:6 (fully:
+<span class="romanized">alef</span> in <bdi lang="hbo">אֵ֝ליו</bdi> (Psalm 32:6) (fully:
 <bdi lang="hbo">אֵ֝לָ֗יו</bdi>&thinsp;),<ul>
 <li>Instead of ‹<abbr class="small-caps">TSERE</abbr>, <abbr class="small-caps">GERESH
 MUQDAM</abbr>›, <abbr class="small-caps">CTR</abbr> uses ‹<abbr class="small-caps">GERESH</abbr>,
 <abbr class="small-caps">TSERE</abbr>›.</li>
-<li>Schematically (using a plus sign to indicate a kind of concatenation), instead of
-<bdi lang="hbo">אֵ+א֝</bdi>, <abbr class="small-caps">CTR</abbr> uses <bdi lang="hbo">א֜+אֵ</bdi>.
-(The plus sign expressions are meant to be read right to left.)</li>
-<li>This is very unlikely to have quite the desired appearance in most fonts. E.g. in this
-document’s context, it will look like this: <bdi lang="hbo">אֵ֜ליו</bdi>. Because the two marks in
-question are not both below-marks, this looks pretty close to the desired appearance. But it is
-still not quite right.</li>
+<li>I.e., instead of <bdi lang="hbo">אֵ+א֝</bdi>, <abbr class="small-caps">CTR</abbr> uses
+<bdi lang="hbo">א֜+אֵ</bdi>. (The plus sign expression indicates a kind of concatenation, and is
+meant to be read right to left.)</li>
+<li>This is very unlikely to have quite the desired appearance in most fonts. Plus, in normalizing
+contexts like most web browsers, the font won’t even get a chance to try. E.g. in this document’s
+context, it will look like this: <bdi lang="hbo">אֵ֜ליו</bdi>. Because the two marks in question are
+not both below-marks, this looks pretty close to the desired appearance. But it is still not quite
+right.</li>
 </ul>
 </li>
 <li>The code point <abbr class="small-caps">GERESH</abbr> after a vowel codes
@@ -109,14 +114,14 @@ still not quite right.</li>
 <li>The code point <abbr class="small-caps">YETIV</abbr> after a vowel codes
 <span class="romanized">mahapakh</span> (!), e.g.  to encode the
 <span class="romanized">qamats</span> and <span class="romanized">mahapakh</span> under the letter
-<span class="romanized">tav</span> in <bdi lang="hbo">אתָּ֤ה</bdi> in Psalm 32:7 (fully:
+<span class="romanized">tav</span> in <bdi lang="hbo">אתָּ֤ה</bdi> (Psalm 32:7) (fully:
 <bdi lang="hbo">אַתָּ֤ה׀</bdi>&thinsp;),<ul>
 <li>Instead of ‹<abbr class="small-caps">QAMATS</abbr>, <abbr class="small-caps">MAHAPAKH</abbr>›,
 <abbr class="small-caps">CTR</abbr> uses ‹<abbr class="small-caps">QAMATS</abbr>,
 <abbr class="small-caps">YETIV</abbr>›.</li>
-<li>Schematically (using a plus sign to indicate a kind of concatenation), instead of
-<bdi lang="hbo">תָּ+תּ֤</bdi>, <abbr class="small-caps">CTR</abbr> uses
-<bdi lang="hbo">תָּ+תּ֚</bdi>. (The plus sign expressions are meant to be read right to left.)</li>
+<li>I.e., instead of <bdi lang="hbo">תָּ+תּ֤</bdi>, <abbr class="small-caps">CTR</abbr> uses
+<bdi lang="hbo">תָּ+תּ֚</bdi>. (The plus sign expression indicates a kind of concatenation, and is
+meant to be read right to left.)</li>
 <li>This is very unlikely to have the desired appearance in most fonts. Plus, in normalizing
 contexts like most web browsers, the font won’t even get a chance to try. E.g. in this document’s
 context, it will look like this: <bdi lang="hbo">אתָּ֚ה</bdi>.</li>
@@ -131,7 +136,7 @@ E.g., <abbr class="small-caps">TIPEHA</abbr> before <abbr class="small-caps">HOL
 But, consistent with the general sloppiness of <abbr class="small-caps">CTR</abbr>, sometimes
 <abbr class="small-caps">TIPEHA</abbr> appears after <abbr class="small-caps">HOLAM</abbr>, even
 when a <span class="romanized">deḥi</span> is (or should be) intended, e.g. in
-<bdi lang="hbo">בֹּ֖קֶר</bdi>,  and <bdi lang="hbo">עֹ֖ז</bdi> in (Psalm 5:4,  and 22:11).</p>
+<bdi lang="hbo">בֹּ֖קֶר</bdi>,  and <bdi lang="hbo">עֹ֖ז</bdi> (Psalm 5:4,  and 22:11).</p>
 <p>Note that <abbr class="small-caps">TIPEHA</abbr> before <abbr class="small-caps">HOLAM</abbr>
 (the only above-vowel) is somewhat analogous to <abbr class="small-caps">GERESH</abbr> before a
 below-vowel. In both cases, the ordering does not reflect a desired visual ordering,  since in each
@@ -168,8 +173,8 @@ muqdam</span> and <span class="romanized">geresh</span>:    but these accents ar
 poetic and prose systems respectively,    so there is no ambiguity.</li>
 <li><abbr class="small-caps">YETIV</abbr> again codes both <span class="romanized">yetiv</span> and
 <span class="romanized">mahapakh</span>,    but, with no pattern I can discern, sometimes   
-<abbr class="small-caps">MAHAPAKH</abbr> codes <span class="romanized">mahapakh</span>, as in Psalm
-32:11 <bdi lang="hbo">שמח֤ו</bdi>.</li>
+<abbr class="small-caps">MAHAPAKH</abbr> codes <span class="romanized">mahapakh</span>, as in
+<bdi lang="hbo">שמח֤ו</bdi> (Psalm 32:11).</li>
 </ul>
 </body>
 </html>
