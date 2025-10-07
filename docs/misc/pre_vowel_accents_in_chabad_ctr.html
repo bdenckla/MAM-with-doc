@@ -14,9 +14,9 @@ called
 Complete Tanach with Rashi</a> (<abbr class="small-caps">CTR</abbr>). (See my
 <a href="./on_the_provenance_of_chabad_ctr.html">document</a>, “On the Provenance of Chabad’s
 CTR.”)</p>
-<p>In several cases, <abbr class="small-caps">CTR</abbr> declines to avail itself of distinctions
-that were available in Unicode 2.0, but, curiously, makes these distinctions in nonstandard ways. On
-a letter with a code point for a vowel mark (including <abbr class="small-caps">HOLAM</abbr>),
+<p>The <abbr class="small-caps">CTR</abbr> edition distinguishes three pairs of accents using a
+nonstandard mechanism rather than using the code points dedicated to making these distinctions. On a
+letter with a code point for a vowel mark (including <abbr class="small-caps">HOLAM</abbr>),
 <abbr class="small-caps">CTR</abbr> distinguishes the following prepositives from their impositive
 “lookalikes” by the logical order of an accent code point relative to that vowel:</p>
 <ul>
@@ -47,12 +47,12 @@ context.<ul>
 </ul>
 </li>
 </ul>
-<p>There are many levels of strangeness here.</p>
+<p>There are three levels of strangeness here.</p>
 <ul>
-<li>It is not standard to ever code an accent before a vowel, and indeed, such an order will be
-normalized away in some environments, notably, in most web browsers.</li>
-<li>It is certainly not standard to make a <em>distinction</em> between an accent coded before a
-vowel and after a vowel.</li>
+<li>As mentioned above, there are code points dedicated to making these distinctions. These code
+points have been around since the introduction of Hebrew accent code points, in Unicode 2.0.</li>
+<li>The accent-before-vowel order will be normalized away in some environments, notably, in most web
+browsers.</li>
 <li>The use of <abbr class="small-caps">YETIV</abbr> breaks the pattern established by
 <abbr class="small-caps">TIPEHA</abbr> and <abbr class="small-caps">GERESH</abbr>, where the
 impositive code point does double duty, and the prepositive code point is not used. If the pattern
