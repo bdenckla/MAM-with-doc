@@ -56,18 +56,16 @@ to the Unicode <abbr class="small-caps">SEWG</abbr>.</p>
 point enables. Rather, <abbr class="small-caps">CTR</abbr> uses a nonstandard workaround to try to
 make this distinction. This workaround may work (accidentally or intentionally) in some fonts, but
 not in all fonts.</p>
-<p>The workaround is to use the sequence ‹<abbr class="small-caps">ZWJ</abbr>,
-<abbr class="small-caps">HOLAM</abbr>› instead of the single code point
-<abbr class="small-caps">HOLAM HASER FOR VAV</abbr>. For example, to encode the
-<span class="romanized">ḥolam ḥaser</span> on the letter <span class="romanized">vav</span> in
-<bdi lang="hbo">עוֺן</bdi> in Psalm 32:5 (fully: <bdi lang="hbo">עֲוֺ֖ן</bdi>&thinsp;), instead of
-<abbr class="small-caps">HOLAM HASER FOR VAV</abbr>, <abbr class="small-caps">CTR</abbr> uses
-‹<abbr class="small-caps">ZWJ</abbr>, <abbr class="small-caps">HOLAM</abbr>›. In some fonts, this
-may accidentally have something like the desired appearance, since the
-<abbr class="small-caps">ZWJ</abbr> may “confuse” the font into putting the
-<abbr class="small-caps">HOLAM</abbr> fully after the <span class="romanized">vav</span>. But in
-other fonts, the <abbr class="small-caps">HOLAM</abbr> will still appear directly over the
-<span class="romanized">vav</span>, as it would if there were no
+<p>The workaround is the sequence ‹<abbr class="small-caps">ZWJ</abbr>,
+<abbr class="small-caps">HOLAM</abbr>›. For example, to encode the <span class="romanized">ḥolam
+ḥaser</span> on the letter <span class="romanized">vav</span> in <bdi lang="hbo">עוֺן</bdi> in
+Psalm 32:5 (fully: <bdi lang="hbo">עֲוֺ֖ן</bdi>&thinsp;), instead of <abbr class="small-caps">HOLAM
+HASER FOR VAV</abbr>, <abbr class="small-caps">CTR</abbr> uses ‹<abbr class="small-caps">ZWJ</abbr>,
+<abbr class="small-caps">HOLAM</abbr>›. In some fonts, this may accidentally have something like the
+desired appearance, since the <abbr class="small-caps">ZWJ</abbr> may “confuse” the font into
+putting the <abbr class="small-caps">HOLAM</abbr> fully after the
+<span class="romanized">vav</span>. But in other fonts, the <abbr class="small-caps">HOLAM</abbr>
+will still appear directly over the <span class="romanized">vav</span>, as it would if there were no
 <abbr class="small-caps">ZWJ</abbr>.</p>
 <p>The <abbr class="small-caps">CTR</abbr> edition even declines to avail itself of distinctions
 that were available in Unicode 2.0. For example, <abbr class="small-caps">CTR</abbr> does not
@@ -134,8 +132,8 @@ Psalm 32:1:</p>
 <p>Side note: In <abbr class="small-caps">CTR</abbr>, פשע is accented with the
 <abbr class="small-caps">CTR</abbr> coding for <span class="romanized">geresh</span> rather than
 <span class="romanized">geresh muqdam</span>. Nonetheless, we interpret it as
-<span class="romanized">geresh muqdam</span>. (It would be willfully uncharitable to
-<abbr class="small-caps">CTR</abbr> to interpret it as <span class="romanized">geresh</span>.)</p>
+<span class="romanized">geresh muqdam</span>. (It would be uncharitable to interpret it as
+<span class="romanized">geresh</span>.)</p>
 <p>Now let’s look at אשרי in Psalm 32:2:</p>
 <table class="center">
 <tr>
@@ -308,7 +306,7 @@ vertical line to distinguish <span class="romanized">paseq</span> from
 <table class="center">
 <tr>
 <td><abbr class="small-caps">CTR-A</abbr></td>
-<td><bdi lang="hbo">ולילה ‖ תכבד</bdi></td>
+<td>ולילה |<sub>פ</sub> תכבד</td>
 <td><span class="romanized">paseq</span></td>
 </tr>
 <tr>
