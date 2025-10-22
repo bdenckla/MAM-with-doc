@@ -16,6 +16,7 @@ body {
 @font-face { font-family: "Taamey D WOFF2"; src: url("woff2/Taamey_D.woff2"); }
 em { font-style: normal; font-weight: bold; }
 span.romanized { font-style: italic; }
+span.book-title { font-style: italic; }
 abbr.small-caps { text-transform: lowercase; font-variant: small-caps; }
 p { text-align: justify; }
 li { text-align: justify; }
