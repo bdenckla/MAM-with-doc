@@ -1,3 +1,10 @@
+:root {
+  color-scheme: light dark;
+}
+.element {
+  color: light-dark(black, white);
+  background-color: light-dark(white, black);
+}
 body { font-size: 14pt; }
 *[lang="hbo"] {
     font-family: "Taamey D WOFF2";
@@ -17,10 +24,10 @@ span.mam-letter-hung { vertical-align: super; }
 span.mam-lp-legarmeih { font-weight: bold; }
 span.mam-lp-paseq { font-size: 85%; }
 span.mam-implicit-maqaf { color: gray; }
-span.mam-note-callout { color: red; }
-span.mam-doc-callout { color: red; }
-span.mam-doc-lemma { color: blue; }
-span.mam-doc-target-without-callout { color: blue; }
+span.mam-note-callout { color: light-dark(red, pink); }
+span.mam-doc-callout { color: light-dark(red, pink); }
+span.mam-doc-lemma { color: light-dark(blue, lightblue); }
+span.mam-doc-target-without-callout { color: light-dark(blue, lightblue); }
 table.border-collapse { border-collapse: collapse; }
 th, td {
     padding-right: 0.4em;
