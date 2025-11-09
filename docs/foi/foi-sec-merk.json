@@ -150,11 +150,6 @@
     "r": "נָרִ֥יעַֽ"
   },
   {
-    "bcv_short": "Ps106:39",
-    "fp": "b-(mos)/(mer),(mos)",
-    "r": "בְּמַ֥עַלְלֵיהֶֽם׃"
-  },
-  {
     "bcv_short": "Ps119:90",
     "fp": "b-(mos)/(mer),(mos)",
     "r": "כּוֹנַ֥נְתָּֽ"
@@ -188,16 +183,6 @@
     "bcv_short": "Jb35:14",
     "fp": "b-(mos)/(mer),(mos)",
     "r": "וּתְח֥וֹלֵֽל"
-  },
-  {
-    "bcv_short": "Jb21:2",
-    "fp": "b-(mos)/(mer),(mos),(mos)",
-    "r": "תַּנְח֥וּמֹֽתֵיכֶֽם׃"
-  },
-  {
-    "bcv_short": "Ps12:6",
-    "fp": "b-(mos)/(mer),(mos)-(mos)",
-    "r": "יָפִ֥יחַֽ־לֽוֹ׃"
   },
   {
     "bcv_short": "Ps94:9",
@@ -593,6 +578,21 @@
     "bcv_short": "Ps66:15",
     "fp": "b-(tip)/(mer),(mos)-(tip)",
     "r": "אֶ֥עֱשֶֽׂה־בָקָ֖ר"
+  },
+  {
+    "bcv_short": "Jb21:2",
+    "fp": "b-nu_slq/(mer),(mos),nu_slq",
+    "r": "תַּנְח֥וּמֹֽתֵיכֶֽם׃"
+  },
+  {
+    "bcv_short": "Ps12:6",
+    "fp": "b-nu_slq/(mer),(mos)-nu_slq",
+    "r": "יָפִ֥יחַֽ־לֽוֹ׃"
+  },
+  {
+    "bcv_short": "Ps106:39",
+    "fp": "b-nu_slq/(mer),nu_slq",
+    "r": "בְּמַ֥עַלְלֵיהֶֽם׃"
   },
   {
     "bcv_short": "Ps21:2",
