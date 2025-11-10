@@ -679,13 +679,13 @@
   },
   {
     "bcv_short": "Jb12:6",
-    "Breuer": null,
+    "Breuer": "11.35.rn1",
     "fp": "b-(rev)/(mer),(rev)",
     "r": "לְשֹׁ֥דְﬞדִ֗ים"
   },
   {
     "bcv_short": "Jb24:5",
-    "Breuer": null,
+    "Breuer": "11.36.rn1",
     "fp": "b-(rev)/(mer),(rev)",
     "r": "בַּ֥מִּדְבָּ֗ר"
   },
@@ -715,25 +715,25 @@
   },
   {
     "bcv_short": "Ps21:2",
-    "Breuer": null,
+    "Breuer": "11.40.rn1",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וּ֝בִישׁ֥וּעָתְךָ֗"
   },
   {
     "bcv_short": "Ps36:6",
-    "Breuer": null,
+    "Breuer": "11.40.rn1",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "אֱ֝מ֥וּנָתְךָ֗"
   },
   {
     "bcv_short": "Ps40:9",
-    "Breuer": null,
+    "Breuer": "11.40.rn1",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
   },
   {
     "bcv_short": "Ps88:12",
-    "Breuer": null,
+    "Breuer": "11.40.rn1",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "אֱ֝מ֥וּנָתְךָ֗"
   },
@@ -751,7 +751,7 @@
   },
   {
     "bcv_short": "Ps107:6",
-    "Breuer": null,
+    "Breuer": "11.40.es2.rn1",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "מִ֝מְּצ֥וּקוֹתֵיהֶ֗ם"
   },
@@ -769,13 +769,13 @@
   },
   {
     "bcv_short": "Ps118:26",
-    "Breuer": null,
+    "Breuer": "11.41",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "בֵּ֝רַ֥כְנוּכֶ֗ם"
   },
   {
     "bcv_short": "Ps119:41",
-    "Breuer": null,
+    "Breuer": "11.40.rn1",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "תְּ֝שׁ֥וּעָתְךָ֗"
   },
@@ -787,37 +787,37 @@
   },
   {
     "bcv_short": "Ps119:109",
-    "Breuer": null,
+    "Breuer": "11.40.rn1",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
   },
   {
     "bcv_short": "Ps119:174",
-    "Breuer": null,
+    "Breuer": "11.40.rn1",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
   },
   {
     "bcv_short": "Jb13:21",
-    "Breuer": null,
+    "Breuer": "11.40.es2.rn1",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וְ֝אֵ֥מָתְךָ֗"
   },
   {
     "bcv_short": "Jb21:34",
-    "Breuer": null,
+    "Breuer": "11.40.rn1",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וּ֝תְשׁ֥וּבֹתֵיכֶ֗ם"
   },
   {
     "bcv_short": "Ps119:61",
-    "Breuer": null,
+    "Breuer": "11.40.es2.rn1",
     "fp": "b-rev-mug/(mer)+(ger_m),(rev)",
     "r": "תּ֥֝וֹרָתְךָ֗"
   },
   {
     "bcv_short": "Ps107:17",
-    "Breuer": null,
+    "Breuer": "11.40.rn1",
     "fp": "b-rev-mug/(nu_mtg)+(ger_m),(mer),(rev)",
     "r": "וּֽ֝מֵעֲוֺ֥נֹתֵיהֶ֗ם"
   },
@@ -847,7 +847,7 @@
   },
   {
     "bcv_short": "Pr3:5",
-    "Breuer": null,
+    "Breuer": "11.40.rn1",
     "fp": "b-rev-mug/-(mer)+(ger_m),(rev)",
     "r": "וְאֶל־בִּ֥֝ינָתְךָ֗"
   },
