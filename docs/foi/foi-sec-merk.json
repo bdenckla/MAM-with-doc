@@ -33,7 +33,7 @@
   },
   {
     "bcv_short": "Ps96:4",
-    "Breuer-ref_1": null,
+    "Breuer-ref_1": "09.18",
     "Breuer-ref_2": null,
     "Breuer-note": null,
     "fp": "b-(mah)/(mer)-≁,(mah)",
@@ -42,14 +42,14 @@
   {
     "bcv_short": "Ps117:2",
     "Breuer-ref_1": "11.04",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.18",
     "Breuer-note": null,
     "fp": "b-(mah)/(mer)-≁,(mah)",
     "r": "כִּ֥י־גָ֘בַ֤ר"
   },
   {
     "bcv_short": "Jb34:37",
-    "Breuer-ref_1": null,
+    "Breuer-ref_1": "09.18",
     "Breuer-ref_2": null,
     "Breuer-note": null,
     "fp": "b-(mah)/(mer)-≁,(mah)",
@@ -130,7 +130,7 @@
   {
     "bcv_short": "Ps31:24",
     "Breuer-ref_1": "11.20.rn3",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.23",
     "Breuer-note": null,
     "fp": "b-(mer)/(mer),(mer)",
     "r": "אֶ֥הֱב֥וּ"
@@ -218,7 +218,7 @@
   {
     "bcv_short": "Ps12:7",
     "Breuer-ref_1": "11.26.rn4",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.23.rn2",
     "Breuer-note": null,
     "fp": "b-(mun)/(mer),(mun)",
     "r": "אִ֥מְﬞר֣וֹת"
@@ -226,7 +226,7 @@
   {
     "bcv_short": "Ps18:7",
     "Breuer-ref_1": "11.26.rn4",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.23.rn2",
     "Breuer-note": null,
     "fp": "b-(mun)/(mer),(mun)",
     "r": "אֶ֥קְﬞרָ֣א"
@@ -234,7 +234,7 @@
   {
     "bcv_short": "Ps37:14",
     "Breuer-ref_1": "11.26.rn3",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.23.rn2",
     "Breuer-note": null,
     "fp": "b-(mun)/(mer),(mun)",
     "r": "פָּ֥תְח֣וּ"
@@ -498,7 +498,7 @@
   {
     "bcv_short": "Pr6:14",
     "Breuer-ref_1": "11.06.rn2",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.25",
     "Breuer-note": null,
     "fp": "b-(nu_azl_leg)/(mer),(nu_azl_leg)",
     "r": "תַּ֥הְפֻּכ֨וֹת׀"
@@ -514,7 +514,7 @@
   {
     "bcv_short": "Ps7:6",
     "Breuer-ref_1": "11.03",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.23.fn21",
     "Breuer-note": null,
     "fp": "b-(nu_azl_leg)/(mer),(nu_mtg)-(nu_azl_leg)",
     "r": "יִ֥רַדֹּֽף־אוֹיֵ֨ב׀"
@@ -803,7 +803,7 @@
     "bcv_short": "Jb21:2",
     "Breuer-ref_1": "11.80.rn3",
     "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-note": "Breuer has no געיה",
     "fp": "b-(nu_slq)/(mer),(nu_mtg),(nu_slq)",
     "r": "תַּנְח֥וּמֹֽתֵיכֶֽם׃"
   },
@@ -898,7 +898,7 @@
   {
     "bcv_short": "Ps31:19",
     "Breuer-ref_1": "11.19",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.20",
     "Breuer-note": null,
     "fp": "b-(rev)/(mer),(rev)",
     "r": "תֵּ֥אָלַ֗מְנָה"
@@ -962,8 +962,8 @@
   {
     "bcv_short": "Ps36:6",
     "Breuer-ref_1": "11.40.rn1",
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-ref_2": "09.20",
+    "Breuer-note": "only cited at 36:6 by Breuer but also appears at 88:12",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "אֱ֝מ֥וּנָתְךָ֗"
   },
@@ -971,15 +971,15 @@
     "bcv_short": "Ps40:9",
     "Breuer-ref_1": "11.40.rn1",
     "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-note": "only cited at 40:9 by Breuer but also appears at 119:109 and 119:174",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
   },
   {
     "bcv_short": "Ps88:12",
     "Breuer-ref_1": "11.40.rn1",
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-ref_2": "09.20",
+    "Breuer-note": "only cited at 36:6 by Breuer but also appears at 88:12",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "אֱ֝מ֥וּנָתְךָ֗"
   },
@@ -1051,7 +1051,7 @@
     "bcv_short": "Ps119:109",
     "Breuer-ref_1": "11.40.rn1",
     "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-note": "only cited at 40:9 by Breuer but also appears at 119:109 and 119:174",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
   },
@@ -1059,7 +1059,7 @@
     "bcv_short": "Ps119:174",
     "Breuer-ref_1": "11.40.rn1",
     "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-note": "only cited at 40:9 by Breuer but also appears at 119:109 and 119:174",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
   },
@@ -1091,7 +1091,7 @@
     "bcv_short": "Ps107:17",
     "Breuer-ref_1": "11.40.rn1",
     "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-note": "Breuer has no געיה",
     "fp": "b-rev-mug/(nu_mtg)+(ger_m),(mer),(rev)",
     "r": "וּֽ֝מֵעֲוֺ֥נֹתֵיהֶ֗ם"
   },
