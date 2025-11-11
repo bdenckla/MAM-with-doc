@@ -122,8 +122,8 @@
   {
     "bcv_short": "Ps18:3",
     "Breuer-ref_1": "11.20.rn4",
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-ref_2": "09.23.fn23",
+    "Breuer-note": "חטף חריק",
     "fp": "b-(mer)/(mer),(mer)",
     "r": "סַ֥לְעִ֥י"
   },
@@ -170,8 +170,8 @@
   {
     "bcv_short": "Ps69:21",
     "Breuer-ref_1": "11.20.rn3",
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-ref_2": "09.23.fn23",
+    "Breuer-note": "vocal",
     "fp": "b-(mer)/(mer),(mer)",
     "r": "שָׁ֥בְרָ֥ה"
   },
@@ -250,16 +250,16 @@
   {
     "bcv_short": "Ps49:15",
     "Breuer-ref_1": "11.26.rn4",
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-ref_2": "09.23.fn23",
+    "Breuer-note": "חטף חולם",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "לִ֥שְׁא֣וֹל"
   },
   {
     "bcv_short": "Ps51:19",
-    "Breuer-ref_1": null,
+    "Breuer-ref_1": "09.23.fn23",
     "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-note": "חטף צירה",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "זִ֥בְחֵ֣י"
   },
@@ -298,8 +298,8 @@
   {
     "bcv_short": "Ps86:2",
     "Breuer-ref_1": "11.26.rn4",
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-ref_2": "09.23.fn23",
+    "Breuer-note": "vocal (or at least, “not [...] fully silent” (!))",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "שׇׁ֥מְרָ֣ה"
   },
@@ -329,9 +329,9 @@
   },
   {
     "bcv_short": "Pr8:13",
-    "Breuer-ref_1": null,
+    "Breuer-ref_1": "09.23.fn23",
     "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-note": "vocal (or at least, “not [...] fully silent” (!))",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "יִ֥רְאַ֣ת"
   },
@@ -530,8 +530,8 @@
   {
     "bcv_short": "Ps19:15",
     "Breuer-ref_1": "11.03",
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-ref_2": "09.23.fn22",
+    "Breuer-note": "merkha does not mobilize the shewa?",
     "fp": "b-(nu_azl_leg)/(mer),(nu_mtg)-(nu_azl_leg)",
     "r": "יִ֥הְיֽוּ־לְרָצ֨וֹן׀"
   },
@@ -546,8 +546,8 @@
   {
     "bcv_short": "Ps140:6",
     "Breuer-ref_1": "11.03",
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-ref_2": "09.23.fn23",
+    "Breuer-note": "vocal",
     "fp": "b-(nu_azl_leg)/(mer),(nu_mtg)-(nu_azl_leg)",
     "r": "טָ֥מְנֽוּ־גֵאִ֨ים׀"
   },
