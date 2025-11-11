@@ -319,13 +319,13 @@
   },
   {
     "bcv_short": "Ps61:5",
-    "Breuer": null,
+    "Breuer": "11.79.rn1",
     "fp": "b-(nu_azl)/(mer),(nu_azl)",
     "r": "אֶ֥חֱסֶ֨ה"
   },
   {
     "bcv_short": "Ps89:46",
-    "Breuer": null,
+    "Breuer": "11.79.rn1",
     "fp": "b-(nu_azl)/(mer),(nu_azl)",
     "r": "הֶ֥עֱטִ֨יתָ"
   },
@@ -343,7 +343,7 @@
   },
   {
     "bcv_short": "Ps47:5",
-    "Breuer": null,
+    "Breuer": "11.79.rn1",
     "fp": "b-(nu_azl)/(mer)-(nu_azl)",
     "r": "אֶ֥ת־גְּא֨וֹן"
   },
@@ -601,7 +601,7 @@
   },
   {
     "bcv_short": "Jb21:2",
-    "Breuer": null,
+    "Breuer": "11.80.rn3",
     "fp": "b-(nu_slq)/(mer),(nu_mtg),(nu_slq)",
     "r": "תַּנְח֥וּמֹֽתֵיכֶֽם׃"
   },
@@ -613,7 +613,7 @@
   },
   {
     "bcv_short": "Ps106:39",
-    "Breuer": null,
+    "Breuer": "11.80.rn3",
     "fp": "b-(nu_slq)/(mer),(nu_slq)",
     "r": "בְּמַ֥עַלְלֵיהֶֽם׃"
   },
@@ -703,13 +703,13 @@
   },
   {
     "bcv_short": "Ps46:4",
-    "Breuer": null,
+    "Breuer": "11.79.rn2",
     "fp": "b-(tip)/(mer),(nu_mtg)-(tip)",
     "r": "יִ֥רְעֲשֽׁוּ־הָרִ֖ים"
   },
   {
     "bcv_short": "Ps66:15",
-    "Breuer": null,
+    "Breuer": "11.79.rn2",
     "fp": "b-(tip)/(mer),(nu_mtg)-(tip)",
     "r": "אֶ֥עֱשֶֽׂה־בָקָ֖ר"
   },
