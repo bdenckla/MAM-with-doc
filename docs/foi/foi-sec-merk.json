@@ -2,7 +2,7 @@
   {
     "bcv_short": "Ps48:5",
     "Breuer-ref_1": "11.55.rn1",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.35.rn2",
     "Breuer-note": null,
     "fp": "b-(atn)/(mer),(atn)",
     "r": "נ֥וֹעֲד֑וּ"
@@ -10,7 +10,7 @@
   {
     "bcv_short": "Ps106:29",
     "Breuer-ref_1": "11.55.rn1",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.35.rn2",
     "Breuer-note": null,
     "fp": "b-(atn)/(mer),(atn)",
     "r": "בְּמַ֥עַלְלֵיהֶ֑ם"
@@ -219,7 +219,7 @@
     "bcv_short": "Ps12:7",
     "Breuer-ref_1": "11.26.rn4",
     "Breuer-ref_2": "09.23.rn2",
-    "Breuer-note": null,
+    "Breuer-note": "Also appears in 9.33.rn2",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "אִ֥מְﬞר֣וֹת"
   },
@@ -307,7 +307,7 @@
     "bcv_short": "Ps113:7",
     "Breuer-ref_1": "11.56.rn1",
     "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-note": "Mentioned (along with Jb40:10 עדה נא) indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56.",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "מְקִ֥ימִ֣י"
   },
@@ -370,7 +370,7 @@
   {
     "bcv_short": "Ps89:25",
     "Breuer-ref_1": "11.53",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.28.rn2",
     "Breuer-note": null,
     "fp": "b-(mun)/(mer),(nu_mtg),(mun)",
     "r": "וֶ֥אֱֽמוּנָתִ֣י"
@@ -386,8 +386,8 @@
   {
     "bcv_short": "Ps40:9",
     "Breuer-ref_1": "11.53",
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-ref_2": "09.28.rn2",
+    "Breuer-note": "Why doesn't Breuer (1) have a maqaf (2) mention L's געיה on ש? Also appears in 9.32 body text and 9.33.rn1",
     "fp": "b-(mun)/(mer)-(mun)",
     "r": "לַ֥עֲשׂוֹת־רְצוֹנְךָ֣"
   },
@@ -427,7 +427,7 @@
     "bcv_short": "Ps61:5",
     "Breuer-ref_1": "11.79.rn1",
     "Breuer-ref_2": "09.26.rn1",
-    "Breuer-note": null,
+    "Breuer-note": "Also appears in 9.33.rn1",
     "fp": "b-(nu_azl)/(mer),(nu_azl)",
     "r": "אֶ֥חֱסֶ֨ה"
   },
@@ -435,7 +435,7 @@
     "bcv_short": "Ps89:46",
     "Breuer-ref_1": "11.79.rn1",
     "Breuer-ref_2": "09.26.rn1",
-    "Breuer-note": null,
+    "Breuer-note": "9.29 notes that μS1 has געיה where μA & μL have azla (the opposite of Ps66:15).",
     "fp": "b-(nu_azl)/(mer),(nu_azl)",
     "r": "הֶ֥עֱטִ֨יתָ"
   },
@@ -459,7 +459,7 @@
     "bcv_short": "Ps47:5",
     "Breuer-ref_1": "11.79.rn1",
     "Breuer-ref_2": "09.27.rn4",
-    "Breuer-note": null,
+    "Breuer-note": "9.30 notes that μS1 has געיה where μA & μL have azla (like Ps89:46).",
     "fp": "b-(nu_azl)/(mer)-(nu_azl)",
     "r": "אֶ֥ת־גְּא֨וֹן"
   },
@@ -499,7 +499,7 @@
     "bcv_short": "Pr6:14",
     "Breuer-ref_1": "11.06.rn2",
     "Breuer-ref_2": "09.25.rn2",
-    "Breuer-note": "also 9.23 body text",
+    "Breuer-note": "Also appears in 9.23 body text",
     "fp": "b-(nu_azl_leg)/(mer),(nu_azl_leg)",
     "r": "תַּ֥הְפֻּכ֨וֹת׀"
   },
@@ -554,7 +554,7 @@
   {
     "bcv_short": "Ps141:5",
     "Breuer-ref_1": "11.03",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.34.rn2",
     "Breuer-note": null,
     "fp": "b-(nu_azl_leg)/(mer),(nu_mtg)-(nu_azl_leg)",
     "r": "יֶ֥הֶלְמֵֽנִי־צַדִּ֨יק׀"
@@ -818,7 +818,7 @@
   {
     "bcv_short": "Ps106:39",
     "Breuer-ref_1": "11.80.rn3",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.35.rn2",
     "Breuer-note": null,
     "fp": "b-(nu_slq)/(mer),(nu_slq)",
     "r": "בְּמַ֥עַלְלֵיהֶֽם׃"
@@ -842,7 +842,7 @@
   {
     "bcv_short": "Ps1:1",
     "Breuer-ref_1": "11.28.rn2",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.34.rn2",
     "Breuer-note": null,
     "fp": "b-(rev)/(mer),(nu_mtg)-(rev)",
     "r": "אַ֥שְֽׁרֵי־הָאִ֗ישׁ"
@@ -938,16 +938,16 @@
   {
     "bcv_short": "Ps46:4",
     "Breuer-ref_1": "11.79.rn2",
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-ref_2": "09.28.rn2",
+    "Breuer-note": "Also appears in 9.33.rn1",
     "fp": "b-(tip)/(mer),(nu_mtg)-(tip)",
     "r": "יִ֥רְעֲשֽׁוּ־הָרִ֖ים"
   },
   {
     "bcv_short": "Ps66:15",
     "Breuer-ref_1": "11.79.rn2",
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-ref_2": "09.29.var-rn2",
+    "Breuer-note": "9.29 notes that μS1 has azla where μA & μL have געיה (the opposite of Ps89:46).",
     "fp": "b-(tip)/(mer),(nu_mtg)-(tip)",
     "r": "אֶ֥עֱשֶֽׂה־בָקָ֖ר"
   },
@@ -1138,7 +1138,7 @@
   {
     "bcv_short": "Ps98:3",
     "Breuer-ref_1": "11.27.rn3",
-    "Breuer-ref_2": null,
+    "Breuer-ref_2": "09.32.rn1",
     "Breuer-note": null,
     "fp": "b-~/(mer),(nu_mtg),~",
     "r": "וֶ֥אֱֽמוּנָתוֹ֮"
@@ -1146,8 +1146,8 @@
   {
     "bcv_short": "Pr8:34",
     "Breuer-ref_1": "11.27.rn2",
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-ref_2": "09.28.rn1",
+    "Breuer-note": "Also appears in 9.33.rn1",
     "fp": "b-~/(mer),(nu_mtg)-~",
     "r": "אַ֥שְֽׁרֵי־אָדָם֮"
   }
