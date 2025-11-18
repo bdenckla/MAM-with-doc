@@ -1,9 +1,631 @@
 [
   {
+    "bcv_short": "Ee16:12",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(nu_mtg)-(pash),(pash)",
+    "r": "וָ֥אֶתֵּֽן־נֶ֙זֶם֙"
+  },
+  {
+    "bcv_short": "G7:19",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "גָּ֥בְר֛וּ"
+  },
+  {
+    "bcv_short": "G40:1",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "חָ֥טְא֛וּ"
+  },
+  {
+    "bcv_short": "E7:20",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וַיֵּהָ֥פְכ֛וּ"
+  },
+  {
+    "bcv_short": "E11:6",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וְהָ֥יְתָ֛ה"
+  },
+  {
+    "bcv_short": "E12:7",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וְנָ֥תְנ֛וּ"
+  },
+  {
+    "bcv_short": "E12:41",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "יָ֥צְא֛וּ"
+  },
+  {
+    "bcv_short": "E35:20",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וַיֵּ֥צְא֛וּ"
+  },
+  {
+    "bcv_short": "N15:38",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וְנָ֥תְנ֛וּ"
+  },
+  {
+    "bcv_short": "D10:6",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "נָ֥סְע֛וּ"
+  },
+  {
+    "bcv_short": "D13:10",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "יָ֥דְךָ֛"
+  },
+  {
+    "bcv_short": "D20:9",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וּפָ֥קְד֛וּ"
+  },
+  {
+    "bcv_short": "D21:13",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וּבָ֥כְתָ֛ה"
+  },
+  {
+    "bcv_short": "D22:18",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וְלָ֥קְח֛וּ"
+  },
+  {
+    "bcv_short": "D27:14",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וְאָ֥מְר֛וּ"
+  },
+  {
+    "bcv_short": "D31:25",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "נֹ֥שְׂאֵ֛י"
+  },
+  {
+    "bcv_short": "Js3:14",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "נֹ֥שְׂאֵ֛י"
+  },
+  {
+    "bcv_short": "Js8:15",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וַיִּנָּ֥גְע֛וּ"
+  },
+  {
+    "bcv_short": "Js21:12",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "נָ֥תְנ֛וּ"
+  },
+  {
+    "bcv_short": "Ju9:44",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "פָּ֥שְׁט֛וּ"
+  },
+  {
+    "bcv_short": "1S14:38",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "הָ֥יְתָ֛ה"
+  },
+  {
+    "bcv_short": "1S23:26",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "עֹ֥טְרִ֛ים"
+  },
+  {
+    "bcv_short": "1S29:2",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "עֹ֥בְרִ֛ים"
+  },
+  {
+    "bcv_short": "2S4:7",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וַיֵּ֥לְכ֛וּ"
+  },
+  {
+    "bcv_short": "2S24:7",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וַיֵּ֥צְא֛וּ"
+  },
+  {
+    "bcv_short": "2K11:7",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וְשָׁ֥מְר֛וּ"
+  },
+  {
+    "bcv_short": "I23:17",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וְזָ֥נְתָ֛ה"
+  },
+  {
+    "bcv_short": "Je2:5",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וַיֵּ֥לְכ֛וּ"
+  },
+  {
+    "bcv_short": "Je3:24",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "אָ֥כְלָ֛ה"
+  },
+  {
+    "bcv_short": "Je9:16",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "הִתְבּ֥וֹנְנ֛וּ"
+  },
+  {
+    "bcv_short": "Je12:10",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "נָ֥תְנ֛וּ"
+  },
+  {
+    "bcv_short": "Je17:27",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וְאָ֥כְלָ֛ה"
+  },
+  {
+    "bcv_short": "Je19:4",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וּמָ֥לְא֛וּ"
+  },
+  {
+    "bcv_short": "Je20:4",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וְנָ֥פְל֛וּ"
+  },
+  {
+    "bcv_short": "Je26:10",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וַיֵּ֥שְׁב֛וּ"
+  },
+  {
+    "bcv_short": "Je37:10",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וְשָׂ֥רְפ֛וּ"
+  },
+  {
+    "bcv_short": "Ee1:9",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "חֹ֥בְרֹ֛ת"
+  },
+  {
+    "bcv_short": "Ee10:3",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "עֹ֥מְדִ֛ים"
+  },
+  {
+    "bcv_short": "Ee32:21",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "יָ֥רְד֛וּ"
+  },
+  {
+    "bcv_short": "Ee33:28",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וְשָׁ֥מְﬞמ֛וּ"
+  },
+  {
+    "bcv_short": "Ee36:3",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וַתֵּ֥עֲל֛וּ"
+  },
+  {
+    "bcv_short": "Ho5:6",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "יֵ֥לְכ֛וּ"
+  },
+  {
+    "bcv_short": "A3:10",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "הָא֥וֹצְרִ֛ים"
+  },
+  {
+    "bcv_short": "A8:12",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "יְשׁ֥וֹטְט֛וּ"
+  },
+  {
+    "bcv_short": "Ts2:5",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "יֹ֥שְׁבֵ֛י"
+  },
+  {
+    "bcv_short": "Zc12:5",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וְאָ֥מְר֛וּ"
+  },
+  {
+    "bcv_short": "La1:14",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "יִשְׂתָּ֥רְג֛וּ"
+  },
+  {
+    "bcv_short": "Es8:14",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "יָ֥צְא֛וּ"
+  },
+  {
+    "bcv_short": "Da10:19",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וָאֹ֥מְרָ֛ה"
+  },
+  {
+    "bcv_short": "Er6:2",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "בְּבִ֥ירְתָ֛א"
+  },
+  {
+    "bcv_short": "Er8:18",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וְשֵׁרֵ֥בְיָ֛ה"
+  },
+  {
+    "bcv_short": "Er9:2",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "הָ֥יְתָ֛ה"
+  },
+  {
+    "bcv_short": "Ne7:1",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וַיִּפָּ֥קְד֛וּ"
+  },
+  {
+    "bcv_short": "Ne12:47",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "נֹ֥תְנִ֛ים"
+  },
+  {
+    "bcv_short": "1C2:46",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "יָ֥לְדָ֛ה"
+  },
+  {
+    "bcv_short": "1C4:28",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וַיֵּ֥שְׁב֛וּ"
+  },
+  {
+    "bcv_short": "1C5:11",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "יָ֥שְׁב֛וּ"
+  },
+  {
+    "bcv_short": "1C5:16",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וַיֵּ֥שְׁב֛וּ"
+  },
+  {
+    "bcv_short": "1C14:11",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "קָ֥רְא֛וּ"
+  },
+  {
+    "bcv_short": "2C1:10",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "וְאֵ֥צְאָ֛ה"
+  },
+  {
+    "bcv_short": "2C16:2",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(mer),(tev)",
+    "r": "מֵאֹ֥צְר֛וֹת"
+  },
+  {
+    "bcv_short": "S2:7",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(nu_mtg)-(mer),(tev)",
+    "r": "וְֽאִם־תְּע֥וֹרְﬞר֛וּ"
+  },
+  {
+    "bcv_short": "S3:5",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(nu_mtg)-(mer),(tev)",
+    "r": "וְֽאִם־תְּע֥וֹרְﬞר֛וּ"
+  },
+  {
+    "bcv_short": "S8:4",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/(nu_mtg)-(mer),(tev)",
+    "r": "וּֽמַה־תְּעֹ֥רְר֛וּ"
+  },
+  {
+    "bcv_short": "N32:20",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/-(mer),(tev)",
+    "r": "אִם־תֵּחָ֥לְצ֛וּ"
+  },
+  {
+    "bcv_short": "D13:16",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/-(mer),(tev)",
+    "r": "אֶת־יֹ֥שְׁבֵ֛י"
+  },
+  {
+    "bcv_short": "Da5:3",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/-(mer),(tev)",
+    "r": "מִן־הֵ֥יכְלָ֛א"
+  },
+  {
+    "bcv_short": "2C13:12",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/-(mer),(tev)",
+    "r": "אַל־תִּלָּ֥חֲמ֛וּ"
+  },
+  {
+    "bcv_short": "2C31:9",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "a-misc/-(mer),(tev)",
+    "r": "עַל־הַכֹּ֥הֲנִ֛ים"
+  },
+  {
     "bcv_short": "Ps48:5",
     "Breuer-ref_1": "11.55.rn1",
     "Breuer-ref_2": "09.35.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(atn)/(mer),(atn)",
     "r": "נ֥וֹעֲד֑וּ"
   },
@@ -12,6 +634,7 @@
     "Breuer-ref_1": "11.55.rn1",
     "Breuer-ref_2": "09.35.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(atn)/(mer),(atn)",
     "r": "בְּמַ֥עַלְלֵיהֶ֑ם"
   },
@@ -20,6 +643,7 @@
     "Breuer-ref_1": "11.55.rn2",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(atn)/(mer)-(atn)",
     "r": "מַ֥עַלְלֵי־אֵ֑ל"
   },
@@ -28,6 +652,7 @@
     "Breuer-ref_1": "11.55.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(atn)/-(mer),(nu_mtg),(atn)",
     "r": "עַד־תְּב֥וּנֹֽתֵיכֶ֑ם"
   },
@@ -36,6 +661,7 @@
     "Breuer-ref_1": "09.18",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mah)/(mer)-≁,(mah)",
     "r": "כִּ֥י־גָ֘ד֤וֹל"
   },
@@ -44,6 +670,7 @@
     "Breuer-ref_1": "11.04",
     "Breuer-ref_2": "09.18",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mah)/(mer)-≁,(mah)",
     "r": "כִּ֥י־גָ֘בַ֤ר"
   },
@@ -52,6 +679,7 @@
     "Breuer-ref_1": "09.18",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mah)/(mer)-≁,(mah)",
     "r": "כִּ֥י־יֹ֘סִ֤יף"
   },
@@ -60,6 +688,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mah),(mer)",
     "r": "יָ֤גֵ֥ל"
   },
@@ -68,6 +697,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mah),(mer)",
     "r": "ה֤וֹרֵ֥נִי"
   },
@@ -76,6 +706,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mah),(mer)",
     "r": "יָ֤בֹ֥א"
   },
@@ -84,6 +715,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mah),(mer)",
     "r": "וְיֹ֤שֵׁ֥ב"
   },
@@ -92,6 +724,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mah),(mer)",
     "r": "נ֤וֹרָ֥א"
   },
@@ -100,6 +733,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mah),(mer)",
     "r": "נ֤וֹדֶ֥ה"
   },
@@ -108,6 +742,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mah),(mer)",
     "r": "ה֤וֹלֵ֥ךְ"
   },
@@ -116,6 +751,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mah)-(mer)",
     "r": "הֲתָ֤עִיף־עֵינֶ֥יךָ"
   },
@@ -124,6 +760,7 @@
     "Breuer-ref_1": "11.20.rn4",
     "Breuer-ref_2": "09.23.fn23",
     "Breuer-note": "חטף חריק",
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mer),(mer)",
     "r": "סַ֥לְעִ֥י"
   },
@@ -132,6 +769,7 @@
     "Breuer-ref_1": "11.20.rn3",
     "Breuer-ref_2": "09.23",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mer),(mer)",
     "r": "אֶ֥הֱב֥וּ"
   },
@@ -140,6 +778,7 @@
     "Breuer-ref_1": "11.20.rn2",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mer),(mer)",
     "r": "וַ֥יַּעְזְרֵ֥ם"
   },
@@ -148,6 +787,7 @@
     "Breuer-ref_1": "11.20.rn2",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mer),(mer)",
     "r": "נִ֥פְלְאֹתֶ֥יךָ"
   },
@@ -156,6 +796,7 @@
     "Breuer-ref_1": "11.20.rn3",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mer),(mer)",
     "r": "יִ֥שְׂמְח֥וּ"
   },
@@ -164,6 +805,7 @@
     "Breuer-ref_1": "11.20.rn4",
     "Breuer-ref_2": "09.24.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mer),(mer)",
     "r": "תִּ֥מְﬞחַ֥ץ"
   },
@@ -172,6 +814,7 @@
     "Breuer-ref_1": "11.20.rn3",
     "Breuer-ref_2": "09.24.rn2",
     "Breuer-note": "explicitly called vocal in 9.23.fn23",
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mer),(mer)",
     "r": "שָׁ֥בְרָ֥ה"
   },
@@ -180,6 +823,7 @@
     "Breuer-ref_1": "11.20.rn4",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mer),(mer)",
     "r": "קִ֥רְﬞבַ֥ת"
   },
@@ -188,6 +832,7 @@
     "Breuer-ref_1": "11.20.rn3",
     "Breuer-ref_2": "09.24.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mer),(mer)",
     "r": "אֶ֥זְכְּרָ֥ה"
   },
@@ -196,6 +841,7 @@
     "Breuer-ref_1": "11.20.rn2",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mer),(mer)",
     "r": "הַ֥מְﬞקָרֶ֥ה"
   },
@@ -204,6 +850,7 @@
     "Breuer-ref_1": "11.20.rn4",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mer),(mer)",
     "r": "אַ֥נְﬞשֵׁ֥י"
   },
@@ -212,14 +859,151 @@
     "Breuer-ref_1": "11.20.rn2",
     "Breuer-ref_2": "09.27.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mer)/(mer)-(mer)",
     "r": "אִ֥ם־בְּתוֹרַ֥ת"
+  },
+  {
+    "bcv_short": "D8:16",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/(nu_azl),(mer)",
+    "r": "הַמַּאֲכִ֨לְךָ֥"
+  },
+  {
+    "bcv_short": "I30:16",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/(nu_azl),(mer)",
+    "r": "וַתֹּ֨אמְר֥וּ"
+  },
+  {
+    "bcv_short": "Ne12:44",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/(nu_azl),(mer)",
+    "r": "לָא֨וֹצָר֥וֹת"
+  },
+  {
+    "bcv_short": "G4:19",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/(nu_mtg),(nu_mtg)-(mer)",
+    "r": "וַיִּֽקַּֽח־ל֥וֹ"
+  },
+  {
+    "bcv_short": "G21:21",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/(nu_mtg),(nu_mtg)-(mer)",
+    "r": "וַתִּֽקַּֽח־ל֥וֹ"
+  },
+  {
+    "bcv_short": "1S11:9",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/(nu_mtg),(nu_mtg)-(mer)",
+    "r": "תִּֽהְיֶֽה־לָכֶ֥ם"
+  },
+  {
+    "bcv_short": "2S17:13",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/(nu_mtg)-(nu_mtg)-(mer)",
+    "r": "אֲשֶֽׁר־לֹֽא־נִמְצָ֥א"
+  },
+  {
+    "bcv_short": "2S18:3",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/(nu_mtg)-(nu_mtg)-(mer)",
+    "r": "כִּֽי־תִֽהְיֶה־לָּ֥נוּ"
+  },
+  {
+    "bcv_short": "2S19:23",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/(nu_mtg)-(nu_mtg)-(mer)",
+    "r": "כִּֽי־תִֽהְיוּ־לִ֥י"
+  },
+  {
+    "bcv_short": "A4:7",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/(nu_mtg)-(nu_mtg)-(mer)",
+    "r": "אֲשֶֽׁר־לֹֽא־תַמְטִ֥יר"
+  },
+  {
+    "bcv_short": "2S15:4",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/(nu_mtg)-(nu_mtg)--(mer)",
+    "r": "אֲשֶֽׁר־יִֽהְיֶה־לּוֹ־רִ֥יב"
+  },
+  {
+    "bcv_short": "L10:12",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/-(nu_azl),(mer)",
+    "r": "וְאֶל־אִ֨יתָמָ֥ר"
+  },
+  {
+    "bcv_short": "Ju21:21",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/-(nu_azl),(mer)",
+    "r": "אִם־יֵ֨צְא֥וּ"
+  },
+  {
+    "bcv_short": "I32:15",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/-(nu_azl),(mer)",
+    "r": "עַד־יֵ֨עָרֶ֥ה"
+  },
+  {
+    "bcv_short": "Ee40:4",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mer)/---(mer)",
+    "r": "אֶת־כׇּל־אֲשֶׁר־אַתָּ֥ה"
   },
   {
     "bcv_short": "Ps12:7",
     "Breuer-ref_1": "11.26.rn4",
     "Breuer-ref_2": "09.23.rn2",
     "Breuer-note": "Also appears in 9.33.rn2",
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "אִ֥מְﬞר֣וֹת"
   },
@@ -228,6 +1012,7 @@
     "Breuer-ref_1": "11.26.rn4",
     "Breuer-ref_2": "09.23.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "אֶ֥קְﬞרָ֣א"
   },
@@ -236,6 +1021,7 @@
     "Breuer-ref_1": "11.26.rn3",
     "Breuer-ref_2": "09.23.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "פָּ֥תְח֣וּ"
   },
@@ -244,6 +1030,7 @@
     "Breuer-ref_1": "11.26.rn3",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "אֶ֥שְׁמְרָ֣ה"
   },
@@ -252,6 +1039,7 @@
     "Breuer-ref_1": "11.26.rn4",
     "Breuer-ref_2": "09.23.fn23",
     "Breuer-note": "חטף חולם",
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "לִ֥שְׁא֣וֹל"
   },
@@ -260,6 +1048,7 @@
     "Breuer-ref_1": "09.23.fn23",
     "Breuer-ref_2": null,
     "Breuer-note": "חטף צירה",
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "זִ֥בְחֵ֣י"
   },
@@ -268,6 +1057,7 @@
     "Breuer-ref_1": "11.26.rn3",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "תְּה֥וֹתְﬞת֣וּ"
   },
@@ -276,6 +1066,7 @@
     "Breuer-ref_1": "11.26.rn3",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "יָ֥עֲצ֣וּ"
   },
@@ -284,6 +1075,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": "I find no reference to this in Breuer CoS. Da-at Miqra considers μL to have געיה not merkha; how/why? (It considers μA to have merkha.)",
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "תִּ֥בְﬞחַ֣ר"
   },
@@ -292,6 +1084,7 @@
     "Breuer-ref_1": "11.26.rn4",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "נִ֥דְﬞר֣וּ"
   },
@@ -300,6 +1093,7 @@
     "Breuer-ref_1": "11.26.rn4",
     "Breuer-ref_2": "09.23.fn23",
     "Breuer-note": "vocal (or at least, “not [...] fully silent” (!))",
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "שׇׁ֥מְרָ֣ה"
   },
@@ -308,6 +1102,7 @@
     "Breuer-ref_1": "11.56.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": "Mentioned (along with Jb40:10 עדה נא) indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56.",
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "מְקִ֥ימִ֣י"
   },
@@ -316,6 +1111,7 @@
     "Breuer-ref_1": "11.26.rn3",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "שָׁ֥נְﬞנ֣וּ"
   },
@@ -324,6 +1120,7 @@
     "Breuer-ref_1": "11.26.rn3",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "לַ֥עֲשׂ֣וֹת"
   },
@@ -332,6 +1129,7 @@
     "Breuer-ref_1": "09.23.fn23",
     "Breuer-ref_2": null,
     "Breuer-note": "vocal (or at least, “not [...] fully silent” (!))",
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "יִ֥רְאַ֣ת"
   },
@@ -340,6 +1138,7 @@
     "Breuer-ref_1": "11.26.rn4",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "תִּ֥לְﬞעַ֣ג"
   },
@@ -348,6 +1147,7 @@
     "Breuer-ref_1": "11.26.rn2",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "תַּ֥עֲלֻמ֣וֹת"
   },
@@ -356,6 +1156,7 @@
     "Breuer-ref_1": "11.26.rn4",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "אֶ֥בְﬞחַ֣ר"
   },
@@ -364,14 +1165,25 @@
     "Breuer-ref_1": "11.26.rn3",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(mun)",
     "r": "שָׂ֥חֲק֣וּ"
+  },
+  {
+    "bcv_short": "Ne8:7",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(mun)/(mer),(mun)",
+    "r": "וְשֵׁרֵ֥בְיָ֣ה׀"
   },
   {
     "bcv_short": "Ps89:25",
     "Breuer-ref_1": "11.53",
     "Breuer-ref_2": "09.28.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer),(nu_mtg),(mun)",
     "r": "וֶ֥אֱֽמוּנָתִ֣י"
   },
@@ -380,6 +1192,7 @@
     "Breuer-ref_1": "11.26.rn2",
     "Breuer-ref_2": "09.27.rn1",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer)-(mun)",
     "r": "מִ֥י־יִתֵּ֣ן"
   },
@@ -388,6 +1201,7 @@
     "Breuer-ref_1": "11.53",
     "Breuer-ref_2": "09.28.rn2",
     "Breuer-note": "Why doesn't Breuer (1) have a mqf (2) mention μL's געיה on ש? Also appears in 9.32 body text and 9.33.rn1",
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer)-(mun)",
     "r": "לַ֥עֲשׂוֹת־רְצוֹנְךָ֣"
   },
@@ -396,6 +1210,7 @@
     "Breuer-ref_1": "11.26.rn2",
     "Breuer-ref_2": "09.27.rn1",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer)-(mun)",
     "r": "מִ֥י־יִתֵּ֣ן"
   },
@@ -404,6 +1219,7 @@
     "Breuer-ref_1": "11.26.rn3",
     "Breuer-ref_2": "09.27.rn1",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer)-(mun)",
     "r": "אֶ֥ת־אֲרַ֣ם"
   },
@@ -412,6 +1228,7 @@
     "Breuer-ref_1": "11.53",
     "Breuer-ref_2": "09.27.rn4",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer)-(mun)",
     "r": "אֶ֥ת־אֲשֶׁ֣ר"
   },
@@ -420,6 +1237,7 @@
     "Breuer-ref_1": "11.26.rn2",
     "Breuer-ref_2": "09.27.rn1",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(mun)/(mer)-(mun)",
     "r": "אִ֥ם־תִּטֶּ֣ה"
   },
@@ -428,6 +1246,7 @@
     "Breuer-ref_1": "11.79.rn1",
     "Breuer-ref_2": "09.26.rn1",
     "Breuer-note": "Also appears in 9.33.rn1",
+    "cantsys": "poetic",
     "fp": "b-(nu_azl)/(mer),(nu_azl)",
     "r": "אֶ֥חֱסֶ֨ה"
   },
@@ -436,6 +1255,7 @@
     "Breuer-ref_1": "11.79.rn1",
     "Breuer-ref_2": "09.26.rn1",
     "Breuer-note": "9.29 notes that μS1 has געיה where μA & μL have azla (the opposite of Ps66:15).",
+    "cantsys": "poetic",
     "fp": "b-(nu_azl)/(mer),(nu_azl)",
     "r": "הֶ֥עֱטִ֨יתָ"
   },
@@ -444,6 +1264,7 @@
     "Breuer-ref_1": "11.10",
     "Breuer-ref_2": "09.26.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl)/(mer),(nu_azl)",
     "r": "וַיִּ֥שְׁפְּכ֨וּ"
   },
@@ -452,6 +1273,7 @@
     "Breuer-ref_1": "11.10",
     "Breuer-ref_2": "09.26.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl)/(mer),(nu_azl)",
     "r": "רֵ֥עֲךָ֨"
   },
@@ -460,6 +1282,7 @@
     "Breuer-ref_1": "11.79.rn1",
     "Breuer-ref_2": "09.27.rn4",
     "Breuer-note": "9.30 notes that μS1 has געיה where μA & μL have azla (like Ps89:46).",
+    "cantsys": "poetic",
     "fp": "b-(nu_azl)/(mer)-(nu_azl)",
     "r": "אֶ֥ת־גְּא֨וֹן"
   },
@@ -468,6 +1291,7 @@
     "Breuer-ref_1": "11.06.rn2",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer),(nu_azl_leg)",
     "r": "יִ֥תְיַצְּב֨וּ׀"
   },
@@ -476,6 +1300,7 @@
     "Breuer-ref_1": "11.06.rn2",
     "Breuer-ref_2": "09.24.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer),(nu_azl_leg)",
     "r": "הַ֥אֲשִׁימֵ֨ם׀"
   },
@@ -484,6 +1309,7 @@
     "Breuer-ref_1": "11.06.rn2",
     "Breuer-ref_2": "09.24.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer),(nu_azl_leg)",
     "r": "וְלִ֥שְׁכֵנַ֨י׀"
   },
@@ -492,6 +1318,7 @@
     "Breuer-ref_1": "11.06.rn2",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer),(nu_azl_leg)",
     "r": "וּ֥לְﬞצִיּ֨וֹן׀"
   },
@@ -500,6 +1327,7 @@
     "Breuer-ref_1": "11.06.rn2",
     "Breuer-ref_2": "09.25.rn2",
     "Breuer-note": "Also appears in 9.23 body text",
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer),(nu_azl_leg)",
     "r": "תַּ֥הְפֻּכ֨וֹת׀"
   },
@@ -508,6 +1336,7 @@
     "Breuer-ref_1": "11.06.rn2",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer),(nu_azl_leg)",
     "r": "לַ֥עֲלוּקָ֨ה׀"
   },
@@ -516,6 +1345,7 @@
     "Breuer-ref_1": "11.03",
     "Breuer-ref_2": "09.23.fn21",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer),(nu_mtg)-(nu_azl_leg)",
     "r": "יִ֥רַדֹּֽף־אוֹיֵ֨ב׀"
   },
@@ -524,6 +1354,7 @@
     "Breuer-ref_1": "11.03",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer),(nu_mtg)-(nu_azl_leg)",
     "r": "מִ֥מְﬞתִֽים־יָדְךָ֨׀"
   },
@@ -532,6 +1363,7 @@
     "Breuer-ref_1": "11.03",
     "Breuer-ref_2": "09.23.fn22",
     "Breuer-note": "merkha does not mobilize the shewa?",
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer),(nu_mtg)-(nu_azl_leg)",
     "r": "יִ֥הְיֽוּ־לְרָצ֨וֹן׀"
   },
@@ -540,6 +1372,7 @@
     "Breuer-ref_1": "11.03",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer),(nu_mtg)-(nu_azl_leg)",
     "r": "שִׁ֥מְﬞעָֽה־תְפִלָּתִ֨י׀"
   },
@@ -548,6 +1381,7 @@
     "Breuer-ref_1": "11.03",
     "Breuer-ref_2": "09.23.fn23",
     "Breuer-note": "vocal",
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer),(nu_mtg)-(nu_azl_leg)",
     "r": "טָ֥מְנֽוּ־גֵאִ֨ים׀"
   },
@@ -556,6 +1390,7 @@
     "Breuer-ref_1": "11.03",
     "Breuer-ref_2": "09.34.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer),(nu_mtg)-(nu_azl_leg)",
     "r": "יֶ֥הֶלְמֵֽנִי־צַדִּ֨יק׀"
   },
@@ -564,6 +1399,7 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "כׇּ֥ל־עַצְמוֹתַ֨י׀"
   },
@@ -572,6 +1408,7 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
@@ -580,6 +1417,7 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
@@ -588,6 +1426,7 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
@@ -596,6 +1435,7 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
@@ -604,6 +1444,7 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
@@ -612,6 +1453,7 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "עַ֥ל־נַהֲר֨וֹת׀"
   },
@@ -620,6 +1462,7 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
@@ -628,6 +1471,7 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
@@ -636,6 +1480,7 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
@@ -644,6 +1489,7 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
@@ -652,6 +1498,7 @@
     "Breuer-ref_1": "11.06.rn2",
     "Breuer-ref_2": "09.27",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "מַ֥עֲדֶה־בֶּ֨גֶד׀"
   },
@@ -660,6 +1507,7 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "פֶּ֥ן־אֶשְׂבַּ֨ע׀"
   },
@@ -668,6 +1516,7 @@
     "Breuer-ref_1": "11.06.rn2",
     "Breuer-ref_2": "09.27",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "וּ֥תְהִי־ע֨וֹד׀"
   },
@@ -676,6 +1525,7 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_azl_leg)",
     "r": "אִ֥ם־חֲרוּצִ֨ים׀"
   },
@@ -684,6 +1534,7 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)-(nu_mtg)--(nu_azl_leg)",
     "r": "אִ֥ם־תִּכְתּֽוֹשׁ־אֶת־הָאֱוִ֨יל׀"
   },
@@ -692,14 +1543,187 @@
     "Breuer-ref_1": "11.06.rn3",
     "Breuer-ref_2": "09.27.rn3",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_azl_leg)/(mer)--(nu_azl_leg)",
     "r": "כׇּ֥ל־אֲחֵי־רָ֨שׁ׀"
+  },
+  {
+    "bcv_short": "G18:15",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "וַיֹּ֥אמֶֽר"
+  },
+  {
+    "bcv_short": "G28:7",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "פַּדֶּ֥נָֽה"
+  },
+  {
+    "bcv_short": "G31:28",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "הִסְכַּ֥לְתָּֽ"
+  },
+  {
+    "bcv_short": "G43:9",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "וְחָטָ֥אתִֽי"
+  },
+  {
+    "bcv_short": "G50:18",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "הִנֶּ֥נּֽוּ"
+  },
+  {
+    "bcv_short": "Ju12:5",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "וַיֹּ֥אמֶֽר"
+  },
+  {
+    "bcv_short": "Ju20:46",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "שֹׁ֥לֵֽף"
+  },
+  {
+    "bcv_short": "2S10:11",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "לְהוֹשִׁ֥יעַֽ"
+  },
+  {
+    "bcv_short": "2S13:16",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "לִשְׁמֹ֥עַֽ"
+  },
+  {
+    "bcv_short": "2S19:24",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "וַיִּשָּׁ֥בַֽע"
+  },
+  {
+    "bcv_short": "1K2:2",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "וְהָיִ֥יתָֽ"
+  },
+  {
+    "bcv_short": "1K2:30",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "וַיֹּ֥אמֶֽר"
+  },
+  {
+    "bcv_short": "1K3:13",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "כָמ֥וֹךָֽ"
+  },
+  {
+    "bcv_short": "2K1:13",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "עֲבָדֶ֥יךָֽ"
+  },
+  {
+    "bcv_short": "I42:6",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "קְרָאתִ֥יךָֽ"
+  },
+  {
+    "bcv_short": "Je23:29",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "יְפֹ֥צֵֽץ"
+  },
+  {
+    "bcv_short": "Je31:21",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "תְּס֥וֹבֵֽב"
+  },
+  {
+    "bcv_short": "Ee1:27",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "וְנֹ֥גַֽהּ"
+  },
+  {
+    "bcv_short": "Ho14:7",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "וְרֵ֥יחַֽ"
   },
   {
     "bcv_short": "Ps19:14",
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
     "r": "מִפֶּ֥שַֽׁע"
   },
@@ -708,6 +1732,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
     "r": "הִרְכַּ֥בְתָּֽ"
   },
@@ -716,6 +1741,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
     "r": "נָרִ֥יעַֽ"
   },
@@ -724,6 +1750,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
     "r": "כּוֹנַ֥נְתָּֽ"
   },
@@ -732,6 +1759,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
     "r": "אַשְׂבִּ֥יעַֽ"
   },
@@ -740,6 +1768,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
     "r": "וְג֥וֹלֵֽל"
   },
@@ -748,6 +1777,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
     "r": "יֵאָ֥נַֽח"
   },
@@ -756,6 +1786,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
     "r": "וְשֹׁ֥לֵֽחַ"
   },
@@ -764,6 +1795,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
     "r": "שֹׁמֵ֥עַֽ"
   },
@@ -772,22 +1804,178 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
     "r": "וּתְח֥וֹלֵֽל"
+  },
+  {
+    "bcv_short": "S5:5",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "קַ֥מְתִּֽי"
+  },
+  {
+    "bcv_short": "R1:21",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "הֵ֥רַֽע"
+  },
+  {
+    "bcv_short": "La5:6",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "לִשְׂבֹּ֥עַֽ"
+  },
+  {
+    "bcv_short": "Ec1:5",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "זוֹרֵ֥חַֽ"
+  },
+  {
+    "bcv_short": "Ec2:20",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "וְסַבּ֥וֹתִֽי"
+  },
+  {
+    "bcv_short": "Ec5:11",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "מַנִּ֥יחַֽ"
+  },
+  {
+    "bcv_short": "Es5:3",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "וְיִנָּ֥תֵֽן"
+  },
+  {
+    "bcv_short": "Da6:6",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "הַשְׁכַּ֥חְנָֽא"
+  },
+  {
+    "bcv_short": "Da7:5",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "ק֥וּמִֽי"
+  },
+  {
+    "bcv_short": "Ne13:8",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(mer),(nu_mtg)",
+    "r": "וַיֵּ֥רַֽע"
+  },
+  {
+    "bcv_short": "L25:53",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(nu_mtg)-(mer),(nu_mtg)",
+    "r": "לֹֽא־יִרְדֶּ֥נּֽוּ"
+  },
+  {
+    "bcv_short": "Mi1:12",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/(nu_mtg)-(mer),(nu_mtg)",
+    "r": "כִּֽי־חָ֥לָֽה"
   },
   {
     "bcv_short": "Ps94:9",
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_mtg)/(nu_mtg)-(mer),(nu_mtg)",
     "r": "אִֽם־יֹ֥צֵֽר"
+  },
+  {
+    "bcv_short": "D17:11",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/-(mer),(nu_mtg)",
+    "r": "אֲשֶׁר־יַגִּ֥ידֽוּ"
+  },
+  {
+    "bcv_short": "1S3:6",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/-(mer),(nu_mtg)",
+    "r": "לֹא־קָרָ֥אתִֽי"
+  },
+  {
+    "bcv_short": "2S22:20",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/-(mer),(nu_mtg)",
+    "r": "כִּי־חָ֥פֵֽץ"
+  },
+  {
+    "bcv_short": "I23:12",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/-(mer),(nu_mtg)",
+    "r": "לֹא־יָנ֥וּחַֽ"
+  },
+  {
+    "bcv_short": "A5:20",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_mtg)/-(mer),(nu_mtg)",
+    "r": "וְלֹא־נֹ֥גַֽהּ"
   },
   {
     "bcv_short": "Ps58:7",
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_mtg)/-(mer),(nu_mtg)",
     "r": "הֲרׇס־שִׁנֵּ֥ימֽוֹ"
   },
@@ -796,6 +1984,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_mtg)/-(mer),(nu_mtg)",
     "r": "לֹא־א֥וּכַֽל"
   },
@@ -804,30 +1993,79 @@
     "Breuer-ref_1": "11.80.rn3",
     "Breuer-ref_2": null,
     "Breuer-note": "Breuer has no געיה",
+    "cantsys": "poetic",
     "fp": "b-(nu_slq)/(mer),(nu_mtg),(nu_slq)",
     "r": "תַּנְח֥וּמֹֽתֵיכֶֽם׃"
+  },
+  {
+    "bcv_short": "Ju8:10",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_slq)/(mer),(nu_mtg)-(nu_slq)",
+    "r": "שֹׁ֥לֵֽף־חָֽרֶב׃"
+  },
+  {
+    "bcv_short": "Ju20:2",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_slq)/(mer),(nu_mtg)-(nu_slq)",
+    "r": "שֹׁ֥לֵֽף־חָֽרֶב׃"
+  },
+  {
+    "bcv_short": "Ju20:35",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_slq)/(mer),(nu_mtg)-(nu_slq)",
+    "r": "שֹׁ֥לֵֽף־חָֽרֶב׃"
   },
   {
     "bcv_short": "Ps12:6",
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": "I find no reference to this in Breuer CoS. JC has space rather than mqf. μA has mqf; μL has space. (Same situation as Ps92:8.)",
+    "cantsys": "poetic",
     "fp": "b-(nu_slq)/(mer),(nu_mtg)-(nu_slq)",
     "r": "יָפִ֥יחַֽ־לֽוֹ׃"
+  },
+  {
+    "bcv_short": "1C21:5",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_slq)/(mer),(nu_mtg)-(nu_slq)",
+    "r": "שֹׁ֥לֵֽף־חָֽרֶב׃"
   },
   {
     "bcv_short": "Ps106:39",
     "Breuer-ref_1": "11.80.rn3",
     "Breuer-ref_2": "09.35.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(nu_slq)/(mer),(nu_slq)",
     "r": "בְּמַ֥עַלְלֵיהֶֽם׃"
+  },
+  {
+    "bcv_short": "S8:6",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(nu_slq)/(mer),(nu_slq)",
+    "r": "שַׁלְהֶ֥בֶתְיָֽה׃"
   },
   {
     "bcv_short": "Ps89:20",
     "Breuer-ref_1": "11.08",
     "Breuer-ref_2": null,
     "Breuer-note": "The reference I find in Breuer CoS (11.8) has space rather than mqf, presumably because Breuer classifies this as a normal merkha, not a secondary merkha. This would make its absence from 11.10 intentional. Like Breuer CoS 11.8, JC has space rather than mqf. μA & μL have mqf.",
+    "cantsys": "poetic",
     "fp": "b-(paz)/(mer),(nu_mtg)-(paz)",
     "r": "דִּבַּ֥רְתָּֽ־בְחָז֡וֹן"
   },
@@ -836,6 +2074,7 @@
     "Breuer-ref_1": "11.10",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(paz)/(mer),(paz)",
     "r": "בַּ֥מַּכְתֵּ֡שׁ"
   },
@@ -844,6 +2083,7 @@
     "Breuer-ref_1": "11.28.rn2",
     "Breuer-ref_2": "09.34.rn2",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(rev)/(mer),(nu_mtg)-(rev)",
     "r": "אַ֥שְֽׁרֵי־הָאִ֗ישׁ"
   },
@@ -852,6 +2092,7 @@
     "Breuer-ref_1": "11.28.rn2",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(rev)/(mer),(nu_mtg)-(rev)",
     "r": "אַ֥שְֽׁרֵי־אָדָ֗ם"
   },
@@ -860,6 +2101,7 @@
     "Breuer-ref_1": "11.28.rn2",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(rev)/(mer),(nu_mtg)-(rev)",
     "r": "אַ֥שְֽׁרֵי־הַגֶּ֗בֶר"
   },
@@ -868,6 +2110,7 @@
     "Breuer-ref_1": "11.28.rn2",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(rev)/(mer),(nu_mtg)-(rev)",
     "r": "יַ֥חְפְּֽשׂוּ־עוֹלֹ֗ת"
   },
@@ -876,6 +2119,7 @@
     "Breuer-ref_1": "11.28.rn2",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(rev)/(mer),(nu_mtg)-(rev)",
     "r": "לִ֥פְֽנֵי־יְהֹוָ֗ה"
   },
@@ -884,6 +2128,7 @@
     "Breuer-ref_1": "11.28.rn2",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(rev)/(mer),(nu_mtg)-(rev)",
     "r": "נִ֥בְﬞהָֽל־לַה֗וֹן"
   },
@@ -892,6 +2137,7 @@
     "Breuer-ref_1": "11.19",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(rev)/(mer),(rev)",
     "r": "מֵ֥אִתְּךָ֗"
   },
@@ -900,6 +2146,7 @@
     "Breuer-ref_1": "11.19",
     "Breuer-ref_2": "09.20",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(rev)/(mer),(rev)",
     "r": "תֵּ֥אָלַ֗מְנָה"
   },
@@ -908,6 +2155,7 @@
     "Breuer-ref_1": "11.35.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(rev)/(mer),(rev)",
     "r": "לְשֹׁ֥דְﬞדִ֗ים"
   },
@@ -916,6 +2164,7 @@
     "Breuer-ref_1": "11.36.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-(rev)/(mer),(rev)",
     "r": "בַּ֥מִּדְבָּ֗ר"
   },
@@ -924,6 +2173,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": "I find no reference to this in Breuer CoS. Da-at Miqra considers μL to have געיה not merkha; how/why? (It considers μA to have merkha.)",
+    "cantsys": "poetic",
     "fp": "b-(rev)/(mer),(rev)",
     "r": "וְעָ֥דֵיכֶ֗ם"
   },
@@ -932,14 +2182,25 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": "I find no reference to this in Breuer CoS. JC has space rather than mqf. μA has mqf; μL has space. (Same situation as Ps12:6.)",
+    "cantsys": "poetic",
     "fp": "b-(rev)/(mer)-(rev)",
     "r": "כְּמ֥וֹ־עֵ֗שֶׂב"
+  },
+  {
+    "bcv_short": "Ee1:4",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(tip)/(mer),(nu_mtg)-(tip)",
+    "r": "וְנֹ֥גַֽהּ־ל֖וֹ"
   },
   {
     "bcv_short": "Ps46:4",
     "Breuer-ref_1": "11.79.rn2",
     "Breuer-ref_2": "09.28.rn2",
     "Breuer-note": "Also appears in 9.33.rn1",
+    "cantsys": "poetic",
     "fp": "b-(tip)/(mer),(nu_mtg)-(tip)",
     "r": "יִ֥רְעֲשֽׁוּ־הָרִ֖ים"
   },
@@ -948,14 +2209,115 @@
     "Breuer-ref_1": "11.79.rn2",
     "Breuer-ref_2": "09.29.var-rn2",
     "Breuer-note": "9.29 notes that μS1 has azla where μA & μL have געיה (the opposite of Ps89:46).",
+    "cantsys": "poetic",
     "fp": "b-(tip)/(mer),(nu_mtg)-(tip)",
     "r": "אֶ֥עֱשֶֽׂה־בָקָ֖ר"
+  },
+  {
+    "bcv_short": "2C14:6",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(tip)/(mer),(nu_mtg)-(tip)",
+    "r": "וַיָּ֥נַֽח־לָ֖נוּ"
+  },
+  {
+    "bcv_short": "Je8:18",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(tip)/(mer),(tip)",
+    "r": "מַבְלִ֥יגִיתִ֖י"
+  },
+  {
+    "bcv_short": "S6:5",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(tip)/(mer),(tip)",
+    "r": "שֶׁ֥הֵ֖ם"
+  },
+  {
+    "bcv_short": "Da5:17",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(tip)/(mer),(tip)",
+    "r": "וּנְבָ֥זְבְּיָתָ֖ךְ"
+  },
+  {
+    "bcv_short": "1C15:13",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(tip)/(mer),(tip)",
+    "r": "לְמַבָּרִ֥אשׁוֹנָ֖ה"
+  },
+  {
+    "bcv_short": "Ee44:6",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(tip)/(nu_mtg)-(mer),(tip)",
+    "r": "מִֽכׇּל־תּוֹעֲב֥וֹתֵיכֶ֖ם"
+  },
+  {
+    "bcv_short": "I66:8",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(tip)/-(mer),(nu_mtg)-(tip)",
+    "r": "אִם־יִוָּ֥לֵֽד־גּ֖וֹי"
+  },
+  {
+    "bcv_short": "2C8:11",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(tip)/-(mer),(nu_mtg)-(tip)",
+    "r": "אֲשֶׁר־בָּ֥אָֽה־אֲלֵיהֶ֖ם"
+  },
+  {
+    "bcv_short": "L23:21",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(tip)/-(mer),(tip)",
+    "r": "בְּכׇל־מוֹשְׁבֹ֥תֵיכֶ֖ם"
+  },
+  {
+    "bcv_short": "2K15:16",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(tip)/-(mer),(tip)",
+    "r": "כׇּל־הֶהָ֥רוֹתֶ֖יהָ"
+  },
+  {
+    "bcv_short": "Ee36:25",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "cantsys": "prose",
+    "fp": "b-(tip)/-(mer),(tip)",
+    "r": "וּמִכׇּל־גִּלּ֥וּלֵיכֶ֖ם"
   },
   {
     "bcv_short": "Ps21:2",
     "Breuer-ref_1": "11.40.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וּ֝בִישׁ֥וּעָתְךָ֗"
   },
@@ -964,6 +2326,7 @@
     "Breuer-ref_1": "11.40.rn1",
     "Breuer-ref_2": "09.20",
     "Breuer-note": "only cited at 36:6 by Breuer but also appears at 88:12",
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "אֱ֝מ֥וּנָתְךָ֗"
   },
@@ -972,6 +2335,7 @@
     "Breuer-ref_1": "11.40.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": "only cited at 40:9 by Breuer but also appears at 119:109 and 119:174",
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
   },
@@ -980,6 +2344,7 @@
     "Breuer-ref_1": "11.40.rn1",
     "Breuer-ref_2": "09.20",
     "Breuer-note": "only cited at 36:6 by Breuer but also appears at 88:12",
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "אֱ֝מ֥וּנָתְךָ֗"
   },
@@ -988,6 +2353,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וֶ֝אֱמ֥וּנָתְךָ֗"
   },
@@ -996,6 +2362,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וֶ֝אֱמ֥וּנָתְךָ֗"
   },
@@ -1004,6 +2371,7 @@
     "Breuer-ref_1": "11.40.es2.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "מִ֝מְּצ֥וּקוֹתֵיהֶ֗ם"
   },
@@ -1012,6 +2380,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "מִ֝מְּצֻ֥קוֹתֵיהֶ֗ם"
   },
@@ -1020,6 +2389,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "מִ֝מְּצֻ֥קוֹתֵיהֶ֗ם"
   },
@@ -1028,6 +2398,7 @@
     "Breuer-ref_1": "11.41",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "בֵּ֝רַ֥כְנוּכֶ֗ם"
   },
@@ -1036,6 +2407,7 @@
     "Breuer-ref_1": "11.40.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "תְּ֝שׁ֥וּעָתְךָ֗"
   },
@@ -1044,6 +2416,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "מִ֝תּ֥וֹרָתְךָ֗"
   },
@@ -1052,6 +2425,7 @@
     "Breuer-ref_1": "11.40.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": "only cited at 40:9 by Breuer but also appears at 119:109 and 119:174",
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
   },
@@ -1060,6 +2434,7 @@
     "Breuer-ref_1": "11.40.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": "only cited at 40:9 by Breuer but also appears at 119:109 and 119:174",
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
   },
@@ -1068,6 +2443,7 @@
     "Breuer-ref_1": "11.40.es2.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וְ֝אֵ֥מָתְךָ֗"
   },
@@ -1076,6 +2452,7 @@
     "Breuer-ref_1": "11.40.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(ger_m),(mer),(rev)",
     "r": "וּ֝תְשׁ֥וּבֹתֵיכֶ֗ם"
   },
@@ -1084,6 +2461,7 @@
     "Breuer-ref_1": "11.40.es2.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(mer)+(ger_m),(rev)",
     "r": "תּ֥֝וֹרָתְךָ֗"
   },
@@ -1092,6 +2470,7 @@
     "Breuer-ref_1": "11.40.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": "Breuer has no געיה",
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(nu_mtg)+(ger_m),(mer),(rev)",
     "r": "וּֽ֝מֵעֲוֺ֥נֹתֵיהֶ֗ם"
   },
@@ -1100,6 +2479,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/(nu_mtg)+(ger_m),(mer),(rev)",
     "r": "וּֽ֝מִמְּצ֥וּקֹתֵיהֶ֗ם"
   },
@@ -1108,6 +2488,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/-(ger_m),(mer),(rev)",
     "r": "אַף־אֱ֝מ֥וּנָתְךָ֗"
   },
@@ -1116,6 +2497,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/-(mer)+(ger_m),(rev)",
     "r": "כִּי־ת֥֝וֹרָתְךָ֗"
   },
@@ -1124,6 +2506,7 @@
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/-(mer)+(ger_m),(rev)",
     "r": "כִּי־ת֥֝וֹרָתְךָ֗"
   },
@@ -1132,6 +2515,7 @@
     "Breuer-ref_1": "11.40.rn1",
     "Breuer-ref_2": null,
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-rev-mug/-(mer)+(ger_m),(rev)",
     "r": "וְאֶל־בִּ֥֝ינָתְךָ֗"
   },
@@ -1140,6 +2524,7 @@
     "Breuer-ref_1": "11.27.rn3",
     "Breuer-ref_2": "09.32.rn1",
     "Breuer-note": null,
+    "cantsys": "poetic",
     "fp": "b-~/(mer),(nu_mtg),~",
     "r": "וֶ֥אֱֽמוּנָתוֹ֮"
   },
@@ -1148,6 +2533,7 @@
     "Breuer-ref_1": "11.27.rn2",
     "Breuer-ref_2": "09.28.rn1",
     "Breuer-note": "Also appears in 9.33.rn1",
+    "cantsys": "poetic",
     "fp": "b-~/(mer),(nu_mtg)-~",
     "r": "אַ֥שְֽׁרֵי־אָדָם֮"
   }
