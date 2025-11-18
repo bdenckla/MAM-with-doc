@@ -12,8 +12,15 @@ body {
     margin-right: auto;
     font-size: 14pt;
 }
-*[lang="hbo"] { font-family: "Taamey D WOFF2"; font-size: 140%; }
-@font-face { font-family: "Taamey D WOFF2"; src: url("woff2/Taamey_D.woff2"); }
+*[lang="hbo"] {
+    font-family: "Taamey D WOFF2";
+    font-size: 140%;
+    font-feature-settings: 'ss01'; /* ss01 = xataf qamats qatan */
+}
+@font-face {
+    font-family: "Taamey D WOFF2";
+    src: url("woff2/Taamey_D.woff2");
+}
 em { font-style: normal; font-weight: bold; }
 span.romanized { font-style: italic; }
 *[lang="he"] span.book-title { font-weight: bold; font-style: normal; }
