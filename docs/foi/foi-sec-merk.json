@@ -49,7 +49,7 @@
   },
   {
     "bcv_short": "Ps143:3",
-    "Breuer-ref_1": null,
+    "Breuer-ref_1": "11.04",
     "Breuer-ref_2": null,
     "Breuer-note": null,
     "fp": "poetic/b-(mah)/(mer)-(zarshit),(mah)",
@@ -315,7 +315,7 @@
     "bcv_short": "Ps113:7",
     "Breuer-ref_1": "11.56.rn1",
     "Breuer-ref_2": null,
-    "Breuer-note": "Mentioned (along with Jb40:10 עדה נא) indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56.",
+    "Breuer-note": "Mentioned indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56.",
     "fp": "poetic/b-(mun)/(mer),(mun)",
     "r": "מְקִ֥ימִ֣י"
   },
@@ -433,9 +433,9 @@
   },
   {
     "bcv_short": "Jb40:10",
-    "Breuer-ref_1": null,
+    "Breuer-ref_1": "11.56.rn2",
     "Breuer-ref_2": null,
-    "Breuer-note": null,
+    "Breuer-note": "Mentioned indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56. In 11.56.rn2, Breuer has space rather than mqf but says that עדה should be considered to be followed by a mqf.",
     "fp": "poetic/b-(mun)/(mer)-(mun)",
     "r": "עֲדֵ֥ה־נָ֣א"
   },
@@ -553,7 +553,7 @@
   },
   {
     "bcv_short": "Pr22:17",
-    "Breuer-ref_1": null,
+    "Breuer-ref_1": "11.36",
     "Breuer-ref_2": null,
     "Breuer-note": null,
     "fp": "poetic/b-(rev)/(mer)-(rev)",
