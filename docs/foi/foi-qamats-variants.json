@@ -780,6 +780,16 @@
     "r": "ד=מִֽמׇּחֳרָ֗ת ס=מִֽמָּחֳרָ֗ת"
   },
   {
+    "bcv_short": "1S13:21",
+    "accent": null,
+    "qq_count": "1",
+    "stack_str": null,
+    "m2_lett": "ר",
+    "m3_zmnl": ":",
+    "fp": "accent-0-qq-count-1",
+    "r": "ד=הַדׇּרְבָֽן ס=הַדָּרְבָֽן"
+  },
+  {
     "bcv_short": "1S15:1",
     "accent": null,
     "qq_count": "1",
@@ -4878,6 +4888,16 @@
     "m3_zmnl": ":a",
     "fp": "all",
     "r": "ד=מִֽמׇּחֳרָ֗ת ס=מִֽמָּחֳרָ֗ת"
+  },
+  {
+    "bcv_short": "1S13:21",
+    "accent": null,
+    "qq_count": "1",
+    "stack_str": null,
+    "m2_lett": "ר",
+    "m3_zmnl": ":",
+    "fp": "all",
+    "r": "ד=הַדׇּרְבָֽן ס=הַדָּרְבָֽן"
   },
   {
     "bcv_short": "1S15:1",

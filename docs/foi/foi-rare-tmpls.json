@@ -1640,6 +1640,11 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps143:3",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps144:2",
     "fp": "implicit-maqaf",
     "r": ""
@@ -1711,6 +1716,11 @@
   },
   {
     "bcv_short": "Pr19:7",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Pr22:17",
     "fp": "implicit-maqaf",
     "r": ""
   },
@@ -1831,6 +1841,11 @@
   },
   {
     "bcv_short": "Jb37:21",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Jb40:10",
     "fp": "implicit-maqaf",
     "r": ""
   },
