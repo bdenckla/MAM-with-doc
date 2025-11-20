@@ -576,6 +576,38 @@
     "r": "אֶ֥עֱשֶֽׂה־בָקָ֖ר"
   },
   {
+    "bcv_short": "Pr26:27",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "fp": "poetic/b-(tsere+ümtg)/(mer),(tsere+ümtg)",
+    "r": "וְג֥וֹלֵֽל אֶ֝֗בֶן"
+  },
+  {
+    "bcv_short": "Jb5:10",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "fp": "poetic/b-(tsere+ümtg)/(mer),(tsere+ümtg)",
+    "r": "וְשֹׁ֥לֵֽחַ מַ֝֗יִם"
+  },
+  {
+    "bcv_short": "Jb35:14",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "fp": "poetic/b-(tsere+ümtg)/(mer),(tsere+ümtg)",
+    "r": "וּתְח֥וֹלֵֽל לֽוֹ׃"
+  },
+  {
+    "bcv_short": "Ps94:9",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "fp": "poetic/b-(tsere+ümtg)/(tsere+ümtg)-(mer),(tsere+ümtg)",
+    "r": "אִֽם־יֹ֥צֵֽר עַ֝֗יִן"
+  },
+  {
     "bcv_short": "Ps98:3",
     "Breuer-ref_1": "11.27.rn3",
     "Breuer-ref_2": "09.32.rn1",
@@ -904,14 +936,6 @@
     "r": "אַשְׂבִּ֥יעַֽ לָֽחֶם׃"
   },
   {
-    "bcv_short": "Pr26:27",
-    "Breuer-ref_1": null,
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
-    "fp": "poetic/b-(ümtg)/(mer),(ümtg)",
-    "r": "וְג֥וֹלֵֽל אֶ֝֗בֶן"
-  },
-  {
     "bcv_short": "Pr29:2",
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
@@ -920,36 +944,12 @@
     "r": "יֵאָ֥נַֽח עָֽם׃"
   },
   {
-    "bcv_short": "Jb5:10",
-    "Breuer-ref_1": null,
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
-    "fp": "poetic/b-(ümtg)/(mer),(ümtg)",
-    "r": "וְשֹׁ֥לֵֽחַ מַ֝֗יִם"
-  },
-  {
     "bcv_short": "Jb34:34",
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
     "Breuer-note": null,
     "fp": "poetic/b-(ümtg)/(mer),(ümtg)",
     "r": "שֹׁמֵ֥עַֽ לִֽי׃"
-  },
-  {
-    "bcv_short": "Jb35:14",
-    "Breuer-ref_1": null,
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
-    "fp": "poetic/b-(ümtg)/(mer),(ümtg)",
-    "r": "וּתְח֥וֹלֵֽל לֽוֹ׃"
-  },
-  {
-    "bcv_short": "Ps94:9",
-    "Breuer-ref_1": null,
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
-    "fp": "poetic/b-(ümtg)/(ümtg)-(mer),(ümtg)",
-    "r": "אִֽם־יֹ֥צֵֽר עַ֝֗יִן"
   },
   {
     "bcv_short": "Ps58:7",
@@ -1880,6 +1880,46 @@
     "r": "אֲשֶׁר־בָּ֥אָֽה־אֲלֵיהֶ֖ם"
   },
   {
+    "bcv_short": "Ju20:46",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "fp": "prose/b-(tsere+ümtg)/(mer),(tsere+ümtg)",
+    "r": "שֹׁ֥לֵֽף חֶ֖רֶב"
+  },
+  {
+    "bcv_short": "Je23:29",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "fp": "prose/b-(tsere+ümtg)/(mer),(tsere+ümtg)",
+    "r": "יְפֹ֥צֵֽץ סָֽלַע׃"
+  },
+  {
+    "bcv_short": "Je31:21",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "fp": "prose/b-(tsere+ümtg)/(mer),(tsere+ümtg)",
+    "r": "תְּס֥וֹבֵֽב גָּֽבֶר׃"
+  },
+  {
+    "bcv_short": "Es5:3",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "fp": "prose/b-(tsere+ümtg)/(mer),(tsere+ümtg)",
+    "r": "וְיִנָּ֥תֵֽן לָֽךְ׃"
+  },
+  {
+    "bcv_short": "2S22:20",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "fp": "prose/b-(tsere+ümtg)/-(mer),(tsere+ümtg)",
+    "r": "כִּי־חָ֥פֵֽץ בִּֽי׃"
+  },
+  {
     "bcv_short": "G18:15",
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
@@ -1926,14 +1966,6 @@
     "Breuer-note": null,
     "fp": "prose/b-(ümtg)/(mer),(ümtg)",
     "r": "וַיֹּ֥אמֶֽר לֹֽא׃"
-  },
-  {
-    "bcv_short": "Ju20:46",
-    "Breuer-ref_1": null,
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
-    "fp": "prose/b-(ümtg)/(mer),(ümtg)",
-    "r": "שֹׁ֥לֵֽף חֶ֖רֶב"
   },
   {
     "bcv_short": "2S10:11",
@@ -2000,22 +2032,6 @@
     "r": "קְרָאתִ֥יךָֽ בְצֶ֖דֶק"
   },
   {
-    "bcv_short": "Je23:29",
-    "Breuer-ref_1": null,
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
-    "fp": "prose/b-(ümtg)/(mer),(ümtg)",
-    "r": "יְפֹ֥צֵֽץ סָֽלַע׃"
-  },
-  {
-    "bcv_short": "Je31:21",
-    "Breuer-ref_1": null,
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
-    "fp": "prose/b-(ümtg)/(mer),(ümtg)",
-    "r": "תְּס֥וֹבֵֽב גָּֽבֶר׃"
-  },
-  {
     "bcv_short": "Ee1:27",
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
@@ -2080,14 +2096,6 @@
     "r": "מַנִּ֥יחַֽ ל֖וֹ"
   },
   {
-    "bcv_short": "Es5:3",
-    "Breuer-ref_1": null,
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
-    "fp": "prose/b-(ümtg)/(mer),(ümtg)",
-    "r": "וְיִנָּ֥תֵֽן לָֽךְ׃"
-  },
-  {
     "bcv_short": "Da6:6",
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
@@ -2142,14 +2150,6 @@
     "Breuer-note": null,
     "fp": "prose/b-(ümtg)/-(mer),(ümtg)",
     "r": "לֹא־קָרָ֥אתִֽי בְנִ֖י"
-  },
-  {
-    "bcv_short": "2S22:20",
-    "Breuer-ref_1": null,
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
-    "fp": "prose/b-(ümtg)/-(mer),(ümtg)",
-    "r": "כִּי־חָ֥פֵֽץ בִּֽי׃"
   },
   {
     "bcv_short": "I23:12",
