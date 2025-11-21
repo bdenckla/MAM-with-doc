@@ -1205,7 +1205,7 @@
     "ref_2": null,
     "note": null,
     "fp": "prose/(mer)/-(üazl),(mer)",
-    "r": "וְאֶל־אִ֨יתָמָ֥ר"
+    "r": "וְאֶל־אִ֨יתָמָ֥ר‖"
   },
   {
     "bcv_short": "Ju21:21",
@@ -1880,30 +1880,6 @@
     "r": "אֲשֶׁר־בָּ֥אָֽה־אֲלֵיהֶ֖ם"
   },
   {
-    "bcv_short": "G18:15",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(ümtg)/(mer),(ümtg)",
-    "r": "וַיֹּ֥אמֶֽר לֹ֖א"
-  },
-  {
-    "bcv_short": "Ju12:5",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(ümtg)/(mer),(ümtg)",
-    "r": "וַיֹּ֥אמֶֽר לֹֽא׃"
-  },
-  {
-    "bcv_short": "1K2:30",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(ümtg)/(mer),(ümtg)",
-    "r": "וַיֹּ֥אמֶֽר לֹ֖א"
-  },
-  {
     "bcv_short": "Ju8:10",
     "ref_1": null,
     "ref_2": null,
@@ -1942,6 +1918,30 @@
     "note": null,
     "fp": "prose/(üslq)/(mer),(üslq)",
     "r": "שַׁלְהֶ֥בֶתְיָֽה׃"
+  },
+  {
+    "bcv_short": "G18:15",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/psg-before-paseq/(mer),(ümtg)-psg-before-paseq",
+    "r": "וַיֹּ֥אמֶֽר‖ לֹ֖א"
+  },
+  {
+    "bcv_short": "Ju12:5",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/psg-before-paseq/(mer),(ümtg)-psg-before-paseq",
+    "r": "וַיֹּ֥אמֶֽר‖ לֹֽא׃"
+  },
+  {
+    "bcv_short": "1K2:30",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/psg-before-paseq/(mer),(ümtg)-psg-before-paseq",
+    "r": "וַיֹּ֥אמֶֽר‖ לֹ֖א"
   },
   {
     "bcv_short": "Ju20:46",
