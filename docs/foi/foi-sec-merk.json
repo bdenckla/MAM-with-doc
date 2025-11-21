@@ -928,14 +928,6 @@
     "r": "שֹׁמֵ֥עַֽ לִֽי׃"
   },
   {
-    "bcv_short": "Ps58:7",
-    "Breuer-ref_1": null,
-    "Breuer-ref_2": null,
-    "Breuer-note": null,
-    "fp": "poetic/b-(ümtg)/-(mer),(ümtg)",
-    "r": "הֲרׇס־שִׁנֵּ֥ימֽוֹ בְּפִ֑ימוֹ"
-  },
-  {
     "bcv_short": "Ps139:6",
     "Breuer-ref_1": null,
     "Breuer-ref_2": null,
@@ -990,6 +982,14 @@
     "Breuer-note": null,
     "fp": "poetic/b-psg-closed-tsere/(ümtg)-(mer),(ümtg)-psg-closed-tsere",
     "r": "אִֽם־יֹ֥צֵֽר"
+  },
+  {
+    "bcv_short": "Ps58:7",
+    "Breuer-ref_1": null,
+    "Breuer-ref_2": null,
+    "Breuer-note": null,
+    "fp": "poetic/b-psg-open/-(mer),(ümtg)-psg-open",
+    "r": "הֲרׇס־שִׁנֵּ֥ימֽוֹ"
   },
   {
     "bcv_short": "Ps21:2",
