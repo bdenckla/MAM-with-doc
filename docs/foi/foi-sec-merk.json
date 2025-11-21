@@ -1921,25 +1921,25 @@
   },
   {
     "bcv_short": "G18:15",
-    "ref_1": null,
+    "ref_1": "ITM-325",
     "ref_2": null,
-    "note": null,
+    "note": "only cited at 1K2:30 by Yeivin but also appears at G18:15",
     "fp": "prose/psg-before-paseq/(mer),(ümtg)-psg-before-paseq",
     "r": "וַיֹּ֥אמֶֽר‖ לֹ֖א"
   },
   {
     "bcv_short": "Ju12:5",
-    "ref_1": null,
+    "ref_1": "ITM-325.φ2",
     "ref_2": null,
-    "note": null,
+    "note": "φ2 (footnote 2), is commentary by Denckla on ITM, not part of ITM",
     "fp": "prose/psg-before-paseq/(mer),(ümtg)-psg-before-paseq",
     "r": "וַיֹּ֥אמֶֽר‖ לֹֽא׃"
   },
   {
     "bcv_short": "1K2:30",
-    "ref_1": null,
+    "ref_1": "ITM-325",
     "ref_2": null,
-    "note": null,
+    "note": "only cited at 1K2:30 by Yeivin but also appears at G18:15",
     "fp": "prose/psg-before-paseq/(mer),(ümtg)-psg-before-paseq",
     "r": "וַיֹּ֥אמֶֽר‖ לֹ֖א"
   },
