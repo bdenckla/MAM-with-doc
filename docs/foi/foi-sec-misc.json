@@ -1,7 +1,7 @@
 [
   {
     "bcv_short": "Ps68:20",
-    "ref_1": null,
+    "ref_1": "11.26.rn1",
     "ref_2": null,
     "note": null,
     "fp": "poetic/(mun)/(mah),(mun)",
@@ -9,7 +9,7 @@
   },
   {
     "bcv_short": "Ps68:21",
-    "ref_1": null,
+    "ref_1": "11.26.rn1",
     "ref_2": null,
     "note": null,
     "fp": "poetic/(mun)/(mah),(mun)",
@@ -17,7 +17,7 @@
   },
   {
     "bcv_short": "Ps79:11",
-    "ref_1": null,
+    "ref_1": "11.26.rn1",
     "ref_2": null,
     "note": null,
     "fp": "poetic/(mun)/(mah),(mun)",
@@ -41,9 +41,9 @@
   },
   {
     "bcv_short": "Ps24:10",
-    "ref_1": null,
+    "ref_1": "11.26.rn1",
     "ref_2": null,
-    "note": null,
+    "note": "Breuer CoS has space rather than mqf",
     "fp": "poetic/(mun)/(mah)-(mun)",
     "r": "מִ֤י־ה֣וּא"
   },
