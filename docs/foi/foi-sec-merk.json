@@ -1012,7 +1012,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/psg-closed-after-tsere/(mer),(ümtg)-psg-closed-after-tsere",
+    "fp": "poetic/psg-closed-after-tsere/(mer),(ümtg)",
     "r": "וְג֥וֹלֵֽל אֶ֝֗בֶן"
   },
   {
@@ -1020,7 +1020,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/psg-closed-after-tsere/(mer),(ümtg)-psg-closed-after-tsere",
+    "fp": "poetic/psg-closed-after-tsere/(mer),(ümtg)",
     "r": "וּתְח֥וֹלֵֽל לֽוֹ׃"
   },
   {
@@ -1028,7 +1028,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/psg-closed-after-tsere/(ümtg)-(mer),(ümtg)-psg-closed-after-tsere",
+    "fp": "poetic/psg-closed-after-tsere/(ümtg)-(mer),(ümtg)",
     "r": "אִֽם־יֹ֥צֵֽר עַ֝֗יִן"
   },
   {
@@ -1036,7 +1036,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "poetic/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "מִפֶּ֥שַֽׁע רָֽב׃"
   },
   {
@@ -1044,7 +1044,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "poetic/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "נָרִ֥יעַֽ לֽוֹ׃"
   },
   {
@@ -1052,7 +1052,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "poetic/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "אַשְׂבִּ֥יעַֽ לָֽחֶם׃"
   },
   {
@@ -1060,7 +1060,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "poetic/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "יֵאָ֥נַֽח עָֽם׃"
   },
   {
@@ -1068,7 +1068,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "poetic/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "וְשֹׁ֥לֵֽחַ מַ֝֗יִם"
   },
   {
@@ -1076,7 +1076,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "poetic/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "שֹׁמֵ֥עַֽ לִֽי׃"
   },
   {
@@ -1084,7 +1084,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/psg-misc/-(mer),(ümtg)-psg-misc",
+    "fp": "poetic/psg-misc/-(mer),(ümtg)",
     "r": "לֹא־א֥וּכַֽל לָֽהּ׃"
   },
   {
@@ -1092,7 +1092,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/psg-open/(mer),(ümtg)-psg-open",
+    "fp": "poetic/psg-open/(mer),(ümtg)",
     "r": "הִרְכַּ֥בְתָּֽ אֱנ֗וֹשׁ"
   },
   {
@@ -1100,7 +1100,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/psg-open/(mer),(ümtg)-psg-open",
+    "fp": "poetic/psg-open/(mer),(ümtg)",
     "r": "כּוֹנַ֥נְתָּֽ אֶ֝֗רֶץ"
   },
   {
@@ -1108,7 +1108,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/psg-open/-(mer),(ümtg)-psg-open",
+    "fp": "poetic/psg-open/-(mer),(ümtg)",
     "r": "הֲרׇס־שִׁנֵּ֥ימֽוֹ בְּפִ֑ימוֹ"
   },
   {
@@ -1860,7 +1860,7 @@
     "ref_1": "ITM-325",
     "ref_2": null,
     "note": "only cited at 1K2:30 by Yeivin but also appears at G18:15",
-    "fp": "prose/psg-before-paseq/(mer),(ümtg)-psg-before-paseq",
+    "fp": "prose/psg-before-paseq/(mer),(ümtg)",
     "r": "וַיֹּ֥אמֶֽר ‖ לֹ֖א"
   },
   {
@@ -1868,7 +1868,7 @@
     "ref_1": "ITM-325.φ2",
     "ref_2": null,
     "note": "φ2 (footnote 2) is commentary by Denckla on ITM, not part of ITM",
-    "fp": "prose/psg-before-paseq/(mer),(ümtg)-psg-before-paseq",
+    "fp": "prose/psg-before-paseq/(mer),(ümtg)",
     "r": "וַיֹּ֥אמֶֽר ‖ לֹֽא׃"
   },
   {
@@ -1876,7 +1876,7 @@
     "ref_1": "ITM-325",
     "ref_2": null,
     "note": "only cited at 1K2:30 by Yeivin but also appears at G18:15",
-    "fp": "prose/psg-before-paseq/(mer),(ümtg)-psg-before-paseq",
+    "fp": "prose/psg-before-paseq/(mer),(ümtg)",
     "r": "וַיֹּ֥אמֶֽר ‖ לֹ֖א"
   },
   {
@@ -1884,7 +1884,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-after-tsere/(mer),(ümtg)-psg-closed-after-tsere",
+    "fp": "prose/psg-closed-after-tsere/(mer),(ümtg)",
     "r": "שֹׁ֥לֵֽף חֶ֖רֶב"
   },
   {
@@ -1892,7 +1892,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-after-tsere/(mer),(ümtg)-psg-closed-after-tsere",
+    "fp": "prose/psg-closed-after-tsere/(mer),(ümtg)",
     "r": "יְפֹ֥צֵֽץ סָֽלַע׃"
   },
   {
@@ -1900,7 +1900,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-after-tsere/(mer),(ümtg)-psg-closed-after-tsere",
+    "fp": "prose/psg-closed-after-tsere/(mer),(ümtg)",
     "r": "תְּס֥וֹבֵֽב גָּֽבֶר׃"
   },
   {
@@ -1908,7 +1908,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-after-tsere/(mer),(ümtg)-psg-closed-after-tsere",
+    "fp": "prose/psg-closed-after-tsere/(mer),(ümtg)",
     "r": "וְיִנָּ֥תֵֽן לָֽךְ׃"
   },
   {
@@ -1916,7 +1916,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-after-tsere/-(mer),(ümtg)-psg-closed-after-tsere",
+    "fp": "prose/psg-closed-after-tsere/-(mer),(ümtg)",
     "r": "כִּי־חָ֥פֵֽץ בִּֽי׃"
   },
   {
@@ -1924,7 +1924,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "לְהוֹשִׁ֥יעַֽ לָֽךְ׃"
   },
   {
@@ -1932,7 +1932,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "לִשְׁמֹ֥עַֽ לָֽהּ׃"
   },
   {
@@ -1940,7 +1940,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "וַיִּשָּׁ֥בַֽע ל֖וֹ"
   },
   {
@@ -1948,7 +1948,7 @@
     "ref_1": "ITM-354",
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "וְנֹ֥גַֽהּ ל֖וֹ"
   },
   {
@@ -1956,7 +1956,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "וְרֵ֥יחַֽ ל֖וֹ"
   },
   {
@@ -1964,7 +1964,7 @@
     "ref_1": "ITM-354",
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "הֵ֥רַֽע לִֽי׃"
   },
   {
@@ -1972,7 +1972,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "לִשְׂבֹּ֥עַֽ לָֽחֶם׃"
   },
   {
@@ -1980,7 +1980,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "זוֹרֵ֥חַֽ ה֖וּא"
   },
   {
@@ -1988,7 +1988,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "מַנִּ֥יחַֽ ל֖וֹ"
   },
   {
@@ -1996,7 +1996,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "וַיֵּ֥רַֽע לִ֖י"
   },
   {
@@ -2004,7 +2004,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-by-guttural/-(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "prose/psg-closed-by-guttural/-(mer),(ümtg)",
     "r": "לֹא־יָנ֥וּחַֽ לָֽךְ׃"
   },
   {
@@ -2012,7 +2012,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-closed-by-guttural/-(mer),(ümtg)-psg-closed-by-guttural",
+    "fp": "prose/psg-closed-by-guttural/-(mer),(ümtg)",
     "r": "וְלֹא־נֹ֥גַֽהּ לֽוֹ׃"
   },
   {
@@ -2020,7 +2020,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/(mer),(ümtg)",
     "r": "פַּדֶּ֥נָֽה אֲרָֽם׃"
   },
   {
@@ -2028,7 +2028,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/(mer),(ümtg)",
     "r": "הִסְכַּ֥לְתָּֽ עֲשֽׂוֹ׃"
   },
   {
@@ -2036,7 +2036,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/(mer),(ümtg)",
     "r": "וְחָטָ֥אתִֽי לְךָ֖"
   },
   {
@@ -2044,7 +2044,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/(mer),(ümtg)",
     "r": "הִנֶּ֥נּֽוּ לְךָ֖"
   },
   {
@@ -2052,7 +2052,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/(mer),(ümtg)",
     "r": "וְהָיִ֥יתָֽ לְאִֽישׁ׃"
   },
   {
@@ -2060,7 +2060,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/(mer),(ümtg)",
     "r": "כָמ֥וֹךָֽ אִ֛ישׁ"
   },
   {
@@ -2068,7 +2068,7 @@
     "ref_1": "ITM-332",
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/(mer),(ümtg)",
     "r": "עֲבָדֶ֥יךָֽ אֵ֛לֶּה"
   },
   {
@@ -2076,7 +2076,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/(mer),(ümtg)",
     "r": "קְרָאתִ֥יךָֽ בְצֶ֖דֶק"
   },
   {
@@ -2084,7 +2084,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/(mer),(ümtg)",
     "r": "קַ֥מְתִּֽי אֲנִ֖י"
   },
   {
@@ -2092,7 +2092,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/(mer),(ümtg)",
     "r": "וְסַבּ֥וֹתִֽי אֲנִ֖י"
   },
   {
@@ -2100,7 +2100,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/(mer),(ümtg)",
     "r": "הַשְׁכַּ֥חְנָֽא עֲל֖וֹהִי"
   },
   {
@@ -2108,7 +2108,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/(mer),(ümtg)",
     "r": "ק֥וּמִֽי אֲכֻ֖לִי"
   },
   {
@@ -2116,7 +2116,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/(ümtg)-(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/(ümtg)-(mer),(ümtg)",
     "r": "לֹֽא־יִרְדֶּ֥נּֽוּ בְּפֶ֖רֶךְ"
   },
   {
@@ -2124,7 +2124,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/(ümtg)-(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/(ümtg)-(mer),(ümtg)",
     "r": "כִּֽי־חָ֥לָֽה לְט֖וֹב"
   },
   {
@@ -2132,7 +2132,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/-(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/-(mer),(ümtg)",
     "r": "אֲשֶׁר־יַגִּ֥ידֽוּ לְךָ֖"
   },
   {
@@ -2140,7 +2140,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/psg-open/-(mer),(ümtg)-psg-open",
+    "fp": "prose/psg-open/-(mer),(ümtg)",
     "r": "לֹא־קָרָ֥אתִֽי בְנִ֖י"
   }
 ]
