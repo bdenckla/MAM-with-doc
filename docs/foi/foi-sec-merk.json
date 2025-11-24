@@ -800,14 +800,6 @@
     "r": "כׇּ֥ל־אֲחֵי־רָ֨שׁ׀"
   },
   {
-    "bcv_short": "Ps139:6",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "poetic/(ümtg)/-(mer),(ümtg)",
-    "r": "לֹא־א֥וּכַֽל לָֽהּ׃"
-  },
-  {
     "bcv_short": "Jb21:2",
     "ref_1": "11.80.rn3",
     "ref_2": null,
@@ -902,6 +894,14 @@
     "note": null,
     "fp": "poetic/psg-closed-by-guttural/(mer),(ümtg)-psg-closed-by-guttural",
     "r": "שֹׁמֵ֥עַֽ לִֽי׃"
+  },
+  {
+    "bcv_short": "Ps139:6",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "poetic/psg-misc/-(mer),(ümtg)-psg-misc",
+    "r": "לֹא־א֥וּכַֽל לָֽהּ׃"
   },
   {
     "bcv_short": "Ps66:12",
