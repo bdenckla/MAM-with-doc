@@ -496,22 +496,6 @@
     "r": "הַ֥ט־אׇזְנְךָ֗"
   },
   {
-    "bcv_short": "Ps46:4",
-    "ref_1": "11.79.rn2",
-    "ref_2": "09.28.rn2",
-    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. Also appears in 9.33.rn1",
-    "fp": "poetic/(tip)/(mer),(ümtg)-(tip)",
-    "r": "יִ֥רְעֲשֽׁוּ־הָרִ֖ים"
-  },
-  {
-    "bcv_short": "Ps66:15",
-    "ref_1": "11.79.rn2",
-    "ref_2": "09.29.var-rn2",
-    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. 9.29 notes that μS1 has azla where μA & μL have געיה (the opposite of Ps89:46).",
-    "fp": "poetic/(tip)/(mer),(ümtg)-(tip)",
-    "r": "אֶ֥עֱשֶֽׂה־בָקָ֖ר"
-  },
-  {
     "bcv_short": "Ps98:3",
     "ref_1": "11.27.rn3",
     "ref_2": "09.32.rn1",
@@ -1008,6 +992,22 @@
     "r": "בְּמַ֥עַלְלֵיהֶֽם׃"
   },
   {
+    "bcv_short": "Ps46:4",
+    "ref_1": "11.79.rn2",
+    "ref_2": "09.28.rn2",
+    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. Also appears in 9.33.rn1",
+    "fp": "poetic/(ütar)/(mer),(ümtg)-(ütar)",
+    "r": "יִ֥רְעֲשֽׁוּ־הָרִ֖ים"
+  },
+  {
+    "bcv_short": "Ps66:15",
+    "ref_1": "11.79.rn2",
+    "ref_2": "09.29.var-rn2",
+    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. 9.29 notes that μS1 has azla where μA & μL have געיה (the opposite of Ps89:46).",
+    "fp": "poetic/(ütar)/(mer),(ümtg)-(ütar)",
+    "r": "אֶ֥עֱשֶֽׂה־בָקָ֖ר"
+  },
+  {
     "bcv_short": "Pr26:27",
     "ref_1": null,
     "ref_2": null,
@@ -1116,7 +1116,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/(mer)/(üazl),(mer)",
+    "fp": "prose/(mer)/(üqom),(mer)",
     "r": "הַמַּאֲכִ֨לְךָ֥"
   },
   {
@@ -1124,7 +1124,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/(mer)/(üazl),(mer)",
+    "fp": "prose/(mer)/(üqom),(mer)",
     "r": "וַתֹּ֨אמְר֥וּ"
   },
   {
@@ -1132,7 +1132,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/(mer)/(üazl),(mer)",
+    "fp": "prose/(mer)/(üqom),(mer)",
     "r": "לָא֨וֹצָר֥וֹת"
   },
   {
@@ -1140,7 +1140,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/(mer)/-(üazl),(mer)",
+    "fp": "prose/(mer)/-(üqom),(mer)",
     "r": "וְאֶל־אִ֨יתָמָ֥ר"
   },
   {
@@ -1148,7 +1148,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/(mer)/-(üazl),(mer)",
+    "fp": "prose/(mer)/-(üqom),(mer)",
     "r": "אִם־יֵ֨צְא֥וּ"
   },
   {
@@ -1156,7 +1156,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "prose/(mer)/-(üazl),(mer)",
+    "fp": "prose/(mer)/-(üqom),(mer)",
     "r": "עַד־יֵ֨עָרֶ֥ה"
   },
   {
@@ -1720,102 +1720,6 @@
     "r": "עַל־הַכֹּ֥הֲנִ֛ים"
   },
   {
-    "bcv_short": "Je8:18",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(tip)/(mer),(tip)",
-    "r": "מַבְלִ֥יגִיתִ֖י"
-  },
-  {
-    "bcv_short": "S6:5",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(tip)/(mer),(tip)",
-    "r": "שֶׁ֥הֵ֖ם"
-  },
-  {
-    "bcv_short": "Da5:17",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(tip)/(mer),(tip)",
-    "r": "וּנְבָ֥זְבְּיָתָ֖ךְ"
-  },
-  {
-    "bcv_short": "1C15:13",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(tip)/(mer),(tip)",
-    "r": "לְמַבָּרִ֥אשׁוֹנָ֖ה"
-  },
-  {
-    "bcv_short": "Ee1:4",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(tip)/(mer),(ümtg)-(tip)",
-    "r": "וְנֹ֥גַֽהּ־ל֖וֹ"
-  },
-  {
-    "bcv_short": "2C14:6",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(tip)/(mer),(ümtg)-(tip)",
-    "r": "וַיָּ֥נַֽח־לָ֖נוּ"
-  },
-  {
-    "bcv_short": "Ee44:6",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(tip)/(ümtg)-(mer),(tip)",
-    "r": "מִֽכׇּל־תּוֹעֲב֥וֹתֵיכֶ֖ם"
-  },
-  {
-    "bcv_short": "L23:21",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(tip)/-(mer),(tip)",
-    "r": "בְּכׇל־מוֹשְׁבֹ֥תֵיכֶ֖ם"
-  },
-  {
-    "bcv_short": "2K15:16",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(tip)/-(mer),(tip)",
-    "r": "כׇּל־הֶהָ֥רוֹתֶ֖יהָ"
-  },
-  {
-    "bcv_short": "Ee36:25",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(tip)/-(mer),(tip)",
-    "r": "וּמִכׇּל־גִּלּ֥וּלֵיכֶ֖ם"
-  },
-  {
-    "bcv_short": "I66:8",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(tip)/-(mer),(ümtg)-(tip)",
-    "r": "אִם־יִוָּ֥לֵֽד־גּ֖וֹי"
-  },
-  {
-    "bcv_short": "2C8:11",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/(tip)/-(mer),(ümtg)-(tip)",
-    "r": "אֲשֶׁר־בָּ֥אָֽה־אֲלֵיהֶ֖ם"
-  },
-  {
     "bcv_short": "Ju8:10",
     "ref_1": null,
     "ref_2": null,
@@ -1854,6 +1758,102 @@
     "note": null,
     "fp": "prose/(üslq)/(mer),(üslq)",
     "r": "שַׁלְהֶ֥בֶתְיָֽה׃"
+  },
+  {
+    "bcv_short": "Ee1:4",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/(ütip)/(mer),(ümtg)-(ütip)",
+    "r": "וְנֹ֥גַֽהּ־ל֖וֹ"
+  },
+  {
+    "bcv_short": "2C14:6",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/(ütip)/(mer),(ümtg)-(ütip)",
+    "r": "וַיָּ֥נַֽח־לָ֖נוּ"
+  },
+  {
+    "bcv_short": "Je8:18",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/(ütip)/(mer),(ütip)",
+    "r": "מַבְלִ֥יגִיתִ֖י"
+  },
+  {
+    "bcv_short": "S6:5",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/(ütip)/(mer),(ütip)",
+    "r": "שֶׁ֥הֵ֖ם"
+  },
+  {
+    "bcv_short": "Da5:17",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/(ütip)/(mer),(ütip)",
+    "r": "וּנְבָ֥זְבְּיָתָ֖ךְ"
+  },
+  {
+    "bcv_short": "1C15:13",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/(ütip)/(mer),(ütip)",
+    "r": "לְמַבָּרִ֥אשׁוֹנָ֖ה"
+  },
+  {
+    "bcv_short": "Ee44:6",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/(ütip)/(ümtg)-(mer),(ütip)",
+    "r": "מִֽכׇּל־תּוֹעֲב֥וֹתֵיכֶ֖ם"
+  },
+  {
+    "bcv_short": "I66:8",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/(ütip)/-(mer),(ümtg)-(ütip)",
+    "r": "אִם־יִוָּ֥לֵֽד־גּ֖וֹי"
+  },
+  {
+    "bcv_short": "2C8:11",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/(ütip)/-(mer),(ümtg)-(ütip)",
+    "r": "אֲשֶׁר־בָּ֥אָֽה־אֲלֵיהֶ֖ם"
+  },
+  {
+    "bcv_short": "L23:21",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/(ütip)/-(mer),(ütip)",
+    "r": "בְּכׇל־מוֹשְׁבֹ֥תֵיכֶ֖ם"
+  },
+  {
+    "bcv_short": "2K15:16",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/(ütip)/-(mer),(ütip)",
+    "r": "כׇּל־הֶהָ֥רוֹתֶ֖יהָ"
+  },
+  {
+    "bcv_short": "Ee36:25",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/(ütip)/-(mer),(ütip)",
+    "r": "וּמִכׇּל־גִּלּ֥וּלֵיכֶ֖ם"
   },
   {
     "bcv_short": "G18:15",
