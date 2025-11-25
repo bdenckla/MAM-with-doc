@@ -408,28 +408,12 @@
     "r": "וּ֥תְהִי־ע֨וֹד׀"
   },
   {
-    "bcv_short": "Ps66:12",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "poetic/«:»/bgdkft-dagesh",
-    "r": "הִרְכַּ֥בְתָּֽ אֱנ֗וֹשׁ"
-  },
-  {
     "bcv_short": "Ps89:20",
     "ref_1": "11.08",
     "ref_2": null,
     "note": "The reference I find in Breuer CoS (11.8) has space rather than mqf, presumably because Breuer classifies this as a normal merkha, not a secondary merkha. This would make its absence from 11.10 intentional. Like Breuer CoS 11.8, JC has space rather than mqf. μA & μL have mqf.",
     "fp": "poetic/«:»/bgdkft-dagesh",
     "r": "דִּבַּ֥רְתָּֽ־בְחָז֡וֹן"
-  },
-  {
-    "bcv_short": "Ps119:90",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "poetic/«:»/bgdkft-dagesh",
-    "r": "כּוֹנַ֥נְתָּֽ אֶ֝֗רֶץ"
   },
   {
     "bcv_short": "Ps39:2",
@@ -560,35 +544,11 @@
     "r": "וְשֵׁרֵ֥בְיָ֣ה׀"
   },
   {
-    "bcv_short": "G31:28",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/«:»/bgdkft-dagesh",
-    "r": "הִסְכַּ֥לְתָּֽ עֲשֽׂוֹ׃"
-  },
-  {
-    "bcv_short": "S5:5",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/«:»/bgdkft-dagesh",
-    "r": "קַ֥מְתִּֽי אֲנִ֖י"
-  },
-  {
     "bcv_short": "Da5:17",
     "ref_1": null,
     "ref_2": null,
     "note": null,
     "fp": "prose/«:»/double shewa",
     "r": "וּנְבָ֥זְבְּיָתָ֖ךְ"
-  },
-  {
-    "bcv_short": "Da6:6",
-    "ref_1": null,
-    "ref_2": null,
-    "note": null,
-    "fp": "prose/«gutt-:»",
-    "r": "הַשְׁכַּ֥חְנָֽא עֲל֖וֹהִי"
   }
 ]
