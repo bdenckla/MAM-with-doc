@@ -1,92 +1,146 @@
 [
   {
     "bcv_short": "Ps65:9",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "poetic/«:»",
     "r": "וַיִּ֤ירְא֨וּ׀"
   },
   {
     "bcv_short": "Ps68:20",
+    "ref_1": "11.26.rn1",
+    "ref_2": null,
+    "note": null,
     "fp": "poetic/«:»",
     "r": "בָּ֤ר֣וּךְ"
   },
   {
     "bcv_short": "Ps106:48",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "poetic/«:»",
     "r": "בָּ֤רֽוּךְ־יְהֹוָ֨ה"
   },
   {
     "bcv_short": "Jb24:15",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "poetic/«:»",
     "r": "שָׁ֤מְרָֽה־נֶ֣שֶׁף"
   },
   {
     "bcv_short": "G48:19",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "prose/«3,:»",
-    "r": "יָדַ֤עְתִּֽי"
+    "r": "יָדַ֤עְתִּֽי בְנִי֙"
   },
   {
     "bcv_short": "I48:6",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "prose/«3,:»",
-    "r": "שָׁמַ֤עְתָּֽ"
+    "r": "שָׁמַ֤עְתָּֽ חֲזֵה֙"
   },
   {
     "bcv_short": "S3:4",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "prose/«:_»",
     "r": "עַד־שֶׁ֤הֲבֵיאתִיו֙"
   },
   {
     "bcv_short": "I28:15",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "prose/«:»",
-    "r": "כָּרַ֤תְנֽוּ"
+    "r": "כָּרַ֤תְנֽוּ בְרִית֙"
   },
   {
     "bcv_short": "Je9:18",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "prose/«:»",
-    "r": "בֹּ֤שְׁנֽוּ"
+    "r": "בֹּ֤שְׁנֽוּ מְאֹד֙"
   },
   {
     "bcv_short": "Je42:2",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "prose/«:»",
-    "r": "כִּֽי־נִשְׁאַ֤רְנֽוּ"
+    "r": "כִּֽי־נִשְׁאַ֤רְנֽוּ מְעַט֙"
   },
   {
     "bcv_short": "G37:9",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "prose/«:»/bgdkft-dagesh",
-    "r": "חָלַ֤מְתִּֽי"
+    "r": "חָלַ֤מְתִּֽי חֲלוֹם֙"
   },
   {
     "bcv_short": "Ec2:1",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "prose/«:»/bgdkft-dagesh",
-    "r": "אָמַ֤רְתִּֽי"
+    "r": "אָמַ֤רְתִּֽי אֲנִי֙"
   },
   {
     "bcv_short": "Ec3:17",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "prose/«:»/bgdkft-dagesh",
-    "r": "אָמַ֤רְתִּֽי"
+    "r": "אָמַ֤רְתִּֽי אֲנִי֙"
   },
   {
     "bcv_short": "Ec3:18",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "prose/«:»/bgdkft-dagesh",
-    "r": "אָמַ֤רְתִּֽי"
+    "r": "אָמַ֤רְתִּֽי אֲנִי֙"
   },
   {
     "bcv_short": "Er9:13",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "prose/«:»/bgdkft-dagesh",
-    "r": "חָשַׂ֤כְתָּֽ"
+    "r": "חָשַׂ֤כְתָּֽ לְמַ֙טָּה֙"
   },
   {
     "bcv_short": "S5:6",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "prose/«gutt-:»",
-    "r": "פָּתַ֤חְתִּֽי"
+    "r": "פָּתַ֤חְתִּֽי אֲנִי֙"
   },
   {
     "bcv_short": "Ec8:15",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "prose/«gutt-:»",
-    "r": "וְשִׁבַּ֤חְתִּֽי"
+    "r": "וְשִׁבַּ֤חְתִּֽי אֲנִי֙"
   },
   {
     "bcv_short": "2C16:3",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
     "fp": "prose/«gutt-:»",
-    "r": "שָׁלַ֤חְתִּֽי"
+    "r": "שָׁלַ֤חְתִּֽי לְךָ֙"
   }
 ]
