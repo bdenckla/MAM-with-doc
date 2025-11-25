@@ -3,7 +3,7 @@
     "bcv_short": "Ps1:1",
     "ref_1": "11.28.rn2",
     "ref_2": "09.34.rn2",
-    "note": null,
+    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/«:,(mos)»",
     "r": "אַ֥שְֽׁרֵי־הָאִ֗ישׁ"
   },
@@ -11,7 +11,7 @@
     "bcv_short": "Ps32:2",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": null,
+    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/«:,(mos)»",
     "r": "אַ֥שְֽׁרֵי־אָדָ֗ם"
   },
@@ -19,7 +19,7 @@
     "bcv_short": "Ps40:5",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": null,
+    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/«:,(mos)»",
     "r": "אַ֥שְֽׁרֵי־הַגֶּ֗בֶר"
   },
@@ -27,7 +27,7 @@
     "bcv_short": "Ps98:9",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": null,
+    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/«:,(mos)»",
     "r": "לִ֥פְֽנֵי־יְהֹוָ֗ה"
   },
@@ -35,7 +35,7 @@
     "bcv_short": "Pr8:34",
     "ref_1": "11.27.rn2",
     "ref_2": "09.28.rn1",
-    "note": "Also appears in 9.33.rn1",
+    "note": "Also appears in 9.33.rn1. Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/«:,(mos)»",
     "r": "אַ֥שְֽׁרֵי־אָדָם֮"
   },
@@ -203,7 +203,7 @@
     "bcv_short": "Pr28:22",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": null,
+    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/«:,varika»",
     "r": "נִ֥בְﬞהָֽל־לַה֗וֹן"
   },
@@ -539,7 +539,7 @@
     "bcv_short": "Ps64:7",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": null,
+    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/«gutt-:»",
     "r": "יַ֥חְפְּֽשׂוּ־עוֹלֹ֗ת"
   },

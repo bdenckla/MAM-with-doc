@@ -371,7 +371,7 @@
     "bcv_short": "Jb40:10",
     "ref_1": "11.56.rn2",
     "ref_2": null,
-    "note": "Mentioned indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56. In 11.56.rn2, Breuer has space rather than mqf but says that עדה should be considered to be followed by a mqf.",
+    "note": "Mentioned indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56. In 11.56.rn2, Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. But Breuer CoS says that עדה should be considered to be followed by a mqf.",
     "fp": "poetic/(mun)/(mer)-(mun)",
     "r": "עֲדֵ֥ה־נָ֣א"
   },
@@ -435,7 +435,7 @@
     "bcv_short": "Ps1:1",
     "ref_1": "11.28.rn2",
     "ref_2": "09.34.rn2",
-    "note": null,
+    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
     "r": "אַ֥שְֽׁרֵי־הָאִ֗ישׁ"
   },
@@ -443,7 +443,7 @@
     "bcv_short": "Ps32:2",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": null,
+    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
     "r": "אַ֥שְֽׁרֵי־אָדָ֗ם"
   },
@@ -451,7 +451,7 @@
     "bcv_short": "Ps40:5",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": null,
+    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
     "r": "אַ֥שְֽׁרֵי־הַגֶּ֗בֶר"
   },
@@ -459,7 +459,7 @@
     "bcv_short": "Ps64:7",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": null,
+    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
     "r": "יַ֥חְפְּֽשׂוּ־עוֹלֹ֗ת"
   },
@@ -467,7 +467,7 @@
     "bcv_short": "Ps98:9",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": null,
+    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
     "r": "לִ֥פְֽנֵי־יְהֹוָ֗ה"
   },
@@ -475,7 +475,7 @@
     "bcv_short": "Pr28:22",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": null,
+    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
     "r": "נִ֥בְﬞהָֽל־לַה֗וֹן"
   },
@@ -523,7 +523,7 @@
     "bcv_short": "Pr8:34",
     "ref_1": "11.27.rn2",
     "ref_2": "09.28.rn1",
-    "note": "Also appears in 9.33.rn1",
+    "note": "Also appears in 9.33.rn1. Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(zarnor)/(mer),(ümtg)-(zarnor)",
     "r": "אַ֥שְֽׁרֵי־אָדָם֮"
   },
