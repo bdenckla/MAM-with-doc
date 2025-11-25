@@ -227,7 +227,7 @@
     "bcv_short": "Ps65:5",
     "ref_1": null,
     "ref_2": null,
-    "note": "I find no reference to this in Breuer CoS. Da-at Miqra considers μL to have געיה not merkha; how/why? (It considers μA to have merkha.)",
+    "note": "I find no reference to this in CoS. Da-at Miqra considers μL to have געיה not mer; how/why? (It considers μA to have mer)",
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "תִּ֥בְﬞחַ֣ר"
   },
@@ -331,7 +331,7 @@
     "bcv_short": "Ps40:9",
     "ref_1": "11.53",
     "ref_2": "09.28.rn2",
-    "note": "Why doesn't Breuer (1) have a mqf (2) mention μL's געיה on ש? Also appears in 9.32 body text and 9.33.rn1",
+    "note": "Why doesn't CoS (1) have a mqf (2) mention μL's געיה on ש? Also appears in 9.32 body text and 9.33.rn1",
     "fp": "poetic/(mun)/(mer)-(mun)",
     "r": "לַ֥עֲשׂוֹת־רְצוֹנְךָ֣"
   },
@@ -371,7 +371,7 @@
     "bcv_short": "Jb40:10",
     "ref_1": "11.56.rn2",
     "ref_2": null,
-    "note": "Mentioned indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56. In 11.56.rn2, Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. But Breuer CoS says that עדה should be considered to be followed by a mqf.",
+    "note": "Mentioned indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56. In 11.56.rn2, CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. But CoS says that עדה should be considered to be followed by a mqf.",
     "fp": "poetic/(mun)/(mer)-(mun)",
     "r": "עֲדֵ֥ה־נָ֣א"
   },
@@ -387,7 +387,7 @@
     "bcv_short": "Ps89:20",
     "ref_1": "11.08",
     "ref_2": null,
-    "note": "The reference I find in Breuer CoS (11.8) has space rather than mqf, presumably because Breuer classifies this as a normal merkha, not a 2ndary merkha. This would make its absence from 11.10 intentional. Like Breuer CoS 11.8, JC has space rather than mqf. μA & μL have mqf.",
+    "note": "The reference I find in CoS (11.8) has space rather than mqf, presumably because CoS classifies this as a normal mer, not a 2ndary mer This would make its absence from 11.10 intentional. Like CoS 11.8, JC has space rather than mqf. μA & μL have mqf.",
     "fp": "poetic/(paz)/(mer),(ümtg)-(paz)",
     "r": "דִּבַּ֥רְתָּֽ־בְחָז֡וֹן"
   },
@@ -427,7 +427,7 @@
     "bcv_short": "Jb32:12",
     "ref_1": null,
     "ref_2": null,
-    "note": "I find no reference to this in Breuer CoS. Da-at Miqra considers μL to have געיה not merkha; how/why? (It considers μA to have merkha.)",
+    "note": "I find no reference to this in CoS. Da-at Miqra considers μL to have געיה not mer; how/why? (It considers μA to have mer.)",
     "fp": "poetic/(rev)/(mer),(rev)",
     "r": "וְעָ֥דֵיכֶ֗ם"
   },
@@ -435,7 +435,7 @@
     "bcv_short": "Ps1:1",
     "ref_1": "11.28.rn2",
     "ref_2": "09.34.rn2",
-    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
     "r": "אַ֥שְֽׁרֵי־הָאִ֗ישׁ"
   },
@@ -443,7 +443,7 @@
     "bcv_short": "Ps32:2",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
     "r": "אַ֥שְֽׁרֵי־אָדָ֗ם"
   },
@@ -451,7 +451,7 @@
     "bcv_short": "Ps40:5",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
     "r": "אַ֥שְֽׁרֵי־הַגֶּ֗בֶר"
   },
@@ -459,7 +459,7 @@
     "bcv_short": "Ps64:7",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
     "r": "יַ֥חְפְּֽשׂוּ־עוֹלֹ֗ת"
   },
@@ -467,7 +467,7 @@
     "bcv_short": "Ps98:9",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
     "r": "לִ֥פְֽנֵי־יְהֹוָ֗ה"
   },
@@ -475,7 +475,7 @@
     "bcv_short": "Pr28:22",
     "ref_1": "11.28.rn2",
     "ref_2": null,
-    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
     "r": "נִ֥בְﬞהָֽל־לַה֗וֹן"
   },
@@ -483,7 +483,7 @@
     "bcv_short": "Ps92:8",
     "ref_1": null,
     "ref_2": null,
-    "note": "I find no reference to this in Breuer CoS. JC has space rather than mqf. μA has mqf; μL has space. (Same situation as Ps12:6.)",
+    "note": "I find no reference to this in CoS. JC has space rather than mqf. μA has mqf; μL has space. (Same situation as Ps12:6.)",
     "fp": "poetic/(rev)/(mer)-(rev)",
     "r": "כְּמ֥וֹ־עֵ֗שֶׂב"
   },
@@ -507,7 +507,7 @@
     "bcv_short": "Pr8:34",
     "ref_1": "11.27.rn2",
     "ref_2": "09.28.rn1",
-    "note": "Also appears in 9.33.rn1. Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": "Also appears in 9.33.rn1. CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(zarnor)/(mer),(ümtg)-(zarnor)",
     "r": "אַ֥שְֽׁרֵי־אָדָם֮"
   },
@@ -547,7 +547,7 @@
     "bcv_short": "Ps47:5",
     "ref_1": "11.79.rn1",
     "ref_2": "09.27.rn4",
-    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. 9.30 notes that μS1 has געיה where μA & μL have azla (like Ps89:46).",
+    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. 9.30 notes that μS1 has געיה where μA & μL have azla (like Ps89:46).",
     "fp": "poetic/(üazl)/(mer)-(üazl)",
     "r": "אֶ֥ת־גְּא֨וֹן"
   },
@@ -619,7 +619,7 @@
     "bcv_short": "Ps19:15",
     "ref_1": "11.03",
     "ref_2": "09.23.fn22",
-    "note": "merkha does not mobilize the shewa?",
+    "note": "mer does not mobilize the shewa?",
     "fp": "poetic/(üazll)/(mer),(ümtg)-(üazll)",
     "r": "יִ֥הְיֽוּ־לְרָצ֨וֹן׀"
   },
@@ -787,7 +787,7 @@
     "bcv_short": "Ps21:2",
     "ref_1": "11.40.rn1",
     "ref_2": null,
-    "note": "The merkha is merely 1/2CMSW, not 2ndary (in Breuer's strict sense of 2ndary).",
+    "note": "The mer is merely 1/2CMSW, not 2ndary (in CoS's strict sense of 2ndary).",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "וּ֝בִישׁ֥וּעָתְךָ֗"
   },
@@ -795,7 +795,7 @@
     "bcv_short": "Ps36:6",
     "ref_1": "11.40.rn1",
     "ref_2": "09.20",
-    "note": "The merkha is merely 1/2CMSW, not 2ndary (in Breuer's strict sense of 2ndary). Only cited at 36:6 by Breuer but also appears at 88:12.",
+    "note": "The mer is merely 1/2CMSW, not 2ndary (in CoS's strict sense of 2ndary). Only cited at 36:6 by CoS but also appears at 88:12.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "אֱ֝מ֥וּנָתְךָ֗"
   },
@@ -803,7 +803,7 @@
     "bcv_short": "Ps40:9",
     "ref_1": "11.40.rn1",
     "ref_2": null,
-    "note": "The merkha is merely 1/2CMSW, not 2ndary (in Breuer's strict sense of 2ndary). Only cited at 40:9 by Breuer but also appears at 119:109 and 119:174.",
+    "note": "The mer is merely 1/2CMSW, not 2ndary (in CoS's strict sense of 2ndary). Only cited at 40:9 by CoS but also appears at 119:109 and 119:174.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
   },
@@ -811,7 +811,7 @@
     "bcv_short": "Ps88:12",
     "ref_1": "11.40.rn1",
     "ref_2": "09.20",
-    "note": "The merkha is merely 1/2CMSW, not 2ndary (in Breuer's strict sense of 2ndary). Only cited at 36:6 by Breuer but also appears at 88:12.",
+    "note": "The mer is merely 1/2CMSW, not 2ndary (in CoS's strict sense of 2ndary). Only cited at 36:6 by CoS but also appears at 88:12.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "אֱ֝מ֥וּנָתְךָ֗"
   },
@@ -859,7 +859,7 @@
     "bcv_short": "Ps118:26",
     "ref_1": "11.41",
     "ref_2": null,
-    "note": "The merkha is merely 1/2CMSW, not 2ndary (in Breuer's strict sense of 2ndary)",
+    "note": "The mer is merely 1/2CMSW, not 2ndary (in CoS's strict sense of 2ndary)",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "בֵּ֝רַ֥כְנוּכֶ֗ם"
   },
@@ -867,7 +867,7 @@
     "bcv_short": "Ps119:41",
     "ref_1": "11.40.rn1",
     "ref_2": null,
-    "note": "The merkha is merely 1/2CMSW, not 2ndary (in Breuer's strict sense of 2ndary).",
+    "note": "The mer is merely 1/2CMSW, not 2ndary (in CoS's strict sense of 2ndary).",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "תְּ֝שׁ֥וּעָתְךָ֗"
   },
@@ -883,7 +883,7 @@
     "bcv_short": "Ps119:109",
     "ref_1": "11.40.rn1",
     "ref_2": null,
-    "note": "The merkha is merely 1/2CMSW, not 2ndary (in Breuer's strict sense of 2ndary). Only cited at 40:9 by Breuer but also appears at 119:109 and 119:174.",
+    "note": "The mer is merely 1/2CMSW, not 2ndary (in CoS's strict sense of 2ndary). Only cited at 40:9 by CoS but also appears at 119:109 and 119:174.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
   },
@@ -891,7 +891,7 @@
     "bcv_short": "Ps119:174",
     "ref_1": "11.40.rn1",
     "ref_2": null,
-    "note": "The merkha is merely 1/2CMSW, not 2ndary (in Breuer's strict sense of 2ndary). Only cited at 40:9 by Breuer but also appears at 119:109 and 119:174.",
+    "note": "The mer is merely 1/2CMSW, not 2ndary (in CoS's strict sense of 2ndary). Only cited at 40:9 by CoS but also appears at 119:109 and 119:174.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
   },
@@ -907,7 +907,7 @@
     "bcv_short": "Jb21:34",
     "ref_1": "11.40.rn1",
     "ref_2": null,
-    "note": "The merkha is merely 1/2CMSW, not 2ndary (in Breuer's strict sense of 2ndary).",
+    "note": "The mer is merely 1/2CMSW, not 2ndary (in CoS's strict sense of 2ndary).",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "וּ֝תְשׁ֥וּבֹתֵיכֶ֗ם"
   },
@@ -923,7 +923,7 @@
     "bcv_short": "Ps107:17",
     "ref_1": "11.40.rn1",
     "ref_2": null,
-    "note": "The merkha is merely 1/2CMSW, not 2ndary (in Breuer's strict sense of 2ndary). Breuer has no געיה.",
+    "note": "The mer is merely 1/2CMSW, not 2ndary (in CoS's strict sense of 2ndary). CoS has no געיה.",
     "fp": "poetic/(ürevirm)/(ümtg)+(ger_m),(mer),(ürevirm)",
     "r": "וּֽ֝מֵעֲוֺ֥נֹתֵיהֶ֗ם"
   },
@@ -963,7 +963,7 @@
     "bcv_short": "Pr3:5",
     "ref_1": "11.40.rn1",
     "ref_2": null,
-    "note": "The merkha is merely 1/2CMSW, not 2ndary (in Breuer's strict sense of 2ndary).",
+    "note": "The mer is merely 1/2CMSW, not 2ndary (in CoS's strict sense of 2ndary).",
     "fp": "poetic/(ürevirm)/-(mer)+(ger_m),(ürevirm)",
     "r": "וְאֶל־בִּ֥֝ינָתְךָ֗"
   },
@@ -971,7 +971,7 @@
     "bcv_short": "Jb21:2",
     "ref_1": "11.80.rn3",
     "ref_2": null,
-    "note": "Breuer has no געיה",
+    "note": "CoS has no געיה",
     "fp": "poetic/(üslq)/(mer),(ümtg),(üslq)",
     "r": "תַּנְח֥וּמֹֽתֵיכֶֽם׃"
   },
@@ -979,7 +979,7 @@
     "bcv_short": "Ps12:6",
     "ref_1": null,
     "ref_2": null,
-    "note": "I find no reference to this in Breuer CoS. JC has space rather than mqf. μA has mqf; μL has space. (Same situation as Ps92:8.)",
+    "note": "I find no reference to this in CoS. JC has space rather than mqf. μA has mqf; μL has space. (Same situation as Ps92:8.)",
     "fp": "poetic/(üslq)/(mer),(ümtg)-(üslq)",
     "r": "יָפִ֥יחַֽ־לֽוֹ׃"
   },
@@ -995,7 +995,7 @@
     "bcv_short": "Ps46:4",
     "ref_1": "11.79.rn2",
     "ref_2": "09.28.rn2",
-    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. Also appears in 9.33.rn1",
+    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. Also appears in 9.33.rn1",
     "fp": "poetic/(ütar)/(mer),(ümtg)-(ütar)",
     "r": "יִ֥רְעֲשֽׁוּ־הָרִ֖ים"
   },
@@ -1003,7 +1003,7 @@
     "bcv_short": "Ps66:15",
     "ref_1": "11.79.rn2",
     "ref_2": "09.29.var-rn2",
-    "note": "Breuer CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. 9.29 notes that μS1 has azla where μA & μL have געיה (the opposite of Ps89:46).",
+    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. 9.29 notes that μS1 has azla where μA & μL have געיה (the opposite of Ps89:46).",
     "fp": "poetic/(ütar)/(mer),(ümtg)-(ütar)",
     "r": "אֶ֥עֱשֶֽׂה־בָקָ֖ר"
   },
