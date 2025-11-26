@@ -18,8 +18,8 @@
   {
     "bcv_short": "Ps78:7",
     "ref_1": "11.55.rn2",
-    "ref_2": null,
-    "note": null,
+    "ref_2": "09.36.rn2",
+    "note": "Also appears in 9.37.",
     "fp": "poetic/(atn)/(mer)-(atn)",
     "r": "מַ֥עַלְלֵי־אֵ֑ל"
   },
@@ -739,7 +739,7 @@
     "bcv_short": "Pr25:20",
     "ref_1": "11.06.rn2",
     "ref_2": "09.27",
-    "note": null,
+    "note": "Also appears in 9.37.",
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "מַ֥עֲדֶה־בֶּ֨גֶד׀"
   },
@@ -755,7 +755,7 @@
     "bcv_short": "Jb6:10",
     "ref_1": "11.06.rn2",
     "ref_2": "09.27",
-    "note": null,
+    "note": "Also appears in 9.37.",
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "וּ֥תְהִי־ע֨וֹד׀"
   },

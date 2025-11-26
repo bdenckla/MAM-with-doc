@@ -57,7 +57,7 @@
   },
   {
     "bcv_short": "Pr23:5",
-    "ref_1": null,
+    "ref_1": "09.34.rn1",
     "ref_2": null,
     "note": null,
     "fp": "poetic/(mer)/(mah)-(mer)",
@@ -409,7 +409,7 @@
   },
   {
     "bcv_short": "Ps106:48",
-    "ref_1": null,
+    "ref_1": "09.34.rn1",
     "ref_2": null,
     "note": null,
     "fp": "poetic/(üazl)/(mah),(ümtg)-(üazl)",
@@ -490,15 +490,15 @@
   {
     "bcv_short": "Ps81:13",
     "ref_1": "11.80.rn1",
-    "ref_2": null,
-    "note": null,
+    "ref_2": "09.35.rn1",
+    "note": "CoS has no געיה",
     "fp": "poetic/(üslq)/(ümtg),(ütar),(üslq)",
     "r": "בְּֽמוֹעֲצ֖וֹתֵיהֶֽם׃"
   },
   {
     "bcv_short": "Ps38:19",
     "ref_1": "11.80.rn1",
-    "ref_2": null,
+    "ref_2": "09.35.rn1",
     "note": null,
     "fp": "poetic/(üslq)/(ütar),(üslq)",
     "r": "מֵ֖חַטָּאתִֽי׃"
@@ -506,7 +506,7 @@
   {
     "bcv_short": "Ps69:15",
     "ref_1": "11.80.rn2",
-    "ref_2": null,
+    "ref_2": "09.26.rn1",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(üslq)/(ütar)-(üslq)",
     "r": "וּמִמַּ֖עֲמַקֵּי־מָֽיִם׃"
@@ -514,7 +514,7 @@
   {
     "bcv_short": "Ps104:6",
     "ref_1": "11.80.rn2",
-    "ref_2": null,
+    "ref_2": "09.26.rn1",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(üslq)/(ütar)-(üslq)",
     "r": "יַ֖עַמְדוּ־מָֽיִם׃"
@@ -522,14 +522,14 @@
   {
     "bcv_short": "Jb12:15",
     "ref_1": "11.80.rn2",
-    "ref_2": null,
+    "ref_2": "09.26.rn1",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(üslq)/(ütar)-(üslq)",
     "r": "וְיַ֖הַפְכוּ־אָֽרֶץ׃"
   },
   {
     "bcv_short": "Ps36:7",
-    "ref_1": null,
+    "ref_1": "09.34.rn1",
     "ref_2": "11.66.rn1",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive).",
     "fp": "poetic/(ütar)/(mah),(ümtg)-(ütar)",
