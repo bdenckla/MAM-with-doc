@@ -395,7 +395,7 @@
     "bcv_short": "Ps22:26",
     "ref_1": "11.19",
     "ref_2": null,
-    "note": null,
+    "note": "The mer is primary (conjunctive), not 2ndary.",
     "fp": "poetic/(rev)/(mer),(rev)",
     "r": "מֵ֥אִתְּךָ֗"
   },
@@ -425,9 +425,9 @@
   },
   {
     "bcv_short": "Jb32:12",
-    "ref_1": null,
+    "ref_1": "11.19",
     "ref_2": null,
-    "note": "I find no reference to this in CoS. Da-at Miqra considers μL to have געיה not mer; how/why? (It considers μA to have mer.)",
+    "note": "I find no reference to this in CoS. Da-at Miqra considers μL to have געיה not mer; how/why? (It considers μA to have mer.) The mer is primary (conjunctive), not 2ndary.",
     "fp": "poetic/(rev)/(mer),(rev)",
     "r": "וְעָ֥דֵיכֶ֗ם"
   },
