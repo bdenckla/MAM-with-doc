@@ -379,7 +379,7 @@
     "bcv_short": "Ps118:26",
     "ref_1": "11.41",
     "ref_2": null,
-    "note": "The mer is merely 1/2CMSW, not 2ndary (in CoS's strict sense of 2ndary)",
+    "note": "The mer is primary (conjunctive), not 2ndary",
     "fp": "poetic/«:»",
     "r": "בֵּ֝רַ֥כְנוּכֶ֗ם"
   },
@@ -411,7 +411,7 @@
     "bcv_short": "Ps89:20",
     "ref_1": "11.08",
     "ref_2": null,
-    "note": "The reference I find in CoS (11.8) has space rather than mqf, presumably because CoS classifies this as a normal mer, not a 2ndary mer. This would make its absence from 11.10 intentional. Like CoS 11.8, JC has space rather than mqf. μA & μL have mqf.",
+    "note": "The reference I find in CoS (11.8) has space rather than mqf, presumably because CoS classifies this mer as primary (conjunctive), not 2ndary. This would make its absence from 11.10 intentional. Like CoS 11.8, JC has space rather than mqf. μA & μL have mqf.",
     "fp": "poetic/«:»/bgdkft-dagesh",
     "r": "דִּבַּ֥רְתָּֽ־בְחָז֡וֹן"
   },
