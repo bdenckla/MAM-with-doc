@@ -58,8 +58,8 @@
   {
     "bcv_short": "Pr23:5",
     "ref_1": "09.34.rn1",
-    "ref_2": null,
-    "note": null,
+    "ref_2": "11.22",
+    "note": "Also appears in 11.17.rn2",
     "fp": "poetic/(mer)/(mah)-(mer)",
     "r": "הֲתָ֤עִיף־עֵינֶ֥יךָ"
   },
@@ -418,7 +418,7 @@
   {
     "bcv_short": "Ps9:17",
     "ref_1": "09.25.rn1",
-    "ref_2": null,
+    "ref_2": "11.06.rn1",
     "note": null,
     "fp": "poetic/(üazll)/(mah),(üazll)",
     "r": "נ֤וֹדַ֨ע׀"
@@ -458,7 +458,7 @@
   {
     "bcv_short": "Pr9:7",
     "ref_1": "09.25.rn1",
-    "ref_2": null,
+    "ref_2": "11.06.rn1",
     "note": null,
     "fp": "poetic/(üazll)/(mah),(üazll)",
     "r": "יֹ֤סֵ֨ר׀"
@@ -466,7 +466,7 @@
   {
     "bcv_short": "Pr24:24",
     "ref_1": "09.25.rn1",
-    "ref_2": null,
+    "ref_2": "11.06.rn1",
     "note": null,
     "fp": "poetic/(üazll)/(mah),(üazll)",
     "r": "אֹ֤מֵ֨ר׀"
