@@ -1,24 +1,24 @@
 [
   {
     "bcv_short": "Ps48:5",
-    "ref_1": "11.55.rn1",
-    "ref_2": "09.35.rn2",
+    "ref_1": "09.35.rn2",
+    "ref_2": "11.55.rn1",
     "note": null,
     "fp": "poetic/(atn)/(mer),(atn)",
     "r": "נ֥וֹעֲד֑וּ"
   },
   {
     "bcv_short": "Ps106:29",
-    "ref_1": "11.55.rn1",
-    "ref_2": "09.35.rn2",
+    "ref_1": "09.35.rn2",
+    "ref_2": "11.55.rn1",
     "note": null,
     "fp": "poetic/(atn)/(mer),(atn)",
     "r": "בְּמַ֥עַלְלֵיהֶ֑ם"
   },
   {
     "bcv_short": "Ps78:7",
-    "ref_1": "11.55.rn2",
-    "ref_2": "09.36.rn2",
+    "ref_1": "09.36.rn2",
+    "ref_2": "11.55.rn2",
     "note": "Also appears in 9.37.",
     "fp": "poetic/(atn)/(mer)-(atn)",
     "r": "מַ֥עַלְלֵי־אֵ֑ל"
@@ -41,8 +41,8 @@
   },
   {
     "bcv_short": "Ps117:2",
-    "ref_1": "11.04",
-    "ref_2": "09.18",
+    "ref_1": "09.18",
+    "ref_2": "11.04",
     "note": null,
     "fp": "poetic/(mah)/(mer)-(zarshit),(mah)",
     "r": "כִּ֥י־גָ֘בַ֤ר"
@@ -65,16 +65,16 @@
   },
   {
     "bcv_short": "Ps18:3",
-    "ref_1": "11.20.rn4",
-    "ref_2": "09.23.fn23",
+    "ref_1": "09.23.fn23",
+    "ref_2": "11.20.rn4",
     "note": "חטף חריק",
     "fp": "poetic/(mer)/(mer),(mer)",
     "r": "סַ֥לְעִ֥י"
   },
   {
     "bcv_short": "Ps31:24",
-    "ref_1": "11.20.rn3",
-    "ref_2": "09.23",
+    "ref_1": "09.23",
+    "ref_2": "11.20.rn3",
     "note": null,
     "fp": "poetic/(mer)/(mer),(mer)",
     "r": "אֶ֥הֱב֥וּ"
@@ -105,16 +105,16 @@
   },
   {
     "bcv_short": "Ps68:24",
-    "ref_1": "11.20.rn4",
-    "ref_2": "09.24.rn2",
+    "ref_1": "09.24.rn2",
+    "ref_2": "11.20.rn4",
     "note": null,
     "fp": "poetic/(mer)/(mer),(mer)",
     "r": "תִּ֥מְﬞחַ֥ץ רַגְלְךָ֗"
   },
   {
     "bcv_short": "Ps69:21",
-    "ref_1": "11.20.rn3",
-    "ref_2": "09.24.rn2",
+    "ref_1": "09.24.rn2",
+    "ref_2": "11.20.rn3",
     "note": "explicitly called vocal in 9.23.fn23",
     "fp": "poetic/(mer)/(mer),(mer)",
     "r": "שָׁ֥בְרָ֥ה לִבִּ֗י"
@@ -129,8 +129,8 @@
   },
   {
     "bcv_short": "Ps77:7",
-    "ref_1": "11.20.rn3",
-    "ref_2": "09.24.rn2",
+    "ref_1": "09.24.rn2",
+    "ref_2": "11.20.rn3",
     "note": null,
     "fp": "poetic/(mer)/(mer),(mer)",
     "r": "אֶ֥זְכְּרָ֥ה נְגִינָתִ֗י"
@@ -153,32 +153,32 @@
   },
   {
     "bcv_short": "Ps1:2",
-    "ref_1": "11.20.rn2",
-    "ref_2": "09.27.rn2",
+    "ref_1": "09.27.rn2",
+    "ref_2": "11.20.rn2",
     "note": null,
     "fp": "poetic/(mer)/(mer)-(mer)",
     "r": "אִ֥ם־בְּתוֹרַ֥ת"
   },
   {
     "bcv_short": "Ps12:7",
-    "ref_1": "11.26.rn4",
-    "ref_2": "09.23.rn2",
+    "ref_1": "09.23.rn2",
+    "ref_2": "11.26.rn4",
     "note": "Also appears in 9.33.rn2",
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "אִ֥מְﬞר֣וֹת"
   },
   {
     "bcv_short": "Ps18:7",
-    "ref_1": "11.26.rn4",
-    "ref_2": "09.23.rn2",
+    "ref_1": "09.23.rn2",
+    "ref_2": "11.26.rn4",
     "note": null,
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "אֶ֥קְﬞרָ֣א"
   },
   {
     "bcv_short": "Ps37:14",
-    "ref_1": "11.26.rn3",
-    "ref_2": "09.23.rn2",
+    "ref_1": "09.23.rn2",
+    "ref_2": "11.26.rn3",
     "note": null,
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "פָּ֥תְח֣וּ"
@@ -193,8 +193,8 @@
   },
   {
     "bcv_short": "Ps49:15",
-    "ref_1": "11.26.rn4",
-    "ref_2": "09.23.fn23",
+    "ref_1": "09.23.fn23",
+    "ref_2": "11.26.rn4",
     "note": "חטף חולם",
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "לִ֥שְׁא֣וֹל"
@@ -241,8 +241,8 @@
   },
   {
     "bcv_short": "Ps86:2",
-    "ref_1": "11.26.rn4",
-    "ref_2": "09.23.fn23",
+    "ref_1": "09.23.fn23",
+    "ref_2": "11.26.rn4",
     "note": "vocal (or at least, “not [...] fully silent” (!))",
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "שׇׁ֥מְרָ֣ה"
@@ -313,56 +313,56 @@
   },
   {
     "bcv_short": "Ps89:25",
-    "ref_1": "11.53",
-    "ref_2": "09.28.rn2",
+    "ref_1": "09.28.rn2",
+    "ref_2": "11.53",
     "note": null,
     "fp": "poetic/(mun)/(mer),(ümtg),(mun)",
     "r": "וֶ֥אֱֽמוּנָתִ֣י"
   },
   {
     "bcv_short": "Ps14:7",
-    "ref_1": "11.26.rn2",
-    "ref_2": "09.27.rn1",
+    "ref_1": "09.27.rn1",
+    "ref_2": "11.26.rn2",
     "note": null,
     "fp": "poetic/(mun)/(mer)-(mun)",
     "r": "מִ֥י־יִתֵּ֣ן"
   },
   {
     "bcv_short": "Ps40:9",
-    "ref_1": "11.53",
-    "ref_2": "09.28.rn2",
+    "ref_1": "09.28.rn2",
+    "ref_2": "11.53",
     "note": "Why doesn't CoS (1) have a mqf (2) mention μL's געיה on ש? Also appears in 9.32 body text and 9.33.rn1.",
     "fp": "poetic/(mun)/(mer)-(mun)",
     "r": "לַ֥עֲשׂוֹת־רְצוֹנְךָ֣"
   },
   {
     "bcv_short": "Ps53:7",
-    "ref_1": "11.26.rn2",
-    "ref_2": "09.27.rn1",
+    "ref_1": "09.27.rn1",
+    "ref_2": "11.26.rn2",
     "note": null,
     "fp": "poetic/(mun)/(mer)-(mun)",
     "r": "מִ֥י־יִתֵּ֣ן"
   },
   {
     "bcv_short": "Ps60:2",
-    "ref_1": "11.26.rn3",
-    "ref_2": "09.27.rn1",
+    "ref_1": "09.27.rn1",
+    "ref_2": "11.26.rn3",
     "note": null,
     "fp": "poetic/(mun)/(mer)-(mun)",
     "r": "אֶ֥ת־אֲרַ֣ם"
   },
   {
     "bcv_short": "Pr3:12",
-    "ref_1": "11.53",
-    "ref_2": "09.27.rn4",
+    "ref_1": "09.27.rn4",
+    "ref_2": "11.53",
     "note": null,
     "fp": "poetic/(mun)/(mer)-(mun)",
     "r": "אֶ֥ת־אֲשֶׁ֣ר"
   },
   {
     "bcv_short": "Jb31:7",
-    "ref_1": "11.26.rn2",
-    "ref_2": "09.27.rn1",
+    "ref_1": "09.27.rn1",
+    "ref_2": "11.26.rn2",
     "note": null,
     "fp": "poetic/(mun)/(mer)-(mun)",
     "r": "אִ֥ם־תִּטֶּ֣ה"
@@ -401,8 +401,8 @@
   },
   {
     "bcv_short": "Ps31:19",
-    "ref_1": "11.19",
-    "ref_2": "09.20",
+    "ref_1": "09.20",
+    "ref_2": "11.19",
     "note": "The mer is primary (conjunctive), not 2ndary.",
     "fp": "poetic/(rev)/(mer),(rev)",
     "r": "תֵּ֥אָלַ֗מְנָה"
@@ -433,8 +433,8 @@
   },
   {
     "bcv_short": "Ps1:1",
-    "ref_1": "11.28.rn2",
-    "ref_2": "09.34.rn2",
+    "ref_1": "09.34.rn2",
+    "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
     "r": "אַ֥שְֽׁרֵי־הָאִ֗ישׁ"
@@ -497,8 +497,8 @@
   },
   {
     "bcv_short": "Ps98:3",
-    "ref_1": "11.27.rn3",
-    "ref_2": "09.32.rn1",
+    "ref_1": "09.32.rn1",
+    "ref_2": "11.27.rn3",
     "note": null,
     "fp": "poetic/(zarnor)/(mer),(ümtg),(zarnor)",
     "r": "וֶ֥אֱֽמוּנָתוֹ֮"
@@ -513,40 +513,40 @@
   },
   {
     "bcv_short": "Ps61:5",
-    "ref_1": "11.79.rn1",
-    "ref_2": "09.26.rn1",
+    "ref_1": "09.26.rn1",
+    "ref_2": "11.79.rn1",
     "note": "Also appears in 9.33.rn1",
     "fp": "poetic/(üazl)/(mer),(üazl)",
     "r": "אֶ֥חֱסֶ֨ה"
   },
   {
     "bcv_short": "Ps89:46",
-    "ref_1": "11.79.rn1",
-    "ref_2": "09.26.rn1",
+    "ref_1": "09.26.rn1",
+    "ref_2": "11.79.rn1",
     "note": "9.29 notes that μS1 has געיה where μA & μL have azla (the opposite of Ps66:15).",
     "fp": "poetic/(üazl)/(mer),(üazl)",
     "r": "הֶ֥עֱטִ֨יתָ"
   },
   {
     "bcv_short": "Ps106:38",
-    "ref_1": "11.10",
-    "ref_2": "09.26.rn2",
+    "ref_1": "09.26.rn2",
+    "ref_2": "11.10",
     "note": null,
     "fp": "poetic/(üazl)/(mer),(üazl)",
     "r": "וַיִּ֥שְׁפְּכ֨וּ"
   },
   {
     "bcv_short": "Pr27:10",
-    "ref_1": "11.10",
-    "ref_2": "09.26.rn2",
+    "ref_1": "09.26.rn2",
+    "ref_2": "11.10",
     "note": null,
     "fp": "poetic/(üazl)/(mer),(üazl)",
     "r": "רֵ֥עֲךָ֨"
   },
   {
     "bcv_short": "Ps47:5",
-    "ref_1": "11.79.rn1",
-    "ref_2": "09.27.rn4",
+    "ref_1": "09.27.rn4",
+    "ref_2": "11.79.rn1",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. 9.30 notes that μS1 has געיה where μA & μL have azla (like Ps89:46).",
     "fp": "poetic/(üazl)/(mer)-(üazl)",
     "r": "אֶ֥ת־גְּא֨וֹן"
@@ -561,16 +561,16 @@
   },
   {
     "bcv_short": "Ps5:11",
-    "ref_1": "11.06.rn2",
-    "ref_2": "09.25.rn2",
+    "ref_1": "09.25.rn2",
+    "ref_2": "11.06.rn2",
     "note": null,
     "fp": "poetic/(üazll)/(mer),(üazll)",
     "r": "הַ֥אֲשִׁימֵ֨ם׀"
   },
   {
     "bcv_short": "Ps31:12",
-    "ref_1": "11.06.rn2",
-    "ref_2": "09.25.rn2",
+    "ref_1": "09.25.rn2",
+    "ref_2": "11.06.rn2",
     "note": null,
     "fp": "poetic/(üazll)/(mer),(üazll)",
     "r": "וְלִ֥שְׁכֵנַ֨י׀"
@@ -585,8 +585,8 @@
   },
   {
     "bcv_short": "Pr6:14",
-    "ref_1": "11.06.rn2",
-    "ref_2": "09.25.rn2",
+    "ref_1": "09.25.rn2",
+    "ref_2": "11.06.rn2",
     "note": "Also appears in 9.23 body text",
     "fp": "poetic/(üazll)/(mer),(üazll)",
     "r": "תַּ֥הְפֻּכ֨וֹת׀"
@@ -601,8 +601,8 @@
   },
   {
     "bcv_short": "Ps7:6",
-    "ref_1": "11.03",
-    "ref_2": "09.23.fn21",
+    "ref_1": "09.23.fn21",
+    "ref_2": "11.03",
     "note": null,
     "fp": "poetic/(üazll)/(mer),(ümtg)-(üazll)",
     "r": "יִ֥רַדֹּֽף־אוֹיֵ֨ב׀"
@@ -617,8 +617,8 @@
   },
   {
     "bcv_short": "Ps19:15",
-    "ref_1": "11.03",
-    "ref_2": "09.23.fn22",
+    "ref_1": "09.23.fn22",
+    "ref_2": "11.03",
     "note": "mer does not mobilize the shewa?",
     "fp": "poetic/(üazll)/(mer),(ümtg)-(üazll)",
     "r": "יִ֥הְיֽוּ־לְרָצ֨וֹן׀"
@@ -633,152 +633,152 @@
   },
   {
     "bcv_short": "Ps140:6",
-    "ref_1": "11.03",
-    "ref_2": "09.23.fn23",
+    "ref_1": "09.23.fn23",
+    "ref_2": "11.03",
     "note": "vocal",
     "fp": "poetic/(üazll)/(mer),(ümtg)-(üazll)",
     "r": "טָ֥מְנֽוּ־גֵאִ֨ים׀"
   },
   {
     "bcv_short": "Ps141:5",
-    "ref_1": "11.03",
-    "ref_2": "09.34.rn2",
+    "ref_1": "09.34.rn2",
+    "ref_2": "11.03",
     "note": null,
     "fp": "poetic/(üazll)/(mer),(ümtg)-(üazll)",
     "r": "יֶ֥הֶלְמֵֽנִי־צַדִּ֨יק׀"
   },
   {
     "bcv_short": "Ps35:10",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "כׇּ֥ל־עַצְמוֹתַ֨י׀"
   },
   {
     "bcv_short": "Ps106:1",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps111:1",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps112:1",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps113:1",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps135:1",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps137:1",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "עַ֥ל־נַהֲר֨וֹת׀"
   },
   {
     "bcv_short": "Ps147:1",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps148:1",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps149:1",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps150:1",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
   },
   {
     "bcv_short": "Pr25:20",
-    "ref_1": "11.06.rn2",
-    "ref_2": "09.27",
+    "ref_1": "09.27",
+    "ref_2": "11.06.rn2",
     "note": "Also appears in 9.37.",
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "מַ֥עֲדֶה־בֶּ֨גֶד׀"
   },
   {
     "bcv_short": "Pr30:9",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "פֶּ֥ן־אֶשְׂבַּ֨ע׀"
   },
   {
     "bcv_short": "Jb6:10",
-    "ref_1": "11.06.rn2",
-    "ref_2": "09.27",
+    "ref_1": "09.27",
+    "ref_2": "11.06.rn2",
     "note": "Also appears in 9.37.",
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "וּ֥תְהִי־ע֨וֹד׀"
   },
   {
     "bcv_short": "Jb14:5",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
     "r": "אִ֥ם־חֲרוּצִ֨ים׀"
   },
   {
     "bcv_short": "Pr27:22",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(ümtg)--(üazll)",
     "r": "אִ֥ם־תִּכְתּֽוֹשׁ־אֶת־הָאֱוִ֨יל׀"
   },
   {
     "bcv_short": "Pr19:7",
-    "ref_1": "11.06.rn3",
-    "ref_2": "09.27.rn3",
+    "ref_1": "09.27.rn3",
+    "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)--(üazll)",
     "r": "כׇּ֥ל־אֲחֵי־רָ֨שׁ׀"
@@ -793,8 +793,8 @@
   },
   {
     "bcv_short": "Ps36:6",
-    "ref_1": "11.40.rn1",
-    "ref_2": "09.20",
+    "ref_1": "09.20",
+    "ref_2": "11.40.rn1",
     "note": "The mer is primary (conjunctive), not 2ndary. Only cited at 36:6 by CoS but also appears at 88:12.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "אֱ֝מ֥וּנָתְךָ֗"
@@ -809,8 +809,8 @@
   },
   {
     "bcv_short": "Ps88:12",
-    "ref_1": "11.40.rn1",
-    "ref_2": "09.20",
+    "ref_1": "09.20",
+    "ref_2": "11.40.rn1",
     "note": "The mer is primary (conjunctive), not 2ndary. Only cited at 36:6 by CoS but also appears at 88:12.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "אֱ֝מ֥וּנָתְךָ֗"
@@ -985,8 +985,8 @@
   },
   {
     "bcv_short": "Ps106:39",
-    "ref_1": "11.80.rn3",
-    "ref_2": "09.35.rn2",
+    "ref_1": "09.35.rn2",
+    "ref_2": "11.80.rn3",
     "note": null,
     "fp": "poetic/(üslq)/(mer),(üslq)",
     "r": "בְּמַ֥עַלְלֵיהֶֽם׃"
@@ -1001,8 +1001,8 @@
   },
   {
     "bcv_short": "Ps66:15",
-    "ref_1": "11.79.rn2",
-    "ref_2": "09.29.var-rn2",
+    "ref_1": "09.29.var-rn2",
+    "ref_2": "11.79.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. 9.29 notes that μS1 has azla where μA & μL have געיה (the opposite of Ps89:46).",
     "fp": "poetic/(ütar)/(mer),(ümtg)-(ütar)",
     "r": "אֶ֥עֱשֶֽׂה־בָקָ֖ר"
