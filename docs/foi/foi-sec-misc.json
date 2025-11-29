@@ -25,32 +25,32 @@
   },
   {
     "bcv_short": "Ps55:20",
-    "ref_1": "11.20.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn1",
     "note": null,
     "fp": "poetic/(mer)/(mah),(mer)",
     "r": "וְיֹ֤שֵׁ֥ב"
   },
   {
     "bcv_short": "Ps68:36",
-    "ref_1": "11.20.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn1",
     "note": null,
     "fp": "poetic/(mer)/(mah),(mer)",
     "r": "נ֤וֹרָ֥א"
   },
   {
     "bcv_short": "Ps79:13",
-    "ref_1": "11.20.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn1",
     "note": null,
     "fp": "poetic/(mer)/(mah),(mer)",
     "r": "נ֤וֹדֶ֥ה"
   },
   {
     "bcv_short": "Pr7:22",
-    "ref_1": "11.20.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn1",
     "note": null,
     "fp": "poetic/(mer)/(mah),(mer)",
     "r": "ה֤וֹלֵ֥ךְ"
@@ -105,8 +105,8 @@
   },
   {
     "bcv_short": "Ps24:10",
-    "ref_1": "11.26.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn1",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(mun)/(mah)-(mun)",
     "r": "מִ֤י־ה֣וּא"
@@ -577,9 +577,9 @@
   },
   {
     "bcv_short": "Ps146:3",
-    "ref_1": "11.78",
+    "ref_1": null,
     "ref_2": "11.64.rn2",
-    "note": "The mah is primary (conjunctive), not 2ndary.",
+    "note": "Also appears in 11.78. The mah is primary (conjunctive), not 2ndary.",
     "fp": "poetic/(ütar)/(mah),(ütar)",
     "r": "שֶׁ֤אֵ֖ין"
   },
