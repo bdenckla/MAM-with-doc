@@ -49,8 +49,8 @@
   },
   {
     "bcv_short": "Ps17:14",
-    "ref_1": "11.03",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.03",
     "note": null,
     "fp": "poetic/«:,varika»",
     "r": "מִ֥מְﬞתִֽים־יָדְךָ֨׀"
@@ -65,8 +65,8 @@
   },
   {
     "bcv_short": "Ps39:13",
-    "ref_1": "11.03",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.03",
     "note": null,
     "fp": "poetic/«:,varika»",
     "r": "שִׁ֥מְﬞעָֽה־תְפִלָּתִ֨י׀"
@@ -89,32 +89,32 @@
   },
   {
     "bcv_short": "Ps73:28",
-    "ref_1": "11.20.rn4",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn4",
     "note": null,
     "fp": "poetic/«:,varika»",
     "r": "קִ֥רְﬞבַ֥ת"
   },
   {
     "bcv_short": "Ps76:12",
-    "ref_1": "11.26.rn4",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn4",
     "note": null,
     "fp": "poetic/«:,varika»",
     "r": "נִ֥דְﬞר֣וּ"
   },
   {
     "bcv_short": "Ps87:5",
-    "ref_1": "11.06.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.06.rn2",
     "note": null,
     "fp": "poetic/«:,varika»",
     "r": "וּ֥לְﬞצִיּ֨וֹן׀"
   },
   {
     "bcv_short": "Ps104:3",
-    "ref_1": "11.20.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn2",
     "note": null,
     "fp": "poetic/«:,varika»",
     "r": "הַ֥מְﬞקָרֶ֥ה"
@@ -161,8 +161,8 @@
   },
   {
     "bcv_short": "Ps140:4",
-    "ref_1": "11.26.rn3",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn3",
     "note": null,
     "fp": "poetic/«:,varika»",
     "r": "שָׁ֥נְﬞנ֣וּ"
@@ -209,32 +209,32 @@
   },
   {
     "bcv_short": "Pr30:17",
-    "ref_1": "11.26.rn4",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn4",
     "note": null,
     "fp": "poetic/«:,varika»",
     "r": "תִּ֥לְﬞעַ֣ג"
   },
   {
     "bcv_short": "Jb12:6",
-    "ref_1": "11.35.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.35.rn1",
     "note": null,
     "fp": "poetic/«:,varika»",
     "r": "לְשֹׁ֥דְﬞדִ֗ים"
   },
   {
     "bcv_short": "Jb29:25",
-    "ref_1": "11.26.rn4",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn4",
     "note": null,
     "fp": "poetic/«:,varika»",
     "r": "אֶ֥בְﬞחַ֣ר"
   },
   {
     "bcv_short": "Jb34:10",
-    "ref_1": "11.20.rn4",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn4",
     "note": null,
     "fp": "poetic/«:,varika»",
     "r": "אַ֥נְﬞשֵׁ֥י"
@@ -257,16 +257,16 @@
   },
   {
     "bcv_short": "Ps62:5",
-    "ref_1": "11.26.rn3",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn3",
     "note": null,
     "fp": "poetic/«:_»",
     "r": "יָ֥עֲצ֣וּ"
   },
   {
     "bcv_short": "Ps143:10",
-    "ref_1": "11.26.rn3",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn3",
     "note": null,
     "fp": "poetic/«:_»",
     "r": "לַ֥עֲשׂ֣וֹת"
@@ -289,32 +289,32 @@
   },
   {
     "bcv_short": "Pr30:15",
-    "ref_1": "11.06.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.06.rn2",
     "note": null,
     "fp": "poetic/«:_»",
     "r": "לַ֥עֲלוּקָ֨ה׀"
   },
   {
     "bcv_short": "Jb11:6",
-    "ref_1": "11.26.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn2",
     "note": null,
     "fp": "poetic/«:_»",
     "r": "תַּ֥עֲלֻמ֣וֹת"
   },
   {
     "bcv_short": "Jb30:1",
-    "ref_1": "11.26.rn3",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn3",
     "note": null,
     "fp": "poetic/«:_»",
     "r": "שָׂ֥חֲק֣וּ"
   },
   {
     "bcv_short": "Ps2:2",
-    "ref_1": "11.06.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.06.rn2",
     "note": null,
     "fp": "poetic/«:»",
     "r": "יִ֥תְיַצְּב֨וּ׀"
@@ -417,16 +417,16 @@
   },
   {
     "bcv_short": "Ps39:2",
-    "ref_1": "11.26.rn3",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn3",
     "note": null,
     "fp": "poetic/«:»/double shewa",
     "r": "אֶ֥שְׁמְרָ֣ה"
   },
   {
     "bcv_short": "Ps40:6",
-    "ref_1": "11.20.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn2",
     "note": null,
     "fp": "poetic/«:»/double shewa",
     "r": "נִ֥פְלְאֹתֶ֥יךָ"
@@ -441,8 +441,8 @@
   },
   {
     "bcv_short": "Ps67:5",
-    "ref_1": "11.20.rn3",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn3",
     "note": null,
     "fp": "poetic/«:»/double shewa",
     "r": "יִ֥שְׂמְח֥וּ"

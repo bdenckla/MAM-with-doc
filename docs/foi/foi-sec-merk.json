@@ -25,8 +25,8 @@
   },
   {
     "bcv_short": "Jb32:11",
-    "ref_1": "11.55.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.55.rn1",
     "note": null,
     "fp": "poetic/(atn)/-(mer),(ümtg),(atn)",
     "r": "עַד־תְּב֥וּנֹֽתֵיכֶ֑ם"
@@ -81,24 +81,24 @@
   },
   {
     "bcv_short": "Ps37:40",
-    "ref_1": "11.20.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn2",
     "note": null,
     "fp": "poetic/(mer)/(mer),(mer)",
     "r": "וַ֥יַּעְזְרֵ֥ם"
   },
   {
     "bcv_short": "Ps40:6",
-    "ref_1": "11.20.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn2",
     "note": null,
     "fp": "poetic/(mer)/(mer),(mer)",
     "r": "נִ֥פְלְאֹתֶ֥יךָ"
   },
   {
     "bcv_short": "Ps67:5",
-    "ref_1": "11.20.rn3",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn3",
     "note": null,
     "fp": "poetic/(mer)/(mer),(mer)",
     "r": "יִ֥שְׂמְח֥וּ"
@@ -121,8 +121,8 @@
   },
   {
     "bcv_short": "Ps73:28",
-    "ref_1": "11.20.rn4",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn4",
     "note": null,
     "fp": "poetic/(mer)/(mer),(mer)",
     "r": "קִ֥רְﬞבַ֥ת"
@@ -137,16 +137,16 @@
   },
   {
     "bcv_short": "Ps104:3",
-    "ref_1": "11.20.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn2",
     "note": null,
     "fp": "poetic/(mer)/(mer),(mer)",
     "r": "הַ֥מְﬞקָרֶ֥ה"
   },
   {
     "bcv_short": "Jb34:10",
-    "ref_1": "11.20.rn4",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.20.rn4",
     "note": null,
     "fp": "poetic/(mer)/(mer),(mer)",
     "r": "אַ֥נְﬞשֵׁ֥י"
@@ -185,8 +185,8 @@
   },
   {
     "bcv_short": "Ps39:2",
-    "ref_1": "11.26.rn3",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn3",
     "note": null,
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "אֶ֥שְׁמְרָ֣ה"
@@ -209,16 +209,16 @@
   },
   {
     "bcv_short": "Ps62:4",
-    "ref_1": "11.26.rn3",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn3",
     "note": null,
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "תְּה֥וֹתְﬞת֣וּ"
   },
   {
     "bcv_short": "Ps62:5",
-    "ref_1": "11.26.rn3",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn3",
     "note": null,
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "יָ֥עֲצ֣וּ"
@@ -233,8 +233,8 @@
   },
   {
     "bcv_short": "Ps76:12",
-    "ref_1": "11.26.rn4",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn4",
     "note": null,
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "נִ֥דְﬞר֣וּ"
@@ -257,16 +257,16 @@
   },
   {
     "bcv_short": "Ps140:4",
-    "ref_1": "11.26.rn3",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn3",
     "note": null,
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "שָׁ֥נְﬞנ֣וּ"
   },
   {
     "bcv_short": "Ps143:10",
-    "ref_1": "11.26.rn3",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn3",
     "note": null,
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "לַ֥עֲשׂ֣וֹת"
@@ -281,32 +281,32 @@
   },
   {
     "bcv_short": "Pr30:17",
-    "ref_1": "11.26.rn4",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn4",
     "note": null,
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "תִּ֥לְﬞעַ֣ג"
   },
   {
     "bcv_short": "Jb11:6",
-    "ref_1": "11.26.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn2",
     "note": null,
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "תַּ֥עֲלֻמ֣וֹת"
   },
   {
     "bcv_short": "Jb29:25",
-    "ref_1": "11.26.rn4",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn4",
     "note": null,
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "אֶ֥בְﬞחַ֣ר"
   },
   {
     "bcv_short": "Jb30:1",
-    "ref_1": "11.26.rn3",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.26.rn3",
     "note": null,
     "fp": "poetic/(mun)/(mer),(mun)",
     "r": "שָׂ֥חֲק֣וּ"
@@ -377,8 +377,8 @@
   },
   {
     "bcv_short": "Pr27:22",
-    "ref_1": "11.10",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.10",
     "note": null,
     "fp": "poetic/(paz)/(mer),(paz)",
     "r": "בַּ֥מַּכְתֵּ֡שׁ"
@@ -409,16 +409,16 @@
   },
   {
     "bcv_short": "Jb12:6",
-    "ref_1": "11.35.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.35.rn1",
     "note": null,
     "fp": "poetic/(rev)/(mer),(rev)",
     "r": "לְשֹׁ֥דְﬞדִ֗ים"
   },
   {
     "bcv_short": "Jb24:5",
-    "ref_1": "11.36.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.36.rn1",
     "note": null,
     "fp": "poetic/(rev)/(mer),(rev)",
     "r": "בַּ֥מִּדְבָּ֗ר"
@@ -553,8 +553,8 @@
   },
   {
     "bcv_short": "Ps2:2",
-    "ref_1": "11.06.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.06.rn2",
     "note": null,
     "fp": "poetic/(üazll)/(mer),(üazll)",
     "r": "יִ֥תְיַצְּב֨וּ׀"
@@ -577,8 +577,8 @@
   },
   {
     "bcv_short": "Ps87:5",
-    "ref_1": "11.06.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.06.rn2",
     "note": null,
     "fp": "poetic/(üazll)/(mer),(üazll)",
     "r": "וּ֥לְﬞצִיּ֨וֹן׀"
@@ -593,8 +593,8 @@
   },
   {
     "bcv_short": "Pr30:15",
-    "ref_1": "11.06.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.06.rn2",
     "note": null,
     "fp": "poetic/(üazll)/(mer),(üazll)",
     "r": "לַ֥עֲלוּקָ֨ה׀"
@@ -609,8 +609,8 @@
   },
   {
     "bcv_short": "Ps17:14",
-    "ref_1": "11.03",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.03",
     "note": null,
     "fp": "poetic/(üazll)/(mer),(ümtg)-(üazll)",
     "r": "מִ֥מְﬞתִֽים־יָדְךָ֨׀"
@@ -625,8 +625,8 @@
   },
   {
     "bcv_short": "Ps39:13",
-    "ref_1": "11.03",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.03",
     "note": null,
     "fp": "poetic/(üazll)/(mer),(ümtg)-(üazll)",
     "r": "שִׁ֥מְﬞעָֽה־תְפִלָּתִ֨י׀"
@@ -833,8 +833,8 @@
   },
   {
     "bcv_short": "Ps107:6",
-    "ref_1": "11.40.es2.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.40.es2.rn1",
     "note": null,
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "מִ֝מְּצ֥וּקוֹתֵיהֶ֗ם"
@@ -1945,9 +1945,9 @@
   },
   {
     "bcv_short": "Ee1:27",
-    "ref_1": "ITM-354",
+    "ref_1": null,
     "ref_2": null,
-    "note": null,
+    "note": "ITM-354",
     "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "וְנֹ֥גַֽהּ ל֖וֹ"
   },
@@ -1961,9 +1961,9 @@
   },
   {
     "bcv_short": "R1:21",
-    "ref_1": "ITM-354",
+    "ref_1": null,
     "ref_2": null,
-    "note": null,
+    "note": "ITM-354",
     "fp": "prose/psg-closed-by-guttural/(mer),(ümtg)",
     "r": "הֵ֥רַֽע לִֽי׃"
   },
@@ -2065,9 +2065,9 @@
   },
   {
     "bcv_short": "2K1:13",
-    "ref_1": "ITM-332",
+    "ref_1": null,
     "ref_2": null,
-    "note": null,
+    "note": "ITM-332",
     "fp": "prose/psg-open/(mer),(ümtg)",
     "r": "עֲבָדֶ֥יךָֽ אֵ֛לֶּה"
   },

@@ -89,8 +89,8 @@
   },
   {
     "bcv_short": "Ps146:5",
-    "ref_1": "11.52",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.52",
     "note": null,
     "fp": "poetic/(mun)/(mah),(mun)",
     "r": "שֶׁ֤אֵ֣ל"
@@ -385,16 +385,16 @@
   },
   {
     "bcv_short": "Ps20:6",
-    "ref_1": "11.35.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.35.rn2",
     "note": null,
     "fp": "poetic/(rev)/(zarshit),(mah),(rev)",
     "r": "בִּ֘ישׁ֤וּעָתֶ֗ךָ"
   },
   {
     "bcv_short": "Jb6:10",
-    "ref_1": "11.35.rn2",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.35.rn2",
     "note": null,
     "fp": "poetic/(rev)/(zarshit),(mah),(rev)",
     "r": "נֶ֘חָ֤מָתִ֗י"
