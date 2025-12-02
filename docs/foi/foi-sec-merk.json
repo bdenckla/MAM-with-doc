@@ -21,7 +21,7 @@
     "ref_2": "11.55.rn2",
     "note": "Also appears in 9.37.",
     "fp": "poetic/(atn)/(mer)-(atn)",
-    "r": "מַ֥עַלְלֵי־אֵ֑ל"
+    "r": "יִ֭שְׁכְּחוּ מַ֥עַלְלֵי־אֵ֑ל"
   },
   {
     "bcv_short": "Ps2:7",
@@ -269,7 +269,7 @@
     "ref_2": "11.56.rn1",
     "note": "Mentioned indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56.",
     "fp": "poetic/(mun)/(mer),(mun)",
-    "r": "מְקִ֥ימִ֣י"
+    "r": "מְקִ֥ימִ֣י מֵעָפָ֣ר דָּ֑ל"
   },
   {
     "bcv_short": "Ps140:4",
@@ -389,7 +389,7 @@
     "ref_2": "11.56.rn2",
     "note": "Mentioned indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56. CoS says that עדה should be considered to be followed by a mqf.",
     "fp": "poetic/(mun)/(mer)~(mun)",
-    "r": "עֲדֵ֥ה~נָ֣א"
+    "r": "עֲדֵ֥ה~נָ֣א גָא֣וֹן וָגֹ֑בַהּ"
   },
   {
     "bcv_short": "Pr27:22",
@@ -521,8 +521,8 @@
   },
   {
     "bcv_short": "Pr8:34",
-    "ref_1": "11.27.rn2",
-    "ref_2": "09.28.rn1",
+    "ref_1": "09.28.rn1",
+    "ref_2": "11.27.rn2",
     "note": "Also appears in 9.33.rn1.",
     "fp": "poetic/(zarnor)/(mer),(ümtg)~(zarnor)",
     "r": "אַ֥שְֽׁרֵי~אָדָם֮"
@@ -802,7 +802,7 @@
   {
     "bcv_short": "Ps21:2",
     "ref_1": null,
-    "ref_2": "11.40.rn1",
+    "ref_2": "11.40.es1.rn1",
     "note": "The mer is primary (conjunctive), not 2ndary.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "וּ֝בִישׁ֥וּעָתְךָ֗"
@@ -810,15 +810,15 @@
   {
     "bcv_short": "Ps36:6",
     "ref_1": "09.20",
-    "ref_2": "11.40.rn1",
+    "ref_2": "11.40.es1.rn1",
     "note": "The mer is primary (conjunctive), not 2ndary. Only cited at 36:6 by CoS but also appears at 88:12.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "אֱ֝מ֥וּנָתְךָ֗"
   },
   {
     "bcv_short": "Ps40:9",
-    "ref_1": "11.40.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.40.es1.rn1",
     "note": "The mer is primary (conjunctive), not 2ndary. Only cited at 40:9 by CoS but also appears at 119:109 and 119:174.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
@@ -826,7 +826,7 @@
   {
     "bcv_short": "Ps88:12",
     "ref_1": "09.20",
-    "ref_2": "11.40.rn1",
+    "ref_2": "11.40.es1.rn1",
     "note": "The mer is primary (conjunctive), not 2ndary. Only cited at 36:6 by CoS but also appears at 88:12.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "אֱ֝מ֥וּנָתְךָ֗"
@@ -882,7 +882,7 @@
   {
     "bcv_short": "Ps119:41",
     "ref_1": null,
-    "ref_2": "11.40.rn1",
+    "ref_2": "11.40.es1.rn1",
     "note": "The mer is primary (conjunctive), not 2ndary.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "תְּ֝שׁ֥וּעָתְךָ֗"
@@ -897,24 +897,24 @@
   },
   {
     "bcv_short": "Ps119:109",
-    "ref_1": "11.40.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.40.es1.rn1",
     "note": "The mer is primary (conjunctive), not 2ndary. Only cited at 40:9 by CoS but also appears at 119:109 and 119:174.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
   },
   {
     "bcv_short": "Ps119:174",
-    "ref_1": "11.40.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.40.es1.rn1",
     "note": "The mer is primary (conjunctive), not 2ndary. Only cited at 40:9 by CoS but also appears at 119:109 and 119:174.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "וְ֝ת֥וֹרָתְךָ֗"
   },
   {
     "bcv_short": "Jb13:21",
-    "ref_1": "11.40.es2.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.40.es2.rn1",
     "note": null,
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "וְ֝אֵ֥מָתְךָ֗"
@@ -922,15 +922,15 @@
   {
     "bcv_short": "Jb21:34",
     "ref_1": null,
-    "ref_2": "11.40.rn1",
+    "ref_2": "11.40.es1.rn1",
     "note": "The mer is primary (conjunctive), not 2ndary.",
     "fp": "poetic/(ürevirm)/(ger_m),(mer),(ürevirm)",
     "r": "וּ֝תְשׁ֥וּבֹתֵיכֶ֗ם"
   },
   {
     "bcv_short": "Ps119:61",
-    "ref_1": "11.40.es2.rn1",
-    "ref_2": null,
+    "ref_1": null,
+    "ref_2": "11.40.es2.rn1",
     "note": null,
     "fp": "poetic/(ürevirm)/(mer)+(ger_m),(ürevirm)",
     "r": "תּ֥֝וֹרָתְךָ֗"
@@ -938,7 +938,7 @@
   {
     "bcv_short": "Ps107:17",
     "ref_1": null,
-    "ref_2": "11.40.rn1",
+    "ref_2": "11.40.es1.rn1",
     "note": "The mer is primary (conjunctive), not 2ndary. CoS has no געיה.",
     "fp": "poetic/(ürevirm)/(ümtg)+(ger_m),(mer),(ürevirm)",
     "r": "וּֽ֝מֵעֲוֺ֥נֹתֵיהֶ֗ם"
@@ -978,7 +978,7 @@
   {
     "bcv_short": "Pr3:5",
     "ref_1": null,
-    "ref_2": "11.40.rn1",
+    "ref_2": "11.40.es1.rn1",
     "note": "The mer is primary (conjunctive), not 2ndary.",
     "fp": "poetic/(ürevirm)/-(mer)+(ger_m),(ürevirm)",
     "r": "וְאֶל־בִּ֥֝ינָתְךָ֗"
@@ -1009,8 +1009,8 @@
   },
   {
     "bcv_short": "Ps46:4",
-    "ref_1": "11.79.rn2",
-    "ref_2": "09.28.rn2",
+    "ref_1": "09.28.rn2",
+    "ref_2": "11.79.rn2",
     "note": "Also appears in 9.33.rn1.",
     "fp": "poetic/(ütar)/(mer),(ümtg)~(ütar)",
     "r": "יִ֥רְעֲשֽׁוּ~הָרִ֖ים בְּגַאֲוָת֣וֹ סֶֽלָה׃"
