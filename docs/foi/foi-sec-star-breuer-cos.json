@@ -5,7 +5,7 @@
     "ref_2": "11.50.rn3",
     "note": null,
     "fp": "09.18",
-    "r": "כִּ֥י־גָ֘ד֤וֹל יְהֹוָ֣ה וּמְהֻלָּ֣ל מְאֹ֑ד"
+    "r": "כִּ֥י~גָ֘ד֤וֹל יְהֹוָ֣ה וּמְהֻלָּ֣ל מְאֹ֑ד"
   },
   {
     "bcv_short": "Ps117:2",
@@ -13,7 +13,7 @@
     "ref_2": "11.04",
     "note": null,
     "fp": "09.18",
-    "r": "כִּ֥י־גָ֘בַ֤ר עָלֵ֨ינוּ׀"
+    "r": "כִּ֥י~גָ֘בַ֤ר עָלֵ֨ינוּ׀"
   },
   {
     "bcv_short": "Jb34:37",
@@ -21,7 +21,7 @@
     "ref_2": "11.14.rn1",
     "note": null,
     "fp": "09.18",
-    "r": "כִּ֥י־יֹ֘סִ֤יף עַֽל־חַטָּאת֣וֹ פֶ֭שַׁע"
+    "r": "כִּ֥י~יֹ֘סִ֤יף עַֽל־חַטָּאת֣וֹ פֶ֭שַׁע"
   },
   {
     "bcv_short": "Ps31:19",
@@ -325,7 +325,7 @@
     "ref_2": "11.26.rn2",
     "note": null,
     "fp": "09.27.rn1",
-    "r": "מִ֥י־יִתֵּ֣ן מִצִּיּוֹן֮"
+    "r": "מִ֥י~יִתֵּ֣ן מִצִּיּוֹן֮"
   },
   {
     "bcv_short": "Ps24:10",
@@ -333,7 +333,7 @@
     "ref_2": "11.26.rn1",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "09.27.rn1",
-    "r": "מִ֤י־ה֣וּא זֶה֮"
+    "r": "מִ֤י~ה֣וּא זֶה֮"
   },
   {
     "bcv_short": "Ps53:7",
@@ -341,7 +341,7 @@
     "ref_2": "11.26.rn2",
     "note": null,
     "fp": "09.27.rn1",
-    "r": "מִ֥י־יִתֵּ֣ן מִצִּיּוֹן֮"
+    "r": "מִ֥י~יִתֵּ֣ן מִצִּיּוֹן֮"
   },
   {
     "bcv_short": "Ps60:2",
@@ -349,7 +349,7 @@
     "ref_2": "11.26.rn3",
     "note": null,
     "fp": "09.27.rn1",
-    "r": "אֶ֥ת־אֲרַ֣ם נַהֲרַיִם֮"
+    "r": "אֶ֥ת~אֲרַ֣ם נַהֲרַיִם֮"
   },
   {
     "bcv_short": "Jb31:7",
@@ -357,7 +357,7 @@
     "ref_2": "11.26.rn2",
     "note": null,
     "fp": "09.27.rn1",
-    "r": "אִ֥ם־תִּטֶּ֣ה אַשֻּׁרִי֮"
+    "r": "אִ֥ם~תִּטֶּ֣ה אַשֻּׁרִי֮"
   },
   {
     "bcv_short": "Ps1:2",
@@ -365,7 +365,7 @@
     "ref_2": "11.20.rn2",
     "note": null,
     "fp": "09.27.rn2",
-    "r": "אִ֥ם־בְּתוֹרַ֥ת יְהֹוָ֗ה"
+    "r": "אִ֥ם~בְּתוֹרַ֥ת יְהֹוָ֗ה"
   },
   {
     "bcv_short": "Ps35:10",
@@ -373,7 +373,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "כׇּ֥ל־עַצְמוֹתַ֨י׀"
+    "r": "כׇּ֥ל~עַצְמוֹתַ֨י׀"
   },
   {
     "bcv_short": "Ps106:1",
@@ -381,7 +381,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps111:1",
@@ -389,7 +389,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps112:1",
@@ -397,7 +397,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps113:1",
@@ -405,7 +405,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps135:1",
@@ -413,7 +413,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps137:1",
@@ -421,7 +421,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "עַ֥ל־נַהֲר֨וֹת׀"
+    "r": "עַ֥ל~נַהֲר֨וֹת׀"
   },
   {
     "bcv_short": "Ps147:1",
@@ -429,7 +429,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps148:1",
@@ -437,7 +437,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps149:1",
@@ -445,7 +445,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps150:1",
@@ -453,7 +453,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Pr19:7",
@@ -461,7 +461,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "כׇּ֥ל־אֲחֵי־רָ֨שׁ׀"
+    "r": "כׇּ֥ל~אֲחֵי־רָ֨שׁ׀"
   },
   {
     "bcv_short": "Pr27:22",
@@ -469,7 +469,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "אִ֥ם־תִּכְתּֽוֹשׁ־אֶת־הָאֱוִ֨יל׀"
+    "r": "אִ֥ם~תִּכְתּֽוֹשׁ־אֶת־הָאֱוִ֨יל׀"
   },
   {
     "bcv_short": "Pr30:9",
@@ -477,7 +477,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "פֶּ֥ן־אֶשְׂבַּ֨ע׀"
+    "r": "פֶּ֥ן~אֶשְׂבַּ֨ע׀"
   },
   {
     "bcv_short": "Jb14:5",
@@ -485,7 +485,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "09.27.rn3",
-    "r": "אִ֥ם־חֲרוּצִ֨ים׀"
+    "r": "אִ֥ם~חֲרוּצִ֨ים׀"
   },
   {
     "bcv_short": "Ps47:5",
@@ -493,7 +493,7 @@
     "ref_2": "11.79.rn1",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. Also appears in 9.30, where it is noted that μS1 has געיה where μA & μL have azla (like Ps89:46).",
     "fp": "09.27.rn4",
-    "r": "אֶ֥ת־גְּא֨וֹן יַעֲקֹ֖ב אֲשֶׁר־אָהֵ֣ב סֶֽלָה׃"
+    "r": "אֶ֥ת~גְּא֨וֹן יַעֲקֹ֖ב אֲשֶׁר־אָהֵ֣ב סֶֽלָה׃"
   },
   {
     "bcv_short": "Pr3:12",
@@ -501,7 +501,7 @@
     "ref_2": "11.53",
     "note": null,
     "fp": "09.27.rn4",
-    "r": "אֶ֥ת־אֲשֶׁ֣ר יֶאֱהַ֣ב יְהֹוָ֣ה יוֹכִ֑יחַ"
+    "r": "אֶ֥ת~אֲשֶׁ֣ר יֶאֱהַ֣ב יְהֹוָ֣ה יוֹכִ֑יחַ"
   },
   {
     "bcv_short": "Pr8:34",
@@ -509,7 +509,7 @@
     "ref_2": "09.28.rn1",
     "note": "Also appears in 9.33.rn1. CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "09.28.rn1",
-    "r": "אַ֥שְֽׁרֵי־אָדָם֮"
+    "r": "אַ֥שְֽׁרֵי~אָדָם֮"
   },
   {
     "bcv_short": "Ps40:9",
@@ -525,7 +525,7 @@
     "ref_2": "09.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. Also appears in 9.33.rn1",
     "fp": "09.28.rn2",
-    "r": "יִ֥רְעֲשֽׁוּ־הָרִ֖ים בְּגַאֲוָת֣וֹ סֶֽלָה׃"
+    "r": "יִ֥רְעֲשֽׁוּ~הָרִ֖ים בְּגַאֲוָת֣וֹ סֶֽלָה׃"
   },
   {
     "bcv_short": "Ps66:15",
@@ -533,7 +533,7 @@
     "ref_2": "11.79.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. 9.29 notes that μS1 has azla where μA & μL have געיה (the opposite of Ps89:46).",
     "fp": "09.29.var-rn2",
-    "r": "אֶ֥עֱשֶֽׂה־בָקָ֖ר עִם־עַתּוּדִ֣ים סֶֽלָה׃"
+    "r": "אֶ֥עֱשֶֽׂה~בָקָ֖ר עִם־עַתּוּדִ֣ים סֶֽלָה׃"
   },
   {
     "bcv_short": "Ps31:20",
@@ -541,7 +541,7 @@
     "ref_2": null,
     "note": null,
     "fp": "09.31",
-    "r": "מָ֤ה־רַֽב־טוּבְךָ֮"
+    "r": "מָ֤ה~רַֽב־טוּבְךָ֮"
   },
   {
     "bcv_short": "Ps98:3",
@@ -565,7 +565,7 @@
     "ref_2": "11.66.rn1",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive).",
     "fp": "09.34.rn1",
-    "r": "אָ֤דָֽם־וּבְהֵמָ֖ה תוֹשִׁ֣יעַ יְהֹוָֽה׃"
+    "r": "אָ֤דָֽם~וּבְהֵמָ֖ה תוֹשִׁ֣יעַ יְהֹוָֽה׃"
   },
   {
     "bcv_short": "Ps106:48",
@@ -573,7 +573,7 @@
     "ref_2": "11.08.b.rn3",
     "note": null,
     "fp": "09.34.rn1",
-    "r": "בָּ֤רֽוּךְ־יְהֹוָ֨ה אֱלֹהֵ֪י יִשְׂרָאֵ֡ל"
+    "r": "בָּ֤רֽוּךְ~יְהֹוָ֨ה אֱלֹהֵ֪י יִשְׂרָאֵ֡ל"
   },
   {
     "bcv_short": "Pr23:5",
@@ -581,7 +581,7 @@
     "ref_2": "11.22",
     "note": "Also appears in 11.17.rn2",
     "fp": "09.34.rn1",
-    "r": "הֲתָ֤עִיף־עֵינֶ֥יךָ בּ֗וֹ"
+    "r": "הֲתָ֤עִיף~עֵינֶ֥יךָ בּ֗וֹ"
   },
   {
     "bcv_short": "Ps1:1",
@@ -589,7 +589,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "09.34.rn2",
-    "r": "אַ֥שְֽׁרֵי־הָאִ֗ישׁ"
+    "r": "אַ֥שְֽׁרֵי~הָאִ֗ישׁ"
   },
   {
     "bcv_short": "Ps141:5",
@@ -597,7 +597,7 @@
     "ref_2": "11.03",
     "note": null,
     "fp": "09.34.rn2",
-    "r": "יֶ֥הֶלְמֵֽנִי־צַדִּ֨יק׀"
+    "r": "יֶ֥הֶלְמֵֽנִי~צַדִּ֨יק׀"
   },
   {
     "bcv_short": "Ps38:19",
@@ -645,7 +645,7 @@
     "ref_2": "11.80.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "09.36.rn1",
-    "r": "וּמִמַּ֖עֲמַקֵּי־מָֽיִם׃"
+    "r": "וּמִמַּ֖עֲמַקֵּי~מָֽיִם׃"
   },
   {
     "bcv_short": "Ps104:6",
@@ -653,7 +653,7 @@
     "ref_2": "11.80.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "09.36.rn1",
-    "r": "יַ֖עַמְדוּ־מָֽיִם׃"
+    "r": "יַ֖עַמְדוּ~מָֽיִם׃"
   },
   {
     "bcv_short": "Jb12:15",
@@ -661,7 +661,7 @@
     "ref_2": "11.80.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "09.36.rn1",
-    "r": "וְיַ֖הַפְכוּ־אָֽרֶץ׃"
+    "r": "וְיַ֖הַפְכוּ~אָֽרֶץ׃"
   },
   {
     "bcv_short": "Ps78:7",
@@ -701,7 +701,7 @@
     "ref_2": "11.03",
     "note": null,
     "fp": "11.03",
-    "r": "שִׁ֥מְﬞעָֽה־תְפִלָּתִ֨י׀"
+    "r": "שִׁ֥מְﬞעָֽה~תְפִלָּתִ֨י׀"
   },
   {
     "bcv_short": "Ps140:6",
@@ -717,7 +717,7 @@
     "ref_2": "11.03",
     "note": null,
     "fp": "11.03",
-    "r": "יֶ֥הֶלְמֵֽנִי־צַדִּ֨יק׀"
+    "r": "יֶ֥הֶלְמֵֽנִי~צַדִּ֨יק׀"
   },
   {
     "bcv_short": "Ps117:2",
@@ -725,7 +725,7 @@
     "ref_2": "11.04",
     "note": null,
     "fp": "11.04",
-    "r": "כִּ֥י־גָ֘בַ֤ר עָלֵ֨ינוּ׀"
+    "r": "כִּ֥י~גָ֘בַ֤ר עָלֵ֨ינוּ׀"
   },
   {
     "bcv_short": "Ps143:3",
@@ -733,7 +733,7 @@
     "ref_2": "11.04",
     "note": null,
     "fp": "11.04",
-    "r": "כִּ֥י־רָ֘דַ֤ף"
+    "r": "כִּ֥י~רָ֘דַ֤ף"
   },
   {
     "bcv_short": "Ps9:17",
@@ -829,7 +829,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "כׇּ֥ל־עַצְמוֹתַ֨י׀"
+    "r": "כׇּ֥ל~עַצְמוֹתַ֨י׀"
   },
   {
     "bcv_short": "Ps106:1",
@@ -837,7 +837,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps111:1",
@@ -845,7 +845,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps112:1",
@@ -853,7 +853,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps113:1",
@@ -861,7 +861,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps135:1",
@@ -869,7 +869,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps137:1",
@@ -877,7 +877,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "עַ֥ל־נַהֲר֨וֹת׀"
+    "r": "עַ֥ל~נַהֲר֨וֹת׀"
   },
   {
     "bcv_short": "Ps147:1",
@@ -885,7 +885,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps148:1",
@@ -893,7 +893,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps149:1",
@@ -901,7 +901,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps150:1",
@@ -909,7 +909,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Pr19:7",
@@ -917,7 +917,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "כׇּ֥ל־אֲחֵי־רָ֨שׁ׀"
+    "r": "כׇּ֥ל~אֲחֵי־רָ֨שׁ׀"
   },
   {
     "bcv_short": "Pr27:22",
@@ -925,7 +925,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "אִ֥ם־תִּכְתּֽוֹשׁ־אֶת־הָאֱוִ֨יל׀"
+    "r": "אִ֥ם~תִּכְתּֽוֹשׁ־אֶת־הָאֱוִ֨יל׀"
   },
   {
     "bcv_short": "Pr30:9",
@@ -933,7 +933,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "פֶּ֥ן־אֶשְׂבַּ֨ע׀"
+    "r": "פֶּ֥ן~אֶשְׂבַּ֨ע׀"
   },
   {
     "bcv_short": "Jb14:5",
@@ -941,7 +941,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "11.06.rn3",
-    "r": "אִ֥ם־חֲרוּצִ֨ים׀"
+    "r": "אִ֥ם~חֲרוּצִ֨ים׀"
   },
   {
     "bcv_short": "Ps89:20",
@@ -957,7 +957,7 @@
     "ref_2": null,
     "note": null,
     "fp": "11.08.b.rn3",
-    "r": "פָּ֤קַֽדְתָּ־הָאָ֨רֶץ"
+    "r": "פָּ֤קַֽדְתָּ~הָאָ֨רֶץ"
   },
   {
     "bcv_short": "Ps106:48",
@@ -965,7 +965,7 @@
     "ref_2": "11.08.b.rn3",
     "note": null,
     "fp": "11.08.b.rn3",
-    "r": "בָּ֤רֽוּךְ־יְהֹוָ֨ה אֱלֹהֵ֪י יִשְׂרָאֵ֡ל"
+    "r": "בָּ֤רֽוּךְ~יְהֹוָ֨ה אֱלֹהֵ֪י יִשְׂרָאֵ֡ל"
   },
   {
     "bcv_short": "Ps106:38",
@@ -997,7 +997,7 @@
     "ref_2": "11.14.rn1",
     "note": null,
     "fp": "11.14.rn1",
-    "r": "כִּ֥י־יֹ֘סִ֤יף עַֽל־חַטָּאת֣וֹ פֶ֭שַׁע"
+    "r": "כִּ֥י~יֹ֘סִ֤יף עַֽל־חַטָּאת֣וֹ פֶ֭שַׁע"
   },
   {
     "bcv_short": "Ps22:26",
@@ -1085,7 +1085,7 @@
     "ref_2": "11.20.rn2",
     "note": null,
     "fp": "11.20.rn2",
-    "r": "אִ֥ם־בְּתוֹרַ֥ת יְהֹוָ֗ה"
+    "r": "אִ֥ם~בְּתוֹרַ֥ת יְהֹוָ֗ה"
   },
   {
     "bcv_short": "Ps37:40",
@@ -1181,7 +1181,7 @@
     "ref_2": "11.22",
     "note": "Also appears in 11.17.rn2",
     "fp": "11.22",
-    "r": "הֲתָ֤עִיף־עֵינֶ֥יךָ בּ֗וֹ"
+    "r": "הֲתָ֤עִיף~עֵינֶ֥יךָ בּ֗וֹ"
   },
   {
     "bcv_short": "Ps24:10",
@@ -1189,7 +1189,7 @@
     "ref_2": "11.26.rn1",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "11.26.rn1",
-    "r": "מִ֤י־ה֣וּא זֶה֮"
+    "r": "מִ֤י~ה֣וּא זֶה֮"
   },
   {
     "bcv_short": "Ps68:20",
@@ -1221,7 +1221,7 @@
     "ref_2": "11.26.rn2",
     "note": null,
     "fp": "11.26.rn2",
-    "r": "מִ֥י־יִתֵּ֣ן מִצִּיּוֹן֮"
+    "r": "מִ֥י~יִתֵּ֣ן מִצִּיּוֹן֮"
   },
   {
     "bcv_short": "Ps53:7",
@@ -1229,7 +1229,7 @@
     "ref_2": "11.26.rn2",
     "note": null,
     "fp": "11.26.rn2",
-    "r": "מִ֥י־יִתֵּ֣ן מִצִּיּוֹן֮"
+    "r": "מִ֥י~יִתֵּ֣ן מִצִּיּוֹן֮"
   },
   {
     "bcv_short": "Jb11:6",
@@ -1245,7 +1245,7 @@
     "ref_2": "11.26.rn2",
     "note": null,
     "fp": "11.26.rn2",
-    "r": "אִ֥ם־תִּטֶּ֣ה אַשֻּׁרִי֮"
+    "r": "אִ֥ם~תִּטֶּ֣ה אַשֻּׁרִי֮"
   },
   {
     "bcv_short": "Ps37:14",
@@ -1269,7 +1269,7 @@
     "ref_2": "11.26.rn3",
     "note": null,
     "fp": "11.26.rn3",
-    "r": "אֶ֥ת־אֲרַ֣ם נַהֲרַיִם֮"
+    "r": "אֶ֥ת~אֲרַ֣ם נַהֲרַיִם֮"
   },
   {
     "bcv_short": "Ps62:4",
@@ -1373,7 +1373,7 @@
     "ref_2": "09.28.rn1",
     "note": "Also appears in 9.33.rn1. CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "11.27.rn2",
-    "r": "אַ֥שְֽׁרֵי־אָדָם֮"
+    "r": "אַ֥שְֽׁרֵי~אָדָם֮"
   },
   {
     "bcv_short": "Ps98:3",
@@ -1389,7 +1389,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "11.28.rn2",
-    "r": "אַ֥שְֽׁרֵי־הָאִ֗ישׁ"
+    "r": "אַ֥שְֽׁרֵי~הָאִ֗ישׁ"
   },
   {
     "bcv_short": "Ps32:2",
@@ -1397,7 +1397,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "11.28.rn2",
-    "r": "אַ֥שְֽׁרֵי־אָדָ֗ם"
+    "r": "אַ֥שְֽׁרֵי~אָדָ֗ם"
   },
   {
     "bcv_short": "Ps40:5",
@@ -1405,7 +1405,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "11.28.rn2",
-    "r": "אַ֥שְֽׁרֵי־הַגֶּ֗בֶר"
+    "r": "אַ֥שְֽׁרֵי~הַגֶּ֗בֶר"
   },
   {
     "bcv_short": "Ps64:7",
@@ -1413,7 +1413,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "11.28.rn2",
-    "r": "יַ֥חְפְּֽשׂוּ־עוֹלֹ֗ת"
+    "r": "יַ֥חְפְּֽשׂוּ~עוֹלֹ֗ת"
   },
   {
     "bcv_short": "Ps98:9",
@@ -1421,7 +1421,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "11.28.rn2",
-    "r": "לִ֥פְֽנֵי־יְהֹוָ֗ה"
+    "r": "לִ֥פְֽנֵי~יְהֹוָ֗ה"
   },
   {
     "bcv_short": "Pr28:22",
@@ -1429,7 +1429,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "11.28.rn2",
-    "r": "נִ֥בְﬞהָֽל־לַה֗וֹן"
+    "r": "נִ֥בְﬞהָֽל~לַה֗וֹן"
   },
   {
     "bcv_short": "Jb12:6",
@@ -1461,7 +1461,7 @@
     "ref_2": "11.36",
     "note": null,
     "fp": "11.36",
-    "r": "הַ֥ט־אׇזְנְךָ֗"
+    "r": "הַ֥ט~אׇזְנְךָ֗"
   },
   {
     "bcv_short": "Jb24:5",
@@ -1589,7 +1589,7 @@
     "ref_2": "11.47.es2.rn1",
     "note": "Also appears in 11.47.fn27.",
     "fp": "11.47.es2.rn1",
-    "r": "אָמַ֘ר־אֵלַ֥י בְּנִ֥י־אַ֑תָּה"
+    "r": "אָמַ֘ר~אֵלַ֥י בְּנִ֥י~אַ֑תָּה"
   },
   {
     "bcv_short": "Ps39:2",
@@ -1597,7 +1597,7 @@
     "ref_2": "11.47.es2.rn2",
     "note": "Also appears in 11.47.fn27.",
     "fp": "11.47.es2.rn2",
-    "r": "אֶשְׁמְרָ֥ה־לְפִ֥י מַחְס֑וֹם"
+    "r": "אֶשְׁמְרָ֥ה~לְפִ֥י מַחְס֑וֹם"
   },
   {
     "bcv_short": "Ps96:4",
@@ -1605,7 +1605,7 @@
     "ref_2": "11.50.rn3",
     "note": null,
     "fp": "11.50.rn3",
-    "r": "כִּ֥י־גָ֘ד֤וֹל יְהֹוָ֣ה וּמְהֻלָּ֣ל מְאֹ֑ד"
+    "r": "כִּ֥י~גָ֘ד֤וֹל יְהֹוָ֣ה וּמְהֻלָּ֣ל מְאֹ֑ד"
   },
   {
     "bcv_short": "Ps146:5",
@@ -1637,7 +1637,7 @@
     "ref_2": "11.53",
     "note": null,
     "fp": "11.53",
-    "r": "אֶ֥ת־אֲשֶׁ֣ר יֶאֱהַ֣ב יְהֹוָ֣ה יוֹכִ֑יחַ"
+    "r": "אֶ֥ת~אֲשֶׁ֣ר יֶאֱהַ֣ב יְהֹוָ֣ה יוֹכִ֑יחַ"
   },
   {
     "bcv_short": "Ps5:5",
@@ -1645,7 +1645,7 @@
     "ref_2": null,
     "note": null,
     "fp": "11.54",
-    "r": "לֹ֤א־אֵֽל־חָפֵ֘ץ־רֶ֥שַׁע"
+    "r": "לֹ֤א~אֵֽל־חָפֵ֘ץ~רֶ֥שַׁע"
   },
   {
     "bcv_short": "Ps48:5",
@@ -1693,7 +1693,7 @@
     "ref_2": "11.56.rn2",
     "note": "Mentioned indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56. In 11.56.rn2, CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. But CoS says that עדה should be considered to be followed by a mqf.",
     "fp": "11.56.rn2",
-    "r": "עֲדֵ֥ה־נָ֣א"
+    "r": "עֲדֵ֥ה~נָ֣א"
   },
   {
     "bcv_short": "Ps146:3",
@@ -1709,7 +1709,7 @@
     "ref_2": "11.66.rn1",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive).",
     "fp": "11.66.rn1",
-    "r": "אָ֤דָֽם־וּבְהֵמָ֖ה תוֹשִׁ֣יעַ יְהֹוָֽה׃"
+    "r": "אָ֤דָֽם~וּבְהֵמָ֖ה תוֹשִׁ֣יעַ יְהֹוָֽה׃"
   },
   {
     "bcv_short": "Ps65:9",
@@ -1717,7 +1717,7 @@
     "ref_2": "11.66.rn1",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive).",
     "fp": "11.66.rn1",
-    "r": "מ֤וֹצָֽאֵי־בֹ֖קֶר"
+    "r": "מ֤וֹצָֽאֵי~בֹ֖קֶר"
   },
   {
     "bcv_short": "Ps67:2",
@@ -1725,7 +1725,7 @@
     "ref_2": "11.66.rn1",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive).",
     "fp": "11.66.rn1",
-    "r": "יָ֤אֵֽר־פָּנָ֖יו"
+    "r": "יָ֤אֵֽר~פָּנָ֖יו"
   },
   {
     "bcv_short": "Ps68:11",
@@ -1733,7 +1733,7 @@
     "ref_2": "11.66.rn1",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive).",
     "fp": "11.66.rn1",
-    "r": "תָּ֤כִֽין־בְּטוֹבָתְךָ֖"
+    "r": "תָּ֤כִֽין~בְּטוֹבָתְךָ֖"
   },
   {
     "bcv_short": "Ps83:9",
@@ -1741,7 +1741,7 @@
     "ref_2": "11.66.rn1",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive).",
     "fp": "11.66.rn1",
-    "r": "הָ֤יֽוּ־זְר֖וֹעַ"
+    "r": "הָ֤יֽוּ~זְר֖וֹעַ"
   },
   {
     "bcv_short": "Jb14:13",
@@ -1749,7 +1749,7 @@
     "ref_2": "11.66.rn1",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive).",
     "fp": "11.66.rn1",
-    "r": "תָּ֤שִֽׁית־לִ֖י"
+    "r": "תָּ֤שִֽׁית~לִ֖י"
   },
   {
     "bcv_short": "Ps43:1",
@@ -1757,7 +1757,7 @@
     "ref_2": "11.66.rn2",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive). CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "11.66.rn2",
-    "r": "מֵ֤אִישׁ־מִרְמָ֖ה"
+    "r": "מֵ֤אִישׁ~מִרְמָ֖ה"
   },
   {
     "bcv_short": "Ps54:8",
@@ -1765,7 +1765,7 @@
     "ref_2": "11.66.rn2",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive). CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "11.66.rn2",
-    "r": "א֤וֹדֶה־שִּׁמְךָ֖"
+    "r": "א֤וֹדֶה~שִּׁמְךָ֖"
   },
   {
     "bcv_short": "Pr29:13",
@@ -1773,7 +1773,7 @@
     "ref_2": "11.66.rn2",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive). CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "11.66.rn2",
-    "r": "מֵ֤אִיר־עֵינֵ֖י"
+    "r": "מֵ֤אִיר~עֵינֵ֖י"
   },
   {
     "bcv_short": "Ps47:5",
@@ -1781,7 +1781,7 @@
     "ref_2": "11.79.rn1",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. Also appears in 9.30, where it is noted that μS1 has געיה where μA & μL have azla (like Ps89:46).",
     "fp": "11.79.rn1",
-    "r": "אֶ֥ת־גְּא֨וֹן יַעֲקֹ֖ב אֲשֶׁר־אָהֵ֣ב סֶֽלָה׃"
+    "r": "אֶ֥ת~גְּא֨וֹן יַעֲקֹ֖ב אֲשֶׁר־אָהֵ֣ב סֶֽלָה׃"
   },
   {
     "bcv_short": "Ps61:5",
@@ -1805,7 +1805,7 @@
     "ref_2": "09.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. Also appears in 9.33.rn1",
     "fp": "11.79.rn2",
-    "r": "יִ֥רְעֲשֽׁוּ־הָרִ֖ים בְּגַאֲוָת֣וֹ סֶֽלָה׃"
+    "r": "יִ֥רְעֲשֽׁוּ~הָרִ֖ים בְּגַאֲוָת֣וֹ סֶֽלָה׃"
   },
   {
     "bcv_short": "Ps66:15",
@@ -1813,7 +1813,7 @@
     "ref_2": "11.79.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. 9.29 notes that μS1 has azla where μA & μL have געיה (the opposite of Ps89:46).",
     "fp": "11.79.rn2",
-    "r": "אֶ֥עֱשֶֽׂה־בָקָ֖ר עִם־עַתּוּדִ֣ים סֶֽלָה׃"
+    "r": "אֶ֥עֱשֶֽׂה~בָקָ֖ר עִם־עַתּוּדִ֣ים סֶֽלָה׃"
   },
   {
     "bcv_short": "Ps38:19",
@@ -1837,7 +1837,7 @@
     "ref_2": "11.80.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "11.80.rn2",
-    "r": "וּמִמַּ֖עֲמַקֵּי־מָֽיִם׃"
+    "r": "וּמִמַּ֖עֲמַקֵּי~מָֽיִם׃"
   },
   {
     "bcv_short": "Ps104:6",
@@ -1845,7 +1845,7 @@
     "ref_2": "11.80.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "11.80.rn2",
-    "r": "יַ֖עַמְדוּ־מָֽיִם׃"
+    "r": "יַ֖עַמְדוּ~מָֽיִם׃"
   },
   {
     "bcv_short": "Jb12:15",
@@ -1853,7 +1853,7 @@
     "ref_2": "11.80.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "11.80.rn2",
-    "r": "וְיַ֖הַפְכוּ־אָֽרֶץ׃"
+    "r": "וְיַ֖הַפְכוּ~אָֽרֶץ׃"
   },
   {
     "bcv_short": "Ps106:39",

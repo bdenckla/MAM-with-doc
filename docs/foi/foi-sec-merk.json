@@ -21,7 +21,7 @@
     "ref_2": "11.47.es2.rn1",
     "note": "Also appears in 11.47.fn27.",
     "fp": "poetic/(atn)/(mer)-(atn)",
-    "r": "אָמַ֘ר־אֵלַ֥י בְּנִ֥י־אַ֑תָּה"
+    "r": "אָמַ֘ר~אֵלַ֥י בְּנִ֥י~אַ֑תָּה"
   },
   {
     "bcv_short": "Ps78:7",
@@ -45,7 +45,7 @@
     "ref_2": "11.50.rn3",
     "note": null,
     "fp": "poetic/(mah)/(mer)-(zarshit),(mah)",
-    "r": "כִּ֥י־גָ֘ד֤וֹל יְהֹוָ֣ה וּמְהֻלָּ֣ל מְאֹ֑ד"
+    "r": "כִּ֥י~גָ֘ד֤וֹל יְהֹוָ֣ה וּמְהֻלָּ֣ל מְאֹ֑ד"
   },
   {
     "bcv_short": "Ps117:2",
@@ -53,7 +53,7 @@
     "ref_2": "11.04",
     "note": null,
     "fp": "poetic/(mah)/(mer)-(zarshit),(mah)",
-    "r": "כִּ֥י־גָ֘בַ֤ר עָלֵ֨ינוּ׀"
+    "r": "כִּ֥י~גָ֘בַ֤ר עָלֵ֨ינוּ׀"
   },
   {
     "bcv_short": "Ps143:3",
@@ -61,7 +61,7 @@
     "ref_2": "11.04",
     "note": null,
     "fp": "poetic/(mah)/(mer)-(zarshit),(mah)",
-    "r": "כִּ֥י־רָ֘דַ֤ף"
+    "r": "כִּ֥י~רָ֘דַ֤ף"
   },
   {
     "bcv_short": "Jb34:37",
@@ -69,7 +69,7 @@
     "ref_2": "11.14.rn1",
     "note": null,
     "fp": "poetic/(mah)/(mer)-(zarshit),(mah)",
-    "r": "כִּ֥י־יֹ֘סִ֤יף עַֽל־חַטָּאת֣וֹ פֶ֭שַׁע"
+    "r": "כִּ֥י~יֹ֘סִ֤יף עַֽל־חַטָּאת֣וֹ פֶ֭שַׁע"
   },
   {
     "bcv_short": "Ps18:3",
@@ -165,7 +165,7 @@
     "ref_2": "11.20.rn2",
     "note": null,
     "fp": "poetic/(mer)/(mer)-(mer)",
-    "r": "אִ֥ם־בְּתוֹרַ֥ת יְהֹוָ֗ה"
+    "r": "אִ֥ם~בְּתוֹרַ֥ת יְהֹוָ֗ה"
   },
   {
     "bcv_short": "Ps39:2",
@@ -173,7 +173,7 @@
     "ref_2": "11.47.es2.rn2",
     "note": "Also appears in 11.47.fn27.",
     "fp": "poetic/(mer)/(mer)-(mer)",
-    "r": "אֶשְׁמְרָ֥ה־לְפִ֥י מַחְס֑וֹם"
+    "r": "אֶשְׁמְרָ֥ה~לְפִ֥י מַחְס֑וֹם"
   },
   {
     "bcv_short": "Ps12:7",
@@ -341,7 +341,7 @@
     "ref_2": "11.26.rn2",
     "note": null,
     "fp": "poetic/(mun)/(mer)-(mun)",
-    "r": "מִ֥י־יִתֵּ֣ן מִצִּיּוֹן֮"
+    "r": "מִ֥י~יִתֵּ֣ן מִצִּיּוֹן֮"
   },
   {
     "bcv_short": "Ps40:9",
@@ -357,7 +357,7 @@
     "ref_2": "11.26.rn2",
     "note": null,
     "fp": "poetic/(mun)/(mer)-(mun)",
-    "r": "מִ֥י־יִתֵּ֣ן מִצִּיּוֹן֮"
+    "r": "מִ֥י~יִתֵּ֣ן מִצִּיּוֹן֮"
   },
   {
     "bcv_short": "Ps60:2",
@@ -365,7 +365,7 @@
     "ref_2": "11.26.rn3",
     "note": null,
     "fp": "poetic/(mun)/(mer)-(mun)",
-    "r": "אֶ֥ת־אֲרַ֣ם נַהֲרַיִם֮"
+    "r": "אֶ֥ת~אֲרַ֣ם נַהֲרַיִם֮"
   },
   {
     "bcv_short": "Pr3:12",
@@ -373,7 +373,7 @@
     "ref_2": "11.53",
     "note": null,
     "fp": "poetic/(mun)/(mer)-(mun)",
-    "r": "אֶ֥ת־אֲשֶׁ֣ר יֶאֱהַ֣ב יְהֹוָ֣ה יוֹכִ֑יחַ"
+    "r": "אֶ֥ת~אֲשֶׁ֣ר יֶאֱהַ֣ב יְהֹוָ֣ה יוֹכִ֑יחַ"
   },
   {
     "bcv_short": "Jb31:7",
@@ -381,7 +381,7 @@
     "ref_2": "11.26.rn2",
     "note": null,
     "fp": "poetic/(mun)/(mer)-(mun)",
-    "r": "אִ֥ם־תִּטֶּ֣ה אַשֻּׁרִי֮"
+    "r": "אִ֥ם~תִּטֶּ֣ה אַשֻּׁרִי֮"
   },
   {
     "bcv_short": "Jb40:10",
@@ -389,7 +389,7 @@
     "ref_2": "11.56.rn2",
     "note": "Mentioned indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56. In 11.56.rn2, CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. But CoS says that עדה should be considered to be followed by a mqf.",
     "fp": "poetic/(mun)/(mer)-(mun)",
-    "r": "עֲדֵ֥ה־נָ֣א"
+    "r": "עֲדֵ֥ה~נָ֣א"
   },
   {
     "bcv_short": "Pr27:22",
@@ -453,7 +453,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
-    "r": "אַ֥שְֽׁרֵי־הָאִ֗ישׁ"
+    "r": "אַ֥שְֽׁרֵי~הָאִ֗ישׁ"
   },
   {
     "bcv_short": "Ps32:2",
@@ -461,7 +461,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
-    "r": "אַ֥שְֽׁרֵי־אָדָ֗ם"
+    "r": "אַ֥שְֽׁרֵי~אָדָ֗ם"
   },
   {
     "bcv_short": "Ps40:5",
@@ -469,7 +469,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
-    "r": "אַ֥שְֽׁרֵי־הַגֶּ֗בֶר"
+    "r": "אַ֥שְֽׁרֵי~הַגֶּ֗בֶר"
   },
   {
     "bcv_short": "Ps64:7",
@@ -477,7 +477,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
-    "r": "יַ֥חְפְּֽשׂוּ־עוֹלֹ֗ת"
+    "r": "יַ֥חְפְּֽשׂוּ~עוֹלֹ֗ת"
   },
   {
     "bcv_short": "Ps98:9",
@@ -485,7 +485,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
-    "r": "לִ֥פְֽנֵי־יְהֹוָ֗ה"
+    "r": "לִ֥פְֽנֵי~יְהֹוָ֗ה"
   },
   {
     "bcv_short": "Pr28:22",
@@ -493,7 +493,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(rev)/(mer),(ümtg)-(rev)",
-    "r": "נִ֥בְﬞהָֽל־לַה֗וֹן"
+    "r": "נִ֥בְﬞהָֽל~לַה֗וֹן"
   },
   {
     "bcv_short": "Ps92:8",
@@ -509,7 +509,7 @@
     "ref_2": "11.36",
     "note": null,
     "fp": "poetic/(rev)/(mer)-(rev)",
-    "r": "הַ֥ט־אׇזְנְךָ֗"
+    "r": "הַ֥ט~אׇזְנְךָ֗"
   },
   {
     "bcv_short": "Ps98:3",
@@ -525,7 +525,7 @@
     "ref_2": "09.28.rn1",
     "note": "Also appears in 9.33.rn1. CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/(zarnor)/(mer),(ümtg)-(zarnor)",
-    "r": "אַ֥שְֽׁרֵי־אָדָם֮"
+    "r": "אַ֥שְֽׁרֵי~אָדָם֮"
   },
   {
     "bcv_short": "Ps61:5",
@@ -565,7 +565,7 @@
     "ref_2": "11.79.rn1",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. Also appears in 9.30, where it is noted that μS1 has געיה where μA & μL have azla (like Ps89:46).",
     "fp": "poetic/(üazl)/(mer)-(üazl)",
-    "r": "אֶ֥ת־גְּא֨וֹן יַעֲקֹ֖ב אֲשֶׁר־אָהֵ֣ב סֶֽלָה׃"
+    "r": "אֶ֥ת~גְּא֨וֹן יַעֲקֹ֖ב אֲשֶׁר־אָהֵ֣ב סֶֽלָה׃"
   },
   {
     "bcv_short": "Ps2:2",
@@ -645,7 +645,7 @@
     "ref_2": "11.03",
     "note": null,
     "fp": "poetic/(üazll)/(mer),(ümtg)-(üazll)",
-    "r": "שִׁ֥מְﬞעָֽה־תְפִלָּתִ֨י׀"
+    "r": "שִׁ֥מְﬞעָֽה~תְפִלָּתִ֨י׀"
   },
   {
     "bcv_short": "Ps140:6",
@@ -661,7 +661,7 @@
     "ref_2": "11.03",
     "note": null,
     "fp": "poetic/(üazll)/(mer),(ümtg)-(üazll)",
-    "r": "יֶ֥הֶלְמֵֽנִי־צַדִּ֨יק׀"
+    "r": "יֶ֥הֶלְמֵֽנִי~צַדִּ֨יק׀"
   },
   {
     "bcv_short": "Ps35:10",
@@ -669,7 +669,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
-    "r": "כׇּ֥ל־עַצְמוֹתַ֨י׀"
+    "r": "כׇּ֥ל~עַצְמוֹתַ֨י׀"
   },
   {
     "bcv_short": "Ps106:1",
@@ -677,7 +677,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps111:1",
@@ -685,7 +685,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps112:1",
@@ -693,7 +693,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps113:1",
@@ -701,7 +701,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps135:1",
@@ -709,7 +709,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps137:1",
@@ -717,7 +717,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
-    "r": "עַ֥ל־נַהֲר֨וֹת׀"
+    "r": "עַ֥ל~נַהֲר֨וֹת׀"
   },
   {
     "bcv_short": "Ps147:1",
@@ -725,7 +725,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps148:1",
@@ -733,7 +733,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps149:1",
@@ -741,7 +741,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps150:1",
@@ -749,7 +749,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Pr25:20",
@@ -765,7 +765,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
-    "r": "פֶּ֥ן־אֶשְׂבַּ֨ע׀"
+    "r": "פֶּ֥ן~אֶשְׂבַּ֨ע׀"
   },
   {
     "bcv_short": "Jb6:10",
@@ -781,7 +781,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(üazll)",
-    "r": "אִ֥ם־חֲרוּצִ֨ים׀"
+    "r": "אִ֥ם~חֲרוּצִ֨ים׀"
   },
   {
     "bcv_short": "Pr27:22",
@@ -789,7 +789,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)-(ümtg)--(üazll)",
-    "r": "אִ֥ם־תִּכְתּֽוֹשׁ־אֶת־הָאֱוִ֨יל׀"
+    "r": "אִ֥ם~תִּכְתּֽוֹשׁ־אֶת־הָאֱוִ֨יל׀"
   },
   {
     "bcv_short": "Pr19:7",
@@ -797,7 +797,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/(üazll)/(mer)--(üazll)",
-    "r": "כׇּ֥ל־אֲחֵי־רָ֨שׁ׀"
+    "r": "כׇּ֥ל~אֲחֵי־רָ֨שׁ׀"
   },
   {
     "bcv_short": "Ps21:2",
@@ -1013,7 +1013,7 @@
     "ref_2": "09.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. Also appears in 9.33.rn1",
     "fp": "poetic/(ütar)/(mer),(ümtg)-(ütar)",
-    "r": "יִ֥רְעֲשֽׁוּ־הָרִ֖ים בְּגַאֲוָת֣וֹ סֶֽלָה׃"
+    "r": "יִ֥רְעֲשֽׁוּ~הָרִ֖ים בְּגַאֲוָת֣וֹ סֶֽלָה׃"
   },
   {
     "bcv_short": "Ps66:15",
@@ -1021,7 +1021,7 @@
     "ref_2": "11.79.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. 9.29 notes that μS1 has azla where μA & μL have געיה (the opposite of Ps89:46).",
     "fp": "poetic/(ütar)/(mer),(ümtg)-(ütar)",
-    "r": "אֶ֥עֱשֶֽׂה־בָקָ֖ר עִם־עַתּוּדִ֣ים סֶֽלָה׃"
+    "r": "אֶ֥עֱשֶֽׂה~בָקָ֖ר עִם־עַתּוּדִ֣ים סֶֽלָה׃"
   },
   {
     "bcv_short": "Pr26:27",

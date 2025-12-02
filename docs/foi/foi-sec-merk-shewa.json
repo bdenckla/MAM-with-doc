@@ -5,7 +5,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/«:,(mos)»",
-    "r": "אַ֥שְֽׁרֵי־הָאִ֗ישׁ"
+    "r": "אַ֥שְֽׁרֵי~הָאִ֗ישׁ"
   },
   {
     "bcv_short": "Ps32:2",
@@ -13,7 +13,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/«:,(mos)»",
-    "r": "אַ֥שְֽׁרֵי־אָדָ֗ם"
+    "r": "אַ֥שְֽׁרֵי~אָדָ֗ם"
   },
   {
     "bcv_short": "Ps40:5",
@@ -21,7 +21,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/«:,(mos)»",
-    "r": "אַ֥שְֽׁרֵי־הַגֶּ֗בֶר"
+    "r": "אַ֥שְֽׁרֵי~הַגֶּ֗בֶר"
   },
   {
     "bcv_short": "Ps98:9",
@@ -29,7 +29,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/«:,(mos)»",
-    "r": "לִ֥פְֽנֵי־יְהֹוָ֗ה"
+    "r": "לִ֥פְֽנֵי~יְהֹוָ֗ה"
   },
   {
     "bcv_short": "Pr8:34",
@@ -37,7 +37,7 @@
     "ref_2": "09.28.rn1",
     "note": "Also appears in 9.33.rn1. CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/«:,(mos)»",
-    "r": "אַ֥שְֽׁרֵי־אָדָם֮"
+    "r": "אַ֥שְֽׁרֵי~אָדָם֮"
   },
   {
     "bcv_short": "Ps12:7",
@@ -69,7 +69,7 @@
     "ref_2": "11.03",
     "note": null,
     "fp": "poetic/«:,varika»",
-    "r": "שִׁ֥מְﬞעָֽה־תְפִלָּתִ֨י׀"
+    "r": "שִׁ֥מְﬞעָֽה~תְפִלָּתִ֨י׀"
   },
   {
     "bcv_short": "Ps65:5",
@@ -125,7 +125,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/«:,varika»",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps111:1",
@@ -133,7 +133,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/«:,varika»",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps112:1",
@@ -141,7 +141,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/«:,varika»",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps113:1",
@@ -149,7 +149,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/«:,varika»",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps135:1",
@@ -157,7 +157,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/«:,varika»",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps140:4",
@@ -173,7 +173,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/«:,varika»",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps148:1",
@@ -181,7 +181,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/«:,varika»",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps149:1",
@@ -189,7 +189,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/«:,varika»",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Ps150:1",
@@ -197,7 +197,7 @@
     "ref_2": "11.06.rn3",
     "note": null,
     "fp": "poetic/«:,varika»",
-    "r": "הַ֥לְﬞלוּ־יָ֨הּ׀"
+    "r": "הַ֥לְﬞלוּ~יָ֨הּ׀"
   },
   {
     "bcv_short": "Pr28:22",
@@ -205,7 +205,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/«:,varika»",
-    "r": "נִ֥בְﬞהָֽל־לַה֗וֹן"
+    "r": "נִ֥בְﬞהָֽל~לַה֗וֹן"
   },
   {
     "bcv_short": "Pr30:17",
@@ -437,7 +437,7 @@
     "ref_2": "09.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. Also appears in 9.33.rn1",
     "fp": "poetic/«:»/double shewa",
-    "r": "יִ֥רְעֲשֽׁוּ־הָרִ֖ים בְּגַאֲוָת֣וֹ סֶֽלָה׃"
+    "r": "יִ֥רְעֲשֽׁוּ~הָרִ֖ים בְּגַאֲוָת֣וֹ סֶֽלָה׃"
   },
   {
     "bcv_short": "Ps67:5",
@@ -501,7 +501,7 @@
     "ref_2": "11.79.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. 9.29 notes that μS1 has azla where μA & μL have געיה (the opposite of Ps89:46).",
     "fp": "poetic/«:∵»",
-    "r": "אֶ֥עֱשֶֽׂה־בָקָ֖ר עִם־עַתּוּדִ֣ים סֶֽלָה׃"
+    "r": "אֶ֥עֱשֶֽׂה~בָקָ֖ר עִם־עַתּוּדִ֣ים סֶֽלָה׃"
   },
   {
     "bcv_short": "Ps89:46",
@@ -525,7 +525,7 @@
     "ref_2": "11.28.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
     "fp": "poetic/«gutt-:»",
-    "r": "יַ֥חְפְּֽשׂוּ־עוֹלֹ֗ת"
+    "r": "יַ֥חְפְּֽשׂוּ~עוֹלֹ֗ת"
   },
   {
     "bcv_short": "Pr6:14",
