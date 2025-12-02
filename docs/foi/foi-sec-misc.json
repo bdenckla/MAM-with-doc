@@ -115,7 +115,7 @@
     "bcv_short": "Ps24:10",
     "ref_1": "09.27.rn1",
     "ref_2": "11.26.rn1",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "poetic/(mun)/(mah)~(mun)",
     "r": "מִ֤י~ה֣וּא זֶה֮"
   },
@@ -523,7 +523,7 @@
     "bcv_short": "Ps69:15",
     "ref_1": "09.36.rn1",
     "ref_2": "11.80.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "poetic/(üslq)/(ütar)~(üslq)",
     "r": "וּמִמַּ֖עֲמַקֵּי~מָֽיִם׃"
   },
@@ -531,7 +531,7 @@
     "bcv_short": "Ps104:6",
     "ref_1": "09.36.rn1",
     "ref_2": "11.80.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "poetic/(üslq)/(ütar)~(üslq)",
     "r": "יַ֖עַמְדוּ~מָֽיִם׃"
   },
@@ -539,7 +539,7 @@
     "bcv_short": "Jb12:15",
     "ref_1": "09.36.rn1",
     "ref_2": "11.80.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "poetic/(üslq)/(ütar)~(üslq)",
     "r": "וְיַ֖הַפְכוּ~אָֽרֶץ׃"
   },

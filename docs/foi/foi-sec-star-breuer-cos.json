@@ -331,7 +331,7 @@
     "bcv_short": "Ps24:10",
     "ref_1": "09.27.rn1",
     "ref_2": "11.26.rn1",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "09.27.rn1",
     "r": "מִ֤י~ה֣וּא זֶה֮"
   },
@@ -587,7 +587,7 @@
     "bcv_short": "Ps1:1",
     "ref_1": "09.34.rn2",
     "ref_2": "11.28.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "09.34.rn2",
     "r": "אַ֥שְֽׁרֵי~הָאִ֗ישׁ"
   },
@@ -643,7 +643,7 @@
     "bcv_short": "Ps69:15",
     "ref_1": "09.36.rn1",
     "ref_2": "11.80.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "09.36.rn1",
     "r": "וּמִמַּ֖עֲמַקֵּי~מָֽיִם׃"
   },
@@ -651,7 +651,7 @@
     "bcv_short": "Ps104:6",
     "ref_1": "09.36.rn1",
     "ref_2": "11.80.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "09.36.rn1",
     "r": "יַ֖עַמְדוּ~מָֽיִם׃"
   },
@@ -659,7 +659,7 @@
     "bcv_short": "Jb12:15",
     "ref_1": "09.36.rn1",
     "ref_2": "11.80.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "09.36.rn1",
     "r": "וְיַ֖הַפְכוּ~אָֽרֶץ׃"
   },
@@ -1187,7 +1187,7 @@
     "bcv_short": "Ps24:10",
     "ref_1": "09.27.rn1",
     "ref_2": "11.26.rn1",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "11.26.rn1",
     "r": "מִ֤י~ה֣וּא זֶה֮"
   },
@@ -1387,7 +1387,7 @@
     "bcv_short": "Ps1:1",
     "ref_1": "09.34.rn2",
     "ref_2": "11.28.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "11.28.rn2",
     "r": "אַ֥שְֽׁרֵי~הָאִ֗ישׁ"
   },
@@ -1395,7 +1395,7 @@
     "bcv_short": "Ps32:2",
     "ref_1": null,
     "ref_2": "11.28.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "11.28.rn2",
     "r": "אַ֥שְֽׁרֵי~אָדָ֗ם"
   },
@@ -1403,7 +1403,7 @@
     "bcv_short": "Ps40:5",
     "ref_1": null,
     "ref_2": "11.28.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "11.28.rn2",
     "r": "אַ֥שְֽׁרֵי~הַגֶּ֗בֶר"
   },
@@ -1411,7 +1411,7 @@
     "bcv_short": "Ps64:7",
     "ref_1": null,
     "ref_2": "11.28.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "11.28.rn2",
     "r": "יַ֥חְפְּֽשׂוּ~עוֹלֹ֗ת"
   },
@@ -1419,7 +1419,7 @@
     "bcv_short": "Ps98:9",
     "ref_1": null,
     "ref_2": "11.28.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "11.28.rn2",
     "r": "לִ֥פְֽנֵי~יְהֹוָ֗ה"
   },
@@ -1427,7 +1427,7 @@
     "bcv_short": "Pr28:22",
     "ref_1": null,
     "ref_2": "11.28.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "11.28.rn2",
     "r": "נִ֥בְﬞהָֽל~לַה֗וֹן"
   },
@@ -1691,7 +1691,7 @@
     "bcv_short": "Jb40:10",
     "ref_1": null,
     "ref_2": "11.56.rn2",
-    "note": "Mentioned indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56. In 11.56.rn2, CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. But CoS says that עדה should be considered to be followed by a mqf.",
+    "note": "Mentioned indirectly in 9.38.fn27. By “indirectly” I mean via reference to 11.56. CoS says that עדה should be considered to be followed by a mqf.",
     "fp": "11.56.rn2",
     "r": "עֲדֵ֥ה~נָ֣א"
   },
@@ -1835,7 +1835,7 @@
     "bcv_short": "Ps69:15",
     "ref_1": "09.36.rn1",
     "ref_2": "11.80.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "11.80.rn2",
     "r": "וּמִמַּ֖עֲמַקֵּי~מָֽיִם׃"
   },
@@ -1843,7 +1843,7 @@
     "bcv_short": "Ps104:6",
     "ref_1": "09.36.rn1",
     "ref_2": "11.80.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "11.80.rn2",
     "r": "יַ֖עַמְדוּ~מָֽיִם׃"
   },
@@ -1851,7 +1851,7 @@
     "bcv_short": "Jb12:15",
     "ref_1": "09.36.rn1",
     "ref_2": "11.80.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": null,
     "fp": "11.80.rn2",
     "r": "וְיַ֖הַפְכוּ~אָֽרֶץ׃"
   },
