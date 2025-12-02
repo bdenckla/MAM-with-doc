@@ -50,7 +50,7 @@
   {
     "bcv_short": "Ps117:2",
     "ref_1": "09.18",
-    "ref_2": "11.04",
+    "ref_2": "11.04.rn1",
     "note": null,
     "fp": "poetic/(mah)/(mer)~(zarshit),(mah)",
     "r": "כִּ֥י~גָ֘בַ֤ר עָלֵ֨ינוּ׀"
@@ -58,10 +58,10 @@
   {
     "bcv_short": "Ps143:3",
     "ref_1": null,
-    "ref_2": "11.04",
+    "ref_2": "11.04.rn1",
     "note": null,
     "fp": "poetic/(mah)/(mer)~(zarshit),(mah)",
-    "r": "כִּ֥י~רָ֘דַ֤ף"
+    "r": "כִּ֥י~רָ֘דַ֤ף אוֹיֵ֨ב׀"
   },
   {
     "bcv_short": "Jb34:37",
@@ -402,7 +402,7 @@
   {
     "bcv_short": "Ps89:20",
     "ref_1": null,
-    "ref_2": "11.08",
+    "ref_2": "11.08.a.es2.rn1",
     "note": "The reference I find in CoS (11.8) has space rather than mqf, presumably because CoS classifies this mer as primary (conjunctive), not 2ndary. This would make its absence from 11.10 intentional. Like CoS 11.8, JC has space rather than mqf. μA & μL have mqf.",
     "fp": "poetic/(paz)/(mer),(ümtg)-(paz)",
     "r": "דִּבַּ֥רְתָּֽ־בְחָז֡וֹן"
@@ -443,7 +443,7 @@
     "bcv_short": "Jb32:12",
     "ref_1": null,
     "ref_2": "11.19",
-    "note": "I find no reference to this in CoS. Da-at Miqra considers μL to have געיה not mer; how/why? (It considers μA to have mer.) The mer is primary (conjunctive), not 2ndary.",
+    "note": "The mer is primary (conjunctive), not 2ndary.",
     "fp": "poetic/(rev)/(mer),(rev)",
     "r": "וְעָ֥דֵיכֶ֗ם"
   },
@@ -619,7 +619,7 @@
     "bcv_short": "Ps7:6",
     "ref_1": "09.23.fn21",
     "ref_2": "11.03",
-    "note": null,
+    "note": "CoS 11.3 has space rather than mqf.",
     "fp": "poetic/(üazll)/(mer),(ümtg)-(üazll)",
     "r": "יִ֥רַדֹּֽף־אוֹיֵ֨ב׀"
   },
@@ -627,7 +627,7 @@
     "bcv_short": "Ps17:14",
     "ref_1": null,
     "ref_2": "11.03",
-    "note": null,
+    "note": "CoS 11.3 has space rather than mqf.",
     "fp": "poetic/(üazll)/(mer),(ümtg)-(üazll)",
     "r": "מִ֥מְﬞתִֽים־יָדְךָ֨׀"
   },
@@ -635,7 +635,7 @@
     "bcv_short": "Ps19:15",
     "ref_1": "09.23.fn22",
     "ref_2": "11.03",
-    "note": "mer does not mobilize the shewa?",
+    "note": "The mer does not mobilize the shewa? CoS 11.3 has space rather than mqf.",
     "fp": "poetic/(üazll)/(mer),(ümtg)-(üazll)",
     "r": "יִ֥הְיֽוּ־לְרָצ֨וֹן׀"
   },
@@ -643,7 +643,7 @@
     "bcv_short": "Ps140:6",
     "ref_1": "09.23.fn23",
     "ref_2": "11.03",
-    "note": "vocal",
+    "note": "vocal. CoS 11.3 has space rather than mqf.",
     "fp": "poetic/(üazll)/(mer),(ümtg)-(üazll)",
     "r": "טָ֥מְנֽוּ־גֵאִ֨ים׀"
   },
