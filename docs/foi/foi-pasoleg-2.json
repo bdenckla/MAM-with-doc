@@ -2320,6 +2320,11 @@
     "r": "אִם־אִ֣שׁ׀"
   },
   {
+    "bcv_short": "2S15:12",
+    "fp": "lp-legarmeih",
+    "r": "יוֹעֵ֣ץ׀"
+  },
+  {
     "bcv_short": "2S15:20",
     "fp": "lp-legarmeih",
     "r": "תְּמ֣וֹל׀"
@@ -4783,11 +4788,6 @@
     "bcv_short": "Ps5:3",
     "fp": "lp-legarmeih",
     "r": "הַקְשִׁ֤יבָה׀"
-  },
-  {
-    "bcv_short": "Ps5:5",
-    "fp": "lp-legarmeih",
-    "r": "כִּ֤י׀"
   },
   {
     "bcv_short": "Ps5:9",
@@ -8790,6 +8790,11 @@
     "r": "מֵעַ֣י׀ מֵעַ֨י‖"
   },
   {
+    "bcv_short": "Ps5:5",
+    "fp": "lp-legarmeih/paseq-after",
+    "r": "כִּ֤י׀ לֹ֤א־אֵֽל־חָפֵ֘ץ־רֶ֥שַׁע‖"
+  },
+  {
     "bcv_short": "Ps55:24",
     "fp": "lp-legarmeih/paseq-after",
     "r": "אֱלֹהִ֨ים׀ תּוֹרִדֵ֬ם‖"
@@ -10333,11 +10338,6 @@
     "bcv_short": "Ps5:2",
     "fp": "lp-paseq",
     "r": "הַאֲזִ֥ינָה‖"
-  },
-  {
-    "bcv_short": "Ps5:5",
-    "fp": "lp-paseq",
-    "r": "אֵֽל־חָפֵ֘ץ־רֶ֥שַׁע‖"
   },
   {
     "bcv_short": "Ps5:7",

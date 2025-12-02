@@ -1320,6 +1320,16 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps2:7",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps5:5",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps5:5",
     "fp": "implicit-maqaf",
     "r": ""
@@ -1395,6 +1405,11 @@
     "r": ""
   },
   {
+    "bcv_short": "Ps31:20",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
     "bcv_short": "Ps31:21",
     "fp": "implicit-maqaf",
     "r": ""
@@ -1421,6 +1436,11 @@
   },
   {
     "bcv_short": "Ps36:7",
+    "fp": "implicit-maqaf",
+    "r": ""
+  },
+  {
+    "bcv_short": "Ps39:2",
     "fp": "implicit-maqaf",
     "r": ""
   },
