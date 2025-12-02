@@ -35,7 +35,7 @@
     "bcv_short": "Pr8:34",
     "ref_1": "11.27.rn2",
     "ref_2": "09.28.rn1",
-    "note": "Also appears in 9.33.rn1. CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
+    "note": "Also appears in 9.33.rn1.",
     "fp": "poetic/«:,(mos)»",
     "r": "אַ֥שְֽׁרֵי~אָדָם֮"
   },
@@ -43,7 +43,7 @@
     "bcv_short": "Ps12:7",
     "ref_1": "09.23.rn2",
     "ref_2": "11.26.rn4",
-    "note": "Also appears in 9.33.rn2",
+    "note": "Also appears in 9.33.rn2.",
     "fp": "poetic/«:,varika»",
     "r": "אִ֥מְﬞר֣וֹת יְהֹוָה֮"
   },
@@ -435,7 +435,7 @@
     "bcv_short": "Ps46:4",
     "ref_1": "11.79.rn2",
     "ref_2": "09.28.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. Also appears in 9.33.rn1",
+    "note": "Also appears in 9.33.rn1.",
     "fp": "poetic/«:»/double shewa",
     "r": "יִ֥רְעֲשֽׁוּ~הָרִ֖ים בְּגַאֲוָת֣וֹ סֶֽלָה׃"
   },
@@ -491,7 +491,7 @@
     "bcv_short": "Ps61:5",
     "ref_1": "09.26.rn1",
     "ref_2": "11.79.rn1",
-    "note": "Also appears in 9.33.rn1",
+    "note": "Also appears in 9.33.rn1.",
     "fp": "poetic/«:∵»",
     "r": "אֶ֥חֱסֶ֨ה בְסֵ֖תֶר כְּנָפֶ֣יךָ סֶּֽלָה׃"
   },
@@ -499,7 +499,7 @@
     "bcv_short": "Ps66:15",
     "ref_1": "09.29.var-rn2",
     "ref_2": "11.79.rn2",
-    "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM. 9.29 notes that μS1 has azla where μA & μL have געיה (the opposite of Ps89:46).",
+    "note": "9.29 notes that μS1 has azla where μA & μL have געיה (the opposite of Ps89:46).",
     "fp": "poetic/«:∵»",
     "r": "אֶ֥עֱשֶֽׂה~בָקָ֖ר עִם־עַתּוּדִ֣ים סֶֽלָה׃"
   },
@@ -531,7 +531,7 @@
     "bcv_short": "Pr6:14",
     "ref_1": "09.25.rn2",
     "ref_2": "11.06.rn2",
-    "note": "Also appears in 9.23 body text",
+    "note": "Also appears in 9.23 body text.",
     "fp": "poetic/«gutt-:»",
     "r": "תַּ֥הְפֻּכ֨וֹת׀"
   },
