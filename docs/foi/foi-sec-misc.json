@@ -60,7 +60,7 @@
     "ref_1": "09.34.rn1",
     "ref_2": "11.22",
     "note": "Also appears in 11.17.rn2",
-    "fp": "poetic/(mer)/(mah)-(mer)",
+    "fp": "poetic/(mer)/(mah)~(mer)",
     "r": "הֲתָ֤עִיף~עֵינֶ֥יךָ בּ֗וֹ"
   },
   {
@@ -68,7 +68,7 @@
     "ref_1": "11.54",
     "ref_2": null,
     "note": null,
-    "fp": "poetic/(mer)/(mah)-(ümtg)-(zarshit)-(mer)",
+    "fp": "poetic/(mer)/(mah)~(ümtg)-(zarshit)~(mer)",
     "r": "לֹ֤א~אֵֽל־חָפֵ֘ץ~רֶ֥שַׁע"
   },
   {
@@ -108,7 +108,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/(mun)/(mah),(ümtg)-(mun)",
+    "fp": "poetic/(mun)/(mah),(ümtg)~(mun)",
     "r": "שָׁ֤מְרָֽה~נֶ֣שֶׁף"
   },
   {
@@ -116,7 +116,7 @@
     "ref_1": "09.27.rn1",
     "ref_2": "11.26.rn1",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
-    "fp": "poetic/(mun)/(mah)-(mun)",
+    "fp": "poetic/(mun)/(mah)~(mun)",
     "r": "מִ֤י~ה֣וּא זֶה֮"
   },
   {
@@ -412,7 +412,7 @@
     "ref_1": "09.31",
     "ref_2": null,
     "note": null,
-    "fp": "poetic/(zarnor)/(mah)-(ümtg)-(zarnor)",
+    "fp": "poetic/(zarnor)/(mah)~(ümtg)-(zarnor)",
     "r": "מָ֤ה~רַֽב־טוּבְךָ֮"
   },
   {
@@ -420,7 +420,7 @@
     "ref_1": "11.08.b.rn3",
     "ref_2": null,
     "note": null,
-    "fp": "poetic/(üazl)/(mah),(ümtg)-(üazl)",
+    "fp": "poetic/(üazl)/(mah),(ümtg)~(üazl)",
     "r": "פָּ֤קַֽדְתָּ~הָאָ֨רֶץ"
   },
   {
@@ -428,7 +428,7 @@
     "ref_1": "09.34.rn1",
     "ref_2": "11.08.b.rn3",
     "note": null,
-    "fp": "poetic/(üazl)/(mah),(ümtg)-(üazl)",
+    "fp": "poetic/(üazl)/(mah),(ümtg)~(üazl)",
     "r": "בָּ֤רֽוּךְ~יְהֹוָ֨ה אֱלֹהֵ֪י יִשְׂרָאֵ֡ל"
   },
   {
@@ -492,7 +492,7 @@
     "ref_1": null,
     "ref_2": null,
     "note": null,
-    "fp": "poetic/(üazll)/(mah)-(üazll)",
+    "fp": "poetic/(üazll)/(mah)~(üazll)",
     "r": "יָ֤שֶׁת~חֹ֨שֶׁךְ׀"
   },
   {
@@ -524,7 +524,7 @@
     "ref_1": "09.36.rn1",
     "ref_2": "11.80.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
-    "fp": "poetic/(üslq)/(ütar)-(üslq)",
+    "fp": "poetic/(üslq)/(ütar)~(üslq)",
     "r": "וּמִמַּ֖עֲמַקֵּי~מָֽיִם׃"
   },
   {
@@ -532,7 +532,7 @@
     "ref_1": "09.36.rn1",
     "ref_2": "11.80.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
-    "fp": "poetic/(üslq)/(ütar)-(üslq)",
+    "fp": "poetic/(üslq)/(ütar)~(üslq)",
     "r": "יַ֖עַמְדוּ~מָֽיִם׃"
   },
   {
@@ -540,7 +540,7 @@
     "ref_1": "09.36.rn1",
     "ref_2": "11.80.rn2",
     "note": "CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
-    "fp": "poetic/(üslq)/(ütar)-(üslq)",
+    "fp": "poetic/(üslq)/(ütar)~(üslq)",
     "r": "וְיַ֖הַפְכוּ~אָֽרֶץ׃"
   },
   {
@@ -548,7 +548,7 @@
     "ref_1": "09.34.rn1",
     "ref_2": "11.66.rn1",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive).",
-    "fp": "poetic/(ütar)/(mah),(ümtg)-(ütar)",
+    "fp": "poetic/(ütar)/(mah),(ümtg)~(ütar)",
     "r": "אָ֤דָֽם~וּבְהֵמָ֖ה תוֹשִׁ֣יעַ יְהֹוָֽה׃"
   },
   {
@@ -556,7 +556,7 @@
     "ref_1": null,
     "ref_2": "11.66.rn1",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive).",
-    "fp": "poetic/(ütar)/(mah),(ümtg)-(ütar)",
+    "fp": "poetic/(ütar)/(mah),(ümtg)~(ütar)",
     "r": "מ֤וֹצָֽאֵי~בֹ֖קֶר"
   },
   {
@@ -564,7 +564,7 @@
     "ref_1": null,
     "ref_2": "11.66.rn1",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive).",
-    "fp": "poetic/(ütar)/(mah),(ümtg)-(ütar)",
+    "fp": "poetic/(ütar)/(mah),(ümtg)~(ütar)",
     "r": "יָ֤אֵֽר~פָּנָ֖יו"
   },
   {
@@ -572,7 +572,7 @@
     "ref_1": null,
     "ref_2": "11.66.rn1",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive).",
-    "fp": "poetic/(ütar)/(mah),(ümtg)-(ütar)",
+    "fp": "poetic/(ütar)/(mah),(ümtg)~(ütar)",
     "r": "תָּ֤כִֽין~בְּטוֹבָתְךָ֖"
   },
   {
@@ -580,7 +580,7 @@
     "ref_1": null,
     "ref_2": "11.66.rn1",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive).",
-    "fp": "poetic/(ütar)/(mah),(ümtg)-(ütar)",
+    "fp": "poetic/(ütar)/(mah),(ümtg)~(ütar)",
     "r": "הָ֤יֽוּ~זְר֖וֹעַ"
   },
   {
@@ -588,7 +588,7 @@
     "ref_1": null,
     "ref_2": "11.66.rn1",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive).",
-    "fp": "poetic/(ütar)/(mah),(ümtg)-(ütar)",
+    "fp": "poetic/(ütar)/(mah),(ümtg)~(ütar)",
     "r": "תָּ֤שִֽׁית~לִ֖י"
   },
   {
@@ -604,7 +604,7 @@
     "ref_1": null,
     "ref_2": "11.66.rn2",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive). CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
-    "fp": "poetic/(ütar)/(mah)-(ütar)",
+    "fp": "poetic/(ütar)/(mah)~(ütar)",
     "r": "מֵ֤אִישׁ~מִרְמָ֖ה"
   },
   {
@@ -612,7 +612,7 @@
     "ref_1": null,
     "ref_2": "11.66.rn2",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive). CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
-    "fp": "poetic/(ütar)/(mah)-(ütar)",
+    "fp": "poetic/(ütar)/(mah)~(ütar)",
     "r": "א֤וֹדֶה~שִּׁמְךָ֖"
   },
   {
@@ -620,7 +620,7 @@
     "ref_1": null,
     "ref_2": "11.66.rn2",
     "note": "11.79 confirms this mah to be 2ndary, not primary (conjunctive). CoS has space rather than mqf and indeed the mqf is gray in some editions of MAM.",
-    "fp": "poetic/(ütar)/(mah)-(ütar)",
+    "fp": "poetic/(ütar)/(mah)~(ütar)",
     "r": "מֵ֤אִיר~עֵינֵ֖י"
   },
   {
