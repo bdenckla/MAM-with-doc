@@ -1800,14 +1800,64 @@
     "r": "עֲוֺנָ֥הֿ"
   },
   {
+    "bcv_short": "N26:7",
+    "fp": "rare/rafeh",
+    "r": "הָראֿוּבֵנִ֑י"
+  },
+  {
     "bcv_short": "N32:42",
     "fp": "rare/rafeh",
     "r": "לָ֦הֿ"
   },
   {
+    "bcv_short": "N34:14",
+    "fp": "rare/rafeh",
+    "r": "הָראֿוּבֵנִי֙"
+  },
+  {
+    "bcv_short": "D3:12",
+    "fp": "rare/rafeh",
+    "r": "לָרֽאֿוּבֵנִ֖י"
+  },
+  {
+    "bcv_short": "D3:16",
+    "fp": "rare/rafeh",
+    "r": "וְלָראֿוּבֵנִ֨י"
+  },
+  {
+    "bcv_short": "D4:43",
+    "fp": "rare/rafeh",
+    "r": "לָרֽאֿוּבֵנִ֑י"
+  },
+  {
+    "bcv_short": "D29:7",
+    "fp": "rare/rafeh",
+    "r": "לָראֿוּבֵנִ֖י"
+  },
+  {
     "bcv_short": "D33:27",
     "fp": "rare/rafeh",
     "r": "מְעֹנָהֿ֙"
+  },
+  {
+    "bcv_short": "Js1:12",
+    "fp": "rare/rafeh",
+    "r": "וְלָרֽאֿוּבֵנִי֙"
+  },
+  {
+    "bcv_short": "Js12:6",
+    "fp": "rare/rafeh",
+    "r": "לָרֽאֿוּבֵנִי֙"
+  },
+  {
+    "bcv_short": "Js13:8",
+    "fp": "rare/rafeh",
+    "r": "הָרֽאֿוּבֵנִי֙"
+  },
+  {
+    "bcv_short": "Js22:1",
+    "fp": "rare/rafeh",
+    "r": "לָראֿוּבֵנִ֖י"
   },
   {
     "bcv_short": "1S1:9",
@@ -1828,6 +1878,11 @@
     "bcv_short": "2K8:6",
     "fp": "rare/rafeh",
     "r": "עׇזְבָ֥הֿ"
+  },
+  {
+    "bcv_short": "2K10:33",
+    "fp": "rare/rafeh",
+    "r": "וְהָראֿוּבֵנִ֖י"
   },
   {
     "bcv_short": "I18:5",
@@ -1960,6 +2015,11 @@
     "r": "בָֿ֝֗ם"
   },
   {
+    "bcv_short": "Ps89:11",
+    "fp": "rare/rafeh",
+    "r": "דִכִּ֣אֿתָ"
+  },
+  {
     "bcv_short": "Pr12:28",
     "fp": "rare/rafeh",
     "r": "נְתִיבָ֣הֿ"
@@ -1968,6 +2028,16 @@
     "bcv_short": "Pr21:22",
     "fp": "rare/rafeh",
     "r": "מִבְטֶחָֽהֿ׃"
+  },
+  {
+    "bcv_short": "Jb19:2",
+    "fp": "rare/rafeh",
+    "r": "וּֽתְדַכּאֿוּנַ֥נִי"
+  },
+  {
+    "bcv_short": "Jb31:7",
+    "fp": "rare/rafeh",
+    "r": "מֽאֿוּם׃"
   },
   {
     "bcv_short": "Jb31:22",
@@ -1998,6 +2068,41 @@
     "bcv_short": "Er6:2",
     "fp": "rare/rafeh",
     "r": "דִּכְרוֹנָֽהֿ׃"
+  },
+  {
+    "bcv_short": "1C5:6",
+    "fp": "rare/rafeh",
+    "r": "לָרֽאֿוּבֵנִֽי׃"
+  },
+  {
+    "bcv_short": "1C5:26",
+    "fp": "rare/rafeh",
+    "r": "לָראֿוּבֵנִ֣י"
+  },
+  {
+    "bcv_short": "1C11:42",
+    "fp": "rare/rafeh",
+    "r": "הָראֿוּבֵנִ֗י"
+  },
+  {
+    "bcv_short": "1C11:42",
+    "fp": "rare/rafeh",
+    "r": "לָראֿוּבֵנִ֖י"
+  },
+  {
+    "bcv_short": "1C12:38",
+    "fp": "rare/rafeh",
+    "r": "מִן־הָראֿוּבֵנִ֨י"
+  },
+  {
+    "bcv_short": "1C26:32",
+    "fp": "rare/rafeh",
+    "r": "עַל־הָראֿוּבֵנִ֤י"
+  },
+  {
+    "bcv_short": "1C27:16",
+    "fp": "rare/rafeh",
+    "r": "לָראֿוּבֵנִ֣י"
   },
   {
     "bcv_short": "E1:10",
@@ -2048,6 +2153,26 @@
     "bcv_short": "Ps68:18",
     "fp": "rare/rafeh/doc-part-n",
     "r": "א=בָֿ֝ם"
+  },
+  {
+    "bcv_short": "Jb19:2",
+    "fp": "rare/rafeh/doc-part-n",
+    "r": "(\"דִכִּ֣אֿתָ\")."
+  },
+  {
+    "bcv_short": "Jb19:2",
+    "fp": "rare/rafeh/doc-part-n",
+    "r": "ל-א!=וּֽתְדכּאֿוּנַ֥נִי"
+  },
+  {
+    "bcv_short": "Jb19:2",
+    "fp": "rare/rafeh/doc-part-n",
+    "r": "ק13?!=וּֽתְדַכְּאֿוּנַ֥נִי"
+  },
+  {
+    "bcv_short": "Jb19:2",
+    "fp": "rare/rafeh/doc-part-n",
+    "r": "וּֽתְדַכֻּאֿוּנַ֥נִי;"
   },
   {
     "bcv_short": "Da1:4",
@@ -2848,11 +2973,6 @@
     "bcv_short": "Ju7:6",
     "fp": "varika",
     "r": "הַֽמְלַקְﬞקִ֤ים"
-  },
-  {
-    "bcv_short": "Ju7:7",
-    "fp": "varika",
-    "r": "הַֽמְﬞלַֽקְﬞקִים֙"
   },
   {
     "bcv_short": "Ju8:2",
@@ -4187,6 +4307,16 @@
   {
     "bcv_short": "Ps31:12",
     "fp": "varika",
+    "r": "מִכׇּל־צֹרְﬞרַ֨י"
+  },
+  {
+    "bcv_short": "Ps31:12",
+    "fp": "varika",
+    "r": "וְלִ֥שְׁﬞכֵנַ֨י"
+  },
+  {
+    "bcv_short": "Ps31:12",
+    "fp": "varika",
     "r": "נָדְﬞד֥וּ"
   },
   {
@@ -4783,6 +4913,11 @@
     "bcv_short": "Ps145:10",
     "fp": "varika",
     "r": "יְבָרְﬞכֽוּכָה"
+  },
+  {
+    "bcv_short": "Ps146:1",
+    "fp": "varika",
+    "r": "הַֽלְﬞלוּ־יָ֡הּ"
   },
   {
     "bcv_short": "Ps146:1",
@@ -5665,6 +5800,11 @@
     "r": "ב\"הַֽמְאָרְﬞרִ֖ים\""
   },
   {
+    "bcv_short": "Ju7:7",
+    "fp": "varika/two-in-a-word",
+    "r": "הַֽמְﬞלַֽקְﬞקִים֙"
+  },
+  {
     "bcv_short": "G1:18",
     "fp": "xatef-on-non-gutt/patax/doc-part-n",
     "r": "א(ס),ל=וּֽלֲהַבְדִּ֔יל"
@@ -6227,7 +6367,7 @@
   {
     "bcv_short": "Ju5:12",
     "fp": "xatef-on-non-gutt/patax/doc-part-n",
-    "r": "וּֽשֲׁבֵ֥ה"
+    "r": "א=וּֽשֲׁבֵ֥ה"
   },
   {
     "bcv_short": "Ju5:14",
@@ -6602,7 +6742,7 @@
   {
     "bcv_short": "2K19:16",
     "fp": "xatef-on-non-gutt/patax/doc-part-n",
-    "r": "וּֽשֲׁמָ֔ע"
+    "r": "א=וּֽשֲׁמָ֔ע"
   },
   {
     "bcv_short": "I1:23",
@@ -7075,6 +7215,11 @@
     "r": "א=תֹּאכֲלֶ֔נּוּ"
   },
   {
+    "bcv_short": "Ee4:10",
+    "fp": "xatef-on-non-gutt/patax/doc-part-n",
+    "r": "א=תֹּאכֲלֶֽנּוּ"
+  },
+  {
     "bcv_short": "Ee4:12",
     "fp": "xatef-on-non-gutt/patax/doc-part-n",
     "r": "א=תֹּאכֲלֶ֑נָּה"
@@ -7502,7 +7647,7 @@
   {
     "bcv_short": "Ps18:7",
     "fp": "xatef-on-non-gutt/patax/doc-part-n",
-    "r": "ל,ל-א,שיטת-א=אֶ֥קֲרָ֣א"
+    "r": "ל,ל-א,גסטר1,שיטת-א=אֶ֥קֲרָ֣א"
   },
   {
     "bcv_short": "Ps18:7",
@@ -8228,6 +8373,11 @@
     "bcv_short": "Ps150:2",
     "fp": "xatef-on-non-gutt/patax/doc-part-n",
     "r": "א=הַ֝לֲל֗וּהוּ"
+  },
+  {
+    "bcv_short": "Ps150:3",
+    "fp": "xatef-on-non-gutt/patax/doc-part-n",
+    "r": "א=הַ֭לֲלוּהוּ"
   },
   {
     "bcv_short": "Ps150:3",
