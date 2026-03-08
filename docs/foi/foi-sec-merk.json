@@ -585,11 +585,11 @@
   },
   {
     "bcv_short": "Ps31:12",
-    "ref_1": "09.25.rn2",
-    "ref_2": "11.06.rn2",
+    "ref_1": null,
+    "ref_2": null,
     "note": null,
     "fp": "poetic/(üazll)/(mer),(üazll)",
-    "r": "וְלִ֥שְׁכֵנַ֨י׀"
+    "r": "וְלִ֥שְׁﬞכֵנַ֨י׀"
   },
   {
     "bcv_short": "Ps87:5",
@@ -1390,6 +1390,14 @@
     "note": null,
     "fp": "prose/(tev)/(mer),(tev)",
     "r": "וְשָׁ֥מְר֛וּ"
+  },
+  {
+    "bcv_short": "I10:17",
+    "ref_1": null,
+    "ref_2": null,
+    "note": null,
+    "fp": "prose/(tev)/(mer),(tev)",
+    "r": "וְאָ֥כְלָ֛ה"
   },
   {
     "bcv_short": "I23:17",
