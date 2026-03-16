@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>MAM Body Text Changes — 2026-03-06 through 2026-03-16</title>
+<style>
+:root {
+  --bg: #fafafa;
+  --card-bg: #fff;
+  --border: #ddd;
+  --accent: #4a90d9;
+  --hi-old: #fdd;
+  --hi-new: #dfd;
+  --cat-meteg-removal: #1565c0;
+  --cat-meteg-addition: #1e88e5;
+  --cat-varika-reuveni: #2e7d32;
+  --cat-varika-other: #00695c;
+  --cat-accent-change: #ef6c00;
+  --cat-accent-addition: #e65100;
+  --cat-legarmeih-paseq: #ad1457;
+  --cat-misc: #37474f;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font: 15px/1.6 "Segoe UI", system-ui, sans-serif;
+  background: var(--bg); color: #333;
+  padding: 0 2rem 1.5rem; max-width: 1100px; margin: 0 auto;
+}
+h1 { font-size: 1.5rem; margin-bottom: .3rem; margin-top: 1rem; }
+h2 { font-size: 1.2rem; margin-top: 1.5rem; margin-bottom: .5rem; }
+.subtitle { color: #666; font-size: .9rem; margin-bottom: 1.5rem; }
+hr { border: none; border-top: 1px solid var(--border); margin: 1.5rem 0; }
+
+/* ── Summary table ── */
+table.summary {
+  border-collapse: collapse; margin-bottom: 1.5rem; width: 100%; max-width: 500px;
+}
+table.summary th, table.summary td {
+  text-align: left; padding: .35rem .75rem; border-bottom: 1px solid var(--border);
+}
+table.summary th { background: #f0f0f0; font-weight: 600; }
+table.summary .cat-swatch {
+  display: inline-block; width: 12px; height: 12px;
+  border-radius: 2px; margin-right: 6px; vertical-align: middle;
+}
+table.summary tr[data-cat] { cursor: pointer; }
+table.summary tr[data-cat]:hover { background: #f5f5f5; }
+table.summary tr.active { background: var(--accent); color: #fff; }
+table.summary tr.active:hover { background: var(--accent); }
+table.summary tr.total-row { font-weight: 600; cursor: default; }
+table.summary tr.total-row:hover { background: transparent; }
+
+/* ── Filter controls ── */
+.filter-bar {
+  display: flex; flex-wrap: wrap; gap: .4rem; margin-bottom: 1rem;
+}
+.filter-btn {
+  font-size: .8rem; padding: .25rem .6rem;
+  border: 1px solid var(--border); border-radius: 4px;
+  background: #fff; cursor: pointer; transition: background .15s;
+}
+.filter-btn:hover { background: #eee; }
+.filter-btn.active {
+  background: var(--accent); color: #fff; border-color: var(--accent);
+}
+
+/* ── Diff cards ── */
+.diff-card {
+  background: var(--card-bg); border: 1px solid var(--border);
+  border-radius: 6px; padding: .5rem .8rem; margin-bottom: .4rem;
+}
+.diff-card.hidden { display: none; }
+.verse-ref {
+  display: flex; align-items: baseline; gap: .4rem; flex-wrap: wrap;
+}
+.ref-text { font-weight: 600; font-size: .9rem; }
+.cat-badge {
+  font-size: .7rem; padding: .1rem .45rem; border-radius: 3px;
+  color: #fff; white-space: nowrap;
+}
+.change-desc {
+  font-size: .85rem; color: #555; margin-top: .15rem;
+}
+
+/* ── Hebrew text display ── */
+.heb {
+  font-family: "SBL Hebrew", "Ezra SIL", "David", "Times New Roman", serif;
+  font-size: 20pt; direction: rtl; unicode-bidi: embed;
+}
+.change-display {
+  display: flex; align-items: center; gap: .5rem;
+  margin-top: .2rem; flex-wrap: wrap;
+}
+.old-side, .new-side {
+  padding: .15rem .5rem; border-radius: 4px;
+}
+.old-side { background: var(--hi-old); }
+.new-side { background: var(--hi-new); }
+.arrow {
+  font-size: 1.1rem; color: #888;
+}
+
+/* ── Category badge colors ── */
+.cat-meteg-removal   { background: var(--cat-meteg-removal); }
+.cat-meteg-addition  { background: var(--cat-meteg-addition); }
+.cat-varika-reuveni  { background: var(--cat-varika-reuveni); }
+.cat-varika-other    { background: var(--cat-varika-other); }
+.cat-accent-change   { background: var(--cat-accent-change); }
+.cat-accent-addition { background: var(--cat-accent-addition); }
+.cat-legarmeih-paseq { background: var(--cat-legarmeih-paseq); }
+.cat-misc            { background: var(--cat-misc); }
+
+/* Category swatch colors (for table) */
+.swatch-meteg-removal   { background: var(--cat-meteg-removal); }
+.swatch-meteg-addition  { background: var(--cat-meteg-addition); }
+.swatch-varika-reuveni  { background: var(--cat-varika-reuveni); }
+.swatch-varika-other    { background: var(--cat-varika-other); }
+.swatch-accent-change   { background: var(--cat-accent-change); }
+.swatch-accent-addition { background: var(--cat-accent-addition); }
+.swatch-legarmeih-paseq { background: var(--cat-legarmeih-paseq); }
+.swatch-misc            { background: var(--cat-misc); }
+
+/* ── Book section headers (hidden when filtering) ── */
+.book-header { margin-top: 1.2rem; margin-bottom: .3rem; }
+.book-header.hidden { display: none; }
+
+@media (max-width: 700px) {
+  .change-display { flex-direction: column; align-items: flex-start; }
+}
+</style>
+</head>
+<body>
+
+<h1>MAM Body Text Changes</h1>
+<p class="subtitle">
+  2026-03-06 through 2026-03-16 &mdash;
+  Source: MAM-parsed plus/ (commits 9bbfd07, b58775f, 9dd20f8)<br>
+  Scope: EP column only, excluding 2nd argument of &#x05E0;&#x05D5;&#x05E1;&#x05D7; templates
+</p>
+
+<h2 id="summary">Summary by category</h2>
+<table class="summary">
+<tr><th></th><th>Category</th><th>Count</th></tr>
+<tr data-cat="meteg-removal"><td><span class="cat-swatch swatch-meteg-removal"></span></td><td>Meteg removal</td><td>78</td></tr>
+<tr data-cat="varika-reuveni"><td><span class="cat-swatch swatch-varika-reuveni"></span></td><td>Varika on alef (&#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;)</td><td>19</td></tr>
+<tr data-cat="varika-other"><td><span class="cat-swatch swatch-varika-other"></span></td><td>Varika (other)</td><td>7</td></tr>
+<tr data-cat="legarmeih-paseq"><td><span class="cat-swatch swatch-legarmeih-paseq"></span></td><td>Legarmeih &rarr; paseq</td><td>6</td></tr>
+<tr data-cat="meteg-addition"><td><span class="cat-swatch swatch-meteg-addition"></span></td><td>Meteg addition</td><td>3</td></tr>
+<tr data-cat="accent-addition"><td><span class="cat-swatch swatch-accent-addition"></span></td><td>Accent addition</td><td>2</td></tr>
+<tr data-cat="misc"><td><span class="cat-swatch swatch-misc"></span></td><td>Miscellaneous</td><td>2</td></tr>
+<tr data-cat="accent-change"><td><span class="cat-swatch swatch-accent-change"></span></td><td>Accent change</td><td>1</td></tr>
+<tr class="total-row"><td></td><td>Total</td><td>118</td></tr>
+</table>
+
+<h2 id="diffs">Changes (reading order)</h2>
+<div class="filter-bar">
+  <button class="filter-btn" id="show-all-btn">Show all</button>
+  <button class="filter-btn" data-cat="meteg-removal">Meteg removal (78)</button>
+  <button class="filter-btn" data-cat="varika-reuveni">Varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9; (19)</button>
+  <button class="filter-btn" data-cat="varika-other">Varika other (7)</button>
+  <button class="filter-btn" data-cat="legarmeih-paseq">Legarmeih&rarr;paseq (6)</button>
+  <button class="filter-btn" data-cat="meteg-addition">Meteg addition (3)</button>
+  <button class="filter-btn" data-cat="accent-addition">Accent addition (2)</button>
+  <button class="filter-btn" data-cat="misc">Misc (2)</button>
+  <button class="filter-btn" data-cat="accent-change">Accent change (1)</button>
+</div>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- Numbers                                      -->
+<!-- ════════════════════════════════════════════ -->
+<h2 class="book-header" data-books="Numbers">Numbers</h2>
+
+<div class="diff-card" data-categories="varika-reuveni">
+<div class="verse-ref"><span class="ref-text">Num 26:7</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div>
+<div class="change-display"><span class="heb old-side">&#x05D4;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x0591;&#x05D9;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D4;&#x05B8;&#x05E8;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x0591;&#x05D9;</span></div>
+</div>
+
+<div class="diff-card" data-categories="varika-reuveni">
+<div class="verse-ref"><span class="ref-text">Num 32:33</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div>
+<div class="change-display"><span class="heb old-side">&#x05D4;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9;&#x05D9;&#x05D9;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D4;&#x05B8;&#x05E8;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9;&#x05D9;&#x05D9;</span></div>
+</div>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- Deuteronomy                                   -->
+<!-- ════════════════════════════════════════════ -->
+<h2 class="book-header" data-books="Deuteronomy">Deuteronomy</h2>
+
+<div class="diff-card" data-categories="varika-reuveni">
+<div class="verse-ref"><span class="ref-text">Deut 3:12</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div>
+<div class="change-display"><span class="heb old-side">&#x05DC;&#x05B8;&#x05E8;&#x05BD;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x0596;&#x05D9;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05DC;&#x05B8;&#x05E8;&#x05BD;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x0596;&#x05D9;</span></div>
+</div>
+
+<div class="diff-card" data-categories="varika-reuveni">
+<div class="verse-ref"><span class="ref-text">Deut 3:16</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div>
+<div class="change-display"><span class="heb old-side">&#x05D5;&#x05B0;&#x05DC;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05A8;&#x05D9;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D5;&#x05B0;&#x05DC;&#x05B8;&#x05E8;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05A8;&#x05D9;</span></div>
+</div>
+
+<div class="diff-card" data-categories="varika-reuveni">
+<div class="verse-ref"><span class="ref-text">Deut 4:43</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div>
+<div class="change-display"><span class="heb old-side">&#x05DC;&#x05B8;&#x05E8;&#x05BD;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x0591;&#x05D9;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05DC;&#x05B8;&#x05E8;&#x05BD;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x0591;&#x05D9;</span></div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal">
+<div class="verse-ref"><span class="ref-text">Deut 28:20</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div>
+<div class="change-display"><span class="heb old-side">&#x05DE;&#x05B7;&#x05BD;&#x05E2;&#x05B2;&#x05DC;&#x05B8;&#x05DC;&#x05B6;&#x0596;&#x05D9;&#x05DA;&#x05B8;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05DE;&#x05B7;&#x05E2;&#x05B2;&#x05DC;&#x05B8;&#x05DC;&#x05B6;&#x0596;&#x05D9;&#x05DA;&#x05B8;</span></div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal">
+<div class="verse-ref"><span class="ref-text">Deut 28:44</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div>
+<div class="change-display"><span class="heb old-side">&#x05EA;&#x05B4;&#x05BC;&#x05BD;&#x05D4;&#x05B0;&#x05D9;&#x05B6;&#x05A5;&#x05D4;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05EA;&#x05B4;&#x05BC;&#x05D4;&#x05B0;&#x05D9;&#x05B6;&#x05A5;&#x05D4;</span></div>
+</div>
+
+<div class="diff-card" data-categories="varika-reuveni">
+<div class="verse-ref"><span class="ref-text">Deut 29:7</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div>
+<div class="change-display"><span class="heb old-side">&#x05DC;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x0596;&#x05D9;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05DC;&#x05B8;&#x05E8;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x0596;&#x05D9;</span></div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal">
+<div class="verse-ref"><span class="ref-text">Deut 29:25</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div>
+<div class="change-display"><span class="heb old-side">&#x05DC;&#x05B9;&#x05BD;&#x05D0;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05DC;&#x05B9;&#x05D0;</span></div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal">
+<div class="verse-ref"><span class="ref-text">Deut 30:15</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div>
+<div class="change-display"><span class="heb old-side">&#x05D4;&#x05B7;&#x05BD;&#x05D7;&#x05B7;&#x05D9;&#x05B4;&#x05BC;&#x0596;&#x05D9;&#x05DD;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D4;&#x05B7;&#x05D7;&#x05B7;&#x05D9;&#x05B4;&#x05BC;&#x0596;&#x05D9;&#x05DD;</span></div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal">
+<div class="verse-ref"><span class="ref-text">Deut 31:12</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div>
+<div class="change-display"><span class="heb old-side">&#x05D4;&#x05B8;&#x05BD;&#x05D0;&#x05B2;&#x05E0;&#x05B8;&#x05E9;&#x05C1;&#x05B4;&#x05A4;&#x05D9;&#x05DD;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D4;&#x05B8;&#x05D0;&#x05B2;&#x05E0;&#x05B8;&#x05E9;&#x05C1;&#x05B4;&#x05A4;&#x05D9;&#x05DD;</span></div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal">
+<div class="verse-ref"><span class="ref-text">Deut 32:30</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div>
+<div class="change-display"><span class="heb old-side">&#x05D5;&#x05B7;&#x05BD;&#x05D9;&#x05D4;&#x05B9;&#x05D5;&#x05B8;&#x0596;&#x05D4;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D5;&#x05B7;&#x05D9;&#x05D4;&#x05B9;&#x05D5;&#x05B8;&#x0596;&#x05D4;</span></div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal">
+<div class="verse-ref"><span class="ref-text">Deut 32:50</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div>
+<div class="change-display"><span class="heb old-side">&#x05DB;&#x05B7;&#x05BC;&#x05BD;&#x05D0;&#x05B2;&#x05E9;&#x05C1;&#x05B6;&#x05E8;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05DB;&#x05B7;&#x05BC;&#x05D0;&#x05B2;&#x05E9;&#x05C1;&#x05B6;&#x05E8;</span></div>
+</div>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- Joshua                                        -->
+<!-- ════════════════════════════════════════════ -->
+<h2 class="book-header" data-books="Joshua">Joshua</h2>
+
+<div class="diff-card" data-categories="accent-change">
+<div class="verse-ref"><span class="ref-text">Josh 1:7</span><span class="cat-badge cat-accent-change">accent change</span></div>
+<div class="change-desc">Zaqef qaton &rarr; revia</div>
+<div class="change-display"><span class="heb old-side">&#x05D4;&#x05B7;&#x05EA;&#x05BC;&#x05D5;&#x05B9;&#x05E8;&#x05B8;&#x0594;&#x05D4;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D4;&#x05B7;&#x05EA;&#x05BC;&#x05D5;&#x05B9;&#x05E8;&#x05B8;&#x0597;&#x05D4;</span></div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal">
+<div class="verse-ref"><span class="ref-text">Josh 1:11</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div>
+<div class="change-display"><span class="heb old-side">&#x05D0;&#x05B1;&#x05DC;&#x05B9;&#x05BD;&#x05D4;&#x05B5;&#x05D9;&#x05DB;&#x05B6;&#x0594;&#x05DD;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D0;&#x05B1;&#x05DC;&#x05B9;&#x05D4;&#x05B5;&#x05D9;&#x05DB;&#x05B6;&#x0594;&#x05DD;</span></div>
+</div>
+
+<div class="diff-card" data-categories="varika-reuveni">
+<div class="verse-ref"><span class="ref-text">Josh 1:12</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div>
+<div class="change-display"><span class="heb old-side">&#x05D5;&#x05B0;&#x05DC;&#x05B8;&#x05E8;&#x05BD;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D5;&#x05B0;&#x05DC;&#x05B8;&#x05E8;&#x05BD;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9;</span></div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 3:6</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05D5;&#x05B7;&#x05D9;&#x05B5;&#x05BC;&#x05BD;&#x05DC;&#x05B0;&#x05DB;&#x0596;&#x05D5;&#x05BC;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D5;&#x05B7;&#x05D9;&#x05B5;&#x05BC;&#x05DC;&#x05B0;&#x05DB;&#x0596;&#x05D5;&#x05BC;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 3:8</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05E0;&#x05B9;&#x05BD;&#x05E9;&#x05C2;&#x05B0;&#x05D0;&#x05B5;&#x05A5;&#x05D9;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05E0;&#x05B9;&#x05E9;&#x05C2;&#x05B0;&#x05D0;&#x05B5;&#x05A5;&#x05D9;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 3:14</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05DC;&#x05B7;&#x05BD;&#x05E2;&#x05B2;&#x05D1;&#x05B9;&#x0596;&#x05E8;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05DC;&#x05B7;&#x05E2;&#x05B2;&#x05D1;&#x05B9;&#x0596;&#x05E8;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 3:16</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05D5;&#x05B7;&#x05D9;&#x05B7;&#x05BC;&#x05BD;&#x05E2;&#x05B7;&#x05DE;&#x05B0;&#x05D3;&#x05A1;&#x05D5;&#x05BC;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D5;&#x05B7;&#x05D9;&#x05B7;&#x05BC;&#x05E2;&#x05B7;&#x05DE;&#x05B0;&#x05D3;&#x05A1;&#x05D5;&#x05BC;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 3:16</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05DE;&#x05B5;&#x05BD;&#x05D0;&#x05B8;&#x05D3;&#x05B8;&#x05A4;&#x05DD;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05DE;&#x05B5;&#x05D0;&#x05B8;&#x05D3;&#x05B8;&#x05A4;&#x05DD;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 4:6</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05D4;&#x05B8;&#x05BD;&#x05D0;&#x05B2;&#x05D1;&#x05B8;&#x05E0;&#x05B4;&#x05A5;&#x05D9;&#x05DD;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D4;&#x05B8;&#x05D0;&#x05B2;&#x05D1;&#x05B8;&#x05E0;&#x05B4;&#x05A5;&#x05D9;&#x05DD;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 4:8</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05D1;&#x05B0;&#x05E0;&#x05B5;&#x05BD;&#x05D9;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D1;&#x05B0;&#x05E0;&#x05B5;&#x05D9;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 4:10</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05D4;&#x05B8;&#x05BD;&#x05D0;&#x05B8;&#x05E8;&#x05D7;x05D5;&#x05B9;&#x05DF;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D4;&#x05B8;&#x05D0;&#x05B8;&#x05E8;&#x05D5;&#x05B9;&#x05DF;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 4:11</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05DB;&#x05B7;&#x05BC;&#x05BD;&#x05D0;&#x05B2;&#x05E9;&#x05C1;&#x05B6;&#x05E8;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05DB;&#x05B7;&#x05BC;&#x05D0;&#x05B2;&#x05E9;&#x05C1;&#x05B6;&#x05E8;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 6:8</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05D5;&#x05B0;&#x05EA;&#x05B8;&#x05BD;&#x05E7;&#x05B0;&#x05E2;&#x0596;&#x05D5;&#x05BC;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D5;&#x05B0;&#x05EA;&#x05B8;&#x05E7;&#x05B0;&#x05E2;&#x0596;&#x05D5;&#x05BC;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 7:1</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05D5;&#x05B7;&#x05D9;&#x05B4;&#x05BC;&#x05BD;&#x05D7;&#x05B7;&#x05E8;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D5;&#x05B7;&#x05D9;&#x05B4;&#x05BC;&#x05D7;&#x05B7;&#x05E8;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 7:2</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05D4;&#x05B8;&#x05BD;&#x05D0;&#x05B2;&#x05E0;&#x05B8;&#x05E9;&#x05C1;&#x05B4;&#x0594;&#x05D9;&#x05DD;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D4;&#x05B8;&#x05D0;&#x05B2;&#x05E0;&#x05B8;&#x05E9;&#x05C1;&#x05B4;&#x0594;&#x05D9;&#x05DD;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 7:20</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05D0;&#x05B8;&#x05BD;&#x05E0;&#x05B9;&#x05DB;&#x05B4;&#x05A4;&#x05D9;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D0;&#x05B8;&#x05E0;&#x05B9;&#x05DB;&#x05B4;&#x05A4;&#x05D9;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 8:16</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05D0;&#x05B7;&#x05BD;&#x05D7;&#x05B2;&#x05E8;&#x05B5;&#x05A3;&#x05D9;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D0;&#x05B7;&#x05D7;&#x05B2;&#x05E8;&#x05B5;&#x05A3;&#x05D9;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 8:20</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05D4;&#x05B8;&#x05BD;&#x05E8;&#x05D5;&#x05B9;&#x05D3;&#x05B5;&#x05BD;&#x05E3;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D4;&#x05B8;&#x05E8;&#x05D5;&#x05B9;&#x05D3;&#x05B5;&#x05BD;&#x05E3;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 8:27</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05D1;&#x05B8;&#x05BC;&#x05BD;&#x05D6;&#x05B0;&#xFB1E;&#x05D6;&#x05A5;&#x05D5;&#x05BC;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D1;&#x05B8;&#x05BC;&#x05D6;&#x05B0;&#xFB1E;&#x05D6;&#x05A5;&#x05D5;&#x05BC;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 8:31</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05DB;&#x05B7;&#x05BC;&#x05BD;&#x05D0;&#x05B2;&#x05E9;&#x05C1;&#x05B6;&#x05A3;&#x05E8;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05DB;&#x05B7;&#x05BC;&#x05D0;&#x05B2;&#x05E9;&#x05C1;&#x05B6;&#x05A3;&#x05E8;</span></div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 9:4</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-display"><span class="heb old-side">&#x05D5;&#x05B7;&#x05D9;&#x05B7;&#x05BC;&#x05BD;&#x05E2;&#x05B2;&#x05E9;&#x05C2;&#x05A4;&#x05D5;&#x05BC;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D5;&#x05B7;&#x05D9;&#x05B7;&#x05BC;&#x05E2;&#x05B2;&#x05E9;&#x05C2;&#x05A4;&#x05D5;&#x05BC;</span></div></div>
+
+<!-- Remaining Joshua meteg removals continue in the same pattern -->
+<!-- (Josh 10:5 through 24:4 — 32 more meteg removals) -->
+<!-- To keep this file maintainable, the remaining entries follow -->
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 10:5</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D9;&#x05B0;&#x05E8;&#x05D5;&#x05BC;&#x05E9;&#x05C1;&#x05B8;&#x05DC;&#x05B7;&#x05D9;&#x05B4;&#x05DD; &mdash; meteg after resh removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 12:5</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05DE;&#x05B6;&#x05DC;&#x05B6;&#x05DA;&#x05B0; &mdash; meteg after mem removed</div></div>
+
+<div class="diff-card" data-categories="varika-reuveni">
+<div class="verse-ref"><span class="ref-text">Josh 12:6</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div>
+<div class="change-desc">&#x05DC;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9; &rarr; &#x05DC;&#x05B8;&#x05E8;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9;</div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 12:10</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D9;&#x05B0;&#x05E8;&#x05D5;&#x05BC;&#x05E9;&#x05C1;&#x05B8;&#x05DC;&#x05B7;&#x05D9;&#x05B4;&#x05DD; &mdash; meteg after resh removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 13:3</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D4;&#x05B8;&#x05E2;&#x05B7;&#x05D6;&#x05B8;&#x05BC;&#x05EA;&#x05B4;&#x05D9; &mdash; meteg after he removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 13:7</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D5;&#x05B7;&#x05D7;&#x05B2;&#x05E6;&#x05B4;&#x05D9; &mdash; meteg after vav removed</div></div>
+
+<div class="diff-card" data-categories="varika-reuveni">
+<div class="verse-ref"><span class="ref-text">Josh 13:8</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div>
+<div class="change-desc">&#x05D4;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9; &rarr; &#x05D4;&#x05B8;&#x05E8;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9;</div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 13:30</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05DE;&#x05B6;&#x05DC;&#x05B6;&#x05DA;&#x05B0; &mdash; meteg after mem removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 14:7</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05E2;&#x05B4;&#x05DD;&#x05BE;&#x05DC;&#x05B0;&#x05D1;&#x05B8;&#x05D1;&#x05B4;&#x05D9; &mdash; meteg after lamed removed (in &#x05E0;&#x05D5;&#x05E1;&#x05D7; 1st arg)</div></div>
+
+<div class="diff-card" data-categories="misc"><div class="verse-ref"><span class="ref-text">Josh 14:7</span><span class="cat-badge cat-misc">misc</span></div><div class="change-desc">Trailing sof pasuq (&#x05C3;) removed from EP array after &#x05E0;&#x05D5;&#x05E1;&#x05D7; template</div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 15:21</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D4;&#x05B6;&#x05E2;&#x05B8;&#x05E8;&#x05B4;&#x05D9;&#x05DD; &mdash; meteg after he removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 15:35</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D5;&#x05B7;&#x05E2;&#x05B2;&#x05D3;&#x05BB;&#x05DC;&#x05B8;&#x05BC;&#x05DD; &mdash; meteg after vav removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 15:36</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D5;&#x05B7;&#x05E2;&#x05B2;&#x05D3;&#x05B4;&#x05D9;&#x05EA;&#x05B7;&#x05D9;&#x05B4;&#x05DD; &mdash; meteg after vav removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 16:4</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D1;&#x05B0;&#x05E0;&#x05B5;&#x05D9; &mdash; meteg after nun removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 16:10</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D4;&#x05D5;&#x05B9;&#x05E8;&#x05B4;&#x05D9;&#x05E9;&#x05C1;&#x05D5;&#x05B9; &mdash; meteg after he removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 18:20</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05DC;&#x05B4;&#x05D2;&#x05B0;&#x05D1;&#x05D5;&#x05BC;&#x05DC;&#x05B9;&#x05EA;&#x05B6;&#x05D9;&#x05D4;&#x05B8; &mdash; meteg after bet removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 18:21</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D4;&#x05B6;&#x05E2;&#x05B8;&#x05E8;&#x05B4;&#x05D9;&#x05DD; &mdash; meteg after he removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 19:9</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D1;&#x05B0;&#x05E0;&#x05B5;&#x05D9; &mdash; meteg after nun removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 19:16</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05E0;&#x05B7;&#x05D7;&#x05B2;&#x05DC;&#x05B7;&#x05EA; &mdash; meteg after nun removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 19:39</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D4;&#x05B6;&#x05E2;&#x05B8;&#x05E8;&#x05B4;&#x05D9;&#x05DD; &mdash; meteg after he removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 20:4</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D5;&#x05B0;&#x05D0;&#x05B8;&#x05E1;&#x05B0;&#x05E4;&#x05D5;&#x05BC; &mdash; meteg after alef removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 21:5</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D4;&#x05B7;&#x05E0;&#x05BC;&#x05D5;&#x05B9;&#x05EA;&#x05B8;&#x05E8;&#x05B4;&#x05D9;&#x05DD; &mdash; meteg after nun removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 21:13</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D0;&#x05B7;&#x05D4;&#x05B2;&#x05E8;&#x05B9;&#x05DF; &mdash; meteg after alef removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 21:19</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D1;&#x05B0;&#x05E0;&#x05B5;&#x05D9; &mdash; meteg after nun removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 21:20</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D4;&#x05B7;&#x05E0;&#x05BC;&#x05D5;&#x05B9;&#x05EA;&#x05B8;&#x05E8;&#x05B4;&#x05D9;&#x05DD; &mdash; meteg after nun removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 21:27</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D2;&#x05B5;&#x05E8;&#x05B0;&#x05E9;&#x05C1;&#x05D5;&#x05B9;&#x05DF; &mdash; meteg after gimel removed</div></div>
+
+<div class="diff-card" data-categories="varika-reuveni">
+<div class="verse-ref"><span class="ref-text">Josh 22:1</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div>
+<div class="change-desc">&#x05DC;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9; &rarr; &#x05DC;&#x05B8;&#x05E8;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9;</div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 22:4</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05DB;&#x05B7;&#x05BC;&#x05D0;&#x05B2;&#x05E9;&#x05C1;&#x05B6;&#x05E8; &mdash; meteg after kaf removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 22:5</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05E2;&#x05B6;&#x05D1;&#x05B6;&#x05D3; &mdash; meteg after ayin removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 22:7</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D5;&#x05B0;&#x05DC;&#x05B7;&#x05D7;&#x05B2;&#x05E6;&#x05B4;&#x05D9; &mdash; meteg after lamed removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 22:24</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D9;&#x05B9;&#x05D0;&#x05DE;&#x05B0;&#x05E8;&#x05D5;&#x05BC; &mdash; meteg after yod removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 23:11</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D0;&#x05B1;&#x05DC;&#x05B9;&#x05D4;&#x05B5;&#x05D9;&#x05DB;&#x05B6;&#x05DD; &mdash; meteg after lamed removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 24:1</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D5;&#x05B7;&#x05D9;&#x05B6;&#x05BC;&#x05D0;&#x05B1;&#x05E1;&#x05B9;&#x05E3; &mdash; meteg after yod removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 24:3</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D5;&#x05B8;&#x05D0;&#x05D5;&#x05B9;&#x05DC;&#x05B5;&#x05DA;&#x05B0; &mdash; meteg after vav removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Josh 24:4</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D5;&#x05B8;&#x05D0;&#x05B6;&#x05EA;&#x05B5;&#x05BC;&#x05DF; &mdash; meteg after vav removed</div></div>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- 1 Samuel                                      -->
+<!-- ════════════════════════════════════════════ -->
+<h2 class="book-header" data-books="1Samuel">1 Samuel</h2>
+
+<div class="diff-card" data-categories="meteg-removal">
+<div class="verse-ref"><span class="ref-text">1Sam 12:10</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div>
+<div class="change-desc">&#x05D5;&#x05B7;&#x05D9;&#x05B9;&#x05D0;&#x05DE;&#x05B0;&#x05E8;&#x05D5;&#x05BC; (qere) &mdash; meteg after yod removed</div>
+</div>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- 2 Kings                                       -->
+<!-- ════════════════════════════════════════════ -->
+<h2 class="book-header" data-books="2Kings">2 Kings</h2>
+
+<div class="diff-card" data-categories="varika-reuveni">
+<div class="verse-ref"><span class="ref-text">2Kgs 10:33</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div>
+<div class="change-desc">&#x05D5;&#x05B0;&#x05D4;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9; &rarr; &#x05D5;&#x05B0;&#x05D4;&#x05B8;&#x05E8;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9;</div>
+</div>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- Isaiah                                        -->
+<!-- ════════════════════════════════════════════ -->
+<h2 class="book-header" data-books="Isaiah">Isaiah</h2>
+
+<div class="diff-card" data-categories="accent-addition">
+<div class="verse-ref"><span class="ref-text">Isa 10:17</span><span class="cat-badge cat-accent-addition">accent addition</span></div>
+<div class="change-desc">Mercha (U+05A5) added on alef</div>
+<div class="change-display"><span class="heb old-side">&#x05D5;&#x05B0;&#x05D0;&#x05B8;&#x05DB;&#x05B0;&#x05DC;&#x05B8;&#x059B;&#x05D4;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05D5;&#x05B0;&#x05D0;&#x05B8;&#x05A5;&#x05DB;&#x05B0;&#x05DC;&#x05B8;&#x059B;&#x05D4;</span></div>
+</div>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- Psalms                                        -->
+<!-- ════════════════════════════════════════════ -->
+<h2 class="book-header" data-books="Psalms">Psalms</h2>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Ps 7:5</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05E6;&#x05D5;&#x05B9;&#x05E8;&#x05B0;&#xFB1E;&#x05E8;&#x05B4;&#x05D9; (&#x05E0;&#x05D5;&#x05E1;&#x05D7; 1st arg) &mdash; meteg after tsadi removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Ps 27:4</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D1;&#x05B0;&#x05BC;&#x05D4;&#x05B5;&#x05D9;&#x05DB;&#x05B8;&#x05DC;&#x05D5;&#x05B9; &mdash; meteg after he removed</div></div>
+
+<div class="diff-card" data-categories="varika-other">
+<div class="verse-ref"><span class="ref-text">Ps 31:12</span><span class="cat-badge cat-varika-other">varika other</span></div>
+<div class="change-desc">Varika on 2nd resh (&#x05E0;&#x05D5;&#x05E1;&#x05D7; 1st arg): &#x05E6;&#x05B9;&#x05E8;&#x05B0;&#x05E8;&#x05B7;&#x05D9; &rarr; &#x05E6;&#x05B9;&#x05E8;&#x05B0;&#xFB1E;&#x05E8;&#x05B7;&#x05D9;</div>
+</div>
+
+<div class="diff-card" data-categories="varika-other">
+<div class="verse-ref"><span class="ref-text">Ps 31:12</span><span class="cat-badge cat-varika-other">varika other</span></div>
+<div class="change-desc">Varika on kaf (&#x05E0;&#x05D5;&#x05E1;&#x05D7; 1st arg): &#x05D5;&#x05B0;&#x05DC;&#x05B4;&#x05E9;&#x05C1;&#x05B0;&#x05DB;&#x05B5;&#x05E0;&#x05B7;&#x05D9; &rarr; &#x05D5;&#x05B0;&#x05DC;&#x05B4;&#x05E9;&#x05C1;&#x05B0;&#xFB1E;&#x05DB;&#x05B5;&#x05E0;&#x05B7;&#x05D9;</div>
+</div>
+
+<div class="diff-card" data-categories="legarmeih-paseq"><div class="verse-ref"><span class="ref-text">Ps 50:1</span><span class="cat-badge cat-legarmeih-paseq">legarmeih &rarr; paseq</span></div><div class="change-desc">After &#x05D0;&#x05B5;&#x05DC;: &#x05DE;:&#x05DC;&#x05D2;&#x05E8;&#x05DE;&#x05D9;&#x05D4;-2 &rarr; &#x05E0;&#x05D5;&#x05E1;&#x05D7;(&#x05DE;:&#x05E4;&#x05E1;&#x05E7;)</div></div>
+
+<div class="diff-card" data-categories="legarmeih-paseq"><div class="verse-ref"><span class="ref-text">Ps 55:20</span><span class="cat-badge cat-legarmeih-paseq">legarmeih &rarr; paseq</span></div><div class="change-desc">After &#x05D9;&#x05B4;&#x05E9;&#x05C1;&#x05B0;&#x05DE;&#x05B7;&#x05E2;: &#x05DE;:&#x05DC;&#x05D2;&#x05E8;&#x05DE;&#x05D9;&#x05D4;-2 &rarr; &#x05E0;&#x05D5;&#x05E1;&#x05D7;(&#x05DE;:&#x05E4;&#x05E1;&#x05E7;)</div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Ps 62:12</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05DC;&#x05B5;&#x05D0;&#x05DC;&#x05B9;&#x05D4;&#x05B4;&#x05D9;&#x05DD; &mdash; meteg after lamed removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Ps 68:11</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05DC;&#x05B6;&#x05E2;&#x05B8;&#x05E0;&#x05B4;&#x05D9; &mdash; meteg after lamed removed</div></div>
+
+<div class="diff-card" data-categories="legarmeih-paseq"><div class="verse-ref"><span class="ref-text">Ps 68:20</span><span class="cat-badge cat-legarmeih-paseq">legarmeih &rarr; paseq</span></div><div class="change-desc">After &#x05D9;&#x05D5;&#x05B9;&#x05DD;: &#x05DE;:&#x05DC;&#x05D2;&#x05E8;&#x05DE;&#x05D9;&#x05D4;-2 &rarr; &#x05E0;&#x05D5;&#x05E1;&#x05D7;(&#x05DE;:&#x05E4;&#x05E1;&#x05E7;)</div></div>
+
+<div class="diff-card" data-categories="legarmeih-paseq"><div class="verse-ref"><span class="ref-text">Ps 68:36</span><span class="cat-badge cat-legarmeih-paseq">legarmeih &rarr; paseq</span></div><div class="change-desc">After &#x05E0;&#x05B9;&#x05EA;&#x05B5;&#x05DF;: &#x05DE;:&#x05DC;&#x05D2;&#x05E8;&#x05DE;&#x05D9;&#x05D4;-2 &rarr; &#x05E0;&#x05D5;&#x05E1;&#x05D7;(&#x05DE;:&#x05E4;&#x05E1;&#x05E7;)</div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Ps 71:5</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05DB;&#x05B4;&#x05BC;&#x05D9; &mdash; meteg after kaf removed</div></div>
+
+<div class="diff-card" data-categories="varika-other">
+<div class="verse-ref"><span class="ref-text">Ps 74:21</span><span class="cat-badge cat-varika-other">varika other</span></div>
+<div class="change-desc">Varika on 2nd lamed; word wrapped in &#x05E0;&#x05D5;&#x05E1;&#x05D7;: &#x05D9;&#x05B0;&#x05D4;&#x05B7;&#x05DC;&#x05B0;&#x05DC;&#x05D5;&#x05BC; &rarr; &#x05D9;&#x05B0;&#x05D4;&#x05B7;&#x05DC;&#x05B0;&#xFB1E;&#x05DC;&#x05D5;&#x05BC;</div>
+</div>
+
+<div class="diff-card" data-categories="legarmeih-paseq"><div class="verse-ref"><span class="ref-text">Ps 85:10</span><span class="cat-badge cat-legarmeih-paseq">legarmeih &rarr; paseq</span></div><div class="change-desc">After &#x05DC;&#x05B4;&#x05E9;&#x05C1;&#x05B0;&#x05DB;&#x05B9;&#x05BC;&#x05DF;: &#x05DE;:&#x05DC;&#x05D2;&#x05E8;&#x05DE;&#x05D9;&#x05D4;-2 &rarr; &#x05E0;&#x05D5;&#x05E1;&#x05D7;(&#x05DE;:&#x05E4;&#x05E1;&#x05E7;)</div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Ps 86:5</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05DB;&#x05B4;&#x05BC;&#x05D9; &mdash; meteg after kaf removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Ps 86:5</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05E7;&#x05B9;&#x05E8;&#x05B0;&#x05D0;&#x05B6;&#x05D9;&#x05DA;&#x05B8; &mdash; meteg after qof removed</div></div>
+
+<div class="diff-card" data-categories="varika-other">
+<div class="verse-ref"><span class="ref-text">Ps 89:11</span><span class="cat-badge cat-varika-other">varika other</span></div>
+<div class="change-desc">Varika on alef: &#x05D3;&#x05B4;&#x05DB;&#x05B4;&#x05BC;&#x05D0;&#x05EA;&#x05B8; &rarr; &#x05D3;&#x05B4;&#x05DB;&#x05B4;&#x05BC;&#x05D0;&#xFB1E;&#x05EA;&#x05B8;</div>
+</div>
+
+<div class="diff-card" data-categories="accent-addition">
+<div class="verse-ref"><span class="ref-text">Ps 90:2</span><span class="cat-badge cat-accent-addition">accent addition</span></div>
+<div class="change-desc">Tipeha (U+0596) added on mem</div>
+<div class="change-display"><span class="heb old-side">&#x05DE;&#x05B5;&#x05E2;&#x05D5;&#x05B9;&#x05DC;&#x05B8;&#x05A3;&#x05DD;</span><span class="arrow">&rarr;</span><span class="heb new-side">&#x05DE;&#x05B5;&#x0596;&#x05E2;&#x05D5;&#x05B9;&#x05DC;&#x05B8;&#x05A3;&#x05DD;</span></div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Ps 96:8</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05E9;&#x05C2;&#x05B0;&#x05D0;&#x05D5;&#x05BC; &mdash; meteg after alef removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Ps 123:4</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D4;&#x05B7;&#x05E9;&#x05C1;&#x05B7;&#x05BC;&#x05D0;&#x05B2;&#x05E0;&#x05B7;&#x05E0;&#x05B4;&#x05BC;&#x05D9;&#x05DD; &mdash; meteg after shin removed</div></div>
+
+<div class="diff-card" data-categories="varika-other">
+<div class="verse-ref"><span class="ref-text">Ps 135:3</span><span class="cat-badge cat-varika-other">varika other</span></div>
+<div class="change-desc">Varika on 2nd lamed: &#x05D4;&#x05B7;&#x05DC;&#x05B0;&#x05DC;&#x05D5;&#x05BC; &rarr; &#x05D4;&#x05B7;&#x05DC;&#x05B0;&#xFB1E;&#x05DC;&#x05D5;&#x05BC;</div>
+</div>
+
+<div class="diff-card" data-categories="legarmeih-paseq"><div class="verse-ref"><span class="ref-text">Ps 137:7</span><span class="cat-badge cat-legarmeih-paseq">legarmeih &rarr; paseq</span></div><div class="change-desc">After &#x05E2;&#x05B8;&#x05E8;&#x05D5;&#x05BC;: &#x05DE;:&#x05DC;&#x05D2;&#x05E8;&#x05DE;&#x05D9;&#x05D4;-2 &rarr; &#x05E0;&#x05D5;&#x05E1;&#x05D7;(&#x05DE;:&#x05E4;&#x05E1;&#x05E7;)</div></div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Ps 138:5</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05DB;&#x05B4;&#x05BC;&#x05D9; &mdash; meteg after kaf removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Ps 145:6</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05E0;&#x05D5;&#x05B9;&#x05E8;&#x05B0;&#x05D0;&#x05B9;&#x05EA;&#x05B6;&#x05D9;&#x05DA;&#x05B8; &mdash; meteg after nun removed</div></div>
+
+<div class="diff-card" data-categories="meteg-addition">
+<div class="verse-ref"><span class="ref-text">Ps 147:1</span><span class="cat-badge cat-meteg-addition">meteg addition</span></div>
+<div class="change-desc">&#x05DB;&#x05B4;&#x05BC;&#x05D9; &mdash; meteg added after kaf</div>
+</div>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- Proverbs                                      -->
+<!-- ════════════════════════════════════════════ -->
+<h2 class="book-header" data-books="Proverbs">Proverbs</h2>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Prov 23:31</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D1;&#x05B0;&#x05BC;&#x05DE;&#x05B5;&#x05D9;&#x05E9;&#x05C1;&#x05B8;&#x05E8;&#x05B4;&#x05D9;&#x05DD; &mdash; meteg after mem removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Prov 31:31</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05DE;&#x05B7;&#x05E2;&#x05B2;&#x05E9;&#x05C2;&#x05B6;&#x05D9;&#x05D4;&#x05B8; &mdash; meteg after mem removed</div></div>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- Job                                           -->
+<!-- ════════════════════════════════════════════ -->
+<h2 class="book-header" data-books="Job">Job</h2>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Job 5:12</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05EA;&#x05BB;&#x05BC;&#x05E9;&#x05C1;&#x05B4;&#x05D9;&#x05B8;&#x05BC;&#x05D4; &mdash; meteg after tav removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Job 7:1</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D4;&#x05B2;&#x05DC;&#x05B9;&#x05D0; &mdash; meteg after lamed removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Job 7:1</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05DC;&#x05B6;&#x05D0;&#x05B1;&#x05E0;&#x05D5;&#x05B9;&#x05E9;&#x05C1; &mdash; meteg after lamed removed</div></div>
+
+<div class="diff-card" data-categories="meteg-addition">
+<div class="verse-ref"><span class="ref-text">Job 8:3</span><span class="cat-badge cat-meteg-addition">meteg addition</span></div>
+<div class="change-desc">&#x05D9;&#x05B0;&#x05E2;&#x05B7;&#x05D5;&#x05B5;&#x05BC;&#x05EA; &mdash; meteg added after vav (word wrapped in &#x05E0;&#x05D5;&#x05E1;&#x05D7;)</div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Job 16:3</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05EA;&#x05B7;&#x05E2;&#x05B2;&#x05E0;&#x05B6;&#x05D4; &mdash; meteg after tav removed</div></div>
+
+<div class="diff-card" data-categories="varika-other">
+<div class="verse-ref"><span class="ref-text">Job 19:2</span><span class="cat-badge cat-varika-other">varika other</span></div>
+<div class="change-desc">Varika on alef: &#x05D5;&#x05BC;&#x05EA;&#x05B0;&#x05D3;&#x05B7;&#x05DB;&#x05BC;&#x05D0;&#x05D5;&#x05BC;&#x05E0;&#x05B7;&#x05E0;&#x05B4;&#x05D9; &rarr; &#x05D5;&#x05BC;&#x05EA;&#x05B0;&#x05D3;&#x05B7;&#x05DB;&#x05BC;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05E0;&#x05B7;&#x05E0;&#x05B4;&#x05D9;</div>
+</div>
+
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Job 21:25</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05D5;&#x05B0;&#x05DC;&#x05B9;&#x05D0; &mdash; meteg after lamed removed</div></div>
+<div class="diff-card" data-categories="meteg-removal"><div class="verse-ref"><span class="ref-text">Job 30:11</span><span class="cat-badge cat-meteg-removal">meteg removal</span></div><div class="change-desc">&#x05DB;&#x05B4;&#x05BC;&#x05D9; &mdash; meteg after kaf removed</div></div>
+
+<div class="diff-card" data-categories="varika-other">
+<div class="verse-ref"><span class="ref-text">Job 31:7</span><span class="cat-badge cat-varika-other">varika other</span></div>
+<div class="change-desc">Varika on alef: &#x05DE;&#x05D0;&#x05D5;&#x05BC;&#x05DD; &rarr; &#x05DE;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05DD;</div>
+</div>
+
+<div class="diff-card" data-categories="misc">
+<div class="verse-ref"><span class="ref-text">Job 38:12</span><span class="cat-badge cat-misc">misc</span></div>
+<div class="change-desc">ZWNJ (U+200C) inserted between tav and he in ketiv reading</div>
+</div>
+
+<div class="diff-card" data-categories="meteg-addition">
+<div class="verse-ref"><span class="ref-text">Job 42:9</span><span class="cat-badge cat-meteg-addition">meteg addition</span></div>
+<div class="change-desc">&#x05D5;&#x05B7;&#x05D9;&#x05B7;&#x05BC;&#x05E2;&#x05B2;&#x05E9;&#x05C2;&#x05D5;&#x05BC; &mdash; meteg added after vav</div>
+</div>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- 1 Chronicles                                  -->
+<!-- ════════════════════════════════════════════ -->
+<h2 class="book-header" data-books="1Chronicles">1 Chronicles</h2>
+
+<div class="diff-card" data-categories="varika-reuveni"><div class="verse-ref"><span class="ref-text">1Chr 5:6</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div><div class="change-desc">&#x05DC;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9; &rarr; &#x05DC;&#x05B8;&#x05E8;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9;</div></div>
+
+<div class="diff-card" data-categories="varika-reuveni"><div class="verse-ref"><span class="ref-text">1Chr 5:26</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div><div class="change-desc">&#x05DC;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9; (&times;2) &rarr; &#x05DC;&#x05B8;&#x05E8;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9;</div></div>
+
+<div class="diff-card" data-categories="varika-reuveni"><div class="verse-ref"><span class="ref-text">1Chr 11:42</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div><div class="change-desc">&#x05D4;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9; + &#x05DC;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9; &rarr; varika on alef in both</div></div>
+
+<div class="diff-card" data-categories="varika-reuveni"><div class="verse-ref"><span class="ref-text">1Chr 12:38</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div><div class="change-desc">&#x05D4;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9; &rarr; &#x05D4;&#x05B8;&#x05E8;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9;</div></div>
+
+<div class="diff-card" data-categories="varika-reuveni"><div class="verse-ref"><span class="ref-text">1Chr 26:32</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div><div class="change-desc">&#x05D4;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9; &rarr; &#x05D4;&#x05B8;&#x05E8;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9;</div></div>
+
+<div class="diff-card" data-categories="varika-reuveni"><div class="verse-ref"><span class="ref-text">1Chr 27:16</span><span class="cat-badge cat-varika-reuveni">varika &#x05E8;&#x05D0;&#x05D5;&#x05D1;&#x05E0;&#x05D9;</span></div><div class="change-desc">&#x05DC;&#x05B8;&#x05E8;&#x05D0;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9; &rarr; &#x05DC;&#x05B8;&#x05E8;&#x05D0;&#xFB1E;&#x05D5;&#x05BC;&#x05D1;&#x05B5;&#x05E0;&#x05B4;&#x05D9;</div></div>
+
+<script>
+(function() {
+  var activeFilters = new Set();
+  var cards = document.querySelectorAll('.diff-card');
+  var buttons = document.querySelectorAll('.filter-btn');
+  var summaryRows = document.querySelectorAll('table.summary tr[data-cat]');
+  var bookHeaders = document.querySelectorAll('.book-header');
+
+  function update() {
+    cards.forEach(function(card) {
+      var cat = card.getAttribute('data-categories');
+      if (activeFilters.size === 0) {
+        card.classList.remove('hidden');
+      } else {
+        card.classList.toggle('hidden', !activeFilters.has(cat));
+      }
+    });
+    // Hide book headers that have no visible cards after them
+    bookHeaders.forEach(function(hdr) {
+      var next = hdr.nextElementSibling;
+      var anyVisible = false;
+      while (next && !next.classList.contains('book-header')) {
+        if (next.classList.contains('diff-card') && !next.classList.contains('hidden')) {
+          anyVisible = true;
+          break;
+        }
+        next = next.nextElementSibling;
+      }
+      hdr.classList.toggle('hidden', !anyVisible);
+    });
+  }
+
+  function toggleFilter(cat) {
+    if (activeFilters.has(cat)) activeFilters.delete(cat);
+    else activeFilters.add(cat);
+    buttons.forEach(function(b) {
+      b.classList.toggle('active', activeFilters.has(b.getAttribute('data-cat')));
+    });
+    summaryRows.forEach(function(r) {
+      r.classList.toggle('active', activeFilters.has(r.getAttribute('data-cat')));
+    });
+    update();
+  }
+
+  buttons.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var cat = btn.getAttribute('data-cat');
+      if (cat) toggleFilter(cat);
+    });
+  });
+  summaryRows.forEach(function(row) {
+    row.addEventListener('click', function() {
+      var cat = row.getAttribute('data-cat');
+      if (cat) toggleFilter(cat);
+    });
+  });
+
+  var showAll = document.getElementById('show-all-btn');
+  if (showAll) {
+    showAll.addEventListener('click', function() {
+      activeFilters.clear();
+      buttons.forEach(function(b) { b.classList.remove('active'); });
+      summaryRows.forEach(function(r) { r.classList.remove('active'); });
+      update();
+    });
+  }
+})();
+</script>
+
+</body>
+</html>
