@@ -106,6 +106,14 @@ table.summary tr.total-row { font-weight: 600; cursor: default; }
 @media (max-width: 700px) {
   .change-display { flex-direction: column; align-items: flex-start; }
 }
+ruby.paseq-ruby {
+  ruby-position: over;
+}
+ruby.paseq-ruby rt {
+  font-size: 60%;
+  font-weight: normal;
+  color: #888;
+}
 .cat-meteg-removal { background: var(--cat-meteg-removal); }
 .cat-meteg-addition { background: var(--cat-meteg-addition); }
 .cat-varika-reuveni { background: var(--cat-varika-reuveni); }
@@ -402,7 +410,7 @@ table.summary tr.total-row { font-weight: 600; cursor: default; }
 </div>
 <div class="diff-card" data-categories="meteg-removal">
 <div class="verse-ref"><span class="ref-text">Joshua 22:7</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
-<div class="change-display"><span class="heb old-side">וְ<mark class="diff-hi">לַֽ</mark>חֲצִ֣י׀</span><span class="arrow">&rarr;</span><span class="heb new-side">וְ<mark class="diff-hi">לַ</mark>חֲצִ֣י׀</span></div>
+<div class="change-display"><span class="heb old-side">וְ<mark class="diff-hi">לַֽ</mark>חֲצִ֣י<ruby class="paseq-ruby">׀<rt>ל</rt></ruby></span><span class="arrow">&rarr;</span><span class="heb new-side">וְ<mark class="diff-hi">לַ</mark>חֲצִ֣י<ruby class="paseq-ruby">׀<rt>ל</rt></ruby></span></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
 <div class="verse-ref"><span class="ref-text">Joshua 22:24</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
@@ -450,17 +458,17 @@ table.summary tr.total-row { font-weight: 600; cursor: default; }
 </div>
 <div class="diff-card" data-categories="varika-other">
 <div class="verse-ref"><span class="ref-text">Psalms 31:12</span><span class="cat-badge cat-varika-other">Rafe (other)</span></div>
-<div class="change-display"><span class="heb old-side">מִכׇּל־צֹ<mark class="diff-hi">רְ</mark>רַ֨י הָיִ֪יתִי חֶרְפָּ֡הוְלִ֥<mark class="diff-hi">שְׁ</mark>כֵנַ֨י׀מְאֹד֮וּפַ֢חַד</span><span class="arrow">&rarr;</span><span class="heb new-side">מִכׇּל־צֹ<mark class="diff-hi">רְﬞ</mark>רַ֨י הָיִ֪יתִי חֶרְפָּ֡הוְלִ֥<mark class="diff-hi">שְׁﬞ</mark>כֵנַ֨י׀מְאֹד֮וּפַ֢חַד</span></div>
+<div class="change-display"><span class="heb old-side">מִכׇּל־צֹ<mark class="diff-hi">רְ</mark>רַ֨י הָיִ֪יתִי חֶרְפָּ֡הוְלִ֥<mark class="diff-hi">שְׁ</mark>כֵנַ֨י<ruby class="paseq-ruby">׀<rt>ל</rt></ruby></span><span class="arrow">&rarr;</span><span class="heb new-side">מִכׇּל־צֹ<mark class="diff-hi">רְﬞ</mark>רַ֨י הָיִ֪יתִי חֶרְפָּ֡הוְלִ֥<mark class="diff-hi">שְׁﬞ</mark>כֵנַ֨י<ruby class="paseq-ruby">׀<rt>ל</rt></ruby></span></div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">א=<span class="pointed-heb">מִכׇּל־צֹרֲרַ֨י</span> (חטף)</div></div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">א=&lt;<span class="pointed-heb">וְלִ֥שֲׁכֵנַ֨י</span>&gt; (חטף)</div></div>
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
 <div class="verse-ref"><span class="ref-text">Psalms 50:1</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
-<div class="change-display"><span class="heb old-side">לְאָ֫סָ֥ףאֵ֤ל׀<mark class="diff-hi"> </mark>אֱֽלֹהִ֡ים</span><span class="arrow">&rarr;</span><span class="heb new-side">לְאָ֫סָ֥ףאֵ֤ל׀אֱֽלֹהִ֡ים</span></div>
+<div class="change-display"><span class="heb old-side">לְאָ֫סָ֥ףאֵ֤ל<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">לְאָ֫סָ֥ףאֵ֤ל<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
 <div class="verse-ref"><span class="ref-text">Psalms 55:20</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
-<div class="change-display"><span class="heb old-side">יִשְׁמַ֤ע׀<mark class="diff-hi"> </mark>אֵ֨ל׀</span><span class="arrow">&rarr;</span><span class="heb new-side">יִשְׁמַ֤ע׀אֵ֨ל׀</span></div>
+<div class="change-display"><span class="heb old-side">יִשְׁמַ֤ע<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">יִשְׁמַ֤ע<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
 <div class="verse-ref"><span class="ref-text">Psalms 62:12</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
@@ -472,15 +480,15 @@ table.summary tr.total-row { font-weight: 600; cursor: default; }
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
 <div class="verse-ref"><span class="ref-text">Psalms 68:19</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
-<div class="change-display"><span class="heb old-side">ס֝וֹרְﬞרִ֗יםלִשְׁכֹּ֤ן׀<mark class="diff-hi"> </mark>יָ֬הּ</span><span class="arrow">&rarr;</span><span class="heb new-side">ס֝וֹרְﬞרִ֗יםלִשְׁכֹּ֤ן׀יָ֬הּ</span></div>
+<div class="change-display"><span class="heb old-side">ס֝וֹרְﬞרִ֗יםלִשְׁכֹּ֤ן<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">ס֝וֹרְﬞרִ֗יםלִשְׁכֹּ֤ן<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
 <div class="verse-ref"><span class="ref-text">Psalms 68:20</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
-<div class="change-display"><span class="heb old-side">י֤וֹם׀<mark class="diff-hi"> </mark>י֥֫וֹםיַעֲמׇס־לָ֗נוּהָ֘אֵ֤ל</span><span class="arrow">&rarr;</span><span class="heb new-side">י֤וֹם׀י֥֫וֹםיַעֲמׇס־לָ֗נוּהָ֘אֵ֤ל</span></div>
+<div class="change-display"><span class="heb old-side">י֤וֹם<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">י֤וֹם<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
 <div class="verse-ref"><span class="ref-text">Psalms 68:36</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
-<div class="change-display"><span class="heb old-side">נֹתֵ֨ן׀<mark class="diff-hi"> </mark>עֹ֖ז</span><span class="arrow">&rarr;</span><span class="heb new-side">נֹתֵ֨ן׀עֹ֖ז</span></div>
+<div class="change-display"><span class="heb old-side">נֹתֵ֨ן<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">נֹתֵ֨ן<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
 <div class="verse-ref"><span class="ref-text">Psalms 71:5</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
@@ -518,7 +526,7 @@ table.summary tr.total-row { font-weight: 600; cursor: default; }
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
 <div class="verse-ref"><span class="ref-text">Psalms 137:7</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
-<div class="change-display"><span class="heb old-side">עָ֤רוּ׀<mark class="diff-hi"> </mark>עָ֑רוּעַ֝֗ד</span><span class="arrow">&rarr;</span><span class="heb new-side">עָ֤רוּ׀עָ֑רוּעַ֝֗ד</span></div>
+<div class="change-display"><span class="heb old-side">עָ֤רוּ<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">עָ֤רוּ<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
 <div class="verse-ref"><span class="ref-text">Psalms 138:5</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
@@ -535,16 +543,16 @@ table.summary tr.total-row { font-weight: 600; cursor: default; }
 </div>
 <div class="diff-card" data-categories="meteg-addition">
 <div class="verse-ref"><span class="ref-text">Psalms 147:1</span><span class="cat-badge cat-meteg-addition">Meteg addition</span></div>
-<div class="change-display"><span class="heb old-side">הַ֥לְﬞלוּיָ֨הּ׀<mark class="diff-hi">כִּ</mark>י־ט֭וֹב</span><span class="arrow">&rarr;</span><span class="heb new-side">הַ֥לְﬞלוּיָ֨הּ׀<mark class="diff-hi">כִּֽ</mark>י־ט֭וֹב</span></div>
+<div class="change-display"><span class="heb old-side"><mark class="diff-hi">כִּ</mark>י־ט֭וֹב</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">כִּֽ</mark>י־ט֭וֹב</span></div>
 </div>
 <h2 class="book-header" data-books="Proverbs">Proverbs</h2>
 <div class="diff-card" data-categories="legarmeih-paseq">
 <div class="verse-ref"><span class="ref-text">Proverbs 8:30</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
-<div class="change-display"><span class="heb old-side">י֤וֹם׀<mark class="diff-hi"> </mark>י֑וֹםמְשַׂחֶ֖קֶת</span><span class="arrow">&rarr;</span><span class="heb new-side">י֤וֹם׀י֑וֹםמְשַׂחֶ֖קֶת</span></div>
+<div class="change-display"><span class="heb old-side">י֤וֹם<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">י֤וֹם<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
 <div class="verse-ref"><span class="ref-text">Proverbs 8:34</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
-<div class="change-display"><span class="heb old-side">י֤וֹם׀<mark class="diff-hi"> </mark>י֑וֹםלִ֝שְׁמֹ֗ר</span><span class="arrow">&rarr;</span><span class="heb new-side">י֤וֹם׀י֑וֹםלִ֝שְׁמֹ֗ר</span></div>
+<div class="change-display"><span class="heb old-side">י֤וֹם<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">י֤וֹם<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
 <div class="verse-ref"><span class="ref-text">Proverbs 23:31</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
@@ -552,7 +560,7 @@ table.summary tr.total-row { font-weight: 600; cursor: default; }
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
 <div class="verse-ref"><span class="ref-text">Proverbs 30:15</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
-<div class="change-display"><span class="heb old-side">בָנוֹת֮הַ֤ב׀<mark class="diff-hi"> </mark>הַ֥֫בשָׁל֣וֹשׁ</span><span class="arrow">&rarr;</span><span class="heb new-side">בָנוֹת֮הַ֤ב׀הַ֥֫בשָׁל֣וֹשׁ</span></div>
+<div class="change-display"><span class="heb old-side">בָנוֹת֮הַ֤ב<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">בָנוֹת֮הַ֤ב<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
 <div class="verse-ref"><span class="ref-text">Proverbs 31:31</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
