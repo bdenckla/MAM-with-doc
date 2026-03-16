@@ -1617,7 +1617,7 @@
   {
     "bcv_short": "Js22:7",
     "fp": "lp-legarmeih",
-    "r": "וְלַֽחֲצִ֣י׀"
+    "r": "וְלַחֲצִ֣י׀"
   },
   {
     "bcv_short": "Js22:9",
@@ -5645,11 +5645,6 @@
     "r": "יְשָׁרִ֨ים׀"
   },
   {
-    "bcv_short": "Ps50:1",
-    "fp": "lp-legarmeih",
-    "r": "אֵ֤ל׀"
-  },
-  {
     "bcv_short": "Ps50:6",
     "fp": "lp-legarmeih",
     "r": "כִּֽי־אֱלֹהִ֓ים׀"
@@ -5943,11 +5938,6 @@
     "bcv_short": "Ps68:31",
     "fp": "lp-legarmeih",
     "r": "אַבִּירִ֨ים׀"
-  },
-  {
-    "bcv_short": "Ps68:36",
-    "fp": "lp-legarmeih",
-    "r": "נֹתֵ֨ן׀"
   },
   {
     "bcv_short": "Ps69:3",
@@ -8865,11 +8855,6 @@
     "r": "עָשִׂ֨יתָ׀ אַתָּ֤ה׀"
   },
   {
-    "bcv_short": "Ps55:20",
-    "fp": "lp-legarmeih×2",
-    "r": "יִשְׁמַ֤ע׀ אֵ֨ל׀"
-  },
-  {
     "bcv_short": "G1:5",
     "fp": "lp-paseq",
     "r": "אֱלֹהִ֤ים‖"
@@ -10380,6 +10365,11 @@
     "r": "לַמְנַצֵּ֬חַ‖"
   },
   {
+    "bcv_short": "Ps50:1",
+    "fp": "lp-paseq",
+    "r": "אֵ֤ל‖"
+  },
+  {
     "bcv_short": "Ps57:10",
     "fp": "lp-paseq",
     "r": "בָעַמִּ֥ים‖"
@@ -10443,6 +10433,11 @@
     "bcv_short": "Ps68:21",
     "fp": "lp-paseq",
     "r": "הָ֤אֵ֣ל‖"
+  },
+  {
+    "bcv_short": "Ps68:36",
+    "fp": "lp-paseq",
+    "r": "נֹתֵ֨ן‖"
   },
   {
     "bcv_short": "Ps69:1",
@@ -11148,6 +11143,11 @@
     "bcv_short": "2C35:25",
     "fp": "lp-paseq",
     "r": "כׇֽל־הַשָּׁרִ֣ים‖"
+  },
+  {
+    "bcv_short": "Ps55:20",
+    "fp": "lp-paseq/legarmeih-after",
+    "r": "יִשְׁמַ֤ע‖ אֵ֨ל׀"
   },
   {
     "bcv_short": "Js8:33",
