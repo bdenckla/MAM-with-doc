@@ -120,6 +120,7 @@ ruby.kq-pair rt {
 }
 .kq-k { color: #6a1b9a; }
 .kq-q { color: #1565c0; }
+.gray-maqaf { color: gray; }
 .cat-meteg-removal { background: var(--cat-meteg-removal); }
 .cat-meteg-addition { background: var(--cat-meteg-addition); }
 .cat-rafe-reuveni { background: var(--cat-rafe-reuveni); }
