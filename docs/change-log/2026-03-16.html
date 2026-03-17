@@ -3,129 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>MPP Diff: 9bbfd07 → 1880cbb</title>
-<style>
-:root {
-  --bg: #fafafa; --card-bg: #fff; --border: #ddd;
-  --accent: #4a90d9; --hi-old: #fdd; --hi-new: #dfd;
-  --cat-meteg-removal: #1565c0;
-  --cat-meteg-addition: #1e88e5;
-  --cat-rafe-reuveni: #2e7d32;
-  --cat-varika: #00695c;
-  --cat-accent-change: #ef6c00;
-  --cat-accent-addition: #e65100;
-  --cat-accent-removal: #f57c00;
-  --cat-vowel-change: #6a1b9a;
-  --cat-legarmeih-paseq: #ad1457;
-  --cat-template-change: #795548;
-  --cat-misc: #37474f;
-}
-* { box-sizing: border-box; margin: 0; padding: 0; }
-body {
-  font: 15px/1.6 "Segoe UI", system-ui, sans-serif;
-  background: var(--bg); color: #333;
-  padding: 0 2rem 1.5rem; max-width: 1100px; margin: 0 auto;
-}
-h1 { font-size: 1.5rem; margin-bottom: .3rem; margin-top: 1rem; }
-h2 { font-size: 1.2rem; margin-top: 1.5rem; margin-bottom: .5rem; }
-.subtitle { color: #666; font-size: .9rem; margin-bottom: 1.5rem; }
-table.summary {
-  border-collapse: collapse; margin-bottom: 1.5rem; width: 100%; max-width: 500px;
-}
-table.summary th, table.summary td {
-  text-align: left; padding: .35rem .75rem; border-bottom: 1px solid var(--border);
-}
-table.summary th { background: #f0f0f0; font-weight: 600; }
-table.summary .cat-swatch {
-  display: inline-block; width: 12px; height: 12px;
-  border-radius: 2px; margin-right: 6px; vertical-align: middle;
-}
-table.summary tr[data-cat] { cursor: pointer; }
-table.summary tr[data-cat]:hover { background: #f5f5f5; }
-table.summary tr.active { background: var(--accent); color: #fff; }
-table.summary tr.total-row { font-weight: 600; cursor: default; }
-.filter-bar { display: flex; flex-wrap: wrap; gap: .4rem; margin-bottom: 1rem; }
-.filter-btn {
-  font-size: .8rem; padding: .25rem .6rem;
-  border: 1px solid var(--border); border-radius: 4px;
-  background: #fff; cursor: pointer; transition: background .15s;
-}
-.filter-btn:hover { background: #eee; }
-.filter-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
-.diff-card {
-  background: var(--card-bg); border: 1px solid var(--border);
-  border-radius: 6px; padding: .5rem .8rem; margin-bottom: .4rem;
-}
-.diff-card.hidden { display: none; }
-.verse-ref { display: flex; align-items: baseline; gap: .4rem; flex-wrap: wrap; }
-.ref-text { font-weight: 600; font-size: .9rem; }
-.cat-badge {
-  font-size: .7rem; padding: .1rem .45rem; border-radius: 3px;
-  color: #fff; white-space: nowrap;
-}
-.heb {
-  font-family: "SBL Hebrew", "Ezra SIL", "David", "Times New Roman", serif;
-  font-size: 20pt; direction: rtl; unicode-bidi: embed;
-}
-.change-display {
-  display: flex; align-items: center; gap: .5rem; margin-top: .2rem; flex-wrap: wrap;
-}
-.old-side, .new-side { padding: .15rem .5rem; border-radius: 4px; }
-.old-side { background: var(--hi-old); }
-.new-side { background: var(--hi-new); }
-.old-side mark.diff-hi { background: #f9a0a0; border-radius: 2px; }
-.new-side mark.diff-hi { background: #a0d8a0; border-radius: 2px; }
-.arrow { font-size: 1.1rem; color: #888; }
-.change-desc { font-size: .85rem; color: #555; margin-top: .15rem; }
-.book-header { margin-top: 1.2rem; margin-bottom: .3rem; }
-.book-header.hidden { display: none; }
-.nusach-note {
-  border-left: 3px solid #f9a825;
-  background: #fffde7;
-  padding: .3rem .6rem;
-  margin-top: .3rem;
-  border-radius: 4px;
-}
-.nusach-label {
-  font-weight: 600;
-  color: #f57f17;
-  font-size: .8rem;
-}
-.nusach-body {
-  direction: rtl;
-  unicode-bidi: embed;
-  margin-top: .1rem;
-  font-size: .85rem;
-}
-.pointed-heb {
-  font-family: "SBL Hebrew", "Ezra SIL", "David", "Times New Roman", serif;
-  font-size: 20pt;
-}
-.letter-large { font-size: 130%; }
-.letter-small { font-size: 75%; }
-.letter-hung { vertical-align: super; font-size: 85%; }
-@media (max-width: 700px) {
-  .change-display { flex-direction: column; align-items: flex-start; }
-}
-ruby.paseq-ruby {
-  ruby-position: over;
-}
-ruby.paseq-ruby rt {
-  font-size: 60%;
-  font-weight: normal;
-  color: #888;
-}
-.cat-meteg-removal { background: var(--cat-meteg-removal); }
-.cat-meteg-addition { background: var(--cat-meteg-addition); }
-.cat-rafe-reuveni { background: var(--cat-rafe-reuveni); }
-.cat-varika { background: var(--cat-varika); }
-.cat-accent-change { background: var(--cat-accent-change); }
-.cat-accent-addition { background: var(--cat-accent-addition); }
-.cat-accent-removal { background: var(--cat-accent-removal); }
-.cat-vowel-change { background: var(--cat-vowel-change); }
-.cat-legarmeih-paseq { background: var(--cat-legarmeih-paseq); }
-.cat-template-change { background: var(--cat-template-change); }
-.cat-misc { background: var(--cat-misc); }
-</style>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 <h1>MAM Body Text Changes</h1>
@@ -155,670 +33,603 @@ ruby.paseq-ruby rt {
 </div>
 <h2 class="book-header" data-books="Numbers" data-total="2">Numbers (<span class="book-count">2 diffs</span>)</h2>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">Numbers 26:7</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">Numbers 26:7 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/A4-Numbers.html#c26v7" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%91%D7%9E%D7%93%D7%91%D7%A8_%D7%9B%D7%95/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">הָר<mark class="diff-hi">א</mark>וּבֵנִ֑י</span><span class="arrow">&rarr;</span><span class="heb new-side">הָר<mark class="diff-hi">אֿ</mark>וּבֵנִ֑י</span></div>
 <div class="change-desc">rafe on alef added</div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">=ל1,ב,ש1,ו (נקודת שורוק בלבד בהברה השנייה) וכמו כן בדפוסים וקורן<br>ל=<span class="pointed-heb">הָרֻֽאוּבֵנִ֑י</span> (קובוץ ושורוק), וראו בניקוד המקבילות לתיבה זו בכתי&quot;ל.<br>ש,ק3=<span class="pointed-heb">הָרֻֽאובֵנִ֑י</span> (קובוץ בלבד)<br>הערות דותן והמקליד</div></div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">Numbers 34:14</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">Numbers 34:14 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/A4-Numbers.html#c34v14" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%91%D7%9E%D7%93%D7%91%D7%A8_%D7%9C%D7%93/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">הָר<mark class="diff-hi">א</mark>וּבֵנִי֙</span><span class="arrow">&rarr;</span><span class="heb new-side">הָר<mark class="diff-hi">אֿ</mark>וּבֵנִי֙</span></div>
 <div class="change-desc">rafe on alef added</div>
 </div>
 <h2 class="book-header" data-books="Deuteronomy" data-total="11">Deuteronomy (<span class="book-count">11 diffs</span>)</h2>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">Deut 3:12</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">Deut 3:12 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/A5-Deuter.html#c3v12" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%D7%9D_%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">לָרֽ<mark class="diff-hi">א</mark>וּבֵנִ֖י</span><span class="arrow">&rarr;</span><span class="heb new-side">לָרֽ<mark class="diff-hi">אֿ</mark>וּבֵנִ֖י</span></div>
 <div class="change-desc">rafe on alef added</div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">=ל1,ש,ש1,ק3,ו,ל3 וכמו כן בדפוסים וקורן<br>ל=<span class="pointed-heb">לָרֻֽאוּבֵנִ֖י</span> (ניקוד מקובל לתיבה זו בכתי&quot;ל)<br>הערות ברויאר דותן והמקליד.<br>קורן, דותן, ברויאר, סימנים, מכון ממרא</div></div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">Deut 3:16</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">Deut 3:16 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/A5-Deuter.html#c3v16" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%D7%9D_%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">וְלָר<mark class="diff-hi">א</mark>וּבֵנִ֨י</span><span class="arrow">&rarr;</span><span class="heb new-side">וְלָר<mark class="diff-hi">אֿ</mark>וּבֵנִ֨י</span></div>
 <div class="change-desc">rafe on alef added</div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">=ל1,ש,ש1,ק3,ו,ל3 וכמו כן בדפוסים וקורן<br>ל=<span class="pointed-heb">וְלָרֻאוּבֵנִ֨י</span> (ניקוד מקובל לתיבה זו בכתי&quot;ל)<br>הערות דותן וברויאר והמקליד<br>קורן, דותן, ברויאר, סימנים, מכון ממרא</div></div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">Deut 4:43</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">Deut 4:43 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/A5-Deuter.html#c4v43" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%D7%9D_%D7%93/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">לָרֽ<mark class="diff-hi">א</mark>וּבֵנִ֑י</span><span class="arrow">&rarr;</span><span class="heb new-side">לָרֽ<mark class="diff-hi">אֿ</mark>וּבֵנִ֑י</span></div>
 <div class="change-desc">rafe on alef added</div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">=ל1,ש,ש1,ו וכמו כן בדפוסים וקורן<br>ל,ק3=<span class="pointed-heb">לָרֻֽאוּבֵנִ֑י</span> (קובוץ ושורוק בהברה השנייה)<br>ל3=<span class="pointed-heb">לָרֻֽאובֵנִ֑י</span> (קובוץ בהברה השנייה)<br>הערות ברויאר דותן והמקליד<br>קורן, דותן, ברויאר, סימנים, מכון ממרא</div></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Deut 28:20</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Deut 28:20 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/A5-Deuter.html#c28v20" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%D7%9D_%D7%9B%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">מַֽ</mark>עֲלָלֶ֖יךָ</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">מַ</mark>עֲלָלֶ֖יךָ</span></div>
 <div class="change-desc">meteg on mem removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Deut 28:44</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Deut 28:44 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/A5-Deuter.html#c28v44" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%D7%9D_%D7%9B%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">תִּֽ</mark>הְיֶ֥ה</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">תִּ</mark>הְיֶ֥ה</span></div>
 <div class="change-desc">meteg on tav removed</div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">Deut 29:7</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">Deut 29:7 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/A5-Deuter.html#c29v7" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%D7%9D_%D7%9B%D7%98/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">לָר<mark class="diff-hi">א</mark>וּבֵנִ֖י</span><span class="arrow">&rarr;</span><span class="heb new-side">לָר<mark class="diff-hi">אֿ</mark>וּבֵנִ֖י</span></div>
 <div class="change-desc">rafe on alef added</div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">=א (אין געיה)<br>ל=<span class="pointed-heb">לָרֽאוּבֵנִ֖י</span> (געיה)</div></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Deut 29:25</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Deut 29:25 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/A5-Deuter.html#c29v25" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%D7%9D_%D7%9B%D7%98/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">לֹֽ</mark>א־יְדָע֔וּם</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">לֹ</mark>א־יְדָע֔וּם</span></div>
 <div class="change-desc">meteg on lamed removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Deut 30:15</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Deut 30:15 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/A5-Deuter.html#c30v15" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%D7%9D_%D7%9C/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">אֶת־<mark class="diff-hi">הַֽ</mark>חַיִּ֖ים</span><span class="arrow">&rarr;</span><span class="heb new-side">אֶת־<mark class="diff-hi">הַ</mark>חַיִּ֖ים</span></div>
 <div class="change-desc">meteg on he removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Deut 31:12</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Deut 31:12 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/A5-Deuter.html#c31v12" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%D7%9D_%D7%9C%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">הָֽ</mark>אֲנָשִׁ֤ים</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">הָ</mark>אֲנָשִׁ֤ים</span></div>
 <div class="change-desc">meteg on he removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Deut 32:30</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Deut 32:30 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/A5-Deuter.html#c32v30" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%D7%9D_%D7%9C%D7%91/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">וַֽ</mark>יהֹוָ֖ה</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">וַ</mark>יהֹוָ֖ה</span></div>
 <div class="change-desc">meteg on vav removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Deut 32:50</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Deut 32:50 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/A5-Deuter.html#c32v50" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%D7%9D_%D7%9C%D7%91/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">כַּֽ</mark>אֲשֶׁר־מֵ֞ת</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">כַּ</mark>אֲשֶׁר־מֵ֞ת</span></div>
 <div class="change-desc">meteg on kaf removed</div>
 </div>
 <h2 class="book-header" data-books="Joshua" data-total="55">Joshua (<span class="book-count">55 diffs</span>)</h2>
 <div class="diff-card" data-categories="accent-change">
-<div class="verse-ref"><span class="ref-text">Joshua 1:7</span><span class="cat-badge cat-accent-change">Accent change</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 1:7 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c1v7" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-accent-change">Accent change</span></div>
 <div class="change-display"><span class="heb old-side">כְּכׇל־הַתּוֹ<mark class="diff-hi">רָ֔</mark>ה</span><span class="arrow">&rarr;</span><span class="heb new-side">כְּכׇל־הַתּוֹ<mark class="diff-hi">רָ֗</mark>ה</span></div>
 <div class="change-desc">on resh, zaqef-qatan in old → revia in new</div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">=א?,ל,ק,ש1,ק2,פטרבורג-EVR-II-B-81?,פטרבורג-EVR-II-B-26,ב1,ש2,ליסבון (בנקודה אחת לטעם רביע), וכמו כן בקורן ובמהדורותיו האחרונות של ברויאר (חורב, כתר ירושלים) ובסימנים. בנוסף לכתי&quot;ב1, יש נקודה אחת של רביע בשני תיג'אן שנכתבו אף הם על־ידי בניה הסופר, אבל בכחצי מכתבי־יד התימנים האחרים יש שתי נקודות לזקף קטן. ובנוסף לכתיש2 ותנ&quot;ך ליסבון, ברוב כתבי־היד הספרדים יש נקודה אחת לרביע, אבל במיעוט ניכר מהם יש שתי נקודות לזקף קטן.<br>א?,פטרבורג-EVR-II-B-81?,מ&quot;ג=<span class="pointed-heb">כְּכׇל־הַתּוֹרָ֔ה</span> (בשתי נקודות לטעם זקף קטן), וכך הוא במג&quot;ה ובמהדורתו הראשונה של ברויאר (מוסד הרב קוק) ובמכון ממרא וכמו כן בדפוסים. אמנם נקודת הזקף העליונה בכתר קטנה מהרגיל ואף מטושטשת (ואולי מחוקה) בחלקה העליון, מה שתומך עוד קצת בגירסה הראשונה, ואולם הנקודה בכל זאת ברורה לגמרי.</div></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 1:11</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 1:11 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c1v11" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">אֱ<mark class="diff-hi">לֹֽ</mark>הֵיכֶ֔ם</span><span class="arrow">&rarr;</span><span class="heb new-side">אֱ<mark class="diff-hi">לֹ</mark>הֵיכֶ֔ם</span></div>
 <div class="change-desc">meteg on lamed removed</div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">Joshua 1:12</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 1:12 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c1v12" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">וְלָרֽ<mark class="diff-hi">א</mark>וּבֵנִי֙</span><span class="arrow">&rarr;</span><span class="heb new-side">וְלָרֽ<mark class="diff-hi">אֿ</mark>וּבֵנִי֙</span></div>
 <div class="change-desc">rafe on alef added</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 3:6</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 3:6 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c3v6" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">וַ<mark class="diff-hi">יֵּֽ</mark>לְכ֖וּ</span><span class="arrow">&rarr;</span><span class="heb new-side">וַ<mark class="diff-hi">יֵּ</mark>לְכ֖וּ</span></div>
 <div class="change-desc">meteg on yod removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 3:8</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 3:8 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c3v8" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">נֹֽ</mark>שְׂאֵ֥י</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">נֹ</mark>שְׂאֵ֥י</span></div>
 <div class="change-desc">meteg on nun removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 3:14</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 3:14 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c3v14" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">לַֽ</mark>עֲבֹ֖ר</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">לַ</mark>עֲבֹ֖ר</span></div>
 <div class="change-desc">meteg on lamed removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 3:16</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 3:16 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c3v16" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">וַ<mark class="diff-hi">יַּֽ</mark>עַמְד֡וּ</span><span class="arrow">&rarr;</span><span class="heb new-side">וַ<mark class="diff-hi">יַּ</mark>עַמְד֡וּ</span></div>
 <div class="change-desc">meteg on yod removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 3:16</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
-<div class="change-display"><span class="heb old-side">באדם<mark class="diff-hi">מֵֽ</mark>אָדָ֤ם</span><span class="arrow">&rarr;</span><span class="heb new-side">באדם<mark class="diff-hi">מֵ</mark>אָדָ֤ם</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 3:16 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c3v16" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="change-display"><span class="heb old-side"><ruby class="kq-pair"><span class="kq-q"><mark class="diff-hi">מֵֽ</mark>אָדָ֤ם</span><rp>(</rp><rt><span class="kq-k">באדם</span></rt><rp>)</rp></ruby></span><span class="arrow">&rarr;</span><span class="heb new-side"><ruby class="kq-pair"><span class="kq-q"><mark class="diff-hi">מֵ</mark>אָדָ֤ם</span><rp>(</rp><rt><span class="kq-k">באדם</span></rt><rp>)</rp></ruby></span></div>
 <div class="change-desc">meteg on mem removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 4:6</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 4:6 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c4v6" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%93/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">הָֽ</mark>אֲבָנִ֥ים</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">הָ</mark>אֲבָנִ֥ים</span></div>
 <div class="change-desc">meteg on he removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 4:8</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 4:8 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c4v8" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%93/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">בְּ<mark class="diff-hi">נֵֽ</mark>י־יִשְׂרָאֵל֮</span><span class="arrow">&rarr;</span><span class="heb new-side">בְּ<mark class="diff-hi">נֵ</mark>י־יִשְׂרָאֵל֮</span></div>
 <div class="change-desc">meteg on nun removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 4:10</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 4:10 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c4v10" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%93/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">הָֽ</mark>אָר֗וֹן</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">הָ</mark>אָר֗וֹן</span></div>
 <div class="change-desc">meteg on he removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 4:11</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 4:11 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c4v11" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%93/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">כַּֽ</mark>אֲשֶׁר־תַּ֥ם</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">כַּ</mark>אֲשֶׁר־תַּ֥ם</span></div>
 <div class="change-desc">meteg on kaf removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 6:8</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 6:8 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c6v8" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%95/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">וְ<mark class="diff-hi">תָֽ</mark>קְע֖וּ</span><span class="arrow">&rarr;</span><span class="heb new-side">וְ<mark class="diff-hi">תָ</mark>קְע֖וּ</span></div>
 <div class="change-desc">meteg on tav removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 7:1</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 7:1 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c7v1" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%96/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">וַ<mark class="diff-hi">יִּֽ</mark>חַר־אַ֥ף</span><span class="arrow">&rarr;</span><span class="heb new-side">וַ<mark class="diff-hi">יִּ</mark>חַר־אַ֥ף</span></div>
 <div class="change-desc">meteg on yod removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 7:2</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 7:2 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c7v2" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%96/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">הָֽ</mark>אֲנָשִׁ֔ים</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">הָ</mark>אֲנָשִׁ֔ים</span></div>
 <div class="change-desc">meteg on he removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 7:20</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 7:20 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c7v20" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%96/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">אָֽ</mark>נֹכִ֤י</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">אָ</mark>נֹכִ֤י</span></div>
 <div class="change-desc">meteg on alef removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 8:16</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 8:16 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c8v16" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">אַֽ</mark>חֲרֵ֣י</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">אַ</mark>חֲרֵ֣י</span></div>
 <div class="change-desc">meteg on alef removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 8:20</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 8:20 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c8v20" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">אֶל־<mark class="diff-hi">הָֽ</mark>רוֹדֵֽף׃</span><span class="arrow">&rarr;</span><span class="heb new-side">אֶל־<mark class="diff-hi">הָ</mark>רוֹדֵֽף׃</span></div>
 <div class="change-desc">meteg on he removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 8:27</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 8:27 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c8v27" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">בָּֽ</mark>זְﬞז֥וּ</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">בָּ</mark>זְﬞז֥וּ</span></div>
 <div class="change-desc">meteg on bet removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 8:31</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 8:31 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c8v31" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">כַּֽ</mark>אֲשֶׁ֣ר</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">כַּ</mark>אֲשֶׁ֣ר</span></div>
 <div class="change-desc">meteg on kaf removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 9:4</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 9:4 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c9v4" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%98/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">וַ<mark class="diff-hi">יַּֽ</mark>עֲשׂ֤וּ</span><span class="arrow">&rarr;</span><span class="heb new-side">וַ<mark class="diff-hi">יַּ</mark>עֲשׂ֤וּ</span></div>
 <div class="change-desc">meteg on yod removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 10:5</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 10:5 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c10v5" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">יְ<mark class="diff-hi">רֽ</mark>וּשָׁלַ֜͏ִם</span><span class="arrow">&rarr;</span><span class="heb new-side">יְ<mark class="diff-hi">ר</mark>וּשָׁלַ֜͏ִם</span></div>
 <div class="change-desc">meteg on resh removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 12:5</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 12:5 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c12v5" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99%D7%91/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">מֶֽ</mark>לֶךְ־חֶשְׁבּֽוֹן׃</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">מֶ</mark>לֶךְ־חֶשְׁבּֽוֹן׃</span></div>
 <div class="change-desc">meteg on mem removed</div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">Joshua 12:6</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 12:6 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c12v6" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99%D7%91/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">לָרֽ<mark class="diff-hi">א</mark>וּבֵנִי֙</span><span class="arrow">&rarr;</span><span class="heb new-side">לָרֽ<mark class="diff-hi">אֿ</mark>וּבֵנִי֙</span></div>
 <div class="change-desc">rafe on alef added</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 12:10</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 12:10 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c12v10" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99%D7%91/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">יְ<mark class="diff-hi">רֽ</mark>וּשָׁלַ֙͏ִם֙</span><span class="arrow">&rarr;</span><span class="heb new-side">יְ<mark class="diff-hi">ר</mark>וּשָׁלַ֙͏ִם֙</span></div>
 <div class="change-desc">meteg on resh removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 13:3</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 13:3 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c13v3" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">הָֽ</mark>עַזָּתִ֤י</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">הָ</mark>עַזָּתִ֤י</span></div>
 <div class="change-desc">meteg on he removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 13:7</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 13:7 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c13v7" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">וַֽ</mark>חֲצִ֖י</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">וַ</mark>חֲצִ֖י</span></div>
 <div class="change-desc">meteg on vav removed</div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">Joshua 13:8</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 13:8 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c13v8" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">הָרֽ<mark class="diff-hi">א</mark>וּבֵנִי֙</span><span class="arrow">&rarr;</span><span class="heb new-side">הָרֽ<mark class="diff-hi">אֿ</mark>וּבֵנִי֙</span></div>
 <div class="change-desc">rafe on alef added</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 13:30</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 13:30 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c13v30" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">מֶֽ</mark>לֶךְ־הַבָּשָׁ֗ן</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">מֶ</mark>לֶךְ־הַבָּשָׁ֗ן</span></div>
 <div class="change-desc">meteg on mem removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 14:7</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 14:7 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c14v7" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99%D7%93/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">עִם־<mark class="diff-hi">לְֽ</mark>בָבִֽי׃</span><span class="arrow">&rarr;</span><span class="heb new-side">עִם־<mark class="diff-hi">לְ</mark>בָבִֽי׃</span></div>
 <div class="change-desc">meteg on lamed removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 15:21</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 15:21 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c15v21" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%98%D7%95/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">הֶֽ</mark>עָרִ֗ים</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">הֶ</mark>עָרִ֗ים</span></div>
 <div class="change-desc">meteg on he removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 15:35</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 15:35 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c15v35" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%98%D7%95/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">וַֽ</mark>עֲדֻלָּ֔ם</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">וַ</mark>עֲדֻלָּ֔ם</span></div>
 <div class="change-desc">meteg on vav removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 15:36</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 15:36 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c15v36" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%98%D7%95/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">וַֽ</mark>עֲדִיתַ֔יִם</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">וַ</mark>עֲדִיתַ֔יִם</span></div>
 <div class="change-desc">meteg on vav removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 16:4</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 16:4 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c16v4" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%98%D7%96/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">בְ<mark class="diff-hi">נֵֽ</mark>י־יוֹסֵ֖ף</span><span class="arrow">&rarr;</span><span class="heb new-side">בְ<mark class="diff-hi">נֵ</mark>י־יוֹסֵ֖ף</span></div>
 <div class="change-desc">meteg on nun removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 17:13</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 17:13 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c17v13" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99%D7%96/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">הֽ</mark>וֹרִישֽׁוֹ׃</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">ה</mark>וֹרִישֽׁוֹ׃</span></div>
 <div class="change-desc">meteg on he removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 18:20</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 18:20 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c18v20" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">לִגְ<mark class="diff-hi">בֽ</mark>וּלֹתֶ֛יהָ</span><span class="arrow">&rarr;</span><span class="heb new-side">לִגְ<mark class="diff-hi">ב</mark>וּלֹתֶ֛יהָ</span></div>
 <div class="change-desc">meteg on bet removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 18:21</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 18:21 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c18v21" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">הֶֽ</mark>עָרִ֗ים</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">הֶ</mark>עָרִ֗ים</span></div>
 <div class="change-desc">meteg on he removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 19:9</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 19:9 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c19v9" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99%D7%98/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">בְ<mark class="diff-hi">נֵֽ</mark>י־שִׁמְע֖וֹן</span><span class="arrow">&rarr;</span><span class="heb new-side">בְ<mark class="diff-hi">נֵ</mark>י־שִׁמְע֖וֹן</span></div>
 <div class="change-desc">meteg on nun removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 19:16</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 19:16 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c19v16" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99%D7%98/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">נַֽ</mark>חֲלַ֥ת</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">נַ</mark>חֲלַ֥ת</span></div>
 <div class="change-desc">meteg on nun removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 19:39</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 19:39 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c19v39" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%99%D7%98/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">הֶֽ</mark>עָרִ֖ים</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">הֶ</mark>עָרִ֖ים</span></div>
 <div class="change-desc">meteg on he removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 20:4</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 20:4 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c20v4" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">וְ<mark class="diff-hi">אָֽ</mark>סְפ֨וּ</span><span class="arrow">&rarr;</span><span class="heb new-side">וְ<mark class="diff-hi">אָ</mark>סְפ֨וּ</span></div>
 <div class="change-desc">meteg on alef removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 21:5</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 21:5 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c21v5" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">הַ<mark class="diff-hi">נּֽ</mark>וֹתָרִ֗ים</span><span class="arrow">&rarr;</span><span class="heb new-side">הַ<mark class="diff-hi">נּ</mark>וֹתָרִ֗ים</span></div>
 <div class="change-desc">meteg on nun removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 21:13</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 21:13 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c21v13" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">אַֽ</mark>הֲרֹ֣ן</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">אַ</mark>הֲרֹ֣ן</span></div>
 <div class="change-desc">meteg on alef removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 21:19</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 21:19 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c21v19" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">בְ<mark class="diff-hi">נֵֽ</mark>י־אַהֲרֹ֖ן</span><span class="arrow">&rarr;</span><span class="heb new-side">בְ<mark class="diff-hi">נֵ</mark>י־אַהֲרֹ֖ן</span></div>
 <div class="change-desc">meteg on nun removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 21:20</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 21:20 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c21v20" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">הַ<mark class="diff-hi">נּֽ</mark>וֹתָרִ֖ים</span><span class="arrow">&rarr;</span><span class="heb new-side">הַ<mark class="diff-hi">נּ</mark>וֹתָרִ֖ים</span></div>
 <div class="change-desc">meteg on nun removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 21:27</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 21:27 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c21v27" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">גֵֽ</mark>רְשׁוֹן֮</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">גֵ</mark>רְשׁוֹן֮</span></div>
 <div class="change-desc">meteg on gimel removed</div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">Joshua 22:1</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 22:1 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c22v1" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B%D7%91/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">לָר<mark class="diff-hi">א</mark>וּבֵנִ֖י</span><span class="arrow">&rarr;</span><span class="heb new-side">לָר<mark class="diff-hi">אֿ</mark>וּבֵנִ֖י</span></div>
 <div class="change-desc">rafe on alef added</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 22:4</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 22:4 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c22v4" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B%D7%91/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">כַּֽ</mark>אֲשֶׁ֖ר</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">כַּ</mark>אֲשֶׁ֖ר</span></div>
 <div class="change-desc">meteg on kaf removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 22:5</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 22:5 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c22v5" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B%D7%91/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">עֶֽ</mark>בֶד־יְהֹוָה֒</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">עֶ</mark>בֶד־יְהֹוָה֒</span></div>
 <div class="change-desc">meteg on ayin removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 22:7</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 22:7 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c22v7" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B%D7%91/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">וְ<mark class="diff-hi">לַֽ</mark>חֲצִ֣י<ruby class="paseq-ruby">׀<rt>ל</rt></ruby></span><span class="arrow">&rarr;</span><span class="heb new-side">וְ<mark class="diff-hi">לַ</mark>חֲצִ֣י<ruby class="paseq-ruby">׀<rt>ל</rt></ruby></span></div>
 <div class="change-desc">meteg on lamed removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 22:24</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 22:24 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c22v24" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B%D7%91/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">יֹֽ</mark>אמְר֨וּ</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">יֹ</mark>אמְר֨וּ</span></div>
 <div class="change-desc">meteg on yod removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 23:11</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 23:11 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c23v11" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">אֱ<mark class="diff-hi">לֹֽ</mark>הֵיכֶֽם׃</span><span class="arrow">&rarr;</span><span class="heb new-side">אֱ<mark class="diff-hi">לֹ</mark>הֵיכֶֽם׃</span></div>
 <div class="change-desc">meteg on lamed removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 24:1</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 24:1 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c24v1" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B%D7%93/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">וַ<mark class="diff-hi">יֶּֽ</mark>אֱסֹ֧ף</span><span class="arrow">&rarr;</span><span class="heb new-side">וַ<mark class="diff-hi">יֶּ</mark>אֱסֹ֧ף</span></div>
 <div class="change-desc">meteg on yod removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 24:3</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 24:3 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c24v3" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B%D7%93/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">וָֽ</mark>אוֹלֵ֥ךְ</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">וָ</mark>אוֹלֵ֥ךְ</span></div>
 <div class="change-desc">meteg on vav removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Joshua 24:4</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Joshua 24:4 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/B1-Joshua.html#c24v4" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%9B%D7%93/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">וָֽ</mark>אֶתֵּ֨ן</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">וָ</mark>אֶתֵּ֨ן</span></div>
 <div class="change-desc">meteg on vav removed</div>
 </div>
 <h2 class="book-header" data-books="1 Samuel" data-total="1">1 Samuel (<span class="book-count">1 diff</span>)</h2>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">1Sam 12:10</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
-<div class="change-display"><span class="heb old-side">ויאמרוַ<mark class="diff-hi">יֹּֽ</mark>אמְר֣וּ</span><span class="arrow">&rarr;</span><span class="heb new-side">ויאמרוַ<mark class="diff-hi">יֹּ</mark>אמְר֣וּ</span></div>
+<div class="verse-ref"><span class="ref-text">1Sam 12:10 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/BA-1Samuel.html#c12v10" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%A9%D7%9E%D7%95%D7%90%D7%9C%20%D7%90_%D7%99%D7%91/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="change-display"><span class="heb old-side"><ruby class="kq-pair"><span class="kq-q">וַ<mark class="diff-hi">יֹּֽ</mark>אמְר֣וּ</span><rp>(</rp><rt><span class="kq-k">ויאמר</span></rt><rp>)</rp></ruby></span><span class="arrow">&rarr;</span><span class="heb new-side"><ruby class="kq-pair"><span class="kq-q">וַ<mark class="diff-hi">יֹּ</mark>אמְר֣וּ</span><rp>(</rp><rt><span class="kq-k">ויאמר</span></rt><rp>)</rp></ruby></span></div>
 <div class="change-desc">meteg on yod removed</div>
 </div>
 <h2 class="book-header" data-books="2 Kings" data-total="1">2 Kings (<span class="book-count">1 diff</span>)</h2>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">2Kgs 10:33</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">2Kgs 10:33 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/BD-2Kings.html#c10v33" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%9E%D7%9C%D7%9B%D7%99%D7%9D%20%D7%91_%D7%99/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">וְהָר<mark class="diff-hi">א</mark>וּבֵנִ֖י</span><span class="arrow">&rarr;</span><span class="heb new-side">וְהָר<mark class="diff-hi">אֿ</mark>וּבֵנִ֖י</span></div>
 <div class="change-desc">rafe on alef added</div>
 </div>
 <h2 class="book-header" data-books="Isaiah" data-total="1">Isaiah (<span class="book-count">1 diff</span>)</h2>
 <div class="diff-card" data-categories="accent-addition">
-<div class="verse-ref"><span class="ref-text">Isaiah 10:17</span><span class="cat-badge cat-accent-addition">Accent addition</span></div>
+<div class="verse-ref"><span class="ref-text">Isaiah 10:17 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/C1-Isaiah.html#c10v17" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%99%D7%A9%D7%A2%D7%99%D7%94%D7%95_%D7%99/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-accent-addition">Accent addition</span></div>
 <div class="change-display"><span class="heb old-side">וְ<mark class="diff-hi">אָ</mark>כְלָ֛ה</span><span class="arrow">&rarr;</span><span class="heb new-side">וְ<mark class="diff-hi">אָ֥</mark>כְלָ֛ה</span></div>
 <div class="change-desc">merkha on alef added</div>
 </div>
 <h2 class="book-header" data-books="Psalms" data-total="24">Psalms (<span class="book-count">24 diffs</span>)</h2>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Psalms 7:5</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 7:5 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c7v5" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%96/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">צֽ</mark>וֹרְﬞרִ֣י</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">צ</mark>וֹרְﬞרִ֣י</span></div>
 <div class="change-desc">meteg on tsadi removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Psalms 27:4</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 27:4 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c27v4" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%9B%D7%96/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">בְּ<mark class="diff-hi">הֵֽ</mark>יכָלֽוֹ׃</span><span class="arrow">&rarr;</span><span class="heb new-side">בְּ<mark class="diff-hi">הֵ</mark>יכָלֽוֹ׃</span></div>
 <div class="change-desc">meteg on he removed</div>
 </div>
 <div class="diff-card" data-categories="varika">
-<div class="verse-ref"><span class="ref-text">Psalms 31:12</span><span class="cat-badge cat-varika">Varika</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 31:12 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c31v12" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%9C%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-varika">Varika</span></div>
 <div class="change-display"><span class="heb old-side">מִכׇּל־צֹ<mark class="diff-hi">רְ</mark>רַ֨י</span><span class="arrow">&rarr;</span><span class="heb new-side">מִכׇּל־צֹ<mark class="diff-hi">רְﬞ</mark>רַ֨י</span></div>
 <div class="change-desc">varika on resh added</div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">א=<span class="pointed-heb">מִכׇּל־צֹרֲרַ֨י</span> (חטף)</div></div>
 </div>
 <div class="diff-card" data-categories="varika">
-<div class="verse-ref"><span class="ref-text">Psalms 31:12</span><span class="cat-badge cat-varika">Varika</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 31:12 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c31v12" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%9C%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-varika">Varika</span></div>
 <div class="change-display"><span class="heb old-side">וְלִ֥<mark class="diff-hi">שְׁ</mark>כֵנַ֨י<ruby class="paseq-ruby">׀<rt>ל</rt></ruby></span><span class="arrow">&rarr;</span><span class="heb new-side">וְלִ֥<mark class="diff-hi">שְׁﬞ</mark>כֵנַ֨י<ruby class="paseq-ruby">׀<rt>ל</rt></ruby></span></div>
 <div class="change-desc">varika on shin added</div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">א=&lt;<span class="pointed-heb">וְלִ֥שֲׁכֵנַ֨י</span>&gt; (חטף)</div></div>
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
-<div class="verse-ref"><span class="ref-text">Psalms 50:1</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 50:1 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c50v1" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A0/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
 <div class="change-display"><span class="heb old-side">אֵ֤ל<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">אֵ֤ל<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
-<div class="verse-ref"><span class="ref-text">Psalms 55:20</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 55:20 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c55v20" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A0%D7%94/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
 <div class="change-display"><span class="heb old-side">יִשְׁמַ֤ע<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">יִשְׁמַ֤ע<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Psalms 62:12</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 62:12 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c62v12" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A1%D7%91/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">לֵֽ</mark>אלֹהִֽים׃</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">לֵ</mark>אלֹהִֽים׃</span></div>
 <div class="change-desc">meteg on lamed removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Psalms 68:11</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 68:11 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c68v11" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A1%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">לֶֽ</mark>עָנִ֣י</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">לֶ</mark>עָנִ֣י</span></div>
 <div class="change-desc">meteg on lamed removed</div>
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
-<div class="verse-ref"><span class="ref-text">Psalms 68:19</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 68:19 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c68v19" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A1%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
 <div class="change-display"><span class="heb old-side">לִשְׁכֹּ֤ן<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">לִשְׁכֹּ֤ן<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
-<div class="verse-ref"><span class="ref-text">Psalms 68:20</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 68:20 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c68v20" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A1%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
 <div class="change-display"><span class="heb old-side">י֤וֹם<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">י֤וֹם<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
-<div class="verse-ref"><span class="ref-text">Psalms 68:36</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 68:36 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c68v36" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A1%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
 <div class="change-display"><span class="heb old-side">נֹתֵ֨ן<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">נֹתֵ֨ן<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Psalms 71:5</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 71:5 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c71v5" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A2%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">כִּֽ</mark>י־אַתָּ֥ה</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">כִּ</mark>י־אַתָּ֥ה</span></div>
 <div class="change-desc">meteg on kaf removed</div>
 </div>
 <div class="diff-card" data-categories="varika">
-<div class="verse-ref"><span class="ref-text">Psalms 74:21</span><span class="cat-badge cat-varika">Varika</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 74:21 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c74v21" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A2%D7%93/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-varika">Varika</span></div>
 <div class="change-display"><span class="heb old-side">יְֽהַ<mark class="diff-hi">לְ</mark>ל֥וּ</span><span class="arrow">&rarr;</span><span class="heb new-side">יְֽהַ<mark class="diff-hi">לְﬞ</mark>ל֥וּ</span></div>
 <div class="change-desc">varika on lamed added</div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">א=<span class="pointed-heb">יְֽהַלֲל֥וּ</span> (חטף)</div></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Psalms 86:2</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 86:2 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c86v2" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A4%D7%95/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">כִּֽ</mark>י־חָסִ֢יד</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">כִּ</mark>י־חָסִ֢יד</span></div>
 <div class="change-desc">meteg on kaf removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Psalms 86:5</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 86:5 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c86v5" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A4%D7%95/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">לְכׇל־<mark class="diff-hi">קֹֽ</mark>רְאֶֽיךָ׃</span><span class="arrow">&rarr;</span><span class="heb new-side">לְכׇל־<mark class="diff-hi">קֹ</mark>רְאֶֽיךָ׃</span></div>
 <div class="change-desc">meteg on qof removed</div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">Psalms 89:11</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 89:11 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c89v11" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A4%D7%98/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">דִכִּ֣<mark class="diff-hi">א</mark>תָ</span><span class="arrow">&rarr;</span><span class="heb new-side">דִכִּ֣<mark class="diff-hi">אֿ</mark>תָ</span></div>
 <div class="change-desc">rafe on alef added</div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">=א (אל&quot;ף רפה); והשוו תהלים נא,י (&quot;<span class="pointed-heb">דִּכִּֽיתָ</span>&quot;).</div></div>
 </div>
 <div class="diff-card" data-categories="accent-addition">
-<div class="verse-ref"><span class="ref-text">Psalms 93:2</span><span class="cat-badge cat-accent-addition">Accent addition</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 93:2 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c93v2" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A6%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-accent-addition">Accent addition</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">מֵ</mark>עוֹלָ֣ם</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">מֵ֖</mark>עוֹלָ֣ם</span></div>
 <div class="change-desc">tarha on mem added</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Psalms 96:8</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 96:8 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c96v8" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A6%D7%95/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">שְׂ<mark class="diff-hi">אֽ</mark>וּ־מִ֝נְחָ֗ה</span><span class="arrow">&rarr;</span><span class="heb new-side">שְׂ<mark class="diff-hi">א</mark>וּ־מִ֝נְחָ֗ה</span></div>
 <div class="change-desc">meteg on alef removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Psalms 123:4</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 123:4 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c123v4" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A7%D7%9B%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">הַ<mark class="diff-hi">שַּֽׁ</mark>אֲנַנִּ֑ים</span><span class="arrow">&rarr;</span><span class="heb new-side">הַ<mark class="diff-hi">שַּׁ</mark>אֲנַנִּ֑ים</span></div>
 <div class="change-desc">meteg on shin removed</div>
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
-<div class="verse-ref"><span class="ref-text">Psalms 137:7</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 137:7 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c137v7" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A7%D7%9C%D7%96/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
 <div class="change-display"><span class="heb old-side">עָ֤רוּ<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">עָ֤רוּ<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Psalms 138:5</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 138:5 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c138v5" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A7%D7%9C%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">כִּֽ</mark>י־גָ֝ד֗וֹל</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">כִּ</mark>י־גָ֝ד֗וֹל</span></div>
 <div class="change-desc">meteg on kaf removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Psalms 145:6</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 145:6 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c145v6" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A7%D7%9E%D7%94/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">נֽ</mark>וֹרְאֹתֶ֣יךָ</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">נ</mark>וֹרְאֹתֶ֣יךָ</span></div>
 <div class="change-desc">meteg on nun removed</div>
 </div>
 <div class="diff-card" data-categories="varika">
-<div class="verse-ref"><span class="ref-text">Psalms 146:1</span><span class="cat-badge cat-varika">Varika</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 146:1 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c146v1" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A7%D7%9E%D7%95/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-varika">Varika</span></div>
 <div class="change-display"><span class="heb old-side">הַֽ<mark class="diff-hi">לְ</mark>לוּ־יָ֡הּ</span><span class="arrow">&rarr;</span><span class="heb new-side">הַֽ<mark class="diff-hi">לְﬞ</mark>לוּ־יָ֡הּ</span></div>
 <div class="change-desc">varika on lamed added</div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">א=<span class="pointed-heb">הַֽלֲלוּ־יָ֡הּ</span> (חטף)</div></div>
 </div>
 <div class="diff-card" data-categories="meteg-addition">
-<div class="verse-ref"><span class="ref-text">Psalms 147:1</span><span class="cat-badge cat-meteg-addition">Meteg addition</span></div>
+<div class="verse-ref"><span class="ref-text">Psalms 147:1 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D1-Psalms.html#c147v1" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9D_%D7%A7%D7%9E%D7%96/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-addition">Meteg addition</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">כִּ</mark>י־ט֭וֹב</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">כִּֽ</mark>י־ט֭וֹב</span></div>
 <div class="change-desc">meteg on kaf added</div>
 </div>
 <h2 class="book-header" data-books="Proverbs" data-total="5">Proverbs (<span class="book-count">5 diffs</span>)</h2>
 <div class="diff-card" data-categories="legarmeih-paseq">
-<div class="verse-ref"><span class="ref-text">Proverbs 8:30</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
+<div class="verse-ref"><span class="ref-text">Proverbs 8:30 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D2-Proverbs.html#c8v30" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%9C%D7%99_%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
 <div class="change-display"><span class="heb old-side">י֤וֹם<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">י֤וֹם<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
-<div class="verse-ref"><span class="ref-text">Proverbs 8:34</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
+<div class="verse-ref"><span class="ref-text">Proverbs 8:34 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D2-Proverbs.html#c8v34" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%9C%D7%99_%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
 <div class="change-display"><span class="heb old-side">י֤וֹם<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">י֤וֹם<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Proverbs 23:31</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Proverbs 23:31 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D2-Proverbs.html#c23v31" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%9C%D7%99_%D7%9B%D7%92/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">בְּ<mark class="diff-hi">מֵֽ</mark>ישָׁרִֽים׃</span><span class="arrow">&rarr;</span><span class="heb new-side">בְּ<mark class="diff-hi">מֵ</mark>ישָׁרִֽים׃</span></div>
 <div class="change-desc">meteg on mem removed</div>
 </div>
 <div class="diff-card" data-categories="legarmeih-paseq">
-<div class="verse-ref"><span class="ref-text">Proverbs 30:15</span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
+<div class="verse-ref"><span class="ref-text">Proverbs 30:15 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D2-Proverbs.html#c30v15" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%9C%D7%99_%D7%9C/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-legarmeih-paseq">Legarmeih → paseq</span></div>
 <div class="change-display"><span class="heb old-side">הַ֤ב<mark class="diff-hi"><ruby class="paseq-ruby">׀<rt>ל</rt></ruby></mark></span><span class="arrow">&rarr;</span><span class="heb new-side">הַ֤ב<mark class="diff-hi"> <ruby class="paseq-ruby">׀<rt>פ</rt></ruby></mark></span></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Proverbs 31:31</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Proverbs 31:31 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D2-Proverbs.html#c31v31" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%9C%D7%99_%D7%9C%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">מַֽ</mark>עֲשֶֽׂיהָ׃</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">מַ</mark>עֲשֶֽׂיהָ׃</span></div>
 <div class="change-desc">meteg on mem removed</div>
 </div>
 <h2 class="book-header" data-books="Job" data-total="10">Job (<span class="book-count">10 diffs</span>)</h2>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Job 5:12</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Job 5:12 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D3-Job.html#c5v12" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%90%D7%99%D7%95%D7%91_%D7%94/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">תֻּֽ</mark>שִׁיָּֽה׃</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">תֻּ</mark>שִׁיָּֽה׃</span></div>
 <div class="change-desc">meteg on tav removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Job 7:1</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Job 7:1 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D3-Job.html#c7v1" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%90%D7%99%D7%95%D7%91_%D7%96/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">הֲ<mark class="diff-hi">לֹֽ</mark>א־צָבָ֣א</span><span class="arrow">&rarr;</span><span class="heb new-side">הֲ<mark class="diff-hi">לֹ</mark>א־צָבָ֣א</span></div>
 <div class="change-desc">meteg on lamed removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Job 7:1</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Job 7:1 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D3-Job.html#c7v1" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%90%D7%99%D7%95%D7%91_%D7%96/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">לֶֽ</mark>אֱנ֣וֹשׁ</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">לֶ</mark>אֱנ֣וֹשׁ</span></div>
 <div class="change-desc">meteg on lamed removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-addition">
-<div class="verse-ref"><span class="ref-text">Job 8:3</span><span class="cat-badge cat-meteg-addition">Meteg addition</span></div>
+<div class="verse-ref"><span class="ref-text">Job 8:3 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D3-Job.html#c8v3" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%90%D7%99%D7%95%D7%91_%D7%97/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-addition">Meteg addition</span></div>
 <div class="change-display"><span class="heb old-side">יְעַ<mark class="diff-hi">וֵּ</mark>ת־צֶֽדֶק׃</span><span class="arrow">&rarr;</span><span class="heb new-side">יְעַ<mark class="diff-hi">וֵּֽ</mark>ת־צֶֽדֶק׃</span></div>
 <div class="change-desc">meteg on vav added</div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">א=געיה ימנית באות וי&quot;ו</div></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Job 16:3</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Job 16:3 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D3-Job.html#c16v3" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%90%D7%99%D7%95%D7%91_%D7%98%D7%96/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">תַֽ</mark>עֲנֶֽה׃</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">תַ</mark>עֲנֶֽה׃</span></div>
 <div class="change-desc">meteg on tav removed</div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">Job 19:2</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">Job 19:2 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D3-Job.html#c19v2" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%90%D7%99%D7%95%D7%91_%D7%99%D7%98/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">וּֽתְדַכּ<mark class="diff-hi">א</mark>וּנַ֥נִי</span><span class="arrow">&rarr;</span><span class="heb new-side">וּֽתְדַכּ<mark class="diff-hi">אֿ</mark>וּנַ֥נִי</span></div>
 <div class="change-desc">rafe on alef added</div>
 <div class="nusach-note"><span class="nusach-label">נוסח</span><div class="nusach-body">=א,ל,מ&quot;ש (אין שווא באות כ&quot;ף, אל&quot;ף בסימן רפה, ואין דגש באות נו&quot;ן הראשונה); וכמו כן מ&quot;ש=&lt;קריאת הכ&quot;ף בשורק והאל&quot;ף נחה והוא חד מן מלין נסבין אלף באמצעות תיבותא ולא קריין&gt;, והאל&quot;ף נחה גם לפי המסורה הגדולה במ&quot;ג דפוס ונציה (איוב א,א). והשוו תהלים פט,יא (&quot;<span class="pointed-heb">דִכִּ֣אֿתָ</span>&quot;).<br>הערה בדעת מקרא: &quot;רבו הנוסחאות בתיבה זו, ועל פי מסורות מדויקות נכתבת באל&quot;ף ומלא וי&quot;ו ונקרא בשורק בכ&quot;ף והאל&quot;ף נחה ואינה נשמעת במבטא כלל. ויש לומר, שנחה האל&quot;ף על דרך פעלי ל&quot;י... ועוד יש לומר, שגם על פי הקרי 'תדכאונני' כאן היא מנחי ל&quot;א, אלא שאל&quot;ף שרוקה שהיתה ראויה לבוא אחרי שוא נע, נעשית האל&quot;ף נחה, והשורק עובר לאות שהיתה ראויה להיות בשוא, ובטל השוא. כמו שמצינו בכל המקרא 'ראובני' באל&quot;ף נחה והשורק נשמע ברי&quot;ש. ועוד כיוצא בזה.<br>ל-א!=<span class="pointed-heb">וּֽתְדכּאֿוּנַ֥נִי</span> (חסר פתח באות דל&quot;ת), אבל חוץ מזה כמו א,ל (הנקודה תחת הפתח באות נו&quot;ן הראשונה והנקודה באות נו&quot;ן השנייה כנראה כתמים).<br>ק13?!=<span class="pointed-heb">וּֽתְדַכְּאֿוּנַ֥נִי</span> או <span class="pointed-heb">וּֽתְדַכֻּאֿוּנַ֥נִי</span>; למרות סימן הרפ&quot;ה באות אל&quot;ף, יש בו נקודות רבות תחת האות כ&quot;ף וגם סימני מחיקה שם.<br>מ&quot;ג דפוס ונציה=<span class="pointed-heb">וּֽתְדַכְּאוּנַּ֥נִי</span> (כ&quot;ף שוואה ונו&quot;ן דגושה). קורן=<span class="pointed-heb">וּֽתְדַכּאוּנַּ֥נִי</span> (נו&quot;ן דגושה).</div></div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Job 21:25</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="verse-ref"><span class="ref-text">Job 21:25 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D3-Job.html#c21v25" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%90%D7%99%D7%95%D7%91_%D7%9B%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
 <div class="change-display"><span class="heb old-side">וְ<mark class="diff-hi">לֹֽ</mark>א־אָ֝כַ֗ל</span><span class="arrow">&rarr;</span><span class="heb new-side">וְ<mark class="diff-hi">לֹ</mark>א־אָ֝כַ֗ל</span></div>
 <div class="change-desc">meteg on lamed removed</div>
 </div>
 <div class="diff-card" data-categories="meteg-removal">
-<div class="verse-ref"><span class="ref-text">Job 30:11</span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
-<div class="change-display"><span class="heb old-side"><mark class="diff-hi">כִּֽ</mark>י־יתרויִתְרִ֣י</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">כִּ</mark>י־יתרויִתְרִ֣י</span></div>
+<div class="verse-ref"><span class="ref-text">Job 30:11 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D3-Job.html#c30v11" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%90%D7%99%D7%95%D7%91_%D7%9C/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-removal">Meteg removal</span></div>
+<div class="change-display"><span class="heb old-side"><mark class="diff-hi">כִּֽ</mark>י־<ruby class="kq-pair"><span class="kq-q">יתרו</span><rp>(</rp><rt><span class="kq-k">יִתְרִ֣י</span></rt><rp>)</rp></ruby></span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">כִּ</mark>י־<ruby class="kq-pair"><span class="kq-q">יתרו</span><rp>(</rp><rt><span class="kq-k">יִתְרִ֣י</span></rt><rp>)</rp></ruby></span></div>
 <div class="change-desc">meteg on kaf removed</div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">Job 31:7</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">Job 31:7 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D3-Job.html#c31v7" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%90%D7%99%D7%95%D7%91_%D7%9C%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">מֽ<mark class="diff-hi">א</mark>וּם׃</span><span class="arrow">&rarr;</span><span class="heb new-side">מֽ<mark class="diff-hi">אֿ</mark>וּם׃</span></div>
 <div class="change-desc">rafe on alef added</div>
 </div>
 <div class="diff-card" data-categories="meteg-addition">
-<div class="verse-ref"><span class="ref-text">Job 42:9</span><span class="cat-badge cat-meteg-addition">Meteg addition</span></div>
+<div class="verse-ref"><span class="ref-text">Job 42:9 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/D3-Job.html#c42v9" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%90%D7%99%D7%95%D7%91_%D7%9E%D7%91/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-meteg-addition">Meteg addition</span></div>
 <div class="change-display"><span class="heb old-side"><mark class="diff-hi">וַ</mark>יַּעֲשׂ֔וּ</span><span class="arrow">&rarr;</span><span class="heb new-side"><mark class="diff-hi">וַֽ</mark>יַּעֲשׂ֔וּ</span></div>
 <div class="change-desc">meteg on vav added</div>
 </div>
 <h2 class="book-header" data-books="1 Chronicles" data-total="7">1 Chronicles (<span class="book-count">7 diffs</span>)</h2>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">1Chr 5:6</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">1Chr 5:6 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/FC-1Chronicles.html#c5v6" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%20%D7%94%D7%99%D7%9E%D7%99%D7%9D%20%D7%90_%D7%94/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">לָרֽ<mark class="diff-hi">א</mark>וּבֵנִֽי׃</span><span class="arrow">&rarr;</span><span class="heb new-side">לָרֽ<mark class="diff-hi">אֿ</mark>וּבֵנִֽי׃</span></div>
 <div class="change-desc">rafe on alef added</div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">1Chr 5:26</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">1Chr 5:26 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/FC-1Chronicles.html#c5v26" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%20%D7%94%D7%99%D7%9E%D7%99%D7%9D%20%D7%90_%D7%94/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">לָר<mark class="diff-hi">א</mark>וּבֵנִ֣י</span><span class="arrow">&rarr;</span><span class="heb new-side">לָר<mark class="diff-hi">אֿ</mark>וּבֵנִ֣י</span></div>
 <div class="change-desc">rafe on alef added</div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">1Chr 11:42</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">1Chr 11:42 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/FC-1Chronicles.html#c11v42" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%20%D7%94%D7%99%D7%9E%D7%99%D7%9D%20%D7%90_%D7%99%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">הָר<mark class="diff-hi">א</mark>וּבֵנִ֗י</span><span class="arrow">&rarr;</span><span class="heb new-side">הָר<mark class="diff-hi">אֿ</mark>וּבֵנִ֗י</span></div>
 <div class="change-desc">rafe on alef added</div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">1Chr 11:42</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">1Chr 11:42 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/FC-1Chronicles.html#c11v42" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%20%D7%94%D7%99%D7%9E%D7%99%D7%9D%20%D7%90_%D7%99%D7%90/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">לָר<mark class="diff-hi">א</mark>וּבֵנִ֖י</span><span class="arrow">&rarr;</span><span class="heb new-side">לָר<mark class="diff-hi">אֿ</mark>וּבֵנִ֖י</span></div>
 <div class="change-desc">rafe on alef added</div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">1Chr 12:38</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">1Chr 12:38 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/FC-1Chronicles.html#c12v38" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%20%D7%94%D7%99%D7%9E%D7%99%D7%9D%20%D7%90_%D7%99%D7%91/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">מִן־הָר<mark class="diff-hi">א</mark>וּבֵנִ֨י</span><span class="arrow">&rarr;</span><span class="heb new-side">מִן־הָר<mark class="diff-hi">אֿ</mark>וּבֵנִ֨י</span></div>
 <div class="change-desc">rafe on alef added</div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">1Chr 26:32</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">1Chr 26:32 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/FC-1Chronicles.html#c26v32" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%20%D7%94%D7%99%D7%9E%D7%99%D7%9D%20%D7%90_%D7%9B%D7%95/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">עַל־הָר<mark class="diff-hi">א</mark>וּבֵנִ֤י</span><span class="arrow">&rarr;</span><span class="heb new-side">עַל־הָר<mark class="diff-hi">אֿ</mark>וּבֵנִ֤י</span></div>
 <div class="change-desc">rafe on alef added</div>
 </div>
 <div class="diff-card" data-categories="rafe-reuveni">
-<div class="verse-ref"><span class="ref-text">1Chr 27:16</span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
+<div class="verse-ref"><span class="ref-text">1Chr 27:16 <a class="ref-link" href="https://bdenckla.github.io/MAM-with-doc/FC-1Chronicles.html#c27v16" target="_blank" rel="noopener">MAM</a> <a class="ref-link" href="https://he.wikisource.org/wiki/%D7%93%D7%91%D7%A8%D7%99%20%D7%94%D7%99%D7%9E%D7%99%D7%9D%20%D7%90_%D7%9B%D7%96/%D7%98%D7%A2%D7%9E%D7%99%D7%9D" target="_blank" rel="noopener">WS</a></span><span class="cat-badge cat-rafe-reuveni">Rafe (ראובני)</span></div>
 <div class="change-display"><span class="heb old-side">לָר<mark class="diff-hi">א</mark>וּבֵנִ֣י</span><span class="arrow">&rarr;</span><span class="heb new-side">לָר<mark class="diff-hi">אֿ</mark>וּבֵנִ֣י</span></div>
 <div class="change-desc">rafe on alef added</div>
 </div>
-<script>
-(function() {
-  var activeFilters = new Set();
-  var cards = document.querySelectorAll('.diff-card');
-  var buttons = document.querySelectorAll('.filter-btn');
-  var summaryRows = document.querySelectorAll('table.summary tr[data-cat]');
-  var bookHeaders = document.querySelectorAll('.book-header');
-  function update() {
-    cards.forEach(function(card) {
-      var cat = card.getAttribute('data-categories');
-      card.classList.toggle('hidden',
-        activeFilters.size > 0 && !activeFilters.has(cat));
-    });
-    bookHeaders.forEach(function(hdr) {
-      var next = hdr.nextElementSibling;
-      var visCount = 0;
-      while (next && !next.classList.contains('book-header')) {
-        if (next.classList.contains('diff-card') && !next.classList.contains('hidden')) {
-          visCount++;
-        }
-        next = next.nextElementSibling;
-      }
-      hdr.classList.toggle('hidden', visCount === 0);
-      var span = hdr.querySelector('.book-count');
-      if (span) {
-        var total = parseInt(hdr.getAttribute('data-total'), 10);
-        if (activeFilters.size === 0) {
-          span.textContent = total + (total === 1 ? ' diff' : ' diffs');
-        } else {
-          span.textContent = visCount + ' of ' + total;
-        }
-      }
-    });
-  }
-  function toggleFilter(cat) {
-    if (activeFilters.has(cat)) activeFilters.delete(cat);
-    else activeFilters.add(cat);
-    buttons.forEach(function(b) {
-      b.classList.toggle('active', activeFilters.has(b.getAttribute('data-cat')));
-    });
-    summaryRows.forEach(function(r) {
-      r.classList.toggle('active', activeFilters.has(r.getAttribute('data-cat')));
-    });
-    update();
-  }
-  buttons.forEach(function(btn) {
-    btn.addEventListener('click', function() {
-      var cat = btn.getAttribute('data-cat');
-      if (cat) toggleFilter(cat);
-    });
-  });
-  summaryRows.forEach(function(row) {
-    row.addEventListener('click', function() {
-      var cat = row.getAttribute('data-cat');
-      if (cat) toggleFilter(cat);
-    });
-  });
-  var showAll = document.getElementById('show-all-btn');
-  if (showAll) {
-    showAll.addEventListener('click', function() {
-      activeFilters.clear();
-      buttons.forEach(function(b) { b.classList.remove('active'); });
-      summaryRows.forEach(function(r) { r.classList.remove('active'); });
-      update();
-    });
-  }
-})();
-</script>
+<script src="filter.js"></script>
 </body>
 </html>
