@@ -3,7 +3,7 @@
   --accent: #4a90d9; --hi-old: #fdd; --hi-new: #dfd;
   --cat-meteg-removal: #1565c0;
   --cat-meteg-addition: #1e88e5;
-  --cat-rafe-reuveni: #2e7d32;
+  --cat-rafe: #2e7d32;
   --cat-varika: #00695c;
   --cat-accent-change: #ef6c00;
   --cat-accent-addition: #e65100;
@@ -133,7 +133,7 @@ ruby.kq-pair rt {
 .gray-maqaf { color: gray; }
 .cat-meteg-removal { background: var(--cat-meteg-removal); }
 .cat-meteg-addition { background: var(--cat-meteg-addition); }
-.cat-rafe-reuveni { background: var(--cat-rafe-reuveni); }
+.cat-rafe { background: var(--cat-rafe); }
 .cat-varika { background: var(--cat-varika); }
 .cat-accent-change { background: var(--cat-accent-change); }
 .cat-accent-addition { background: var(--cat-accent-addition); }
