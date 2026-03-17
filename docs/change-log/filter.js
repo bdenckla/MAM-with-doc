@@ -4,7 +4,23 @@
   var buttons = document.querySelectorAll('.filter-btn');
   var summaryRows = document.querySelectorAll('table.summary tr[data-cat]');
   var bookHeaders = document.querySelectorAll('.book-header');
+  var catLabels = {};
+  summaryRows.forEach(function(r) {
+    var cat = r.getAttribute('data-cat');
+    var td = r.querySelectorAll('td')[1];
+    if (cat && td) catLabels[cat] = td.textContent;
+  });
+  function filterSuffix() {
+    if (activeFilters.size === 0) return '';
+    if (activeFilters.size === 1) {
+      var cat = activeFilters.values().next().value;
+      var label = catLabels[cat] || cat;
+      return ' diffs are of type “' + label + '”';
+    }
+    return ' diffs are of the selected categories';
+  }
   function update() {
+    var suffix = filterSuffix();
     cards.forEach(function(card) {
       var cat = card.getAttribute('data-categories');
       card.classList.toggle('hidden',
@@ -26,7 +42,7 @@
         if (activeFilters.size === 0) {
           span.textContent = total + (total === 1 ? ' diff' : ' diffs');
         } else {
-          span.textContent = visCount + ' of ' + total;
+          span.textContent = visCount + ' of ' + total + suffix;
         }
       }
     });

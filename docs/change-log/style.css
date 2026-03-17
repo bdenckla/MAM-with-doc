@@ -74,7 +74,7 @@ table.summary tr.total-row { font-weight: 600; cursor: default; }
 .old-side mark.diff-hi { background: #f9a0a0; border-radius: 2px; }
 .new-side mark.diff-hi { background: #a0d8a0; border-radius: 2px; }
 .arrow { font-size: 1.1rem; color: #888; }
-.change-desc { font-size: .85rem; color: #555; margin-top: .15rem; }
+.change-desc { font-size: .85rem; color: #555; }
 .book-header { margin-top: 1.2rem; margin-bottom: .3rem; }
 .book-header.hidden { display: none; }
 .nusach-note {
