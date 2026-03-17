@@ -1,0 +1,640 @@
+{
+  "old_rev": "b5e8f94",
+  "new_rev": "3d5ecfd",
+  "diff_count": 45,
+  "diffs": [
+    {
+      "book": "Genesis",
+      "chapter": 45,
+      "verse": 14,
+      "category": "misc",
+      "changes": [
+        {
+          "old": "בִנְיָמִֽן־אָחִ֖יו",
+          "new": "בִנְיָֽמִן־אָחִ֖יו"
+        }
+      ],
+      "nusach_notes": [
+        {
+          "start": 26,
+          "end": 44,
+          "param2": [
+            "=ב,ש,ש1?,ק3,ותיקן-448 והסכמת ב\"א-ב\"נ ומסקנת מ\"ש (געיה באות יו\"ד), וכך אצל ברויאר ומג\"ה, וכמו כן בדפוסים וקורן וסימנים ומכון ממרא.",
+            {
+              "tmpl_name": "ש"
+            },
+            "ל?,ל1,ט3=בִנְיָמִֽן־אָחִ֖יו (געיה באות מי\"ם?) וכך אצל דותן ו-BHS ובהקלדה.",
+            {
+              "tmpl_name": "ש"
+            },
+            "ו=בִנְיָמִן־אָחִ֖יו (אין געיה)"
+          ]
+        }
+      ]
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 24,
+      "verse": 10,
+      "category": "accent-change",
+      "changes": [
+        {
+          "old": "יְהֹוָ֔ה",
+          "new": "יְהֹוָ֗ה"
+        }
+      ],
+      "nusach_notes": [
+        {
+          "start": 138,
+          "end": 146,
+          "param2": [
+            "=א,ל,ק,ש1 (נקודה אחת לטעם רביע באות וי\"ו), וכך אצל ברויאר ומג\"ה.",
+            {
+              "tmpl_name": "ש"
+            },
+            "מ\"ג דפוס ונציה=יְהֹוָ֔ה (בשתי נקודות לטעם זקף קטן) וכמו כן בדפוסים וקורן, וכך גם ב-BHS ובהקלדה ובמכון ממרא, ואפילו בדותן (!)."
+          ]
+        }
+      ]
+    },
+    {
+      "book": "2 Kings",
+      "chapter": 4,
+      "verse": 7,
+      "category": "template-change",
+      "templates_added": [
+        "כו\"ק"
+      ],
+      "nusach_notes": [
+        {
+          "start": 101,
+          "end": 116,
+          "param2": "א-כתיב=נִשְׁיֵ֑כי (אין שווא במקביל לקרי)"
+        },
+        {
+          "start": 126,
+          "end": 142,
+          "param2": "א-כתיב=בֻ͏ָנַ֔יִכי (נקודות הקובוץ עוד לפני האות בי\"ת מימין למטה, ואין שווא במקביל לקרי)"
+        }
+      ]
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 48,
+      "verse": 21,
+      "category": "template-change",
+      "templates_added": [
+        "מ:קמץ"
+      ],
+      "nusach_notes": [
+        {
+          "start": 16,
+          "end": 29,
+          "param2": "קורן=בָּֽחֳרָבוֹת֙ (קמץ גדול באות בי\"ת) למרות שהקמץ אינו לְשֵׁם יידוע."
+        }
+      ]
+    },
+    {
+      "book": "Isaiah",
+      "chapter": 60,
+      "verse": 9,
+      "category": "template-change",
+      "templates_added": [
+        "מ:קמץ"
+      ]
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 42,
+      "verse": 2,
+      "category": "meteg-addition",
+      "changes": [
+        {
+          "old": "כִּֽי־נִשְׁאַ֤רְנוּ",
+          "new": "כִּֽי־נִשְׁאַ֤רְנֽוּ"
+        }
+      ],
+      "nusach_notes": [
+        {
+          "start": 168,
+          "end": 195,
+          "param2": [
+            "=א (געיה באות נו\"ן אך אין מקף שני); ברויאר סימן ספק מקף שני (א?=כִּֽי־נִשְׁאַ֤רְנֽוּ־מְעַט֙? מקף בתיבת משרת) אולם מעיון בצילום הכתר ברור שהוא לא קיים (ואולי ייתכן שהוא נמחק).",
+            {
+              "tmpl_name": "ש"
+            },
+            "ל=כִּֽי־נִשְׁאַ֤רְנוּ מְעַט֙ (אין געיה באות נו\"ן ואין מקף שני) וכמו כן בדפוסים וקורן."
+          ]
+        }
+      ]
+    },
+    {
+      "book": "Hosea",
+      "chapter": 2,
+      "verse": 10,
+      "category": "meteg-addition",
+      "changes": [
+        {
+          "old": "אָנֹכִי֙",
+          "new": "אָֽנֹכִי֙"
+        }
+      ]
+    },
+    {
+      "book": "Hosea",
+      "chapter": 6,
+      "verse": 3,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "מֹֽצָא֑וֹ",
+          "new": "מֹצָא֑וֹ"
+        }
+      ]
+    },
+    {
+      "book": "Hosea",
+      "chapter": 11,
+      "verse": 8,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "נִֽחוּמָֽי׃",
+          "new": "נִחוּמָֽי׃"
+        }
+      ]
+    },
+    {
+      "book": "Hosea",
+      "chapter": 12,
+      "verse": 3,
+      "category": "meteg-addition",
+      "changes": [
+        {
+          "old": "לַיהֹוָ֖ה",
+          "new": "לַֽיהֹוָ֖ה"
+        }
+      ]
+    },
+    {
+      "book": "Joel",
+      "chapter": 2,
+      "verse": 2,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "עַל־הֶֽהָרִ֑ים",
+          "new": "עַל־הֶהָרִ֑ים"
+        }
+      ]
+    },
+    {
+      "book": "Joel",
+      "chapter": 2,
+      "verse": 27,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "וְלֹֽא־יֵבֹ֥שׁוּ",
+          "new": "וְלֹא־יֵבֹ֥שׁוּ"
+        }
+      ]
+    },
+    {
+      "book": "Joel",
+      "chapter": 3,
+      "verse": 5,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "תִּֽהְיֶ֣ה",
+          "new": "תִּהְיֶ֣ה"
+        }
+      ]
+    },
+    {
+      "book": "Joel",
+      "chapter": 4,
+      "verse": 17,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "יְרֽוּשָׁלַ֙͏ִם֙",
+          "new": "יְרוּשָׁלַ֙͏ִם֙"
+        }
+      ]
+    },
+    {
+      "book": "Amos",
+      "chapter": 2,
+      "verse": 6,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "בַּֽעֲב֥וּר",
+          "new": "בַּעֲב֥וּר"
+        }
+      ]
+    },
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "verse": 14,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "וִֽיהִי־כֵ֞ן",
+          "new": "וִיהִי־כֵ֞ן"
+        }
+      ]
+    },
+    {
+      "book": "Amos",
+      "chapter": 8,
+      "verse": 11,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "וְלֹֽא־צָמָ֣א",
+          "new": "וְלֹא־צָמָ֣א"
+        }
+      ]
+    },
+    {
+      "book": "Jonah",
+      "chapter": 3,
+      "verse": 10,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "אֶֽת־מַ֣עֲשֵׂיהֶ֔ם",
+          "new": "אֶת־מַ֣עֲשֵׂיהֶ֔ם"
+        }
+      ]
+    },
+    {
+      "book": "Micah",
+      "chapter": 3,
+      "verse": 3,
+      "category": "meteg-addition",
+      "changes": [
+        {
+          "old": "וּפָרְשׂוּ֙",
+          "new": "וּפָֽרְשׂוּ֙"
+        }
+      ],
+      "nusach_notes": [
+        {
+          "start": 102,
+          "end": 114,
+          "param2": [
+            "=ק ושיטת-א (געיה קלה בתיבת פשטא) וכך במג\"ה.",
+            {
+              "tmpl_name": "ש"
+            },
+            "ל,ש1=וּפָרְשׂוּ֙ (אין געיה)"
+          ]
+        }
+      ]
+    },
+    {
+      "book": "Micah",
+      "chapter": 3,
+      "verse": 5,
+      "category": "meteg-addition",
+      "changes": [
+        {
+          "old": "וַאֲשֶׁר֙",
+          "new": "וַֽאֲשֶׁר֙"
+        }
+      ],
+      "nusach_notes": [
+        {
+          "start": 114,
+          "end": 124,
+          "param2": [
+            "=ק ושיטת-א (געיה קלה בתיבת פשטא) וכך במג\"ה.",
+            {
+              "tmpl_name": "ש"
+            },
+            "ל,ש1=וַאֲשֶׁר֙ (אין געיה)"
+          ]
+        }
+      ]
+    },
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "verse": 13,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "הֶֽחֱלֵ֣יתִי",
+          "new": "הֶחֱלֵ֣יתִי"
+        }
+      ]
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 3,
+      "verse": 14,
+      "category": "template-change",
+      "templates_added": [
+        "קו\"כ-אם"
+      ]
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 1,
+      "verse": 11,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "יֹֽשְׁבֵ֣י",
+          "new": "יֹשְׁבֵ֣י"
+        }
+      ]
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 3,
+      "verse": 9,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "כִּֽי־אָ֛ז",
+          "new": "כִּי־אָ֛ז"
+        }
+      ]
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 3,
+      "verse": 13,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "כִּֽי־הֵ֛מָּה",
+          "new": "כִּי־הֵ֛מָּה"
+        }
+      ]
+    },
+    {
+      "book": "Zephaniah",
+      "chapter": 3,
+      "verse": 16,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "לִירֽוּשָׁלַ֖͏ִם",
+          "new": "לִירוּשָׁלַ֖͏ִם"
+        }
+      ]
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 2,
+      "verse": 9,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "אֶֽהְיֶ֥ה",
+          "new": "אֶהְיֶ֥ה"
+        }
+      ]
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 10,
+      "verse": 6,
+      "category": "meteg-addition",
+      "changes": [
+        {
+          "old": "לֹא־זְנַחְתִּ֑ים",
+          "new": "לֹֽא־זְנַחְתִּ֑ים"
+        }
+      ]
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 11,
+      "verse": 13,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "וָֽאַשְׁלִ֥יךְ",
+          "new": "וָאַשְׁלִ֥יךְ"
+        }
+      ]
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 12,
+      "verse": 2,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "אֶת־יְרֽוּשָׁלַ֧͏ִם",
+          "new": "אֶת־יְרוּשָׁלַ֧͏ִם"
+        }
+      ]
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 13,
+      "verse": 2,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "הָֽעֲצַבִּים֙",
+          "new": "הָעֲצַבִּים֙"
+        }
+      ]
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 13,
+      "verse": 3,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "כִּֽי־יִנָּבֵ֣א",
+          "new": "כִּי־יִנָּבֵ֣א"
+        }
+      ]
+    },
+    {
+      "book": "Zechariah",
+      "chapter": 14,
+      "verse": 10,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "יְרֽוּשָׁלָ֑͏ִם",
+          "new": "יְרוּשָׁלָ֑͏ִם"
+        }
+      ]
+    },
+    {
+      "book": "Malachi",
+      "chapter": 1,
+      "verse": 2,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "וַֽאֲמַרְתֶּ֖ם",
+          "new": "וַאֲמַרְתֶּ֖ם"
+        }
+      ]
+    },
+    {
+      "book": "Malachi",
+      "chapter": 1,
+      "verse": 7,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "וַֽאֲמַרְתֶּ֖ם",
+          "new": "וַאֲמַרְתֶּ֖ם"
+        }
+      ]
+    },
+    {
+      "book": "Malachi",
+      "chapter": 1,
+      "verse": 8,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "וְכִֽי־תַגִּישׁ֨וּן",
+          "new": "וְכִי־תַגִּישׁ֨וּן"
+        }
+      ]
+    },
+    {
+      "book": "Malachi",
+      "chapter": 2,
+      "verse": 3,
+      "category": "meteg-addition",
+      "changes": [
+        {
+          "old": "וְזֵרִ֤יתִי",
+          "new": "וְזֵרִ֤יתִֽי"
+        }
+      ]
+    },
+    {
+      "book": "Malachi",
+      "chapter": 2,
+      "verse": 6,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "לֹֽא־נִמְצָ֣א",
+          "new": "לֹא־נִמְצָ֣א"
+        }
+      ]
+    },
+    {
+      "book": "Malachi",
+      "chapter": 2,
+      "verse": 7,
+      "category": "misc",
+      "changes": [
+        {
+          "old": "יְהֹֽוָה־צְבָא֖וֹת",
+          "new": "יְהֹוָֽה־צְבָא֖וֹת"
+        }
+      ],
+      "nusach_notes": [
+        {
+          "start": 90,
+          "end": 108,
+          "param2": [
+            "=ל,ק,ש1 (געיה באות וי\"ו של שם הוי\"ה) וכמו כן ברוב הדפוסים וקורן",
+            {
+              "tmpl_name": "ש"
+            },
+            "א!=יְהֽוָה־צְבָא֖וֹת (געיה באות ה\"א הראשונה של שם הוי\"ה), וכך אצל ברויאר ומג\"ה, וכמו כן במכון ממרא וסימנים. ראו ייבין ו.9 (עמ' 72): \"געיה בה' החלומה אף על פי שהחולם אינו מסומן, מוכיחה שיש כאן הברה\" (כלומר יש הברה למרות הנוהג שנקודת החולם אינה כתובה בכתר). אמנם השוו ייבין יז.16 (עמ' 174) לגבי מקום הגעיה.",
+            {
+              "tmpl_name": "ש"
+            },
+            "פטרבורג-EVR-II-B-55=יְהֹוָה־צְבָא֖וֹת (אין געיה) וכמו כן בגינצבורג."
+          ]
+        }
+      ]
+    },
+    {
+      "book": "Malachi",
+      "chapter": 2,
+      "verse": 11,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "בָּֽגְדָ֣ה",
+          "new": "בָּגְדָ֣ה"
+        }
+      ]
+    },
+    {
+      "book": "Malachi",
+      "chapter": 3,
+      "verse": 4,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "וִירֽוּשָׁלָ֑͏ִם",
+          "new": "וִירוּשָׁלָ֑͏ִם"
+        }
+      ]
+    },
+    {
+      "book": "Malachi",
+      "chapter": 3,
+      "verse": 7,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "אֲבֹֽתֵיכֶ֜ם",
+          "new": "אֲבֹתֵיכֶ֜ם"
+        }
+      ]
+    },
+    {
+      "book": "Malachi",
+      "chapter": 3,
+      "verse": 8,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "קֹֽבְעִ֣ים",
+          "new": "קֹבְעִ֣ים"
+        }
+      ]
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 5,
+      "verse": 13,
+      "category": "meteg-removal",
+      "changes": [
+        {
+          "old": "לֹֽא־הִטִּ֥יתִי",
+          "new": "לֹא־הִטִּ֥יתִי"
+        }
+      ]
+    },
+    {
+      "book": "Job",
+      "chapter": 21,
+      "verse": 24,
+      "category": "misc",
+      "changes": [
+        {
+          "old": "עֲ֭טִינָיו",
+          "new": "עֲ֭טִנָיו"
+        }
+      ]
+    }
+  ]
+}
