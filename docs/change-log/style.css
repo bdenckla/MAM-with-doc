@@ -104,8 +104,9 @@ table.summary tr.total-row { font-weight: 600; cursor: default; }
   font-size: .85rem;
 }
 .pointed-heb {
-  font-family: "SBL Hebrew", "Ezra SIL", "David", "Times New Roman", serif;
+  font-family: "Taamey D WOFF2", "SBL Hebrew", "Ezra SIL", "David", "Times New Roman", serif;
   font-size: 20pt;
+  font-feature-settings: 'ss01';
 }
 .letter-large { font-size: 130%; }
 .letter-small { font-size: 75%; }
@@ -123,7 +124,8 @@ ruby.paseq-ruby rt {
 }
 ruby.kq-pair rt {
   font-size: 20pt;
-  font-family: "SBL Hebrew", "Ezra SIL", "David", "Times New Roman", serif;
+  font-family: "Taamey D WOFF2", "SBL Hebrew", "Ezra SIL", "David", "Times New Roman", serif;
+  font-feature-settings: 'ss01';
 }
 .kq-k { color: #6a1b9a; }
 .kq-q { color: #1565c0; }
@@ -140,3 +142,7 @@ ruby.kq-pair rt {
 .cat-maqaf-afor { background: var(--cat-maqaf-afor); }
 .cat-template-change { background: var(--cat-template-change); }
 .cat-misc { background: var(--cat-misc); }
+@font-face {
+    font-family: "Taamey D WOFF2";
+    src: url("woff2/Taamey_D.woff2");
+}
