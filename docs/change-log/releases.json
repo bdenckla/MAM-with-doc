@@ -1,13 +1,16 @@
 {
   "_header": [
-    "Each entry defines a named release as a min-inclusive range [old, new]",
+    "Each entry defines a named release as a half-open range (old, new]",
     " of commits in the MAM-parsed repo.",
-    " main_diff_mpp.py appends ^ to 'old' when invoking git, so the diff",
-    " includes the 'old' commit itself.",
+    " 'old' is the state before the first change (exclusive boundary);",
+    " 'new' is the state after the last change (inclusive boundary).",
+    " Consecutive releases share a boundary: the 'new' of one release",
+    " equals the 'old' of the next.",
     " main_diff_mpp.py also uses these to map --old/--new args to a release",
     " name for the output filename."
   ],
   "releases": [
-    {"old": "9bbfd07", "new": "1880cbb", "name": "2026-03-16"}
+    {"old": "049e636", "new": "cc43fe0", "name": "2026-03-06"},
+    {"old": "cc43fe0", "new": "1880cbb", "name": "2026-03-16"}
   ]
 }
