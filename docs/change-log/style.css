@@ -10,6 +10,7 @@
   --cat-accent-removal: #f57c00;
   --cat-vowel-change: #6a1b9a;
   --cat-legarmeih-paseq: #ad1457;
+  --cat-maqaf-afor: #78909c;
   --cat-template-change: #795548;
   --cat-misc: #37474f;
 }
@@ -128,5 +129,6 @@ ruby.kq-pair rt {
 .cat-accent-removal { background: var(--cat-accent-removal); }
 .cat-vowel-change { background: var(--cat-vowel-change); }
 .cat-legarmeih-paseq { background: var(--cat-legarmeih-paseq); }
+.cat-maqaf-afor { background: var(--cat-maqaf-afor); }
 .cat-template-change { background: var(--cat-template-change); }
 .cat-misc { background: var(--cat-misc); }
