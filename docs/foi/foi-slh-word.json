@@ -662,8 +662,8 @@
         "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
-          "slhw-desc-0": "לִ֣ינִי",
-          "slhw-desc-1": "..נ.",
+          "slhw-desc-0": "לִ֣ינִי׀",
+          "slhw-desc-1": "..נ..",
           "slhw-desc-2": "ג",
           "slhw-desc-3": "נ/ג",
           "lang": "hbo"
@@ -685,7 +685,7 @@
     ],
     "stack_str": null,
     "fp": "non-note/1/ג",
-    "r": "לִ֣ינִי/..נ./ג (אות נו״ן גדולה)"
+    "r": "לִ֣ינִי׀/..נ../ג (אות נו״ן גדולה)"
   },
   {
     "bcv_short": "Ec7:1",
@@ -756,8 +756,8 @@
         "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
-          "slhw-desc-0": "ח֣וּר",
-          "slhw-desc-1": "ח..",
+          "slhw-desc-0": "ח֣וּר׀",
+          "slhw-desc-1": "ח...",
           "slhw-desc-2": "ג",
           "slhw-desc-3": "ח/ג",
           "lang": "hbo"
@@ -778,7 +778,7 @@
     ],
     "stack_str": null,
     "fp": "non-note/1/ג",
-    "r": "ח֣וּר/ח../ג (אות חי״ת גדולה)"
+    "r": "ח֣וּר׀/ח.../ג (אות חי״ת גדולה)"
   },
   {
     "bcv_short": "Es9:29",
@@ -2349,8 +2349,8 @@
         "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
-          "slhw-desc-0": "וַיִּשְׁחָ֓ט",
-          "slhw-desc-1": "...ח.",
+          "slhw-desc-0": "וַיִּשְׁחָ֓ט׀",
+          "slhw-desc-1": "...ח..",
           "slhw-desc-2": "ג",
           "slhw-desc-3": "ח/ג",
           "lang": "hbo"
@@ -2372,7 +2372,7 @@
     ],
     "stack_str": "doc-part-n",
     "fp": "slh-letter-count/1",
-    "r": "וַיִּשְׁחָ֓ט/...ח./ג (אות חי״ת גדולה)"
+    "r": "וַיִּשְׁחָ֓ט׀/...ח../ג (אות חי״ת גדולה)"
   },
   {
     "bcv_short": "L11:30",
@@ -4266,8 +4266,8 @@
         "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
-          "slhw-desc-0": "לִ֣ינִי",
-          "slhw-desc-1": "..נ.",
+          "slhw-desc-0": "לִ֣ינִי׀",
+          "slhw-desc-1": "..נ..",
           "slhw-desc-2": "ג",
           "slhw-desc-3": "נ/ג",
           "lang": "hbo"
@@ -4289,7 +4289,7 @@
     ],
     "stack_str": null,
     "fp": "slh-letter-count/1",
-    "r": "לִ֣ינִי/..נ./ג (אות נו״ן גדולה)"
+    "r": "לִ֣ינִי׀/..נ../ג (אות נו״ן גדולה)"
   },
   {
     "bcv_short": "La1:12",
@@ -4454,8 +4454,8 @@
         "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
-          "slhw-desc-0": "ח֣וּר",
-          "slhw-desc-1": "ח..",
+          "slhw-desc-0": "ח֣וּר׀",
+          "slhw-desc-1": "ח...",
           "slhw-desc-2": "ג",
           "slhw-desc-3": "ח/ג",
           "lang": "hbo"
@@ -4476,7 +4476,7 @@
     ],
     "stack_str": null,
     "fp": "slh-letter-count/1",
-    "r": "ח֣וּר/ח../ג (אות חי״ת גדולה)"
+    "r": "ח֣וּר׀/ח.../ג (אות חי״ת גדולה)"
   },
   {
     "bcv_short": "Es9:7",
@@ -6042,8 +6042,8 @@
         "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
-          "slhw-desc-0": "לִ֣ינִי",
-          "slhw-desc-1": "..נ.",
+          "slhw-desc-0": "לִ֣ינִי׀",
+          "slhw-desc-1": "..נ..",
           "slhw-desc-2": "ג",
           "slhw-desc-3": "נ/ג",
           "lang": "hbo"
@@ -6065,7 +6065,7 @@
     ],
     "stack_str": null,
     "fp": "stack/None",
-    "r": "לִ֣ינִי/..נ./ג (אות נו״ן גדולה)"
+    "r": "לִ֣ינִי׀/..נ../ג (אות נו״ן גדולה)"
   },
   {
     "bcv_short": "La1:12",
@@ -6230,8 +6230,8 @@
         "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
-          "slhw-desc-0": "ח֣וּר",
-          "slhw-desc-1": "ח..",
+          "slhw-desc-0": "ח֣וּר׀",
+          "slhw-desc-1": "ח...",
           "slhw-desc-2": "ג",
           "slhw-desc-3": "ח/ג",
           "lang": "hbo"
@@ -6252,7 +6252,7 @@
     ],
     "stack_str": null,
     "fp": "stack/None",
-    "r": "ח֣וּר/ח../ג (אות חי״ת גדולה)"
+    "r": "ח֣וּר׀/ח.../ג (אות חי״ת גדולה)"
   },
   {
     "bcv_short": "Es9:7",
@@ -6815,8 +6815,8 @@
         "_htel_tag": "span",
         "attr": {
           "class": "slh-word",
-          "slhw-desc-0": "וַיִּשְׁחָ֓ט",
-          "slhw-desc-1": "...ח.",
+          "slhw-desc-0": "וַיִּשְׁחָ֓ט׀",
+          "slhw-desc-1": "...ח..",
           "slhw-desc-2": "ג",
           "slhw-desc-3": "ח/ג",
           "lang": "hbo"
@@ -6838,7 +6838,7 @@
     ],
     "stack_str": "doc-part-n",
     "fp": "stack/doc-part-n",
-    "r": "וַיִּשְׁחָ֓ט/...ח./ג (אות חי״ת גדולה)"
+    "r": "וַיִּשְׁחָ֓ט׀/...ח../ג (אות חי״ת גדולה)"
   },
   {
     "bcv_short": "L8:23",
