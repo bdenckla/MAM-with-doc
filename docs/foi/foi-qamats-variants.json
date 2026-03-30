@@ -1520,16 +1520,6 @@
     "r": "ד=קׇדָשִֽׁים ס=קָדָשִֽׁים"
   },
   {
-    "bcv_short": "Ee47:12",
-    "accent": null,
-    "qq_count": "1",
-    "stack_str": null,
-    "m2_lett": "ח",
-    "m3_zmnl": ":a",
-    "fp": "accent-0-qq-count-1",
-    "r": "ד=לׇחֳדָשָׁיו֙ ס=לָחֳדָשָׁיו֙"
-  },
-  {
     "bcv_short": "Ee48:12",
     "accent": null,
     "qq_count": "1",
@@ -3358,6 +3348,16 @@
     "m3_zmnl": "a",
     "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=חׇֽרָבָ֔ה ס=חָֽרָבָ֔ה"
+  },
+  {
+    "bcv_short": "Ee47:12",
+    "accent": "(mos)",
+    "qq_count": "1",
+    "stack_str": null,
+    "m2_lett": "ח",
+    "m3_zmnl": ":a",
+    "fp": "accent-1-(mos)-qq-count-1",
+    "r": "ד=לׇֽחֳדָשָׁיו֙ ס=לָֽחֳדָשָׁיו֙"
   },
   {
     "bcv_short": "O1:11",
@@ -5781,13 +5781,13 @@
   },
   {
     "bcv_short": "Ee47:12",
-    "accent": null,
+    "accent": "(mos)",
     "qq_count": "1",
     "stack_str": null,
     "m2_lett": "ח",
     "m3_zmnl": ":a",
     "fp": "all",
-    "r": "ד=לׇחֳדָשָׁיו֙ ס=לָחֳדָשָׁיו֙"
+    "r": "ד=לׇֽחֳדָשָׁיו֙ ס=לָֽחֳדָשָׁיו֙"
   },
   {
     "bcv_short": "Ee48:12",
