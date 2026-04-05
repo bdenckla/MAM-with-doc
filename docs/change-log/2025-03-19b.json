@@ -338,8 +338,9 @@
       "book": "Psalms",
       "chapter": 17,
       "verse": 14,
-      "category": "tsinnor-removal",
+      "category": "template-change",
       "templates_removed": [
+        "מ:צינור",
         "מ:צינור"
       ],
       "nusach_notes": [
@@ -505,8 +506,9 @@
       "book": "Psalms",
       "chapter": 18,
       "verse": 51,
-      "category": "tsinnor-removal",
+      "category": "template-change",
       "templates_removed": [
+        "מ:צינור",
         "מ:צינור"
       ]
     },
@@ -702,8 +704,11 @@
       "book": "Psalms",
       "chapter": 28,
       "verse": 4,
-      "category": "tsinnor-removal",
+      "category": "template-change",
       "templates_removed": [
+        "מ:צינור",
+        "מ:צינור",
+        "מ:צינור",
         "מ:צינור"
       ]
     },
@@ -5089,8 +5094,11 @@
       "book": "Job",
       "chapter": 9,
       "verse": 21,
-      "category": "dehi-removal",
+      "category": "template-change",
       "templates_removed": [
+        "מ:דחי",
+        "מ:דחי",
+        "מ:דחי",
         "מ:דחי"
       ]
     },
