@@ -1,7 +1,7 @@
 {
   "old_rev": "b5e8f94",
   "new_rev": "3d5ecfd",
-  "diff_count": 74,
+  "diff_count": 76,
   "diffs": [
     {
       "book": "Genesis",
@@ -1372,6 +1372,68 @@
       "category": "template-change",
       "templates_added": [
         "מ:דחי"
+      ]
+    },
+    {
+      "book": "Ruth",
+      "chapter": 3,
+      "verse": 13,
+      "category": "template-change",
+      "template_structure_changed": true,
+      "nusach_notes": [
+        {
+          "start": 0,
+          "end": 8,
+          "param2": [
+            "=מ\"ס-ל ובדפוסים וקורן (אות נו\"ן גדולה)",
+            {
+              "tmpl_name": "ש"
+            },
+            "א,ל=לִ֣ינִי (אין אות גדולה)"
+          ]
+        },
+        {
+          "start": 93,
+          "end": 104,
+          "param2": [
+            "=א (אין געיה)",
+            {
+              "tmpl_name": "ש"
+            },
+            "ל=לְגָֽאֳלֵ֛ךְ (געיה)"
+          ]
+        }
+      ]
+    },
+    {
+      "book": "Esther",
+      "chapter": 1,
+      "verse": 6,
+      "category": "template-change",
+      "template_structure_changed": true,
+      "nusach_notes": [
+        {
+          "start": 0,
+          "end": 6,
+          "param2": [
+            "=מ\"ס-ל ומסורה ומ\"ש (ובדפוסים וקורן)",
+            {
+              "tmpl_name": "ש"
+            },
+            "ל=ח֣וּר (אין אות גדולה)"
+          ]
+        },
+        {
+          "start": 141,
+          "end": 150,
+          "param2": [
+            "=ל,ק13,פטרבורג-EVR-II-B-92 (געיה פונטית וסימן רפה על האות פ\"א); כלומר: השווא נע והפ\"א רפה.",
+            {
+              "tmpl_name": "ש"
+            },
+            "פטרבורג-EVR-II-B-55=רִֽצֲפַ֥ת (חטף); וראו עוד מ\"ש שבמקצת ספרים הצד\"י בחטף."
+          ]
+        }
       ]
     }
   ]
