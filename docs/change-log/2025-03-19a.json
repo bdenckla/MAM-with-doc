@@ -340,7 +340,7 @@
       ]
     },
     {
-      "book": "Deuteronomy",
+      "book": "Deuter",
       "chapter": 5,
       "verse": 7,
       "category": "template-change",
@@ -393,7 +393,7 @@
       ]
     },
     {
-      "book": "Deuteronomy",
+      "book": "Deuter",
       "chapter": 5,
       "verse": 8,
       "category": "template-change",
@@ -422,7 +422,7 @@
       ]
     },
     {
-      "book": "Deuteronomy",
+      "book": "Deuter",
       "chapter": 5,
       "verse": 11,
       "category": "template-change",
@@ -460,7 +460,7 @@
       ]
     },
     {
-      "book": "Deuteronomy",
+      "book": "Deuter",
       "chapter": 5,
       "verse": 13,
       "category": "template-change",
@@ -487,7 +487,7 @@
       ]
     },
     {
-      "book": "Deuteronomy",
+      "book": "Deuter",
       "chapter": 5,
       "verse": 14,
       "category": "template-change",
@@ -514,7 +514,7 @@
       ]
     },
     {
-      "book": "Deuteronomy",
+      "book": "Deuter",
       "chapter": 5,
       "verse": 16,
       "category": "template-change",
@@ -563,7 +563,7 @@
       ]
     },
     {
-      "book": "2 Samuel",
+      "book": "2Samuel",
       "chapter": 24,
       "verse": 10,
       "category": "accent-change",
@@ -588,7 +588,7 @@
       ]
     },
     {
-      "book": "2 Kings",
+      "book": "2Kings",
       "chapter": 4,
       "verse": 7,
       "category": "template-change",
@@ -877,7 +877,7 @@
       ]
     },
     {
-      "book": "Zephaniah",
+      "book": "Tsefaniah",
       "chapter": 1,
       "verse": 11,
       "category": "meteg-removal",
@@ -889,7 +889,7 @@
       ]
     },
     {
-      "book": "Zephaniah",
+      "book": "Tsefaniah",
       "chapter": 3,
       "verse": 9,
       "category": "meteg-removal",
@@ -901,7 +901,7 @@
       ]
     },
     {
-      "book": "Zephaniah",
+      "book": "Tsefaniah",
       "chapter": 3,
       "verse": 13,
       "category": "meteg-removal",
@@ -913,7 +913,7 @@
       ]
     },
     {
-      "book": "Zephaniah",
+      "book": "Tsefaniah",
       "chapter": 3,
       "verse": 16,
       "category": "meteg-removal",

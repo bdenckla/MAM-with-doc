@@ -4,7 +4,7 @@
   "diff_count": 27,
   "diffs": [
     {
-      "book": "2 Kings",
+      "book": "2Kings",
       "chapter": 22,
       "verse": 5,
       "category": "accent-change",
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "book": "1 Chronicles",
+      "book": "1Chronicles",
       "chapter": 7,
       "verse": 8,
       "category": "meteg-removal",
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "book": "1 Chronicles",
+      "book": "1Chronicles",
       "chapter": 15,
       "verse": 5,
       "category": "varika",
@@ -312,7 +312,7 @@
       ]
     },
     {
-      "book": "1 Chronicles",
+      "book": "1Chronicles",
       "chapter": 21,
       "verse": 12,
       "category": "legarmeih-paseq",
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "book": "1 Chronicles",
+      "book": "1Chronicles",
       "chapter": 27,
       "verse": 13,
       "category": "meteg-addition",
@@ -336,7 +336,7 @@
       ]
     },
     {
-      "book": "1 Chronicles",
+      "book": "1Chronicles",
       "chapter": 27,
       "verse": 21,
       "category": "meteg-removal",
@@ -348,7 +348,7 @@
       ]
     },
     {
-      "book": "1 Chronicles",
+      "book": "1Chronicles",
       "chapter": 27,
       "verse": 25,
       "category": "meteg-removal",
@@ -360,7 +360,7 @@
       ]
     },
     {
-      "book": "1 Chronicles",
+      "book": "1Chronicles",
       "chapter": 28,
       "verse": 21,
       "category": "meteg-removal",
@@ -372,7 +372,7 @@
       ]
     },
     {
-      "book": "1 Chronicles",
+      "book": "1Chronicles",
       "chapter": 29,
       "verse": 20,
       "category": "meteg-removal",
