@@ -41,7 +41,12 @@ decoded.</p>
 <a href="https://github.com/bdenckla/MAM-basics/blob/main/doc/sigil-decoding.md">MAM-basics/doc/sigil-decoding.md</a>.
 This page captures the subset of that workstream that already affects presentation decisions in this
 published repo. The tracking issue is
-<a href="https://github.com/bdenckla/MAM-with-doc/issues/6">issue 6</a>.</p>
+<a href="https://github.com/bdenckla/MAM-with-doc/issues/6">issue 6</a>.
+The public-documentation follow-up for cases where Wikisource is weak or missing is
+<a href="https://github.com/bdenckla/MAM-with-doc/issues/8">issue 8</a>.</p>
+<p class="small">Workflow note: this page is manually maintained as a public-facing subset of the shared
+decoder reference. It is not generated automatically from
+<a href="https://github.com/bdenckla/MAM-basics/blob/main/doc/sigil-decoding.md">sigil-decoding.md</a>, so future edits should merge carefully with the current HTML instead of replacing it wholesale.</p>
 
 <h2>Current Presentation Policy</h2>
 <ul>
@@ -109,6 +114,72 @@ readers learn to parse the Hebrew note language itself.</p>
 </tbody>
 </table>
 
+<h2>First Public Batch Beyond Strong Wikisource Coverage</h2>
+<p>Some corpus-visible sigils are already mature enough for public documentation here even though the
+best current support is not a strong Wikisource glossary entry. In these cases, the page should say
+what the project is currently using, and why, without overstating certainty.</p>
+<table>
+<thead>
+<tr><th>Sigil</th><th>Meaning</th><th>Status</th><th>Public note</th></tr>
+</thead>
+<tbody>
+<tr>
+<td class="nowrap"><bdi lang="hbo">ותיקן-448</bdi></td>
+<td>Vatican Ms 448</td>
+<td>Confirmed</td>
+<td>The corpus form already carries the shelfmark, and prose notes also cite the same witness as <span class="nowrap">vat448</span>.</td>
+</tr>
+<tr>
+<td class="nowrap"><bdi lang="hbo">פטרבורג-EVR-II-B-8</bdi></td>
+<td>St. Petersburg Ms EVR-II-B-8</td>
+<td>Confirmed</td>
+<td>The corpus form already carries the shelfmark; it sometimes appears without the first hyphen.</td>
+</tr>
+<tr>
+<td class="nowrap"><bdi lang="hbo">פטרבורג-EVR-II-B-80</bdi></td>
+<td>St. Petersburg Ms EVR-II-B-80</td>
+<td>Confirmed</td>
+<td>The corpus form already carries the shelfmark; folio references such as <bdi lang="hbo">(8ב)</bdi> and <bdi lang="hbo">(16א)</bdi> often follow it.</td>
+</tr>
+<tr>
+<td class="nowrap"><bdi lang="hbo">פטרבורג-EVR-II-C-1</bdi></td>
+<td>St. Petersburg Ms EVR-II-C-1</td>
+<td>Confirmed</td>
+<td>The corpus form already carries the shelfmark; folio references such as <bdi lang="hbo">(73א)</bdi>, <bdi lang="hbo">(76ב)</bdi>, and <bdi lang="hbo">(95א)</bdi> often follow it.</td>
+</tr>
+<tr>
+<td class="nowrap"><bdi lang="hbo">פטרבורג-EVR-II-B-34</bdi></td>
+<td>St. Petersburg Ms EVR-II-B-34</td>
+<td>Confirmed</td>
+<td>A Writings manuscript cited in Daniel and related Ketuvim notes.</td>
+</tr>
+<tr>
+<td class="nowrap"><bdi lang="hbo">פטרבורג-EVR-II-B-92</bdi></td>
+<td>St. Petersburg Ms EVR-II-B-92</td>
+<td>Confirmed</td>
+<td>A Writings manuscript cited in Daniel and related Ketuvim notes.</td>
+</tr>
+<tr>
+<td class="nowrap"><bdi lang="hbo">ב1</bdi></td>
+<td>British Library Or. 2375</td>
+<td>Confirmed</td>
+<td>Supported by JC3 and repeated Ketuvim corpus usage; often discussed as a Yemenite witness.</td>
+</tr>
+<tr>
+<td class="nowrap"><bdi lang="hbo">ש2</bdi></td>
+<td>Ms Sassoon 82 ("Keter Shem Tov")</td>
+<td>Confirmed</td>
+<td>Supported by JC3 and corpus evidence; often treated as a Sephardic witness in prose discussion.</td>
+</tr>
+<tr>
+<td class="nowrap"><bdi lang="hbo">ב2</bdi></td>
+<td>Yemenite Ketuvim manuscript; exact manuscript still unresolved</td>
+<td>Provisional</td>
+<td>Currently tracked in 27 inventory-backed authority-expression occurrences, all in Daniel, alongside <bdi lang="hbo">ב1</bdi> and <bdi lang="hbo">ק-מ</bdi>; Daniel 8:2 even says <bdi lang="hbo">כתבי־היד התימנים (ק-מ,ב1,ב2)</bdi>. Keep this explicit as provisional; current local evidence leans against collapsing it into <bdi lang="hbo">ת451</bdi>.</td>
+</tr>
+</tbody>
+</table>
+
 <h2>Two Presentation Modes To Support</h2>
 <p><strong>Central-reference mode.</strong> Leave sigils in Hebrew and link them to a central decoder,
 optionally with hover text or tooltips.</p>
@@ -119,7 +190,7 @@ a compact decoder table containing only the sigils used in that passage.</p>
 <h2>Near-Term Work</h2>
 <ul>
 <li>Use the corpus inventory in MAM-basics to prioritize real sigils instead of guessed ones.</li>
-<li>Grow this page only where a decoder item already has usable evidence and provenance.</li>
+<li>Continue promoting mature entries from <a href="https://github.com/bdenckla/MAM-with-doc/issues/8">issue 8</a> when the public note can state the evidence cleanly.</li>
 <li>Feed confirmed and clearly-labeled provisional decisions into future translated-note output in this repo.</li>
 </ul>
 
