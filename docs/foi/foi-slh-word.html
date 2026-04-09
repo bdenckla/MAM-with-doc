@@ -7,9 +7,21 @@
 </head>
 <body>
 <div style="max-width: 40rem; margin-left: auto; margin-right: auto">
+<p>This page collects words containing at least one special letter, where special means small,
+large, or hung.</p>
+<p>The same words are grouped in three different ways. slh-letter-count/n groups by how many special
+letters a word contains. stack/x groups by the local wrapper context in which the slh-word template
+occurs, such as running text, documentation lines, scroll-difference notes, or the ketiv side of a
+ketiv/qere. non-note/n/codes restricts to cases not inside notes and then groups by both the number
+of special letters and the code string describing their types.</p>
+<p>In those code strings, ק means a small letter, ג means a large letter, and ת means a hung letter.
+The letters appear in the same order as the special letters within the word, so קג means first a
+small letter and then a large one.</p>
 <p id="intro-non-note/1/ג"><a href="#intro-non-note/1/ג">#</a> non-note/1/ג: Immediately below, the
 first 5 of 27 are shown. <a href="#intro-non-note/1/ג-rest">Further below</a>, the remaining 22 of
 27 are shown.</p>
+<p>(The label «non-note/1/ג» means that the word is not itself inside a note, contains 1 special
+letter, and has special-letter code string ג, i.e. a large letter.)</p>
 <table class="border-collapse">
 <tr>
 <td lang="hbo" dir="rtl">בְּרֵאשִׁ֖ית/ב...../ג (אות בי״ת גדולה)</td>
@@ -45,6 +57,8 @@ first 5 of 27 are shown. <a href="#intro-non-note/1/ג-rest">Further below</a>, 
 <p id="intro-non-note/1/ק"><a href="#intro-non-note/1/ק">#</a> non-note/1/ק: Immediately below, the
 first 5 of 22 are shown. <a href="#intro-non-note/1/ק-rest">Further below</a>, the remaining 17 of
 22 are shown.</p>
+<p>(The label «non-note/1/ק» means that the word is not itself inside a note, contains 1 special
+letter, and has special-letter code string ק, i.e. a small letter.)</p>
 <table class="border-collapse">
 <tr>
 <td lang="hbo" dir="rtl">בְּהִבָּֽרְאָ֑ם/.ה..../ק (אות ה״א קטנה)</td>
@@ -79,6 +93,8 @@ first 5 of 22 are shown. <a href="#intro-non-note/1/ק-rest">Further below</a>, 
 </table>
 <p id="intro-non-note/1/ת"><a href="#intro-non-note/1/ת">#</a> non-note/1/ת: Immediately below, all
 4 are shown.</p>
+<p>(The label «non-note/1/ת» means that the word is not itself inside a note, contains 1 special
+letter, and has special-letter code string ת, i.e. a hung letter.)</p>
 <table class="border-collapse">
 <tr>
 <td lang="hbo" dir="rtl">בֶּן־מְנַשֶּׁ֜ה/..־.נ../ת (אות נו״ן תלויה)</td>
@@ -107,6 +123,8 @@ first 5 of 22 are shown. <a href="#intro-non-note/1/ק-rest">Further below</a>, 
 </table>
 <p id="intro-non-note/2/גק"><a href="#intro-non-note/2/גק">#</a> non-note/2/גק: Immediately below,
 all 1 are shown.</p>
+<p>(The label «non-note/2/גק» means that the word is not itself inside a note, contains 2 special
+letters, and has special-letter code string גק, i.e. a large letter and then a small letter.)</p>
 <table class="border-collapse">
 <tr>
 <td lang="hbo" dir="rtl">וַיְזָֽתָא/ו.ז../גק (אות וי״ו גדולה, אות זי״ן קטנה)</td>
@@ -117,6 +135,8 @@ all 1 are shown.</p>
 </table>
 <p id="intro-non-note/2/קג"><a href="#intro-non-note/2/קג">#</a> non-note/2/קג: Immediately below,
 all 1 are shown.</p>
+<p>(The label «non-note/2/קג» means that the word is not itself inside a note, contains 2 special
+letters, and has special-letter code string קג, i.e. a small letter and then a large letter.)</p>
 <table class="border-collapse">
 <tr>
 <td lang="hbo" dir="rtl">בִּשְׁפַּרְפָּרָ֖א/..פ.פ../קג (אות פ״א קטנה, אות פ״א גדולה)</td>
@@ -128,6 +148,8 @@ all 1 are shown.</p>
 <p id="intro-slh-letter-count/1"><a href="#intro-slh-letter-count/1">#</a> slh-letter-count/1:
 Immediately below, the first 5 of 91 are shown. No more are shown. See
 <a href="foi-slh-word.json">JSON output</a> for full list.</p>
+<p>(The label «slh-letter-count/1» means that the word contains 1 special letter, where special
+means small, large, or hung.)</p>
 <table class="border-collapse">
 <tr>
 <td lang="hbo" dir="rtl">בְּרֵאשִׁ֖ית/ב...../ג (אות בי״ת גדולה)</td>
@@ -162,6 +184,8 @@ Immediately below, the first 5 of 91 are shown. No more are shown. See
 </table>
 <p id="intro-slh-letter-count/2"><a href="#intro-slh-letter-count/2">#</a> slh-letter-count/2:
 Immediately below, all 2 are shown.</p>
+<p>(The label «slh-letter-count/2» means that the word contains 2 special letters, where special
+means small, large, or hung.)</p>
 <table class="border-collapse">
 <tr>
 <td lang="hbo" dir="rtl">וַיְזָֽתָא/ו.ז../גק (אות וי״ו גדולה, אות זי״ן קטנה)</td>
@@ -178,6 +202,8 @@ Immediately below, all 2 are shown.</p>
 </table>
 <p id="intro-slh-letter-count/5"><a href="#intro-slh-letter-count/5">#</a> slh-letter-count/5:
 Immediately below, all 2 are shown.</p>
+<p>(The label «slh-letter-count/5» means that the word contains 5 special letters, where special
+means small, large, or hung.)</p>
 <table class="border-collapse">
 <tr>
 <td lang="hbo" dir="rtl">וַיִּשְׁחָ֗ט/וישחט/גגגגג (אותות וי״ו, יו״ד, שי״ן, חי״ת, טי״ת גדולות)</td>
@@ -195,6 +221,8 @@ Immediately below, all 2 are shown.</p>
 <p id="intro-stack/None"><a href="#intro-stack/None">#</a> stack/None: Immediately below, the first
 5 of 54 are shown. <a href="#intro-stack/None-rest">Further below</a>, the remaining 49 of 54 are
 shown.</p>
+<p>(The label «stack/None» means that the slh-word template occurs directly in the running text,
+with no relevant local wrapper context.)</p>
 <table class="border-collapse">
 <tr>
 <td lang="hbo" dir="rtl">בְּרֵאשִׁ֖ית/ב...../ג (אות בי״ת גדולה)</td>
@@ -230,6 +258,8 @@ shown.</p>
 <p id="intro-stack/doc-part-n"><a href="#intro-stack/doc-part-n">#</a> stack/doc-part-n: Immediately
 below, the first 5 of 34 are shown. <a href="#intro-stack/doc-part-n-rest">Further below</a>, the
 remaining 29 of 34 are shown.</p>
+<p>(The label «stack/doc-part-n» means that the slh-word template occurs inside a documentation line
+rather than directly in the running text.)</p>
 <table class="border-collapse">
 <tr>
 <td lang="hbo" dir="rtl">וּבְהַעֲטִ֥יף/......ף/ג (אות פ״א סופית גדולה)</td>
@@ -264,6 +294,8 @@ remaining 29 of 34 are shown.</p>
 </table>
 <p id="intro-stack/kq-ketiv"><a href="#intro-stack/kq-ketiv">#</a> stack/kq-ketiv: Immediately
 below, all 1 are shown.</p>
+<p>(The label «stack/kq-ketiv» means that the slh-word template occurs on the ketiv side of a
+ketiv/qere case.)</p>
 <table class="border-collapse">
 <tr>
 <td lang="hbo" dir="rtl">וגיש/.ג../ק (אות גימ״ל קטנה)</td>
@@ -274,6 +306,8 @@ below, all 1 are shown.</p>
 </table>
 <p id="intro-stack/scrdfftar-note"><a href="#intro-stack/scrdfftar-note">#</a> stack/scrdfftar-note:
 Immediately below, all 6 are shown.</p>
+<p>(The label «stack/scrdfftar-note» means that the slh-word template occurs inside a
+scroll-difference note.)</p>
 <table class="border-collapse">
 <tr>
 <td lang="hbo" dir="rtl">סֵ֔פֶר/ס../ג (אות סמ״ך גדולה)</td>
