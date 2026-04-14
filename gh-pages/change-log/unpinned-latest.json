@@ -1,7 +1,7 @@
 {
   "old_rev": "1880cbb",
   "new_rev": "HEAD",
-  "diff_count": 29,
+  "diff_count": 34,
   "diffs": [
     {
       "book": "Joshua",
@@ -30,14 +30,30 @@
       ]
     },
     {
+      "book": "2Samuel",
+      "chapter": 11,
+      "verse": 24,
+      "category": "rafeh",
+      "changes": [
+        {
+          "old": "וַיֹּר֨אוּ",
+          "new": "וַיֹּר֨אֿוּ"
+        },
+        {
+          "old": "הַמּוֹרִ֤אים",
+          "new": "הַמּוֹרִ֤אֿים"
+        }
+      ]
+    },
+    {
       "book": "2Kings",
       "chapter": 22,
       "verse": 5,
       "category": "accent-change",
       "changes": [
         {
-          "old": "ויתנהוְיִתְּנוּ֗הוּ",
-          "new": "ויתנהוְיִתְּנ֗וּהוּ"
+          "old": "וְיִתְּנוּ֗הוּ",
+          "new": "וְיִתְּנ֗וּהוּ"
         }
       ]
     },
@@ -72,8 +88,8 @@
       "category": "meteg-removal",
       "changes": [
         {
-          "old": "מדנאלמִדָּֽנִיֵּ֑אל",
-          "new": "מדנאלמִדָּנִיֵּ֑אל"
+          "old": "מִדָּֽנִיֵּ֑אל",
+          "new": "מִדָּנִיֵּ֑אל"
         }
       ]
     },
@@ -197,6 +213,15 @@
     },
     {
       "book": "Ezekiel",
+      "chapter": 40,
+      "verse": 37,
+      "category": "template-change",
+      "templates_added": [
+        "קו\"כ-אם"
+      ]
+    },
+    {
+      "book": "Ezekiel",
       "chapter": 43,
       "verse": 25,
       "category": "meteg-removal",
@@ -222,6 +247,18 @@
     {
       "book": "Ezekiel",
       "chapter": 47,
+      "verse": 8,
+      "category": "rafeh",
+      "changes": [
+        {
+          "old": "וְנִרְפּ֥אוּ",
+          "new": "וְנִרְפּ֥אֿוּ"
+        }
+      ]
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 47,
       "verse": 12,
       "category": "meteg-addition",
       "changes": [
@@ -236,6 +273,15 @@
       ]
     },
     {
+      "book": "Ezekiel",
+      "chapter": 48,
+      "verse": 21,
+      "category": "template-change",
+      "templates_added": [
+        "קו\"כ-אם"
+      ]
+    },
+    {
       "book": "Psalms",
       "chapter": 18,
       "verse": 46,
@@ -244,6 +290,18 @@
         {
           "old": "מִֽמִּסְגְּרֽוֹתֵיהֶֽם׃",
           "new": "מִֽמִּסְגְּרוֹתֵיהֶֽם׃"
+        }
+      ]
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 4,
+      "verse": 3,
+      "category": "misc",
+      "changes": [
+        {
+          "old": "כַּיְעֵינִ֖ים",
+          "new": "כַּיְעֵנִ֖ים"
         }
       ]
     },
@@ -301,7 +359,7 @@
         {
           "start": 9,
           "end": 16,
-          "param2": "א=קֳהָ֑ת (חטף קמץ)"
+          "param2": "א=קֳהָ֑ת (חטף קמץ); בכתר נכתב הקמץ מתחת לשווא, אך המשמעות ברורה."
         }
       ]
     },

@@ -314,7 +314,7 @@
       "book": "Numbers",
       "chapter": 26,
       "verse": 7,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "הָראוּבֵנִ֑י",
@@ -347,7 +347,7 @@
       "book": "Numbers",
       "chapter": 34,
       "verse": 14,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "הָראוּבֵנִי֙",
@@ -359,7 +359,7 @@
       "book": "Deuter",
       "chapter": 3,
       "verse": 12,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "לָרֽאוּבֵנִ֖י",
@@ -392,7 +392,7 @@
       "book": "Deuter",
       "chapter": 3,
       "verse": 16,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "וְלָראוּבֵנִ֨י",
@@ -425,7 +425,7 @@
       "book": "Deuter",
       "chapter": 4,
       "verse": 43,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "לָרֽאוּבֵנִ֑י",
@@ -709,7 +709,7 @@
       "book": "Deuter",
       "chapter": 29,
       "verse": 7,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "לָראוּבֵנִ֖י",
@@ -831,7 +831,7 @@
       "book": "Joshua",
       "chapter": 1,
       "verse": 12,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "וְלָרֽאוּבֵנִי֙",
@@ -886,8 +886,8 @@
           "new": "וַיַּעַמְד֡וּ"
         },
         {
-          "old": "באדםמֵֽאָדָ֤ם",
-          "new": "באדםמֵאָדָ֤ם"
+          "old": "מֵֽאָדָ֤ם",
+          "new": "מֵאָדָ֤ם"
         }
       ]
     },
@@ -1075,7 +1075,7 @@
       "book": "Joshua",
       "chapter": 12,
       "verse": 6,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "לָרֽאוּבֵנִי֙",
@@ -1123,7 +1123,7 @@
       "book": "Joshua",
       "chapter": 13,
       "verse": 8,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "הָרֽאוּבֵנִי֙",
@@ -1351,7 +1351,7 @@
       "book": "Joshua",
       "chapter": 22,
       "verse": 1,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "לָראוּבֵנִ֖י",
@@ -1462,8 +1462,8 @@
       "category": "meteg-removal",
       "changes": [
         {
-          "old": "ויאמרוַיֹּֽאמְר֣וּ",
-          "new": "ויאמרוַיֹּאמְר֣וּ"
+          "old": "וַיֹּֽאמְר֣וּ",
+          "new": "וַיֹּאמְר֣וּ"
         }
       ]
     },
@@ -1471,7 +1471,7 @@
       "book": "2Kings",
       "chapter": 10,
       "verse": 33,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "וְהָראוּבֵנִ֖י",
@@ -1755,7 +1755,7 @@
       "book": "Psalms",
       "chapter": 89,
       "verse": 11,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "דִכִּ֣אתָ",
@@ -2073,7 +2073,7 @@
       "book": "Job",
       "chapter": 19,
       "verse": 2,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "וּֽתְדַכּאוּנַ֥נִי",
@@ -2151,8 +2151,8 @@
       "category": "meteg-removal",
       "changes": [
         {
-          "old": "כִּֽי־יתרויִתְרִ֣י",
-          "new": "כִּי־יתרויִתְרִ֣י"
+          "old": "כִּֽי־יִתְרִ֣י",
+          "new": "כִּי־יִתְרִ֣י"
         }
       ]
     },
@@ -2160,7 +2160,7 @@
       "book": "Job",
       "chapter": 31,
       "verse": 7,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "מֽאוּם׃",
@@ -2193,7 +2193,7 @@
       "book": "1Chronicles",
       "chapter": 5,
       "verse": 6,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "לָרֽאוּבֵנִֽי׃",
@@ -2205,7 +2205,7 @@
       "book": "1Chronicles",
       "chapter": 5,
       "verse": 26,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "לָראוּבֵנִ֣י",
@@ -2217,7 +2217,7 @@
       "book": "1Chronicles",
       "chapter": 11,
       "verse": 42,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "הָראוּבֵנִ֗י",
@@ -2233,7 +2233,7 @@
       "book": "1Chronicles",
       "chapter": 12,
       "verse": 38,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "מִן־הָראוּבֵנִ֨י",
@@ -2245,7 +2245,7 @@
       "book": "1Chronicles",
       "chapter": 26,
       "verse": 32,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "עַל־הָראוּבֵנִ֤י",
@@ -2257,7 +2257,7 @@
       "book": "1Chronicles",
       "chapter": 27,
       "verse": 16,
-      "category": "rafe",
+      "category": "rafeh",
       "changes": [
         {
           "old": "לָראוּבֵנִ֣י",

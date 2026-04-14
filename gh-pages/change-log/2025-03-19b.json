@@ -1,7 +1,7 @@
 {
   "old_rev": "3d5ecfd",
   "new_rev": "049e636",
-  "diff_count": 557,
+  "diff_count": 565,
   "diffs": [
     {
       "book": "Psalms",
@@ -219,7 +219,7 @@
         },
         {
           "start": 76,
-          "end": 88,
+          "end": 84,
           "param2": "א-קרי=נ֝וּדִי (השמטת נקודת הרביע)"
         }
       ]
@@ -387,8 +387,8 @@
           ]
         },
         {
-          "start": 114,
-          "end": 126,
+          "start": 108,
+          "end": 120,
           "param2": [
             "=ש1 ובדפוסים",
             {
@@ -402,8 +402,8 @@
           ]
         },
         {
-          "start": 158,
-          "end": 172,
+          "start": 152,
+          "end": 166,
           "param2": [
             "=ש1?,ק-מ",
             {
@@ -2034,9 +2034,17 @@
       "book": "Psalms",
       "chapter": 78,
       "verse": 8,
-      "category": "template-change",
+      "category": "dehi-removal",
       "templates_removed": [
-        "מ:דחי",
+        "מ:דחי"
+      ]
+    },
+    {
+      "book": "Psalms",
+      "chapter": 78,
+      "verse": 8,
+      "category": "tsinnor-removal",
+      "templates_removed": [
         "מ:צינור"
       ]
     },
@@ -2105,7 +2113,7 @@
       "nusach_notes": [
         {
           "start": 62,
-          "end": 78,
+          "end": 73,
           "param2": "א-כתיב=בַּגֹּייִ֣ם"
         }
       ]
@@ -2576,9 +2584,17 @@
       "book": "Psalms",
       "chapter": 104,
       "verse": 25,
-      "category": "template-change",
+      "category": "dehi-removal",
       "templates_removed": [
-        "מ:דחי",
+        "מ:דחי"
+      ]
+    },
+    {
+      "book": "Psalms",
+      "chapter": 104,
+      "verse": 25,
+      "category": "tsinnor-removal",
+      "templates_removed": [
         "מ:צינור"
       ]
     },
@@ -2767,9 +2783,17 @@
       "book": "Psalms",
       "chapter": 110,
       "verse": 3,
-      "category": "template-change",
+      "category": "dehi-removal",
       "templates_removed": [
-        "מ:דחי",
+        "מ:דחי"
+      ]
+    },
+    {
+      "book": "Psalms",
+      "chapter": 110,
+      "verse": 3,
+      "category": "tsinnor-removal",
+      "templates_removed": [
         "מ:צינור"
       ]
     },
@@ -3475,9 +3499,17 @@
       "book": "Psalms",
       "chapter": 142,
       "verse": 8,
-      "category": "template-change",
+      "category": "dehi-removal",
       "templates_removed": [
-        "מ:דחי",
+        "מ:דחי"
+      ]
+    },
+    {
+      "book": "Psalms",
+      "chapter": 142,
+      "verse": 8,
+      "category": "tsinnor-removal",
+      "templates_removed": [
         "מ:צינור"
       ]
     },
@@ -3724,8 +3756,8 @@
       ],
       "nusach_notes": [
         {
-          "start": 59,
-          "end": 68,
+          "start": 53,
+          "end": 62,
           "param2": [
             "=א,ל,ק13 ובדפוסים (סילוק באות שי\"ן)",
             {
@@ -3789,9 +3821,17 @@
       "book": "Proverbs",
       "chapter": 8,
       "verse": 13,
-      "category": "template-change",
+      "category": "dehi-removal",
       "templates_removed": [
-        "מ:דחי",
+        "מ:דחי"
+      ]
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 8,
+      "verse": 13,
+      "category": "tsinnor-removal",
+      "templates_removed": [
         "מ:צינור"
       ]
     },
@@ -4680,10 +4720,9 @@
       "book": "Proverbs",
       "chapter": 30,
       "verse": 15,
-      "category": "template-change",
+      "category": "dehi-removal",
       "templates_removed": [
-        "מ:דחי",
-        "מ:צינור"
+        "מ:דחי"
       ],
       "nusach_notes": [
         {
@@ -4707,10 +4746,27 @@
     {
       "book": "Proverbs",
       "chapter": 30,
-      "verse": 16,
-      "category": "template-change",
+      "verse": 15,
+      "category": "tsinnor-removal",
       "templates_removed": [
-        "מ:דחי",
+        "מ:צינור"
+      ]
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "verse": 16,
+      "category": "dehi-removal",
+      "templates_removed": [
+        "מ:דחי"
+      ]
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 30,
+      "verse": 16,
+      "category": "tsinnor-removal",
+      "templates_removed": [
         "מ:צינור"
       ]
     },
@@ -4862,9 +4918,17 @@
       "book": "Job",
       "chapter": 3,
       "verse": 6,
-      "category": "template-change",
+      "category": "dehi-removal",
       "templates_removed": [
-        "מ:דחי",
+        "מ:דחי"
+      ]
+    },
+    {
+      "book": "Job",
+      "chapter": 3,
+      "verse": 6,
+      "category": "tsinnor-removal",
+      "templates_removed": [
         "מ:צינור"
       ]
     },
@@ -4936,8 +5000,8 @@
       ],
       "nusach_notes": [
         {
-          "start": 50,
-          "end": 56,
+          "start": 46,
+          "end": 52,
           "param2": "א=ע֝וֹד (השמטת נקודת הרביע)"
         }
       ]
