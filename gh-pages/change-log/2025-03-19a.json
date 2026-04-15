@@ -1,7 +1,7 @@
 {
   "old_rev": "b5e8f94",
   "new_rev": "3d5ecfd",
-  "diff_count": 85,
+  "diff_count": 76,
   "diffs": [
     {
       "book": "Genesis",
@@ -563,56 +563,6 @@
       ]
     },
     {
-      "book": "Judges",
-      "chapter": 20,
-      "verse": 13,
-      "category": "accent-addition",
-      "changes": [
-        {
-          "old": "",
-          "new": "בְּנֵ֣י"
-        }
-      ]
-    },
-    {
-      "book": "2Samuel",
-      "chapter": 16,
-      "verse": 23,
-      "category": "accent-addition",
-      "changes": [
-        {
-          "old": "יִשְׁאַל־",
-          "new": "יִשְׁאַל־אִ֖ישׁ"
-        }
-      ],
-      "nusach_notes": [
-        {
-          "start": 66,
-          "end": 81,
-          "param2": "יש רווח צר בלבד ואין ניקוד לתיבה \"אִ֖ישׁ\" הנקראת ולא נכתבת."
-        }
-      ]
-    },
-    {
-      "book": "2Samuel",
-      "chapter": 18,
-      "verse": 20,
-      "category": "accent-addition",
-      "changes": [
-        {
-          "old": "כִּֽי־עַל־",
-          "new": "כִּֽי־עַל־כֵּ֥ן"
-        }
-      ],
-      "nusach_notes": [
-        {
-          "start": 148,
-          "end": 153,
-          "param2": "א=אין רווח לתיבת \"כֵּ֥ן\" הנקראת ולא נכתבת, אבל נכתבו הניקוד והטעם בין התיבות למטה."
-        }
-      ]
-    },
-    {
       "book": "2Samuel",
       "chapter": 24,
       "verse": 10,
@@ -662,30 +612,6 @@
       ]
     },
     {
-      "book": "2Kings",
-      "chapter": 19,
-      "verse": 31,
-      "category": "accent-addition",
-      "changes": [
-        {
-          "old": "",
-          "new": "צְבָא֖וֹת"
-        }
-      ]
-    },
-    {
-      "book": "2Kings",
-      "chapter": 19,
-      "verse": 37,
-      "category": "accent-addition",
-      "changes": [
-        {
-          "old": "",
-          "new": "בָּנָיו֙"
-        }
-      ]
-    },
-    {
       "book": "Isaiah",
       "chapter": 48,
       "verse": 21,
@@ -712,39 +638,6 @@
     },
     {
       "book": "Jeremiah",
-      "chapter": 31,
-      "verse": 37,
-      "category": "accent-addition",
-      "changes": [
-        {
-          "old": "",
-          "new": "בָּאִ֖ים"
-        }
-      ],
-      "nusach_notes": [
-        {
-          "start": 8,
-          "end": 39,
-          "param2": [
-            "=לק ובדפוסים",
-            {
-              "tmpl_name": "ש"
-            },
-            "א=הִנֵּ֛ה יָמִ֥ים [] יְהֹוָֽה (חסר ניקוד ברווח המיועד ל\"קרי ולא כתיב\")",
-            {
-              "tmpl_name": "ש"
-            },
-            "הערת ברויאר",
-            {
-              "tmpl_name": "ש"
-            },
-            "קורן, ברויאר, סימנים, מכון ממרא"
-          ]
-        }
-      ]
-    },
-    {
-      "book": "Jeremiah",
       "chapter": 42,
       "verse": 2,
       "category": "meteg-addition",
@@ -765,25 +658,6 @@
             },
             "ל=כִּֽי־נִשְׁאַ֤רְנוּ מְעַט֙ (אין געיה באות נו\"ן ואין מקף שני) וכמו כן בדפוסים וקורן."
           ]
-        }
-      ]
-    },
-    {
-      "book": "Jeremiah",
-      "chapter": 50,
-      "verse": 29,
-      "category": "accent-addition",
-      "changes": [
-        {
-          "old": "אַל־יְהִי־",
-          "new": "אַל־יְהִי־לָהּ֙"
-        }
-      ],
-      "nusach_notes": [
-        {
-          "start": 82,
-          "end": 108,
-          "param2": "א-כתיב=אַל־יְהִי־[֯] פְּלֵיטָ֔ה (רווח ריק בלי ניקוד וטעמים, ולמעלה עיגול מסורה)"
         }
       ]
     },
@@ -1503,31 +1377,6 @@
     {
       "book": "Ruth",
       "chapter": 3,
-      "verse": 5,
-      "category": "accent-addition",
-      "changes": [
-        {
-          "old": "",
-          "new": "אֵלַ֖י"
-        }
-      ],
-      "nusach_notes": [
-        {
-          "start": 44,
-          "end": 50,
-          "param2": [
-            "=ל-קרי",
-            {
-              "tmpl_name": "ש"
-            },
-            "בכתר יש רווח ניכר ובו עיגול מסורה להערה \"אלי קרי\", אבל חסרים ניקוד וטעמים לתיבה הנקראת ולא נכתבת."
-          ]
-        }
-      ]
-    },
-    {
-      "book": "Ruth",
-      "chapter": 3,
       "verse": 13,
       "category": "template-change",
       "template_structure_changed": true,
@@ -1552,31 +1401,6 @@
               "tmpl_name": "ש"
             },
             "ל=לְגָֽאֳלֵ֛ךְ (געיה)"
-          ]
-        }
-      ]
-    },
-    {
-      "book": "Ruth",
-      "chapter": 3,
-      "verse": 17,
-      "category": "accent-addition",
-      "changes": [
-        {
-          "old": "",
-          "new": "אֵלַ֔י"
-        }
-      ],
-      "nusach_notes": [
-        {
-          "start": 66,
-          "end": 72,
-          "param2": [
-            "=ל-קרי",
-            {
-              "tmpl_name": "ש"
-            },
-            "בכתר יש רווח ניכר ובו עיגול מסורה להערה \"אלי קרי ולא כתב\", אבל חסרים ניקוד וטעמים לתיבה הנקראת ולא נכתבת."
           ]
         }
       ]
