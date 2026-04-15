@@ -1587,7 +1587,7 @@
       "nusach_notes": [
         {
           "start": 0,
-          "end": 5,
+          "end": 6,
           "param2": "ראו במידע על מהדורה זו, פרק שני, על ההכרעה בין קמץ קטן לגדול בתיבה זו. יש עוד \"כל\" כזה במשלי (יט,ז)."
         }
       ]
@@ -1600,7 +1600,7 @@
       "changes": [
         {
           "old": "אֵ֤ל׀ אֱֽלֹהִ֡ים",
-          "new": "אֵ֤ל׀אֱֽלֹהִ֡ים"
+          "new": "אֵ֤ל‖אֱֽלֹהִ֡ים"
         }
       ],
       "templates_added": [
@@ -1608,6 +1608,23 @@
       ],
       "templates_removed": [
         "מ:לגרמיה-2"
+      ],
+      "nusach_notes": [
+        {
+          "start": 24,
+          "end": 25,
+          "param2": [
+            "ראו ב",
+            {
+              "tmpl_name": "מ:קישור בהערה",
+              "tmpl_params": {
+                "1": "https://archive.org/details/Ginsburg_The-Massorah-Compiled-from-Manuscripts_1880-1905/page/n654/mode/1up",
+                "2": "רשימת הפסק של גינצבורג"
+              }
+            },
+            ". בסימנים קבעו שהוא קו של לגרמיה."
+          ]
+        }
       ]
     },
     {
@@ -1628,7 +1645,7 @@
       "changes": [
         {
           "old": "יִשְׁמַ֤ע׀ אֵ֨ל׀",
-          "new": "יִשְׁמַ֤ע׀אֵ֨ל׀"
+          "new": "יִשְׁמַ֤ע‖אֵ֨ל׀"
         }
       ],
       "templates_added": [
@@ -1636,6 +1653,31 @@
       ],
       "templates_removed": [
         "מ:לגרמיה-2"
+      ],
+      "nusach_notes": [
+        {
+          "start": 9,
+          "end": 10,
+          "param2": [
+            "ראו ב",
+            {
+              "tmpl_name": "מ:קישור בהערה",
+              "tmpl_params": {
+                "1": "https://archive.org/details/Ginsburg_The-Massorah-Compiled-from-Manuscripts_1880-1905/page/n654/mode/1up",
+                "2": "רשימת הפסק של גינצבורג"
+              }
+            },
+            "; רק הקו השני (אחרי \"אֵ֨ל\") מובא ב",
+            {
+              "tmpl_name": "מ:קישור בהערה",
+              "tmpl_params": {
+                "1": "https://archive.org/details/Ginsburg_The-Massorah-Compiled-from-Manuscripts_1880-1905/page/n643/mode/1up",
+                "2": "רשימת הלגרמיה שלו"
+              }
+            },
+            ". בסימנים קבעו שכאן הוא קו של לגרמיה."
+          ]
+        }
       ]
     },
     {
@@ -1680,7 +1722,7 @@
       "changes": [
         {
           "old": "לִשְׁכֹּ֤ן׀ יָ֬הּ",
-          "new": "לִשְׁכֹּ֤ן׀יָ֬הּ"
+          "new": "לִשְׁכֹּ֤ן‖יָ֬הּ"
         }
       ],
       "templates_added": [
@@ -1688,6 +1730,23 @@
       ],
       "templates_removed": [
         "מ:לגרמיה-2"
+      ],
+      "nusach_notes": [
+        {
+          "start": 104,
+          "end": 105,
+          "param2": [
+            "ראו ב",
+            {
+              "tmpl_name": "מ:קישור בהערה",
+              "tmpl_params": {
+                "1": "https://archive.org/details/Ginsburg_The-Massorah-Compiled-from-Manuscripts_1880-1905/page/n654/mode/1up",
+                "2": "רשימת הפסק של גינצבורג"
+              }
+            },
+            ". בסימנים קבעו שהוא קו של לגרמיה."
+          ]
+        }
       ]
     },
     {
@@ -1698,7 +1757,7 @@
       "changes": [
         {
           "old": "י֤וֹם׀ י֥֫וֹם",
-          "new": "י֤וֹם׀י֥֫וֹם"
+          "new": "י֤וֹם‖י֥֫וֹם"
         }
       ],
       "templates_added": [
@@ -1706,6 +1765,23 @@
       ],
       "templates_removed": [
         "מ:לגרמיה-2"
+      ],
+      "nusach_notes": [
+        {
+          "start": 25,
+          "end": 26,
+          "param2": [
+            "ראו ב",
+            {
+              "tmpl_name": "מ:קישור בהערה",
+              "tmpl_params": {
+                "1": "https://archive.org/details/Ginsburg_The-Massorah-Compiled-from-Manuscripts_1880-1905/page/n654/mode/1up",
+                "2": "רשימת הפסק של גינצבורג"
+              }
+            },
+            ". בסימנים קבעו שהוא קו של לגרמיה."
+          ]
+        }
       ]
     },
     {
@@ -1716,7 +1792,7 @@
       "changes": [
         {
           "old": "נֹתֵ֨ן׀ עֹ֖ז",
-          "new": "נֹתֵ֨ן׀עֹ֖ז"
+          "new": "נֹתֵ֨ן‖עֹ֖ז"
         }
       ],
       "templates_added": [
@@ -1724,6 +1800,23 @@
       ],
       "templates_removed": [
         "מ:לגרמיה-2"
+      ],
+      "nusach_notes": [
+        {
+          "start": 68,
+          "end": 69,
+          "param2": [
+            "ראו ב",
+            {
+              "tmpl_name": "מ:קישור בהערה",
+              "tmpl_params": {
+                "1": "https://archive.org/details/Ginsburg_The-Massorah-Compiled-from-Manuscripts_1880-1905/page/n654/mode/1up",
+                "2": "רשימת הפסק של גינצבורג"
+              }
+            },
+            ". בסימנים קבעו שהוא קו של לגרמיה."
+          ]
+        }
       ]
     },
     {
@@ -1844,7 +1937,7 @@
       "changes": [
         {
           "old": "עָ֤רוּ׀ עָ֑רוּ",
-          "new": "עָ֤רוּ׀עָ֑רוּ"
+          "new": "עָ֤רוּ‖עָ֑רוּ"
         }
       ],
       "templates_added": [
@@ -1852,6 +1945,23 @@
       ],
       "templates_removed": [
         "מ:לגרמיה-2"
+      ],
+      "nusach_notes": [
+        {
+          "start": 81,
+          "end": 82,
+          "param2": [
+            "ראו ב",
+            {
+              "tmpl_name": "מ:קישור בהערה",
+              "tmpl_params": {
+                "1": "https://archive.org/details/Ginsburg_The-Massorah-Compiled-from-Manuscripts_1880-1905/page/n654/mode/1up",
+                "2": "רשימת הפסק של גינצבורג"
+              }
+            },
+            ". בסימנים קבעו שהוא קו של לגרמיה."
+          ]
+        }
       ]
     },
     {
@@ -1926,7 +2036,7 @@
       "changes": [
         {
           "old": "י֤וֹם׀ י֑וֹם",
-          "new": "י֤וֹם׀י֑וֹם"
+          "new": "י֤וֹם‖י֑וֹם"
         }
       ],
       "templates_added": [
@@ -1934,6 +2044,23 @@
       ],
       "templates_removed": [
         "מ:לגרמיה-2"
+      ],
+      "nusach_notes": [
+        {
+          "start": 60,
+          "end": 61,
+          "param2": [
+            "ראו ב",
+            {
+              "tmpl_name": "מ:קישור בהערה",
+              "tmpl_params": {
+                "1": "https://archive.org/details/Ginsburg_The-Massorah-Compiled-from-Manuscripts_1880-1905/page/n654/mode/1up",
+                "2": "רשימת הפסק של גינצבורג"
+              }
+            },
+            ". בסימנים קבעו שהוא קו של לגרמיה."
+          ]
+        }
       ]
     },
     {
@@ -1944,7 +2071,7 @@
       "changes": [
         {
           "old": "י֤וֹם׀ י֑וֹם",
-          "new": "י֤וֹם׀י֑וֹם"
+          "new": "י֤וֹם‖י֑וֹם"
         }
       ],
       "templates_added": [
@@ -1952,6 +2079,23 @@
       ],
       "templates_removed": [
         "מ:לגרמיה-2"
+      ],
+      "nusach_notes": [
+        {
+          "start": 65,
+          "end": 66,
+          "param2": [
+            "ראו ב",
+            {
+              "tmpl_name": "מ:קישור בהערה",
+              "tmpl_params": {
+                "1": "https://archive.org/details/Ginsburg_The-Massorah-Compiled-from-Manuscripts_1880-1905/page/n654/mode/1up",
+                "2": "רשימת הפסק של גינצבורג"
+              }
+            },
+            ". בסימנים קבעו שהוא קו של לגרמיה."
+          ]
+        }
       ]
     },
     {
@@ -1965,7 +2109,7 @@
       "nusach_notes": [
         {
           "start": 0,
-          "end": 5,
+          "end": 6,
           "param2": "=א (קמץ ומרכא); התיבה מוקפת במ\"ג דפוס ונציה <כָּ֥ל־>. ראו עוד במידע על מהדורה זו, פרק שני, לגבי ההכרעה בין קמץ קטן לקמץ גדול בתיבה זו. יש עוד \"כל\" בקמץ ומרכא בתהלים (לה,י)."
         }
       ]
@@ -1999,7 +2143,7 @@
       "changes": [
         {
           "old": "הַ֤ב׀ הַ֥֫ב",
-          "new": "הַ֤ב׀הַ֥֫ב"
+          "new": "הַ֤ב‖הַ֥֫ב"
         }
       ],
       "templates_added": [
@@ -2007,6 +2151,23 @@
       ],
       "templates_removed": [
         "מ:לגרמיה-2"
+      ],
+      "nusach_notes": [
+        {
+          "start": 35,
+          "end": 36,
+          "param2": [
+            "ראו ב",
+            {
+              "tmpl_name": "מ:קישור בהערה",
+              "tmpl_params": {
+                "1": "https://archive.org/details/Ginsburg_The-Massorah-Compiled-from-Manuscripts_1880-1905/page/n654/mode/1up",
+                "2": "רשימת הפסק של גינצבורג"
+              }
+            },
+            ". בסימנים קבעו שהוא קו של לגרמיה."
+          ]
+        }
       ]
     },
     {
