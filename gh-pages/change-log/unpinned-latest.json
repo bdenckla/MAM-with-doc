@@ -1,0 +1,54 @@
+{
+  "old_rev": "9ce6ee5",
+  "new_rev": "HEAD",
+  "diff_count": 3,
+  "diffs": [
+    {
+      "book": "Joshua",
+      "chapter": 10,
+      "verse": 24,
+      "category": "misc",
+      "changes": [
+        {
+          "old": "הֶהָלְכ֣וּא",
+          "new": "הֶהָלְכ֣וּ"
+        }
+      ]
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 48,
+      "verse": 18,
+      "category": "template-change",
+      "templates_added": [
+        "קו\"כ-אם"
+      ],
+      "nusach_notes": [
+        {
+          "start": 170,
+          "end": 182,
+          "param2": "השוו ירמיהו ב,ג"
+        }
+      ]
+    },
+    {
+      "book": "Tsefaniah",
+      "chapter": 2,
+      "verse": 9,
+      "category": "misc",
+      "changes": [
+        {
+          "old": "גּוֹיִ֖",
+          "new": "גּוֹיִ֖י"
+        }
+      ],
+      "nusach_notes": [
+        {
+          "start": 227,
+          "end": 235,
+          "param2": "בכתר יש הערת מסורה פשוטה בלבד על תיבה זו (ל'), אבל בכתי\"ל יש הערת קרי מפורשת (גויי ק')."
+        }
+      ]
+    }
+  ]
+}
