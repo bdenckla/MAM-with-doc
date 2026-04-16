@@ -1,7 +1,7 @@
 {
   "old_rev": "9ce6ee5",
   "new_rev": "HEAD",
-  "diff_count": 3,
+  "diff_count": 4,
   "diffs": [
     {
       "book": "Joshua",
@@ -16,6 +16,15 @@
       ],
       "templates_added": [
         "כו\"ק"
+      ]
+    },
+    {
+      "book": "2Samuel",
+      "chapter": 2,
+      "verse": 23,
+      "category": "template-change",
+      "templates_added": [
+        "קו\"כ-אם"
       ]
     },
     {
