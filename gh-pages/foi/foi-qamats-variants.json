@@ -3010,6 +3010,16 @@
     "r": "ד=אׇֽהֳלֹה֙ ס=אָֽהֳלֹה֙"
   },
   {
+    "bcv_short": "G13:3",
+    "accent": "(mos)",
+    "qq_count": "1",
+    "stack_str": "kq-triv-doc",
+    "m2_lett": "ה",
+    "m3_zmnl": ":a",
+    "fp": "accent-1-(mos)-qq-count-1",
+    "r": "ד=אׇֽהֳלֹוֹ֙ ס=אָֽהֳלֹוֹ֙"
+  },
+  {
     "bcv_short": "G35:21",
     "accent": "(mos)",
     "qq_count": "1",
@@ -3778,6 +3788,16 @@
     "m3_zmnl": ":a",
     "fp": "all",
     "r": "ד=אׇֽהֳלֹה֙ ס=אָֽהֳלֹה֙"
+  },
+  {
+    "bcv_short": "G13:3",
+    "accent": "(mos)",
+    "qq_count": "1",
+    "stack_str": "kq-triv-doc",
+    "m2_lett": "ה",
+    "m3_zmnl": ":a",
+    "fp": "all",
+    "r": "ד=אׇֽהֳלֹוֹ֙ ס=אָֽהֳלֹוֹ֙"
   },
   {
     "bcv_short": "G19:34",
