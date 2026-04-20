@@ -1,7 +1,7 @@
 {
   "old_rev": "9ce6ee5",
   "new_rev": "HEAD",
-  "diff_count": 4,
+  "diff_count": 6,
   "diffs": [
     {
       "book": "Joshua",
@@ -23,6 +23,37 @@
       "chapter": 2,
       "verse": 23,
       "category": "template-change",
+      "templates_added": [
+        "קו\"כ-אם"
+      ]
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 2,
+      "verse": 3,
+      "category": "template-change",
+      "templates_added": [
+        "קו\"כ-אם"
+      ],
+      "nusach_notes": [
+        {
+          "start": 40,
+          "end": 52,
+          "param2": "השוו יחזקאל מח,יח"
+        }
+      ]
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 51,
+      "verse": 9,
+      "category": "rafeh",
+      "changes": [
+        {
+          "old": "רִפִּ֤אנוּ",
+          "new": "רִפִּ֤אֿנוּ"
+        }
+      ],
       "templates_added": [
         "קו\"כ-אם"
       ]
