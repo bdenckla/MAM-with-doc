@@ -1,8 +1,28 @@
 {
   "old_rev": "9ce6ee5",
   "new_rev": "HEAD",
-  "diff_count": 6,
+  "diff_count": 11,
   "diffs": [
+    {
+      "book": "Genesis",
+      "chapter": 13,
+      "verse": 3,
+      "category": "template-change",
+      "templates_added": [
+        "מ:קו\"כ-אם-2",
+        "מ:קמץ"
+      ],
+      "templates_removed": [
+        "קו\"כ-אם"
+      ],
+      "nusach_notes": [
+        {
+          "start": 88,
+          "end": 97,
+          "param2": "ל-כתיב=אֽ͏ָהֳלה֙ (בגעיה ימנית)"
+        }
+      ]
+    },
     {
       "book": "Joshua",
       "chapter": 10,
@@ -24,7 +44,7 @@
       "verse": 23,
       "category": "template-change",
       "templates_added": [
-        "קו\"כ-אם"
+        "מ:קו\"כ-אם-2"
       ]
     },
     {
@@ -33,7 +53,7 @@
       "verse": 3,
       "category": "template-change",
       "templates_added": [
-        "קו\"כ-אם"
+        "מ:קו\"כ-אם-2"
       ],
       "nusach_notes": [
         {
@@ -55,7 +75,7 @@
         }
       ],
       "templates_added": [
-        "קו\"כ-אם"
+        "מ:קו\"כ-אם-2"
       ]
     },
     {
@@ -64,7 +84,7 @@
       "verse": 18,
       "category": "template-change",
       "templates_added": [
-        "קו\"כ-אם"
+        "מ:קו\"כ-אם-2"
       ],
       "nusach_notes": [
         {
@@ -94,6 +114,60 @@
           "end": 235,
           "param2": "בכתר יש הערת מסורה פשוטה בלבד על תיבה זו (ל'), אבל בכתי\"ל יש הערת קרי מפורשת (גויי ק')."
         }
+      ]
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 6,
+      "verse": 13,
+      "category": "template-change",
+      "templates_added": [
+        "מ:דחי",
+        "מ:קו\"כ-אם-2",
+        "מ:קו\"כ-אם-2"
+      ],
+      "templates_removed": [
+        "קו\"כ-אם",
+        "קו\"כ-אם"
+      ]
+    },
+    {
+      "book": "Proverbs",
+      "chapter": 26,
+      "verse": 24,
+      "category": "template-change",
+      "templates_added": [
+        "מ:דחי",
+        "מ:קו\"כ-אם-2"
+      ],
+      "templates_removed": [
+        "קו\"כ-אם"
+      ]
+    },
+    {
+      "book": "Job",
+      "chapter": 27,
+      "verse": 15,
+      "category": "template-change",
+      "templates_added": [
+        "מ:דחי",
+        "מ:קו\"כ-אם-2"
+      ],
+      "templates_removed": [
+        "קו\"כ-אם"
+      ]
+    },
+    {
+      "book": "Job",
+      "chapter": 38,
+      "verse": 41,
+      "category": "template-change",
+      "templates_added": [
+        "מ:דחי",
+        "מ:קו\"כ-אם-2"
+      ],
+      "templates_removed": [
+        "קו\"כ-אם"
       ]
     }
   ]
