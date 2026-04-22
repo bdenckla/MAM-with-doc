@@ -5920,112 +5920,70 @@
     "r": "וּבָנָ֣ו"
   },
   {
+    "bcv_short": "2S11:24",
+    "pqere": "וַיֹּר֨וּ",
+    "fp": "z-trivial/extra-alef",
+    "r": "וַיֹּר֨אֿוּ"
+  },
+  {
+    "bcv_short": "2S11:24",
+    "pqere": "הַמּוֹרִ֤ים",
+    "fp": "z-trivial/extra-alef",
+    "r": "הַמּוֹרִ֤אֿים"
+  },
+  {
+    "bcv_short": "Ee47:8",
+    "pqere": "וְנִרְפּ֥וּ",
+    "fp": "z-trivial/extra-alef",
+    "r": "וְנִרְפּ֥אֿוּ"
+  },
+  {
+    "bcv_short": "Da1:4",
+    "pqere": "מוּם֩",
+    "fp": "z-trivial/extra-alef",
+    "r": "מאֿוּם֩"
+  },
+  {
+    "bcv_short": "Da4:16",
+    "pqere": "מָרִ֕י",
+    "fp": "z-trivial/extra-alef",
+    "r": "מָרִ֕אי"
+  },
+  {
+    "bcv_short": "Da4:21",
+    "pqere": "מָרִ֥י",
+    "fp": "z-trivial/extra-alef",
+    "r": "מָרִ֥אי"
+  },
+  {
+    "bcv_short": "Er5:1",
+    "pqere": "נְבִיַּיָּ֔א",
+    "fp": "z-trivial/extra-alef",
+    "r": "נְבִיַּאיָּ֔א"
+  },
+  {
+    "bcv_short": "Er5:2",
+    "pqere": "נְבִיַּיָּ֥א",
+    "fp": "z-trivial/extra-alef",
+    "r": "נְבִיַּאיָּ֥א"
+  },
+  {
+    "bcv_short": "D13:16",
+    "pqere": "הַהִ֖יא",
+    "fp": "z-trivial/hi-spelled-hu",
+    "r": "הַהִ֖וא"
+  },
+  {
     "bcv_short": "E22:4",
     "pqere": "בְּעִירֹ֔ו",
     "fp": "z-trivial/misc",
     "r": "בְּעִירֹ֔ה"
   },
   {
-    "bcv_short": "D13:16",
-    "pqere": "הַהִ֖יא",
-    "fp": "z-trivial/misc",
-    "r": "הַהִ֖וא"
-  },
-  {
-    "bcv_short": "D22:15",
-    "pqere": "הַֽנַּעֲרָ֖ה",
-    "fp": "z-trivial/misc",
-    "r": "הַֽנַּעֲרָ֖"
-  },
-  {
-    "bcv_short": "D22:15",
-    "pqere": "הַֽנַּעֲרָ֛ה",
-    "fp": "z-trivial/misc",
-    "r": "הַֽנַּעֲרָ֛"
-  },
-  {
-    "bcv_short": "D22:16",
-    "pqere": "הַֽנַּעֲרָ֖ה",
-    "fp": "z-trivial/misc",
-    "r": "הַֽנַּעֲרָ֖"
-  },
-  {
-    "bcv_short": "D22:20",
-    "pqere": "לַֽנַּעֲרָֽה",
-    "fp": "z-trivial/misc",
-    "r": "לַֽנַּעֲרָֽ"
-  },
-  {
-    "bcv_short": "D22:21",
-    "pqere": "הַֽנַּעֲרָ֜ה",
-    "fp": "z-trivial/misc",
-    "r": "הַֽנַּעֲרָ֜"
-  },
-  {
-    "bcv_short": "D22:23",
-    "pqere": "נַעֲרָ֣ה",
-    "fp": "z-trivial/misc",
-    "r": "נַעֲרָ֣"
-  },
-  {
-    "bcv_short": "D22:24",
-    "pqere": "הַֽנַּעֲרָ֗ה",
-    "fp": "z-trivial/misc",
-    "r": "הַֽנַּעֲרָ֗"
-  },
-  {
-    "bcv_short": "D22:25",
-    "pqere": "הַֽנַּעֲרָה֙",
-    "fp": "z-trivial/misc",
-    "r": "הַֽנַּעֲרָ֙"
-  },
-  {
-    "bcv_short": "D22:26",
-    "pqere": "וְלַֽנַּעֲרָה֙",
-    "fp": "z-trivial/misc",
-    "r": "וְלַֽנַּעֲרָ֙"
-  },
-  {
-    "bcv_short": "D22:26",
-    "pqere": "לַֽנַּעֲרָ֖ה",
-    "fp": "z-trivial/misc",
-    "r": "לַֽנַּעֲרָ֖"
-  },
-  {
-    "bcv_short": "D22:27",
-    "pqere": "הַֽנַּעֲרָה֙",
-    "fp": "z-trivial/misc",
-    "r": "הַֽנַּעֲרָ֙"
-  },
-  {
-    "bcv_short": "D22:28",
-    "pqere": "נַעֲרָ֤ה",
-    "fp": "z-trivial/misc",
-    "r": "נַעֲרָ֤"
-  },
-  {
-    "bcv_short": "D22:29",
-    "pqere": "הַֽנַּעֲרָ֖ה",
-    "fp": "z-trivial/misc",
-    "r": "הַֽנַּעֲרָ֖"
-  },
-  {
     "bcv_short": "Js3:4",
     "pqere": "וּבֵינָ֔יו",
     "fp": "z-trivial/misc",
     "r": "וּבֵנָ֔יו"
-  },
-  {
-    "bcv_short": "2S11:24",
-    "pqere": "וַיֹּר֨וּ",
-    "fp": "z-trivial/misc",
-    "r": "וַיֹּר֨אֿוּ"
-  },
-  {
-    "bcv_short": "2S11:24",
-    "pqere": "הַמּוֹרִ֤ים",
-    "fp": "z-trivial/misc",
-    "r": "הַמּוֹרִ֤אֿים"
   },
   {
     "bcv_short": "Je32:35",
@@ -6046,12 +6004,6 @@
     "r": "כִּתִּיִּֽם"
   },
   {
-    "bcv_short": "Ee47:8",
-    "pqere": "וְנִרְפּ֥וּ",
-    "fp": "z-trivial/misc",
-    "r": "וְנִרְפּ֥אֿוּ"
-  },
-  {
     "bcv_short": "Ps18:51",
     "pqere": "מַגְדִּיל֮",
     "fp": "z-trivial/misc",
@@ -6070,40 +6022,88 @@
     "r": "הַכְשֵׁ֖יר"
   },
   {
-    "bcv_short": "Da1:4",
-    "pqere": "מוּם֩",
-    "fp": "z-trivial/misc",
-    "r": "מאֿוּם֩"
-  },
-  {
-    "bcv_short": "Da4:16",
-    "pqere": "מָרִ֕י",
-    "fp": "z-trivial/misc",
-    "r": "מָרִ֕אי"
-  },
-  {
-    "bcv_short": "Da4:21",
-    "pqere": "מָרִ֥י",
-    "fp": "z-trivial/misc",
-    "r": "מָרִ֥אי"
-  },
-  {
-    "bcv_short": "Er5:1",
-    "pqere": "נְבִיַּיָּ֔א",
-    "fp": "z-trivial/misc",
-    "r": "נְבִיַּאיָּ֔א"
-  },
-  {
-    "bcv_short": "Er5:2",
-    "pqere": "נְבִיַּיָּ֥א",
-    "fp": "z-trivial/misc",
-    "r": "נְבִיַּאיָּ֥א"
-  },
-  {
     "bcv_short": "Ne1:1",
     "pqere": "כִּסְלֵיו֙",
     "fp": "z-trivial/misc",
     "r": "כִּסְלֵו֙"
+  },
+  {
+    "bcv_short": "D22:15",
+    "pqere": "הַֽנַּעֲרָ֖ה",
+    "fp": "z-trivial/n3rh-spelled-n3r",
+    "r": "הַֽנַּעֲרָ֖"
+  },
+  {
+    "bcv_short": "D22:15",
+    "pqere": "הַֽנַּעֲרָ֛ה",
+    "fp": "z-trivial/n3rh-spelled-n3r",
+    "r": "הַֽנַּעֲרָ֛"
+  },
+  {
+    "bcv_short": "D22:16",
+    "pqere": "הַֽנַּעֲרָ֖ה",
+    "fp": "z-trivial/n3rh-spelled-n3r",
+    "r": "הַֽנַּעֲרָ֖"
+  },
+  {
+    "bcv_short": "D22:20",
+    "pqere": "לַֽנַּעֲרָֽה",
+    "fp": "z-trivial/n3rh-spelled-n3r",
+    "r": "לַֽנַּעֲרָֽ"
+  },
+  {
+    "bcv_short": "D22:21",
+    "pqere": "הַֽנַּעֲרָ֜ה",
+    "fp": "z-trivial/n3rh-spelled-n3r",
+    "r": "הַֽנַּעֲרָ֜"
+  },
+  {
+    "bcv_short": "D22:23",
+    "pqere": "נַעֲרָ֣ה",
+    "fp": "z-trivial/n3rh-spelled-n3r",
+    "r": "נַעֲרָ֣"
+  },
+  {
+    "bcv_short": "D22:24",
+    "pqere": "הַֽנַּעֲרָ֗ה",
+    "fp": "z-trivial/n3rh-spelled-n3r",
+    "r": "הַֽנַּעֲרָ֗"
+  },
+  {
+    "bcv_short": "D22:25",
+    "pqere": "הַֽנַּעֲרָה֙",
+    "fp": "z-trivial/n3rh-spelled-n3r",
+    "r": "הַֽנַּעֲרָ֙"
+  },
+  {
+    "bcv_short": "D22:26",
+    "pqere": "וְלַֽנַּעֲרָה֙",
+    "fp": "z-trivial/n3rh-spelled-n3r",
+    "r": "וְלַֽנַּעֲרָ֙"
+  },
+  {
+    "bcv_short": "D22:26",
+    "pqere": "לַֽנַּעֲרָ֖ה",
+    "fp": "z-trivial/n3rh-spelled-n3r",
+    "r": "לַֽנַּעֲרָ֖"
+  },
+  {
+    "bcv_short": "D22:27",
+    "pqere": "הַֽנַּעֲרָה֙",
+    "fp": "z-trivial/n3rh-spelled-n3r",
+    "r": "הַֽנַּעֲרָ֙"
+  },
+  {
+    "bcv_short": "D22:28",
+    "pqere": "נַעֲרָ֤ה",
+    "fp": "z-trivial/n3rh-spelled-n3r",
+    "r": "נַעֲרָ֤"
+  },
+  {
+    "bcv_short": "D22:29",
+    "pqere": "הַֽנַּעֲרָ֖ה",
+    "fp": "z-trivial/n3rh-spelled-n3r",
+    "r": "הַֽנַּעֲרָ֖"
   },
   {
     "bcv_short": "G13:3",
