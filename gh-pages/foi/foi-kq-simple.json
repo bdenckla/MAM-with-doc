@@ -5974,12 +5974,6 @@
     "r": "הַהִ֖וא"
   },
   {
-    "bcv_short": "E22:4",
-    "pqere": "בְּעִירֹ֔ו",
-    "fp": "z-trivial/misc",
-    "r": "בְּעִירֹ֔ה"
-  },
-  {
     "bcv_short": "Js3:4",
     "pqere": "וּבֵינָ֔יו",
     "fp": "z-trivial/misc",
@@ -6128,6 +6122,12 @@
     "pqere": "סוּתֽוֹ",
     "fp": "z-trivial/xolam-he",
     "r": "סוּתֹֽה"
+  },
+  {
+    "bcv_short": "E22:4",
+    "pqere": "בְּעִיר֔וֹ",
+    "fp": "z-trivial/xolam-he",
+    "r": "בְּעִירֹ֔ה"
   },
   {
     "bcv_short": "E22:26",
