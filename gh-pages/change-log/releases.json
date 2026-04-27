@@ -6,7 +6,7 @@
     " 'new' is the state after the last change (inclusive boundary).",
     " Consecutive releases share a boundary: the 'new' of one release",
     " equals the 'old' of the next.",
-    " main_diff_mpp.py also uses these to map --old/--new args to a release",
+    " main_diff_mpplus.py also uses these to map --old/--new args to a release",
     " name for the output filename."
   ],
   "releases": [
