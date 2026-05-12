@@ -4421,6 +4421,7 @@
   },
   {
     "bcv_short": "I26:20",
+    "kq_type_full": "k1q1-mcom",
     "fp": "k1q1-mcom",
     "r": "(יעבור)־[יַעֲבׇר־]"
   },
@@ -5056,181 +5057,217 @@
   },
   {
     "bcv_short": "G30:11",
+    "kq_type_full": "k1q2-sr-kqq",
     "fp": "k1q2sr",
     "r": "(בגד) [בָּ֣א גָ֑ד]"
   },
   {
     "bcv_short": "E4:2",
+    "kq_type_full": "k1q2-sr-kqq",
     "fp": "k1q2sr",
     "r": "(מזה) [מַה־זֶּ֣ה]"
   },
   {
     "bcv_short": "D33:2",
+    "kq_type_full": "k1q2-sr-kqq",
     "fp": "k1q2sr",
     "r": "(אשדת) [אֵ֥שׁ דָּ֖ת]"
   },
   {
     "bcv_short": "I3:15",
+    "kq_type_full": "k1q2-sr-kqq",
     "fp": "k1q2sr",
     "r": "(מלכם) [מַה־לָּכֶם֙]"
   },
   {
     "bcv_short": "Je6:29",
+    "kq_type_full": "k1q2-sr-kqq",
     "fp": "k1q2sr",
     "r": "(מאשתם) [מֵאֵ֖שׁ תַּ֣ם]"
   },
   {
     "bcv_short": "Je18:3",
+    "kq_type_full": "k1q2-sr-kqq",
     "fp": "k1q2sr",
     "r": "(והנהו) [וְהִנֵּה־ה֛וּא]"
   },
   {
     "bcv_short": "Ee8:6",
+    "kq_type_full": "k1q2-sr-kqq",
     "fp": "k1q2sr",
     "r": "(מהם) [מָ֣ה הֵ֣ם]"
   },
   {
     "bcv_short": "Ps10:10",
+    "kq_type_full": "k1q2-sr-kqq",
     "fp": "k1q2sr",
     "r": "(חלכאים) [חֵ֣ל כָּאִֽים]"
   },
   {
     "bcv_short": "Ps55:16",
+    "kq_type_full": "k1q2-sr-kqq",
     "fp": "k1q2sr",
     "r": "(ישימות) [יַשִּׁ֤י מָ֨וֶת ׀]"
   },
   {
     "bcv_short": "Ps123:4",
+    "kq_type_full": "k1q2-sr-kqq",
     "fp": "k1q2sr",
     "r": "(לגאיונים) [לִגְאֵ֥י יוֹנִֽים]"
   },
   {
     "bcv_short": "Jb38:1",
+    "kq_type_full": "k1q2-sr-kqq",
     "fp": "k1q2sr",
     "r": "(מנהסערה) [מִ֥ן ‖ הַסְּעָרָ֗ה]"
   },
   {
     "bcv_short": "Jb40:6",
+    "kq_type_full": "k1q2-sr-kqq",
     "fp": "k1q2sr",
     "r": "(מנסערה) [מִ֥ן ‖ סְעָרָ֗ה]"
   },
   {
     "bcv_short": "Ne2:13",
+    "kq_type_full": "k1q2-sr-qqk",
     "fp": "k1q2sr",
     "r": "[הֵ֣ם ‖ פְּרוּצִ֔ים] (המפרוצים)"
   },
   {
     "bcv_short": "1C9:4",
+    "kq_type_full": "k1q2-sr-bcom",
     "fp": "k1q2sr",
     "r": "(בנימן)־[בָּנִ֔י מִן־]"
   },
   {
     "bcv_short": "1C27:12",
+    "kq_type_full": "k1q2-sr-kqq",
     "fp": "k1q2sr",
     "r": "(לבנימיני) [לַבֵּ֣ן ‖ יְמִינִ֑י]"
   },
   {
     "bcv_short": "2K18:27",
+    "kq_type_full": "k1q2-ur-qqk",
     "fp": "k1q2ur",
     "r": "[מֵימֵ֥י רַגְלֵיהֶ֖ם] (שניהם)"
   },
   {
     "bcv_short": "I36:12",
+    "kq_type_full": "k1q2-ur-qqk",
     "fp": "k1q2ur",
     "r": "[מֵימֵ֥י רַגְלֵיהֶ֖ם] (שיניהם)"
   },
   {
     "bcv_short": "2S8:3",
+    "kq_type_full": "k1q2-wr-kqq",
     "fp": "k1q2wr",
     "r": "(בנהר) [בִּֽנְהַר־פְּרָֽת]"
   },
   {
     "bcv_short": "Ee9:11",
+    "kq_type_full": "k1q2-wr-kqq",
     "fp": "k1q2wr",
     "r": "(כאשר) [כְּכֹ֖ל אֲשֶׁ֥ר]"
   },
   {
     "bcv_short": "Ju16:25",
+    "kq_type_full": "k2q1",
     "fp": "k2q1",
     "r": "(כי טוב) [כְּט֣וֹב]"
   },
   {
     "bcv_short": "1S9:1",
+    "kq_type_full": "k2q1",
     "fp": "k2q1",
     "r": "(מבן ימין) [מִבִּנְיָמִ֗ין]"
   },
   {
     "bcv_short": "1S24:8",
+    "kq_type_full": "k2q1",
     "fp": "k2q1",
     "r": "(מן המערה) [מֵֽהַמְּעָרָ֔ה]"
   },
   {
     "bcv_short": "I9:6",
+    "kq_type_full": "k2q1",
     "fp": "k2q1",
     "r": "(לם רבה) [לְמַרְבֵּ֨ה]"
   },
   {
     "bcv_short": "I44:24",
+    "kq_type_full": "k2q1",
     "fp": "k2q1",
     "r": "(מי אתי) [מֵאִתִּֽי]"
   },
   {
     "bcv_short": "La1:6",
+    "kq_type_full": "k2q1",
     "fp": "k2q1",
     "r": "(מן בת) [מִבַּת־]"
   },
   {
     "bcv_short": "La4:3",
+    "kq_type_full": "k2q1",
     "fp": "k2q1",
     "r": "(כי ענים) [כַּיְעֵנִ֖ים]"
   },
   {
     "bcv_short": "2C34:6",
+    "kq_type_full": "k2q1",
     "fp": "k2q1",
     "r": "(בחר בתיהם) [בְּחַרְבֹתֵיהֶ֖ם]"
   },
   {
     "bcv_short": "1S20:2",
+    "kq_type_full": "k2q2",
     "fp": "k2q2",
     "r": "(לו עשה) [לֹֽא־יַעֲשֶׂ֨ה]"
   },
   {
     "bcv_short": "2S5:2",
+    "kq_type_full": "k2q2",
     "fp": "k2q2",
     "r": "(הייתה מוציא) [הָיִ֛יתָ הַמּוֹצִ֥יא]"
   },
   {
     "bcv_short": "1K17:15",
+    "kq_type_full": "k2q2",
     "fp": "k2q2",
     "r": "(הוא והיא) [הִֽיא־וָה֛וּא]"
   },
   {
     "bcv_short": "Je14:14",
+    "kq_type_full": "k2q2",
     "fp": "k2q2",
     "r": "(ואלול ותרמות) [וֶאֱלִיל֙ וְתַרְמִ֣ית]"
   },
   {
     "bcv_short": "Je48:20",
+    "kq_type_full": "k2q2",
     "fp": "k2q2",
     "r": "(הילילי וזעקי) [הֵילִ֣ילוּ ‖ וּֽזְﬞעָ֑קוּ]"
   },
   {
     "bcv_short": "Ee42:9",
+    "kq_type_full": "k2q2",
     "fp": "k2q2",
     "r": "(ומתחתה לשכות) [וּמִתַּ֖חַת הַלְּשָׁכ֣וֹת]"
   },
   {
     "bcv_short": "Pr21:29",
+    "kq_type_full": "k2q2",
     "fp": "k2q2",
     "r": "(יכין דרכיו) [יָבִ֬ין דַּרְכּֽוֹ]"
   },
   {
     "bcv_short": "Jb38:12",
+    "kq_type_full": "k2q2",
     "fp": "k2q2",
     "r": "(ידעתה שחר) [יִדַּ֖עְתָּ הַשַּׁ֣חַר]"
   },
   {
     "bcv_short": "2S21:12",
+    "kq_type_full": "k3q3",
     "fp": "k3q3",
     "r": "(תלום שם הפלשתים) [תְּלָא֥וּם שָׁ֙מָּה֙ פְּלִשְׁתִּ֔ים]"
   },
