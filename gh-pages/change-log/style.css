@@ -13,7 +13,7 @@
   --cat-vowel-change: #6a1b9a;
   --cat-legarmeih-paseq: #ad1457;
   --cat-maqaf-afor: #78909c;
-  --cat-deḥi-removal: #c62828;
+  --cat-dexi-removal: #c62828;
   --cat-tsinnor-removal: #0097a7;
   --cat-template-change: #795548;
   --cat-misc: #37474f;
@@ -145,7 +145,7 @@ ruby.kq-pair rt {
 .cat-vowel-change { background: var(--cat-vowel-change); }
 .cat-legarmeih-paseq { background: var(--cat-legarmeih-paseq); }
 .cat-maqaf-afor { background: var(--cat-maqaf-afor); }
-.cat-deḥi-removal { background: var(--cat-deḥi-removal); }
+.cat-dexi-removal { background: var(--cat-dexi-removal); }
 .cat-tsinnor-removal { background: var(--cat-tsinnor-removal); }
 .cat-template-change { background: var(--cat-template-change); }
 .cat-misc { background: var(--cat-misc); }
