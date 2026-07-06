@@ -1,5 +1,7 @@
-/* Generated file - DO NOT EDIT DIRECTLY.
-   Edit py/mb_misc/styles_mam_with_doc.py in MAM-basics and regenerate. */
+/* Styles for the MAM-with-doc / OSIS / FOI two-column pages.
+   Source of truth: py/mb_misc/styles_mam_with_doc.css in MAM-basics; copied verbatim
+   into each docs tree by styles_mam_with_doc.make_css_file_for_mwd(). Edit this
+   source and regenerate; do not edit deployed copies. */
 :root {
   color-scheme: light dark;
 }
