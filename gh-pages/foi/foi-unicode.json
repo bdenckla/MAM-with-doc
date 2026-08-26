@@ -2160,6 +2160,11 @@
     "r": "דִּכְרוֹנָֽהֿ׃"
   },
   {
+    "bcv_short": "L26:43",
+    "fp": "rare/rafeh/he/doc-part-n",
+    "r": "ט3=בָּהּשַׁמָּהֿ֙"
+  },
+  {
     "bcv_short": "N32:42",
     "fp": "rare/rafeh/he/doc-part-n",
     "r": "לָ֦הֿ?"
@@ -2233,6 +2238,11 @@
     "bcv_short": "Ps68:18",
     "fp": "rare/rafeh/misc/doc-part-n",
     "r": "א=בָֿ֝ם"
+  },
+  {
+    "bcv_short": "1C4:9",
+    "fp": "rare/rafeh/misc/doc-part-n",
+    "r": "א!=נִכְּבָֿ֖דֿ"
   },
   {
     "bcv_short": "2C33:25",
@@ -4315,6 +4325,16 @@
     "r": "אִ֥מְﬞר֣וֹת"
   },
   {
+    "bcv_short": "Ps14:1",
+    "fp": "varika",
+    "r": "הִֽשְׁﬞחִ֗יתוּ"
+  },
+  {
+    "bcv_short": "Ps14:1",
+    "fp": "varika",
+    "r": "הִֽתְﬞעִ֥יבוּ"
+  },
+  {
     "bcv_short": "Ps17:14",
     "fp": "varika",
     "r": "מִ֥מְﬞתִֽים־יָדְךָ֨"
@@ -5838,6 +5858,11 @@
     "bcv_short": "2C33:18",
     "fp": "varika",
     "r": "הַֽמְﬞדַבְּרִ֣ים"
+  },
+  {
+    "bcv_short": "2C34:12",
+    "fp": "varika",
+    "r": "הַקְּﬞהָתִ֖ים"
   },
   {
     "bcv_short": "2C35:7",
@@ -10578,6 +10603,11 @@
     "bcv_short": "2C29:12",
     "fp": "xatef-on-non-gutt/qamats/doc-part-n",
     "r": "א=הַקֳּהָתִי֒"
+  },
+  {
+    "bcv_short": "2C34:12",
+    "fp": "xatef-on-non-gutt/qamats/doc-part-n",
+    "r": "א=הַקֳּהָתִ֖ים"
   },
   {
     "bcv_short": "2S6:5",
