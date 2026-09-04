@@ -2800,6 +2800,16 @@
     "r": "ד=וְקׇדָשָׁ֖יו ס=וְקָדָשָׁ֖יו"
   },
   {
+    "bcv_short": "2C18:33",
+    "accent": null,
+    "qq_count": "1",
+    "stack_str": null,
+    "m2_lett": "ח",
+    "m3_zmnl": ":a",
+    "fp": "accent-0-qq-count-1",
+    "r": "ד=הׇחֳלֵֽיתִי ס=הָחֳלֵֽיתִי"
+  },
+  {
     "bcv_short": "2C21:15",
     "accent": null,
     "qq_count": "1",
@@ -3598,16 +3608,6 @@
     "m3_zmnl": "a",
     "fp": "accent-1-(mos)-qq-count-1",
     "r": "ד=הׇֽחָרְבַֽת ס=הָֽחָרְבַֽת"
-  },
-  {
-    "bcv_short": "2C18:33",
-    "accent": "(mos)",
-    "qq_count": "1",
-    "stack_str": null,
-    "m2_lett": "ח",
-    "m3_zmnl": ":a",
-    "fp": "accent-1-(mos)-qq-count-1",
-    "r": "ד=הׇֽחֳלֵֽיתִי ס=הָֽחֳלֵֽיתִי"
   },
   {
     "bcv_short": "2C31:6",
@@ -7401,13 +7401,13 @@
   },
   {
     "bcv_short": "2C18:33",
-    "accent": "(mos)",
+    "accent": null,
     "qq_count": "1",
     "stack_str": null,
     "m2_lett": "ח",
     "m3_zmnl": ":a",
     "fp": "all",
-    "r": "ד=הׇֽחֳלֵֽיתִי ס=הָֽחֳלֵֽיתִי"
+    "r": "ד=הׇחֳלֵֽיתִי ס=הָחֳלֵֽיתִי"
   },
   {
     "bcv_short": "2C21:15",
